@@ -20,35 +20,35 @@
 # Registro de Versiones del Informe
 | Versión | Fecha      | Autor     | Descripción de modificación                                    |
 |---------|------------|-----------|----------------------------------------------------------------|
-| TB1     | 27-08-2024 | Barbara   | - Se agregó la Introducción completada, incluyendo Startup Profile. |
-| TB1     | 27-08-2024 | Todos     | - Se agregó el Solution Profile elaborado, incluyendo Lean UX Process. |
-| TB1     | 27-08-2024 | Anthony   | - Se agregaron los Lean UX Assumptions.                        |
-| TB1     | 27-08-2024 | Bruce     | - Se agregó la Lean UX Hypothesis Statements elaborado.        |
-| TB1     | 27-08-2024 | Jimena    | - Se agregó el Lean UX Canvas diseñado.                       |
-| TB1     | 27-08-2024 | Jimena    | - Se agregaron los Segmentos objetivo definidos.               |
-| TB1     | 27-08-2024 | Anthony   | - Se agregó el análisis de Competidores, incluyendo estrategias. |
-| TB1     | 27-08-2024 | Barbara   | - Se agregó el diseño de Entrevistas.                         |
-| TB1     | 27-08-2024 | Todos     | - Se agregó el Registro de entrevistas completado.             |
-| TB1     | 27-08-2024 | Jimena    | - Se agregó el Análisis de entrevistas realizado.             |
-| TB1     | 27-08-2024 | Jimena    | - Se agregó el Needfinding completado, incluyendo User Personas. |
-| TB1     | 27-08-2024 | Bruce     | - Se agregó el User Task Matrix elaborado.                    |
-| TB1     | 27-08-2024 | Barbara   | - Se agregó el User Journey Mapping finalizado.               |
-| TB1     | 27-08-2024 | Anthony   | - Se agregó el Empathy Mapping completado.                    |
-| TB1     | 27-08-2024 | Barbara   | - Se agregó el As-is Scenario Mapping elaborado.              |
-| TB1     | 27-08-2024 | Barbara   | - Se agregó el Ubiquitous Language definido.                  |
-| TB1     | 27-08-2024 | Anthony   | - Se agregó el To-Be Scenario Mapping realizado.             |
-| TB1     | 27-08-2024 | Bruce     | - Se agregó el Impact Mapping finalizado.                     |
-| TB1     | 27-08-2024 | Anthony   | - Se agregó el Product Backlog elaborado.                     |
-| TB1     | 27-08-2024 | Jimena    | - Se agregaron los Style Guidelines definidos.                |
-| TB1     | 27-08-2024 | Jimena    | - Se agregó la Information Architecture completada.           |
-| TB1     | 27-08-2024 | Anthony   | - Se agregó el Landing Page UI Design finalizado.             |
-| TB1     | 27-08-2024 | Barbara   | - Se agregó el Web Applications UX/UI Design elaborado.       |
-| TB1     | 27-08-2024 | Barbara   | - Se agregó el Web Applications Prototyping completado.       |
-| TB1     | 27-08-2024 | Barbara   | - Se agregó el Domain-Driven Software Architecture definido.  |
-| TB1     | 27-08-2024 | Anthony   | - Se agregó el Software Object-Oriented Design elaborado.     |
-| TB1     | 27-08-2024 | Anthony   | - Se agregó el Database Design definido.                      |
-| TB1     | 27-08-2024 | Bruce     | - Se agregó el Software Configuration Management realizado.  |
-| TB1     | 27-08-2024 | Anthony   | - Se agregó el Landing Page, Services & Applications Implementation iniciado.|
+| TB1     | 01-04-2024 | Barbara   | - Se agregó la Introducción completada, incluyendo Startup Profile. |
+| TB1     | 01-04-2024 | Todos     | - Se agregó el Solution Profile elaborado, incluyendo Lean UX Process. |
+| TB1     | 02-04-2024 | Anthony   | - Se agregaron los Lean UX Assumptions.                        |
+| TB1     | 02-04-2024 | Bruce     | - Se agregó la Lean UX Hypothesis Statements elaborado.        |
+| TB1     | 03-04-2024 | Jimena    | - Se agregó el Lean UX Canvas diseñado.                       |
+| TB1     | 03-04-2024 | Jimena    | - Se agregaron los Segmentos objetivo definidos.               |
+| TB1     | 03-04-2024 | Anthony   | - Se agregó el análisis de Competidores, incluyendo estrategias. |
+| TB1     | 05-04-2024 | Barbara   | - Se agregó el diseño de Entrevistas.                         |
+| TB1     | 05-04-2024 | Todos     | - Se agregó el Registro de entrevistas completado.             |
+| TB1     | 05-04-2024 | Jimena    | - Se agregó el Análisis de entrevistas realizado.             |
+| TB1     | 06-04-2024 | Jimena    | - Se agregó el Needfinding completado, incluyendo User Personas. |
+| TB1     | 06-04-2024 | Bruce     | - Se agregó el User Task Matrix elaborado.                    |
+| TB1     | 06-04-2024 | Barbara   | - Se agregó el User Journey Mapping finalizado.               |
+| TB1     | 06-04-2024 | Anthony   | - Se agregó el Empathy Mapping completado.                    |
+| TB1     | 06-04-2024 | Barbara   | - Se agregó el As-is Scenario Mapping elaborado.              |
+| TB1     | 07-04-2024 | Barbara   | - Se agregó el Ubiquitous Language definido.                  |
+| TB1     | 07-04-2024 | Anthony   | - Se agregó el To-Be Scenario Mapping realizado.             |
+| TB1     | 07-04-2024 | Bruce     | - Se agregó el Impact Mapping finalizado.                     |
+| TB1     | 07-04-2024 | Anthony   | - Se agregó el Product Backlog elaborado.                     |
+| TB1     | 07-04-2024 | Jimena    | - Se agregaron los Style Guidelines definidos.                |
+| TB1     | 08-04-2024 | Jimena    | - Se agregó la Information Architecture completada.           |
+| TB1     | 09-04-2024 | Anthony   | - Se agregó el Landing Page UI Design finalizado.             |
+| TB1     | 09-04-2024 | Barbara   | - Se agregó el Web Applications UX/UI Design elaborado.       |
+| TB1     | 10-04-2024 | Barbara   | - Se agregó el Web Applications Prototyping completado.       |
+| TB1     | 10-04-2024 | Barbara   | - Se agregó el Domain-Driven Software Architecture definido.  |
+| TB1     | 11-04-2024 | Anthony   | - Se agregó el Software Object-Oriented Design elaborado.     |
+| TB1     | 11-04-2024 | Anthony   | - Se agregó el Database Design definido.                      |
+| TB1     | 12-04-2024 | Bruce     | - Se agregó el Software Configuration Management realizado.  |
+| TB1     | 12-04-2024 | Anthony   | - Se agregó el Landing Page, Services & Applications Implementation iniciado.|
 
 
 
