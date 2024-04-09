@@ -161,6 +161,83 @@
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
 ### 1.1.2. Perfiles de integrantes del equipo
+## 1.1. Startup Profile
+
+## 1.1. Startup Profile
+
+<table>
+  <tr>
+    <td rowspan="3"> <img src="https://cdn.discordapp.com/attachments/1227176636328185917/1227182887267471370/appweb.png?ex=66277a20&is=66150520&hm=17d069fdaa133f31c644984e6610347394a73fb609328e94590829e51c6589f8&" alt="Barbara" style="margin-bottom: 5px;" width="620"/> </td>
+    <td> 
+      <strong>Nombres y apellidos:</strong> <br>
+      Jimena Tamara Cama Salvatierra
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Carrera:</strong> <br>
+      Ingeniería de Software
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Acerca de:</strong> <br>
+      <p>
+        Soy Jimena, estudiante de Ingeniería de Software en la UPC (Universidad Peruana de Ciencias Aplicadas), actualmente en el 5to ciclo. Me considero curiosa, determinada y organizada. Con experiencia en proyectos de startup y trabajos en equipo, mi objetivo es lograr resultados óptimos en el proyecto.
+      </p>  
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td rowspan="3"> <img src="https://cdn.discordapp.com/attachments/1227176636328185917/1227176692519534602/Diseno_sin_titulo.jpg?ex=6627745b&is=6614ff5b&hm=732da9b4b72ccd40ae3b74aeb1842a6ada76da9950c119650f8159f7090a79a4" alt="Bruce" style="margin-bottom: 5px;" width="620"/> </td>
+    <td> 
+      <strong>Nombres y apellidos:</strong> <br>
+      Bruce Andres Cipriano Chumbes
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Carrera:</strong> <br>
+      Ingeniería de Software
+    </td>
+  </tr>
+ <tr>
+    <td>
+      <strong>Acerca de:</strong> <br>
+      <p>
+        Soy Bruce, estudiante de Ingeniería de Software en la UPC (Universidad Peruana de Ciencias Aplicadas). Siempre me ha fascinado la tecnología y cómo funciona. Disfruto programar, ser responsable y trabajar en equipo. Tengo conocimientos básicos en C#, Java, JavaScript, HTML y CSS, y conocimientos intermedios en C++, SQL y MongoDB. Mi objetivo es contribuir al mundo de la tecnología mientras desarrollo mi carrera profesional como ingeniero de software.
+      </p>  
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td rowspan="3"> <img src="https://cdn.discordapp.com/attachments/1227176636328185917/1227176692519534602/Diseno_sin_titulo.jpg?ex=6627745b&is=6614ff5b&hm=732da9b4b72ccd40ae3b74aeb1842a6ada76da9950c119650f8159f7090a79a4" alt="Anthony" style="margin-bottom: 5px;" width="620"/> </td>
+    <td> 
+      <strong>Nombres y apellidos:</strong> <br>
+      Anthony Brahan Loarte Matos
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Carrera:</strong> <br>
+      Ingeniería de Software
+    </td>
+  </tr>
+ <tr>
+    <td>
+      <strong>Acerca de:</strong> <br>
+      <p>
+        ¡Hola! Soy Anthony, estudiante de Ingeniería de Software en la UPC (Universidad Peruana de Ciencias Aplicadas). Me apasiona todo lo relacionado con la tecnología, los avances tecnológicos y los procesos de arquitectura para el desarrollo de software. Asimismo, cuento con la capacidad para innovar en el diseño y desarrollo de proyectos. Tengo conocimientos básicos en C++, Python, HTML y CSS. Estoy comprometido con contribuir al mundo de la tecnología mediante el desarrollo de soluciones innovadoras y efectivas. Me entusiasma enfrentar nuevos desafíos y seguir aprendiendo en este apasionante campo de la ingeniería de software.
+      </p>  
+    </td>
+  </tr>
+</table>
+
+
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
@@ -188,6 +265,152 @@
 
 ## 2.1. Competidores
 ### 2.1.1. Análisis competitivo
+
+<table>
+    <tr>
+      <th colspan="7" valign="top"><b>Competitive Analysis Landscape</b></th>
+    </tr>
+    <tr>
+      <td colspan="2" rowspan="2">¿Por qué llevar a cabo este análisis?</td>
+      <td colspan="5">Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.</td>
+    </tr>
+    <tr>
+      <td colspan="5">El propósito de este análisis es identificar a nuestros competidores directos e indirectos en el mercado de fitness y nutrición, así como comprender sus fortalezas, debilidades, oportunidades y amenazas. Esto nos permitirá desarrollar estrategias efectivas para diferenciarnos y destacarnos en el mercado.</td>
+    </tr>
+    <tr>
+      <td colspan="3">(En la cabecera colocar por cada competidor nombre y logo)</td>
+      <td colspan="1" valign="top" style="font-weight: bold;">
+          FitHub
+          <br>
+          <div style="text-align: center; margin-top: 10px;">
+                  <img src="https://cdn.discordapp.com/attachments/1227176636328185917/1227215939486089350/image-4hNEppVbF-transformed.png?ex=662798e8&is=661523e8&hm=ad1536b06c2858a7aff25e31c9ce5303a9acf2800f7c658565c7e8fc91209c6e&" alt="FitHub" width="100px">
+          </div>
+      </td>
+      <td colspan="1" valign="top" style="font-weight: bold;">
+        FitOn
+      <div style="text-align: center;">
+                  <img src="https://media.discordapp.net/attachments/1227176636328185917/1227216459785048124/FitOn_Logo-removebg-preview.webp?ex=66279964&is=66152464&hm=b0196a6bcd6c67170070bc146825ec1a0b101038286158fa88f27689046b1b9b&=&format=webp" alt="FitOn" width="100px">
+          </div>
+      </td>
+      <td colspan="1" valign="top" style="font-weight: bold;">
+        Gymshark Training
+        <div style="text-align: center; margin-top: 20px;">
+                  <img src="https://media.discordapp.net/attachments/1227176636328185917/1227216460166987896/images-removebg-preview-5.webp?ex=66279964&is=66152464&hm=ff0ffc656860b6a20365ed4dbd355b2c74f9d3e7f8db7de149915b715010ad99&=&format=webp" alt="Gymshark Training" width="100px">
+              </div>
+        </td>
+      <td colspan="1" valign="top" style="font-weight: bold;" >
+        MyFitnessPal 
+        <div style="text-align: center; margin-top: 10px;">
+                  <img src="https://media.discordapp.net/attachments/1227176636328185917/1227216460544217148/OIP.jpg?ex=66279964&is=66152464&hm=fc72134b72fcd3b212de02feead979c3318c104811973b2d8bb097a1584115f5&=&format=webp" alt="MyFitnessPal" width="100px">
+              </div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="1" rowspan="2"><p>Perfil</p></td>
+      <td colspan="2">Overview</td>
+      <td colspan="1" valign="top">FitHub es una plataforma en línea que ofrece servicios personalizados de fitness y nutrición basados en datos de rendimiento y características individuales de los usuarios. La plataforma se centra en proporcionar planes de entrenamiento y dietas diseñadas específicamente para cada usuario, teniendo en cuenta su edad, peso, altura y otros datos relevantes.</td>
+      <td colspan="1" valign="top">FitOn es una aplicación de fitness que ofrece una variedad de entrenamientos guiados por expertos en casa. Ofrece una amplia gama de opciones de entrenamiento, desde yoga hasta entrenamientos de alta intensidad.</td>
+      <td colspan="1" valign="top">Gymshark Training es una aplicación que ofrece entrenamientos de fitness diseñados por entrenadores profesionales. Se enfoca en proporcionar programas de entrenamiento efectivos para ayudar a los usuarios a alcanzar sus metas de fitness.</td>
+      <td colspan="1" valign="top">MyFitnessPal es una aplicación que ayuda a los usuarios a realizar un seguimiento de su ingesta de alimentos, ejercicio y progreso de pérdida de peso. Ofrece una amplia base de datos de alimentos y una comunidad activa de usuarios que comparten consejos y experiencias relacionadas con la dieta y el ejercicio.</td>
+    </tr>
+    <tr>
+      <td colspan="2">Ventaja competitiva</td>
+      <td colspan="1" valign="top">FitHub destaca por ofrecer planes de entrenamiento y dietas personalizados basados en datos y en investigaciones internas del equipo, lo que garantiza recomendaciones precisas y efectivas adaptadas a las necesidades individuales y objetivos de fitness.</td>
+      <td colspan="1" valign="top">FitOn se diferencia por ofrecer una amplia variedad de entrenamientos guiados por expertos en casa, lo que proporciona flexibilidad y conveniencia a los usuarios que desean mantenerse en forma desde la comodidad de su hogar.</td>
+      <td colspan="1" valign="top">Gymshark Training destaca por ofrecer entrenamientos diseñados por entrenadores profesionales, lo que garantiza la calidad y efectividad de los programas de entrenamiento ofrecidos a los usuarios.</td>
+      <td colspan="1" valign="top">MyFitnessPal destaca por su amplia base de datos de alimentos y su comunidad activa de usuarios, lo que proporciona una herramienta integral para el seguimiento de la salud y el fitness.</td>
+    </tr>
+    <tr>
+      <td colspan="1" rowspan="2"><p>Perfil de Marketing</p></td>
+      <td colspan="2">Mercado objetivo</td>
+      <td colspan="1" valign="top">FitHub está dirigido a personas de todas las edades y niveles de condición física que deseen mejorar su salud y forma física de manera personalizada y basada en datos.</td>
+      <td colspan="1" valign="top">FitOn se centra en personas que desean mantenerse en forma desde la comodidad de su hogar. Atrae a aquellos que buscan flexibilidad y conveniencia en sus rutinas de ejercicio.</td>
+      <td colspan="1" valign="top">Gymshark Training se dirige a personas que desean seguir programas de entrenamiento efectivos diseñados por profesionales de fitness para lograr sus objetivos de condición física.</td>
+      <td colspan="1" valign="top">MyFitnessPal está dirigido a personas que desean realizar un seguimiento de su ingesta de alimentos, ejercicio y progreso de pérdida de peso. Atrae a aquellos que buscan una herramienta integral para mantenerse saludables y en forma.</td>
+    </tr>
+    <tr>  
+      <td colspan="2">Estrategia de marketing</td>
+      <td colspan="1" valign="top">FitHub se centra en la personalización y la precisión de sus recomendaciones, destacando su enfoque basado en datos y su capacidad para adaptarse a las necesidades individuales de los usuarios.</td>
+      <td colspan="1" valign="top">FitOn se destaca por su conveniencia y flexibilidad, enfatizando la accesibilidad de los entrenamientos en casa y la variedad de opciones disponibles para los usuarios.</td>
+      <td colspan="1" valign="top">Gymshark Training se enfoca en la calidad y efectividad de sus programas de entrenamiento, promocionando la experiencia de entrenadores profesionales y la garantía de resultados.</td>
+      <td colspan="1" valign="top">MyFitnessPal se centra en su base de datos de alimentos y en la comunidad activa de usuarios, promoviendo la facilidad de seguimiento y la participación en una red de apoyo.</td>
+    </tr>
+     <tr>
+        <td colspan="1"rowspan="4"><p>Perfil de Producto</p></th>
+    </tr>
+    <tr>
+        <td colspan="2">Productos & Servicios</td>
+        <td colspan="1" valign="top">Ofrece servicios personalizados de fitness y nutrición basados en datos de rendimiento y características individuales de los usuarios. Sus principales productos incluyen:
+          - Planes de entrenamiento personalizados por un entrenador.
+          - Dietas personalizadas por un nutricionista.
+          - Planes combinados que incluyen tanto rutinas de ejercicio como dietas personalizadas.</td>
+        <td colspan="1" valign="top">Ofrece una aplicación que proporciona una variedad de entrenamientos guiados por expertos en fitness para realizar en casa. Sus principales productos incluyen:
+          - Amplia variedad de entrenamientos para todos los niveles de condición física.
+          - Programas específicos diseñados para objetivos de fitness individuales, como pérdida de peso, tonificación muscular o aumento de la fuerza.
+          - Incorporación de yoga, pilates y otros tipos de ejercicios para ofrecer diversidad en las rutinas de entrenamiento.</td>
+        <td colspan="1" valign="top">Ofrece programas de entrenamiento diseñados por entrenadores profesionales, así como contenido relacionado con el fitness y la nutrición. Sus principales productos incluyen:
+          - Planes de entrenamiento detallados para una variedad de objetivos de fitness, desde ganar masa muscular hasta mejorar la resistencia cardiovascular.
+          - Guías nutricionales y consejos de expertos en fitness para complementar los programas de entrenamiento.
+          - Integración con productos de Gymshark, como equipos de ejercicio y ropa deportiva, para una experiencia de entrenamiento completa.</td>
+        <td colspan="1" valign="top">Ofrece una aplicación que permite a los usuarios realizar un seguimiento de su ingesta de alimentos, ejercicio y progreso de pérdida de peso. Sus principales productos incluyen:
+          - Base de datos extensa de alimentos para realizar un seguimiento preciso de la ingesta calórica.
+          - Registro de actividad física y ejercicios para monitorear el gasto calórico.
+          - Funciones de análisis y seguimiento del progreso para ayudar a los usuarios a alcanzar sus objetivos de salud y fitness.</td>
+    </tr>
+    <tr>
+        <td colspan="2">Precios & Costos</td>
+        <td colspan="1" valign="top">Ofrece un plan freemium de prueba limitada de 3 meses de duración. Luego, los usuarios pueden optar por planes de suscripción básicos, premium y familiares:
+          - Plan Básico: $9.99/mes.
+          - Plan Premium: $19.99/mes.
+          - Plan Familiar: $29.99/mes (permite compartir la suscripción entre varios miembros de la familia).</td>
+        <td colspan="1" valign="top">Aplicación gratuita para descargar y usar, lo que lo hace accesible para una amplia audiencia. Ofrece contenido gratuito con la opción de acceso premium a funciones adicionales a través de una suscripción mensual o anual:
+          - FitOn Plus: $19.99/mes o $89.99/año.</td>
+        <td colspan="1" valign="top">Ofrece contenido gratuito a través de su plataforma en línea, así como acceso premium a programas de entrenamiento específicos a través de una suscripción mensual o anual:
+          - Gymshark Training Premium: $14.99/mes o $99.99/año.</td>
+        <td colspan="1" valign="top">Ofrece una versión gratuita de la aplicación con funciones básicas, así como una suscripción premium que brinda acceso a características adicionales:
+          - MyFitnessPal Premium: $9.99/mes o $49.99/año.</td>
+    </tr>
+    <tr>
+        <td colspan="2">Canales de distribución (Web y/o Móvil)</td>
+        <td colspan="1" valign="top">Se distribuye principalmente a través de su plataforma en línea, accesible tanto desde dispositivos móviles como desde navegadores web. Esto proporciona flexibilidad y conveniencia a los usuarios para acceder a los servicios desde cualquier lugar.</td>
+        <td colspan="1" valign="top">Está disponible como una aplicación móvil para dispositivos iOS y Android, así como a través de su plataforma web. Esto permite a los usuarios acceder a los entrenamientos desde cualquier lugar utilizando sus dispositivos móviles o navegadores web.</td>
+        <td colspan="1" valign="top">Se distribuye principalmente a través de su plataforma en línea y su aplicación móvil, disponible para dispositivos iOS y Android. Esto proporciona a los usuarios acceso conveniente a los programas de entrenamiento y contenido relacionado desde cualquier lugar.</td>
+        <td colspan="1" valign="top">Está disponible como una aplicación móvil para dispositivos iOS y Android, así como a través de su plataforma web. Esto permite a los usuarios acceder a la aplicación desde una variedad de dispositivos, lo que aumenta su accesibilidad.</td>
+    </tr>
+<tr>
+      <td colspan="1" rowspan="5"><p>Análisis SWOT</p></td>
+      <td colspan="6">Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus oportunidades y contribuir a lo que ustedes definen como su posible ventaja competitiva.</td>
+    </tr>
+    <tr>
+      <td colspan="2">Fortalezas</td>
+      <td colspan="1" valign="top">Ofrece servicios personalizados de fitness y nutrición. <br> Precios competitivos y plataforma accesible. <br> Enfoque en datos de rendimiento y características individuales. </td>
+      <td colspan="1" valign="top">Variedad de entrenamientos y aplicación gratuita. <br> Inclusión de yoga, pilates y otros ejercicios. <br> Accesibilidad para una amplia audiencia. </td>
+      <td colspan="1" valign="top">Marca reconocida en el sector de fitness y entrenamiento. <br> Contenido de alta calidad y guías de entrenamiento. <br> Comunidad comprometida y activa en redes sociales. </td>
+      <td colspan="1" valign="top">Base de datos extensa y marca establecida. <br> Amplia gama de funciones de seguimiento y análisis. <br> Versión gratuita con opción de actualización. </td>
+    </tr>
+    <tr>
+      <td colspan="2">Debilidades</td>
+      <td colspan="1" valign="top">Falta de reconocimiento de marca en comparación con competidores establecidos. <br> Posibles limitaciones financieras para escalar a gran escala. </td>
+      <td colspan="1" valign="top">Dependencia del compromiso del usuario. <br> Competencia en el mercado de aplicaciones de fitness en casa. </td>
+      <td colspan="1" valign="top">Dependencia de la disponibilidad de equipo y espacio para entrenamiento. <br> Competencia en el mercado de aplicaciones de fitness. </td>
+      <td colspan="1" valign="top">Limitaciones en la personalización y precisión de datos. <br> Dependencia de la entrada precisa del usuario. </td>
+    </tr>
+    <tr>
+      <td colspan="2">Oportunidades</td>
+      <td colspan="1" valign="top">Aumento de la demanda de servicios personalizados de salud y fitness. <br> Potencial para colaboraciones y tecnologías emergentes. </td>
+      <td colspan="1" valign="top">Expansión internacional y colaboración con influencers. <br> Integración de nuevas tecnologías. </td>
+      <td colspan="1" valign="top">Expansión internacional y asociaciones con atletas y celebridades. <br> Desarrollo de contenido exclusivo y programas de entrenamiento. </td>
+      <td colspan="1" valign="top">Expansión internacional y colaboraciones. <br> Integración de nuevas tecnologías. </td>
+    </tr>
+    <tr>
+      <td colspan="2">Amenazas</td>
+      <td colspan="1" valign="top">Competencia creciente en el mercado de fitness en línea. <br> Cambios en las tendencias de salud y fitness. <br> Desafíos regulatorios y de privacidad de datos. </td>
+      <td colspan="1" valign="top">Cambios en las tendencias de fitness. <br> Competencia agresiva en el mercado de aplicaciones de fitness. <br> Desafíos financieros para mantener la calidad del contenido. </td>
+      <td colspan="1" valign="top">Competencia creciente en el mercado de aplicaciones de fitness y entrenamiento. <br> Cambios en las preferencias de los usuarios y tendencias de la industria. <br> Desafíos financieros para mantener la calidad del contenido y la plataforma. </td>
+      <td colspan="1" valign="top">Competencia en el mercado de aplicaciones de salud y fitness. <br> Cambios en las preferencias del consumidor. <br> Riesgos de privacidad de datos. </td>
+    </tr>
+  </table>
+
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
 ## 2.2. Entrevistas
