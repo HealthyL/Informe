@@ -246,15 +246,31 @@
 #### 1.2.2.2. Lean UX Assumptions.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
-* Creemos que al proporcionar análisis de datos de rendimiento y acceso a una comunidad de fitness en línea, podemos atraer usuarios interesados ​​en mejorar su salud y estado físico.Creemos que tenemos éxito ya que estamos viendo una mayor participación de los clientes y una participación activa en la plataforma.
 
-* Creemos que al brindarle planes de entrenamiento personalizados creados por entrenadores certificados, podemos ayudarlo a alcanzar de manera efectiva sus objetivos de acondicionamiento físico. Hemos visto mejoras en las métricas de progreso de los usuarios y una mayor satisfacción con la experiencia de capacitación.
+- Creemos que al proporcionar análisis de datos de rendimiento y acceso
+  a una comunidad de fitness en línea, podemos atraer usuarios
+  interesados ​​en mejorar su salud y estado físico.Creemos que tenemos
+  éxito ya que estamos viendo una mayor participación de los clientes y
+  una participación activa en la plataforma.
 
-* Creemos que al brindar planes de nutrición personalizados diseñados por nutricionistas,  nuestros usuarios pueden desarrollar hábitos alimentarios más saludables. Sabemos que hemos tenido éxito cuando vemos que se alivian las preocupaciones nutricionales y  mejora  la salud general de los usuarios.
+- Creemos que al brindarle planes de entrenamiento personalizados
+  creados por entrenadores certificados, podemos ayudarlo a alcanzar de
+  manera efectiva sus objetivos de acondicionamiento físico. Hemos visto
+  mejoras en las métricas de progreso de los usuarios y una mayor
+  satisfacción con la experiencia de capacitación.
 
-* Creemos que  ofrecer planes freemium que incluyan dietas y entrenamientos personalizados como opciones de prueba alentará a los usuarios a probar nuestra plataforma y convertirse en clientes de pago. Sabrá que ha tenido éxito cuando vea una alta tasa de conversión de usuarios gratuitos a usuarios premium una vez finalizado el período de prueba.
+- Creemos que al brindar planes de nutrición personalizados diseñados
+  por nutricionistas, nuestros usuarios pueden desarrollar hábitos
+  alimentarios más saludables. Sabemos que hemos tenido éxito cuando
+  vemos que se alivian las preocupaciones nutricionales y mejora la
+  salud general de los usuarios.
 
-
+- Creemos que ofrecer planes freemium que incluyan dietas y
+  entrenamientos personalizados como opciones de prueba alentará a los
+  usuarios a probar nuestra plataforma y convertirse en clientes de
+  pago. Sabrá que ha tenido éxito cuando vea una alta tasa de conversión
+  de usuarios gratuitos a usuarios premium una vez finalizado el período
+  de prueba.
 
 
 #### 1.2.2.4. Lean UX Canvas.
