@@ -1182,6 +1182,91 @@ Enlace para el
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
 
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+tr class="header">
+<th>Sprint #</th>
+<th>Sprint 1</th>
+</tr>
+<tr class="odd">
+<th colspan="2">Sprint Planning Background</th>
+</tr>
+<tr class="header">
+<th>Date</th>
+<th>12/04/2024</th>
+</tr>
+<tr class="odd">
+<th>Time</th>
+<th>9:00 AM</th>
+</tr>
+<tr class="header">
+<th>Location</th>
+<th>Reunión virtual en Discord</th>
+</tr>
+<tr class="odd">
+<th>Prepared by</th>
+<th>Jimena Cama Salvatierra</th>
+</tr>
+<tr class="header">
+<th>Attendees (to planning meeting)</th>
+<th><p>Jimena Tamara Cama Salvatierra</p>
+<p>Bruce Andres Cipriano Chumbes</p>
+<p>Anthony Brahan Loarte Matos</p>
+<p>Barbara Susana Quezada Portalatino</p></th>
+</tr>
+<tr class="odd">
+<th colspan="2">Sprint Goal &amp; User stories</th>
+</tr>
+<tr class="header">
+<th>Sprint n Goal</th>
+<th>Elaborar y diseñar una landing page atractiva, llamativa,
+profesional e informativa para la aplicación web “FitHub”</th>
+</tr>
+<tr class="odd">
+<th>Sprint n Velocity</th>
+<th></th>
+</tr>
+<tr class="header">
+<th>Sum of story points</th>
+<th>18</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+#### 5.2.1.2. Sprint Backlog 1.
+
+Para el primer sprint backlog, reunimos las historias de usuario
+relacionadas con la landing page. La herramienta que utilizamos fue
+Trello. Gracias a esta, pudimos dividir las historias de usuario en
+tareas fáciles de realizar y repartirlas entre los miembros del grupo.
+Completamos la mayoría de los user stories, ya que el objetivo principal
+de este primer sprint era completar la landing page en su totalidad, con
+un diseño atractivo e intuitivo para el usuario. Sin embargo, aún no se
+implementa al 100% el funcionamiento de creación de cuenta e inicio de
+sesión.
+
+> <img src="./media/image72.png"
+> style="width:7.95313in;height:2.51817in" />
+
+| Sprint \#  | Sprint 1                           |                  |                                          |                                                                                                  |                    |                 |                                               |
+|------------|------------------------------------|------------------|------------------------------------------|--------------------------------------------------------------------------------------------------|--------------------|-----------------|-----------------------------------------------|
+| User Story |                                    | Work-Item / Task |                                          |                                                                                                  |                    |                 |                                               |
+| ID         | Title                              | ID               | Title                                    | Description                                                                                      | Estimation (Hours) | Assigned To     | Status (To-do / InProcess / To-Review / Done) |
+| US001      | Creación de hipervínculos (Header) | TA001            | Funcionamiento correcto de hipervínculos | Cada hipervínculo redirige correctamente a la sección indicada                                   | ½ hora             | Jimena Cama     | Done                                          |
+|            |                                    | TA002            | Función sticky                           | El header se puede visualizar en toda la landing page sin ningún problema                        | ½ hora             | Jimena Cama     | Done                                          |
+| US002      | Sección funcionamiento             | TA001            | División de espacios                     | Los espacios se dividen correctamente para cada elemento                                         | ½ hora             | Anthony Loarte  | Done                                          |
+|            |                                    | TA002            | Implementación del diseño                | Se agrega color, imágenes e información a las secciones                                          | ½ hora             | Bruce Cipriano  | Done                                          |
+| U003       | Sección contáctanos                | TA001            | Forms para enviar mensajes               | Se realiza un forms para enviar mensajes por si el usuario tiene alguna duda                     | 1 hora             | Jimena Cama     | Done                                          |
+| US004      | Sección planes                     | TA001            | Implementar información sobre los planes | Se realiza un grid para implementar los planes en orden, atractivos y llamativos para el usuario | 1 hora             | Barbara Quezada | Done                                          |
+| US005      | Creación de la cuenta              | TA001            | Ingreso de datos                         | Se realiza un forms en donde el usuario ingresa los datos                                        | ½ hora             | Anthony Loarte  | Done                                          |
+| US006      | Iniciar Sesión                     | TA001            | Ingreso de datos                         | Se realiza un forms en donde el usuario ingresa los datos                                        | ½ hora             | Bruce Cipriano  | Done                                          |
+
 #### 5.2.1.3. Development Evidence for Sprint Review
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 #### 5.2.1.5. Execution Evidence for Sprint Review
