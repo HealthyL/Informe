@@ -485,11 +485,72 @@ deseo de adoptar una rutina diaria de un estilo de vida más saludable.
 
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
+
+> En esta fase, hemos identificado preguntas clave para cada grupo de
+> usuarios, buscando entender sus necesidades y perspectivas. Esto nos
+> permitirá desarrollar una aplicación que resuelva eficazmente los
+> desafíos que enfrentan nuestros clientes.
+
+1.  ¿Qué acciones realizas regularmente para mantenerte en forma y
+    saludable?
+
+2.  ¿Cuál es tu objetivo principal al usar un servicio de fitness y
+    nutrición en línea?
+
+3.  ¿Cuáles son tus mayores desafíos para mantenerte en forma y llevar
+    una dieta saludable?
+
+4.  ¿Qué te motiva a seguir un programa de ejercicios y nutrición?
+
+5.  ¿Qué tipo de información y apoyo esperas recibir de un servicio en
+    línea?
+
+6.  ¿Cuál es tu proceso actual para establecer y mantener una rutina de
+    ejercicio y dieta?
+
+7.  ¿Qué pasos sigues cuando buscas información sobre fitness y
+    nutrición en línea?
+
+8.  ¿Qué obstáculos enfrentas y qué te frustra más?
+
+9.  ¿Qué recursos utilizas actualmente para mejorar tu salud y
+    bienestar?
+
+10. ¿Qué aspectos de tu rutina de ejercicio y dieta te gustaría cambiar
+    o mejorar?
+
 ### 2.2.2. Registro de entrevistas
+
+3.  
+
+> Sexo: Masculino
+>
+> Edad: 20 años
+>
+> Ubicación: Surco
+>
+> Link: [<u>ENTREVISTA-SALVADOR
+> DIAZ</u>](https://us05web.zoom.us/j/87544591859?pwd=WmmPfxhIWYWdFNgV76oBe8XbawScbt.1)
+>
+> Duración: 4:02
+>
+> Resumen:  
+> Salvador Diaz está comprometido con mantenerse en forma y llevar una
+> alimentación equilibrada, pero se enfrenta a la confusión al buscar
+> orientación en línea sobre nutrición. Aunque recurre a videos de
+> YouTube y redes sociales para obtener información, está frustrado por
+> la falta de resultados rápidos y efectivos. Se le sugiere buscar
+> fuentes de información más confiables, como sitios web de
+> instituciones médicas, y considerar la consulta directa con un
+> profesional de la salud para obtener orientación personalizada. Se le
+> anima a ser paciente y a adoptar un enfoque integral para lograr sus
+> objetivos.
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
+
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
@@ -499,8 +560,7 @@ deseo de adoptar una rutina diaria de un estilo de vida más saludable.
 
 ## 3.1. To-Be Scenario Mapping
 ## 3.2. User Stories
-## 3.3. Impact Mapping
-## 3.4. Product Backlog
+
 
 # Capítulo IV: Product Design
 
