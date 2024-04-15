@@ -931,10 +931,64 @@ plan</p></th>
 
 ## 4.1. Style Guidelines
 ### 4.1.1. General Style Guidelines
+Logo
+
+<img src="./media/image40.png"
+style="width:1.25032in;height:1.09403in" />
+
+¿Qué debe tener?
+
+- Logo haciendo alusión al corazón, bienestar
+
+- Minimalista, estético
+
+¿Qué no debe tener?
+
+- Colores fuertes
+
+- Imagen de una persona
+
+- imagen de una balanza
+
+Tipografía
+
+<img src="./media/image21.png"
+style="width:1.64063in;height:2.4956in" />
+
+Paleta de colores
+
+\#8CB500
+
+\#C5D951
+
+\#B1C868
+
+\#FEFE8A
+
+\#FFFFFF
+
+\#4B4B4B
+
+Botones
+
+<img src="./media/image6.png"
+style="width:2.48024in;height:1.63655in" />
+
 ### 4.1.2. Web Style Guidelines
 
-## 4.2. Information Architecture
-### 4.2.1. Organization Systems
+<img src="./media/image29.png"
+style="width:6.77188in;height:3.80744in" />
+
+## 4.2. Information Architecture.
+
+### 4.2.1. Organization Systems.
+
+<img src="./media/image75.jpg"
+style="width:8.33854in;height:4.98053in" />
+
+<img src="./media/image66.jpg"
+style="width:8.33333in;height:5.68731in" />
+
 ### 4.2.2. Labeling Systems
 ### 4.2.3. SEO Tags and Meta Tags
 ### 4.2.4. Searching Systems
@@ -943,14 +997,163 @@ plan</p></th>
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
 ### 4.3.2. Landing Page Mock-up
+> <img src="./media/image14.png"
+> style="width:5.55047in;height:15.46757in" />
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 ### 4.4.2. Web Applications Wireflow Diagrams
 ### 4.4.3. Web Applications Mock-ups
-### 4.4.4. Web Applications User Flow Diagrams
 
-## 4.5. Web Applications Prototyping
+En esta introducción, exploraremos cómo los Mock-ups de Aplicaciones Web
+nos ayudan a transformar ideas y conceptos en diseños tangibles,
+permitiendo una mejor comprensión de la estructura y el flujo de la
+aplicación. Veremos cómo estos mock-ups nos permiten validar y refinar
+el diseño antes de pasar a la etapa de desarrollo, identificando
+posibles problemas de usabilidad y asegurando una experiencia de usuario
+óptima.
+
+Link al
+[<u>Miro</u>](https://miro.com/app/board/uXjVKVPiyIw=/?share_link_id=964995313337)
+
+<img src="./media/image55.png"
+style="width:8.11458in;height:5.2438in" /><img src="./media/image47.png"
+style="width:8.43495in;height:5.48859in" /><img src="./media/image3.png"
+style="width:8.26042in;height:5.37943in" /><img src="./media/image62.png"
+style="width:8.77887in;height:5.71128in" />
+
+<img src="./media/image58.png"
+style="width:7.55729in;height:4.90696in" />
+
+<img src="./media/image28.png"
+style="width:7.09896in;height:4.60994in" />
+
+<img src="./media/image39.png"
+style="width:7.27604in;height:4.73296in" />
+
+<img src="./media/image68.png"
+style="width:6.90104in;height:4.48316in" /><img src="./media/image52.png"
+style="width:7.07918in;height:4.60188in" /><img src="./media/image45.png"
+style="width:7.09896in;height:4.61632in" /><img src="./media/image30.png"
+style="width:7.05672in;height:4.58687in" /><img src="./media/image74.png"
+style="width:7.11348in;height:4.62376in" /><img src="./media/image60.png"
+style="width:6.95739in;height:4.5219in" /><img src="./media/image69.png"
+style="width:7.75539in;height:5.04503in" />
+
+<img src="./media/image65.png"
+style="width:7.70313in;height:5.0092in" /><img src="./media/image71.png"
+style="width:7.70783in;height:5.00796in" />
+
+<img src="./media/image5.png" style="width:7.4966in;height:4.87484in" /><img src="./media/image67.png"
+style="width:6.80729in;height:4.42146in" />
+
+<img src="./media/image25.png"
+style="width:7.02604in;height:4.56457in" />
+
+### 4.4.3. Web Applications User Flow Diagrams.
+
+> Link al [<u>Lucid
+> Chart</u>](https://lucid.app/lucidchart/c740f309-b599-4400-9bd0-1fb5f125f4c8/edit?invitationId=inv_842f2d78-2e17-4543-b39c-eb393529cb6f)
+>
+> **User goal:** Crear cuenta
+>
+> **User persona:** FitExplorer
+>
+> **Explicación del flujo:** En primer lugar, el visitante deberá dar
+> click al botón “Crear Cuenta”, que se encuentra en el Header de la
+> Landing Page. Este mostrará la sección “Crear Cuenta” en donde se
+> deben ingresar los datos requeridos. En segundo lugar, el visitante
+> será redireccionado al sector de planes, en donde tendrá 3 opciones de
+> planes por elegir. En tercer lugar, deberá llenar los datos para
+> realizar el pago correspondiente al plan elegido. Si el pago se
+> realiza correctamente el usuario se redirigirá a llenar unos datos
+> finales para la creación de su plantilla personalizada, si el pago no
+> se realiza, volverá a pedir los datos de “Pago”. Finalmente, cuando
+> todo esté completado el usuario, ahora FitExplorer podrá disfrutar de
+> los servicios personalizados ofrecidos por la aplicación web.
+
+<img src="./media/image10.png"
+style="width:7.43842in;height:4.39191in" />
+
+> **User goal:** Iniciar sesión
+>
+> **User persona:** FitExplorer
+>
+> **Explicación del flujo:** Primero, el FitExplorer deberá ingresar a
+> nuestra landing page. A continuación, deberá dar click en el botón
+> iniciar sesión, que se encuentra en el header, para ser dirigido a
+> rellenar sus datos. Una vez complete sus datos, se desplegará la
+> plataforma. Su primera vista será el apartado de cuenta.
+>
+> <img src="./media/image49.png"
+> style="width:8.04757in;height:3.17859in" />
+>
+> **User goal:** Visualización de progreso semanal
+>
+> **User persona:** FitExplorer
+>
+> **Explicación del flujo:** Cuando el usuario ingresa a su cuenta, al
+> lado izquierdo se encuentran los iconos de los servicios que se
+> ofrecen. El quinto icono, de barras, son las estadísticas a las que
+> podrán acceder. Un resumen de las calorías consumidas en el día, las
+> comidas, y los ejercicios.
+
+<img src="./media/image57.png"
+style="width:7.62604in;height:2.34141in" />
+
+> **User goal:** Elección de comidas
+>
+> **User persona:** FitExplorer
+>
+> **Explicación del flujo:** Cuando el usuario ingresa a su cuenta, al
+> lado izquierdo se encuentran los iconos de los servicios que se
+> ofrecen. El cuarto icono, de la manzana, redijire al FitExplorer a la
+> interfaz de las comidas que tiene por elegir. Tendrá las opciones de
+> almuerzos, lo redirigirá a elegir opciones de almuerzos, y la misma
+> secuencia se realiza para el sector de cenas.
+
+<img src="./media/image2.png" style="width:7.80313in;height:5.5764in" />
+
+> **User goal:** Visualización de rutina
+>
+> **User persona:** FitExplorer
+>
+> **Explicación del flujo:** Cuando el usuario ingresa a su cuenta, al
+> lado izquierdo se encuentran los iconos de los servicios que se
+> ofrecen. El tercer icono, de la pesa, redijire al FitExplorer a la
+> interfaz de las rutinas. Tendrá la opción de elegir la rutina
+> dependiendo del grupo de músculos a trabajar. Cuando el grupo sea
+> seleccionado se mostrarán los ejercicios completos. Si uno de los
+> ejercicios es seleccionado muestra detalles del ejercicio.
+>
+> <img src="./media/image35.png"
+> style="width:21.33333in;height:10.85417in" />
+
+## 4.5. Web Applications Prototyping.
+
+Establecimos una serie de criterios fundamentales para desarrollar los
+prototipos de la interfaz de usuario:
+
+- **Amigable y claro:** Nos esforzamos en hacer que moverse dentro de la
+  aplicación sea como un paseo por el parque, donde puedas entender
+  fácilmente cómo hacer todo, desde registrar procesos hasta revisar
+  estadísticas, sin complicaciones.
+
+- **Lo que realmente importa:** Nos aseguramos de mostrar solo lo que
+  necesitas ver, sin abrumarte con información innecesaria. Así, puedes
+  concentrarte en lo que es importante para ti sin distracciones.
+
+<img src="./media/image18.png"
+style="width:8.30208in;height:5.29167in" />
+
+En este video de
+[<u>explicación</u>](http://upc-pre-202401-si729-ws51-healthyl-fithub-navigation-sprint-1),exploramos
+desde el inicio de sesión hasta la realización de tareas específicas,
+exploramos cómo los usuarios interactúan con la aplicación y cómo se
+guían a través de ella para lograr sus objetivos.
+
+Enlace para el
+[<u>Flujo</u>](https://www.figma.com/proto/Z2i4YAkSxGxcsbblQ8HQmR/FITHUB?type=design&node-id=115-487&t=GeELQHRExaICt9WA-1&scaling=scale-down&page-id=29%3A3&starting-point-node-id=115%3A487&show-proto-sidebar=1&mode=design)
 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
