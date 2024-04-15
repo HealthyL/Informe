@@ -275,8 +275,62 @@
 
 #### 1.2.2.4. Lean UX Canvas.
 
-## 1.3. Segmentos objetivo
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p><strong>Problemas de negocios</strong></p>
+<p>Falta de personalización en las rutinas y dietas que dificulta el
+progreso de los usuarios.</p></th>
+<th rowspan="2"><p><strong>Ideas de las soluciones</strong></p>
+<p>Rutinas y dietas más específicos</p>
+<p>Integrar tips para las dietas</p>
+<p>Apartado de recompensas por retos semales o mensuales</p></th>
+<th><p><strong>Resultado de comerciales</strong></p>
+<p>Sabremos que lo estamos haciendo bien cuando los comentarios los
+usuarios sean positivos por la calidad y la eficacia de las rutinas y
+dietas.</p></th>
+</tr>
+<tr class="odd">
+<th><p><strong>Usuarios y clientes</strong></p>
+<p><u>Usuarios:</u> Personas que busquen mejorar su salud y estado
+físico.</p>
+<p><u>Clientes:</u> Personas dispuestas a pagar por un servicio
+personalizado de fitness y nutrición en línea.</p></th>
+<th><p><strong>Beneficios del usuario</strong></p>
+<p>Los usuarios podrás disfrutar de un espacio en línea donde encuentren
+la mejor atención personalizada para su cuidado físico.</p></th>
+</tr>
+<tr class="header">
+<th><p><strong>Hipótesis</strong></p>
+<p>Creemos que lograremos que nuestros clientes alcancen sus
+objetivos.</p></th>
+<th><p><strong>¿Qué es lo más importante que necesitemos aprender
+primero?</strong></p>
+<p>Nuestro mayor riesgo sería que la plantilla no sea adecuada para las
+metas de los usuarios</p></th>
+<th><p><strong>¿Cuál es la menor cantidad de trabajo que necestiamos
+hacer para resolver las dudas y para hacer siguiente más
+importante?</strong></p>
+<p>Podríamos incluir un chatbot para dudas de los usuarios sobre el uso
+de la plataforma.</p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
 
+## 1.3. Segmentos objetivo
+Para esta aplicación web nos enfocaremos un público mayor de edad que
+esten interesados en mejorar su salud, rendimiento físico y bienestar en
+general. Personas que busquen soluciones convenientes y efectivas y, de
+esta manera, ayudarles a alcanzar sus metas de alimentación y físico.
+Podrán elejir entre diferentes planes, pero todas tendrán en común el
+deseo de adoptar una rutina diaria de un estilo de vida más saludable.
 # Capítulo II: Requirements Elicitation & Analysis
 
 ## 2.1. Competidores
