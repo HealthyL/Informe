@@ -1166,6 +1166,9 @@ Enlace para el
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
+> <img src="./media/image76.png"
+> style="width:11.30208in;height:5.98958in" />
+
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
@@ -1178,16 +1181,7 @@ Enlace para el
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
-#### 5.2.1.2. Sprint Backlog 1
-#### 5.2.1.3. Development Evidence for Sprint Review
-#### 5.2.1.4. Testing Suite Evidence for Sprint Review
-#### 5.2.1.5. Execution Evidence for Sprint Review
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review
-#### 5.2.1.8. Team Collaboration Insights during Sprint
-### 5.2.2. Sprint 2
-#### 5.2.1.1. Sprint Planning 2
-#### 5.2.1.2. Sprint Backlog 2
+
 #### 5.2.1.3. Development Evidence for Sprint Review
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 #### 5.2.1.5. Execution Evidence for Sprint Review
