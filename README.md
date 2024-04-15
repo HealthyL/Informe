@@ -551,6 +551,371 @@ deseo de adoptar una rutina diaria de un estilo de vida más saludable.
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 
+<table>
+<colgroup>
+<col style="width: 10%" />
+<col style="width: 13%" />
+<col style="width: 23%" />
+<col style="width: 15%" />
+<col style="width: 17%" />
+<col style="width: 19%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th colspan="6">Historia de Usuario</th>
+</tr>
+<tr class="odd">
+<th>Número</th>
+<th>US001</th>
+<th>Usuario</th>
+<th>Visitante Landing</th>
+<th>Nombre HU</th>
+<th>Creación de hipervínculos (Header)</th>
+</tr>
+<tr class="header">
+<th>Prioridad</th>
+<th>Alta</th>
+<th>Riesgo</th>
+<th>Bajo</th>
+<th>Iteración</th>
+<th>Sprint 1</th>
+</tr>
+<tr class="odd">
+<th>Estimación</th>
+<th>1 hora</th>
+<th>Programador responsable</th>
+<th>Jimena Cama</th>
+<th>Actividades claves</th>
+<th></th>
+</tr>
+<tr class="header">
+<th>Descripción</th>
+<th colspan="5">Como visitante de la landing page quiero poder
+interactuar con la landing page.</th>
+</tr>
+<tr class="odd">
+<th>Criterios de aceptación</th>
+<th colspan="5"><p>Escenario 1: Interacción con hipervinculos</p>
+<p>Dado que el visitante interactua con los hipervinculos</p>
+<p>Cuando seleccióno una de la secciones</p>
+<p>Entonces será dirigido a la sección seleccionada.</p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+<col style="width: 10%" />
+<col style="width: 13%" />
+<col style="width: 23%" />
+<col style="width: 15%" />
+<col style="width: 17%" />
+<col style="width: 19%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th colspan="6">Historia de Usuario</th>
+</tr>
+<tr class="odd">
+<th>Número</th>
+<th>US002</th>
+<th>Usuario</th>
+<th>Visitante Landing</th>
+<th>Nombre HU</th>
+<th>Sección Contáctanos</th>
+</tr>
+<tr class="header">
+<th>Prioridad</th>
+<th>Alta</th>
+<th>Riesgo</th>
+<th>Bajo</th>
+<th>Iteración</th>
+<th>Sprint 1</th>
+</tr>
+<tr class="odd">
+<th>Estimación</th>
+<th>1 hora</th>
+<th>Programador responsable</th>
+<th>Jimena Cama</th>
+<th>Actividades claves</th>
+<th></th>
+</tr>
+<tr class="header">
+<th>Descripción</th>
+<th colspan="5">Como visitante de la landing page quiero poder
+contactarme con FitHub.</th>
+</tr>
+<tr class="odd">
+<th>Criterios de aceptación</th>
+<th colspan="5"><p>Escenario 1: Interacción con el hipervínculo</p>
+<p>Dado que el visitante se encuentra en la landing page</p>
+<p>Cuando haga click en el hipervinculo de “Contáctanos”</p>
+<p>Entonces se dirigirá a esta sección</p>
+<p>Escenario 2: Ingresa datos</p>
+<p>Dado que el visitante se encuentra en la landing page</p>
+<p>Cuando haga click a las barras de texto</p>
+<p>Entonces podra ingresar texto.</p>
+<p>Escenario 2: Enviar datos</p>
+<p>Dado que el visitante se encuentra en la landing page</p>
+<p>Cuando haga click en el botón "submit"</p>
+<p>Entonces los textos ingresados serán enviados.</p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+<col style="width: 10%" />
+<col style="width: 13%" />
+<col style="width: 23%" />
+<col style="width: 15%" />
+<col style="width: 17%" />
+<col style="width: 19%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th colspan="6">Historia de Usuario</th>
+</tr>
+<tr class="odd">
+<th>Número</th>
+<th>US003</th>
+<th>Usuario</th>
+<th>Visitante Landing</th>
+<th>Nombre HU</th>
+<th>Sección funcionamiento</th>
+</tr>
+<tr class="header">
+<th>Prioridad</th>
+<th>Alta</th>
+<th>Riesgo</th>
+<th>Bajo</th>
+<th>Iteración</th>
+<th>Sprint 1</th>
+</tr>
+<tr class="odd">
+<th>Estimación</th>
+<th>2 horas</th>
+<th>Programador responsable</th>
+<th>Bruce Cipriano</th>
+<th>Actividades claves</th>
+<th></th>
+</tr>
+<tr class="header">
+<th>Descripción</th>
+<th colspan="5">Como visitante de la landing page quiero tener
+conocimiento de cómo afiliarme.</th>
+</tr>
+<tr class="odd">
+<th>Criterios de aceptación</th>
+<th colspan="5"><p>Escenario 1: Interacción con el hipervínculo</p>
+<p>Dado que el visitante se encuentra en la landing page</p>
+<p>Cuando haga clic en el hipervínculo de “¿Cómo funciona?”</p>
+<p>Entonces se dirigirá a esta sección</p>
+<p>Escenario 2: Visualización de pasos</p>
+<p>Dado que el visitante se encuentra en la sección “¿Cómo
+funciona?”</p>
+<p>Entonces podrá ver los pasos que debe realizar para
+afiliarse</p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+<col style="width: 10%" />
+<col style="width: 13%" />
+<col style="width: 23%" />
+<col style="width: 15%" />
+<col style="width: 17%" />
+<col style="width: 19%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th colspan="6">Historia de Usuario</th>
+</tr>
+<tr class="odd">
+<th>Número</th>
+<th>US004</th>
+<th>Usuario</th>
+<th>Visitante Landing</th>
+<th>Nombre HU</th>
+<th>Sección Planes</th>
+</tr>
+<tr class="header">
+<th>Prioridad</th>
+<th>Alta</th>
+<th>Riesgo</th>
+<th>Bajo</th>
+<th>Iteración</th>
+<th>Sprint 1</th>
+</tr>
+<tr class="odd">
+<th>Estimación</th>
+<th>2 horas</th>
+<th>Programador responsable</th>
+<th>Barbara Quezada</th>
+<th>Actividades claves</th>
+<th></th>
+</tr>
+<tr class="header">
+<th>Descripción</th>
+<th colspan="5">Como visitante de la landing page quiero poder conocer a
+que planes me puedo afiliar.</th>
+</tr>
+<tr class="odd">
+<th>Criterios de aceptación</th>
+<th colspan="5"><p>Escenario 1: Interacción con el hipervínculo</p>
+<p>Dado que el visitante se encuentra en la landing page</p>
+<p>Cuando haga clic en el hipervínculo de “Planes”</p>
+<p>Entonces se dirigirá a esta sección</p>
+<p>Escenario 2: Interacción con cartillas</p>
+<p>Dado que el visitante se encuentra en la sección “Planes”</p>
+<p>Cuando pueda leer la información que ofrece cada plan y el costo</p>
+<p>Entonces podrá crear una cuenta</p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+<col style="width: 10%" />
+<col style="width: 13%" />
+<col style="width: 23%" />
+<col style="width: 15%" />
+<col style="width: 17%" />
+<col style="width: 19%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th colspan="6">Historia de Usuario</th>
+</tr>
+<tr class="odd">
+<th>Número</th>
+<th>US005</th>
+<th>Usuario</th>
+<th>Visitante Landing</th>
+<th>Nombre HU</th>
+<th>Crear cuenta</th>
+</tr>
+<tr class="header">
+<th>Prioridad</th>
+<th>Alta</th>
+<th>Riesgo</th>
+<th>Alto</th>
+<th>Iteración</th>
+<th>Sprint 1</th>
+</tr>
+<tr class="odd">
+<th>Estimación</th>
+<th>1 hora</th>
+<th>Programador responsable</th>
+<th>Anthony Loarte</th>
+<th>Actividades claves</th>
+<th></th>
+</tr>
+<tr class="header">
+<th>Descripción</th>
+<th colspan="5">Como visitante de la landing page quiero poder ser
+dirigido fácilmente al apartado de creación de cuenta</th>
+</tr>
+<tr class="odd">
+<th>Criterios de aceptación</th>
+<th colspan="5"><p>Escenario 1: Redirigir al visitante al apartado de
+creación de cuenta</p>
+<p>Dado que el visitante se encuentra en la landing page y quiere
+registrarse en FitHub</p>
+<p>Cuando haga click al botón de "create account"</p>
+<p>Entonces será enviado a la pestaña de creación de cuentas.</p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+<col style="width: 10%" />
+<col style="width: 13%" />
+<col style="width: 23%" />
+<col style="width: 15%" />
+<col style="width: 17%" />
+<col style="width: 19%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th colspan="6">Historia de Usuario</th>
+</tr>
+<tr class="odd">
+<th>Número</th>
+<th>US006</th>
+<th>Usuario</th>
+<th>Visitante Landing</th>
+<th>Nombre HU</th>
+<th>Iniciar Sesión</th>
+</tr>
+<tr class="header">
+<th>Prioridad</th>
+<th>Alta</th>
+<th>Riesgo</th>
+<th>Alto</th>
+<th>Iteración</th>
+<th>Sprint 2</th>
+</tr>
+<tr class="odd">
+<th>Estimación</th>
+<th>2 horas</th>
+<th>Programador responsable</th>
+<th>Elias Yauri</th>
+<th>Actividades claves</th>
+<th></th>
+</tr>
+<tr class="header">
+<th>Descripción</th>
+<th colspan="5">Como visitante de la landing page quiero poder ser
+dirigido fácilmente al apartado de iniciar sesión</th>
+</tr>
+<tr class="odd">
+<th>Criterios de aceptación</th>
+<th colspan="5"><p>Escenario 1: Redirigir al visitante al apartado de
+inicio de sesión</p>
+<p>Dado que el visitante se encuentra en la landing page y quiere
+iniciar sesión en MindCare</p>
+<p>Cuando haga click al botón de "iniciar sesión"</p>
+<p>Entonces será enviado a la pestaña de inicio de sesión.</p>
+<p>Escenario 2: Ingresar a su cuenta</p>
+<p>Dado que el visitante se encuentra en la pestaña de inicio de
+sesión</p>
+<p>Cuando ingrese sus datos</p>
+<p>Y le de click a Ingresar</p>
+<p>Entonces se mostraran sus datos y todos los servicios incluidos en su
+plan</p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+
+## 3.3. Impact Mapping
+## 3.4. Product Backlog
+
+| \#Order | User Story ID | Título                                    | Descripción                                                                                                                                                                                       | Story point |
+|---------|---------------|-------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| 1       | US001         | Creación de hipervínculos (Header)        | Como visitante de la landing page quiero poder interactuar con la landing page.                                                                                                                   | 3           |
+| 2       | US002         | Sección Contáctanos                       | Como visitante de la landing page quiero poder contactarme con FitHub.                                                                                                                            | 3           |
+| 3       | US003         | Sección funcionamiento                    | Como visitante de la landing page quiero tener conocimiento de cómo afiliarme.                                                                                                                    | 3           |
+| 4       | US004         | Sección Planes                            | Como visitante de la landing page quiero poder conocer a que planes me puedo afiliar.                                                                                                             | 3           |
+| 5       | US005         | Creación de la cuenta                     | Como visitante de la landing page quiero poder ser dirigido fácilmente al apartado de iniciar sesión.                                                                                             | 3           |
+| 6       | US006         | Iniciar Sesión                            | Como visitante de la landing page quiero poder ser dirigido fácilmente al apartado de creación de cuenta                                                                                          | 3           |
+
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
