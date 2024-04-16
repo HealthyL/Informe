@@ -882,6 +882,22 @@ deseo de adoptar una rutina diaria de un estilo de vida más saludable.
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
 ### 2.3.5. As-is Scenario Mapping
+> Antes de sumergirse en nuestra plataforma, los entusiastas del fitness
+> dependen de una combinación de métodos tradicionales y recursos en
+> línea para guiar su entrenamiento y nutrición. Se apoyan en rutinas
+> preestablecidas que pueden encontrar en libros o en línea, utilizan
+> aplicaciones gratuitas para rastrear sus actividades físicas y contar
+> calorías, e incluso buscan inspiración en comunidades en línea y redes
+> sociales. Sin embargo, el análisis de la situación actual revelará los
+> desafíos y limitaciones de estos métodos que los usuarios han
+> enfrentado hasta ahora.
+>
+> <img src="./media/image50.png"
+> style="width:17.38542in;height:6.4375in" />
+>
+> Link:
+> [<u>Miro</u>](https://miro.com/welcomeonboard/NmtrbXdaT3NSdnMydExMdmFjVXhBS3NoeWhDRUFFTzFHZzhDZkJzbnVkVUpwSzRrcnZFaUszSER1aGlPZUZ1UXwzMDc0NDU3MzUwMjczNDg5Mzc4fDI=?share_link_id=170806574388)
+
 ## 2.4. Ubiquitous Language.
 - Visitante: Cualquier persona que visite la landing page.
 
