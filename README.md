@@ -254,7 +254,126 @@ TB1:
 ### 1.2.1 Antecedentes y problemática
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
-#### 1.2.2.2. Lean UX Assumptions.
+#### 1.2.2.2. Lean UX Assumptions
+
+- **<span class="mark">Business Assumptions</span>**
+
+1.  <span class="mark">Creemos que existe una necesidad de servicios
+    personalizados de fitness y nutrición basados ​​en datos de
+    rendimiento y características individuales del usuario.</span>
+
+2.  <span class="mark">Se espera que los usuarios participen activamente
+    en programas de entrenamiento personalizados y dietas adaptadas a
+    sus necesidades específicas.</span>
+
+3.  <span class="mark">Creemos que la disponibilidad de pruebas
+    limitadas de planes freemium alentará a los usuarios a probar
+    nuestra plataforma antes de registrarse.</span>
+
+4.  <span class="mark">Creemos que las estrategias de marketing
+    personalizadas, como correos electrónicos personalizados, descuentos
+    exclusivos y contenido exclusivo, aumentan la retención de usuarios
+    y convierten a los usuarios de prueba en suscriptores.</span>
+
+5.  <span class="mark">Creemos que la segmentación a través de campañas
+    de marketing digital dirigidas en plataformas relevantes aumenta el
+    conocimiento de la marca y la participación del cliente.</span>
+
+6.  <span class="mark">Suponemos que los usuarios están dispuestos a
+    pagar por servicios premium que brinden beneficios adicionales como
+    acceso a contenido exclusivo y descuentos en productos
+    relacionados.</span>
+
+7.  <span class="mark">Creemos que agregar una suscripción familiar
+    aumentará la participación y retención de los usuarios, brindando
+    beneficios a múltiples usuarios con una sola suscripción.</span>
+
+<span class="mark"></span>
+
+- **<span class="mark">User Assumptions</span>**
+
+¿Quién es el usuario?
+
+- Nuestros productos están diseñados para cualquier persona que quiera
+  mejorar su salud y estado físico a través de programas de
+  entrenamiento y dietas personalizados. Esto incluye personas de todas
+  las edades y niveles de condición física, desde principiantes hasta
+  atletas experimentados.
+
+¿Cuál es el impacto de nuestro producto, en su trabajo o vida?
+
+- Nuestros productos se integran en la vida diaria de los usuarios como
+  herramientas integrales para mejorar la salud y el estado físico
+
+¿Qué problemas tiene nuestro producto y cómo se pueden resolver?
+
+- Problema: Tengo dificultades para mantenerme motivado y constante en
+  mi entrenamiento diario.
+
+- Solución:Implementar un sistema de seguimiento del progreso para
+  registrar logros como completar hitos de entrenamiento y mejorar la
+  fuerza y ​​la resistencia.También proporciona recompensas virtuales y
+  reconocimiento de logros para motivar a los usuarios a continuar con
+  sus actividades diarias.
+
+<!-- -->
+
+- Problema: Seguir un plan de nutrición adecuado y personalizado puede
+  resultar difícil debido a la falta de variedad y opciones atractivas.
+
+- Solución: Proporciona una variedad de recetas deliciosas y saludables
+  adaptadas a las preferencias dietéticas personales de los usuarios.
+  Además, hay opciones de personalización disponibles para adaptar las
+  comidas a las restricciones dietéticas y preferencias personales de
+  cada usuario.
+
+<!-- -->
+
+- Problema: Es difícil mantener la coherencia con su rutina diaria de
+  ejercicios debido a la falta de recordatorios y planificación.
+
+- Solución: Integrar sistemas de capacitación para enviar mensajes
+  automáticos a los usuarios recordándoles las próximas sesiones de
+  capacitación. Además, debería permitir a los usuarios crear planes de
+  formación personalizados y establecer objetivos a alcanzar para
+  mantener la coherencia a largo plazo.
+
+¿Cuándo y cómo es usado nuestro producto?
+
+- Nuestros productos se utilizan principalmente para entrenar y
+  planificar las comidas diarias. Los usuarios pueden acceder a la
+  plataforma en cualquier momento a través de su dispositivo móvil o
+  computadora, ya sea en casa, en el gimnasio o mientras viajan.
+  Adaptable al estilo de vida, ya sea en casa, en el gimnasio o al aire
+  libre, y te sirve de guía en tu entrenamiento y alimentación.
+
+¿Qué características son importantes?
+
+- Análisis detallado de datos de rendimiento.
+
+- Planes de entrenamiento y alimentación personalizados.
+
+- Monitoriza tu progreso y motivación.
+
+- Asesoramiento y recomendaciones personales.
+
+- Fácil de usar y navegación intuitiva.
+
+- Accede a contenidos exclusivos actualizados periódicamente.
+
+¿Cómo debe verse nuestro producto y cómo debe comportarse?
+
+- Nuestros productos deben verse atractivos, con una interfaz limpia y
+  moderna, y ser fáciles de usar en dispositivos móviles y computadoras.
+  Debe tener una apariencia única diseño.
+
+<!-- -->
+
+- Debe ser fluido y responsivo, proporcionando una experiencia de
+  usuario fluida con funcionalidad intuitiva y navegación clara. Estas
+  suposiciones de los usuarios representan suposiciones sobre cómo los
+  usuarios interactúan con los Productos FitHub.Si necesita información
+  adicional o personalización, háganoslo saber.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
