@@ -1582,8 +1582,16 @@ Enlace para el
 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
+> <img src="./media/image43.png"
+> style="width:5.4463in;height:6.46241in" />
+
 ### 4.6.2. Software Architecture Container Diagrams
+> <img src="./media/image58.png"
+> style="width:5.49479in;height:7.64106in" />
+
 ### 4.6.3. Software Architecture Components Diagrams
+<img src="./media/image14.png"
+style="width:5.48438in;height:4.35938in" />
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
