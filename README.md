@@ -705,6 +705,38 @@ deseo de adoptar una rutina diaria de un estilo de vida más saludable.
 > anima a ser paciente y a adoptar un enfoque integral para lograr sus
 > objetivos.
 
+5.  
+
+> Sexo: Masculino
+>
+> Edad: 21 años
+>
+> Ubicación: Puente Piedra
+>
+> Link: [<u>ENTREVISTA -RAY DEL
+> CARMEN</u>](https://drive.google.com/file/d/1NfZ7pKXqtex2yA3J2bm9I_obQjvR6TJV/view?usp=drive_link)
+>
+> Duración: 9:17
+>
+> Resumen:
+>
+> Ray del Carmen, residente de Puente Piedra, tiene 21 años y comparte
+> su experiencia acerca de que hace para mantenerse en forma y llevar
+> una dieta saludable. Actualmente, practica fútbol y ejercicios de
+> resistencia, para mejorar su rendimiento. Su principal objetivo al
+> buscar un servicio en línea o un app fitness es acompañar su rutina
+> diaria con una dieta balanceada. Ray encuentra diversos obstáculos al
+> momento de buscar ejercicios y dietas adecuadas al deporte que él
+> practica y en muchas ocasiones los ejercicios recomendados por los
+> anuncios no son los acertados. Su motivación para ejercitarse es tener
+> una buena salud y ser el mejor en el deporte que lo apasiona. Espera
+> recibir información sobre rutinas de ejercicio y dietas personalizadas
+> en base a objetivos que permitan cumplir sus metas establecidas.
+> Actualmente, elabora su propia rutina de ejercicio y dieta, buscando
+> información en Internet o aplicaciones enfocadas en deportes. Ray
+> busca adquirir un plan adecuado en base a la experiencia de otros
+> usuarios, rutinas y dietas que sean efectivas y comprobadas.
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
