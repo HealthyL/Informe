@@ -1381,6 +1381,14 @@ style="width:8.33333in;height:5.68731in" />
 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
+
+> <img src="./media/image23.png"
+> style="width:6.80396in;height:18.94963in" />
+>
+> <img src="./media/image7.png"
+> style="width:6.90104in;height:4.75599in" /><img src="./media/image67.png"
+> style="width:7.01354in;height:4.83111in" />
+
 ### 4.3.2. Landing Page Mock-up
 > <img src="./media/image14.png"
 > style="width:5.55047in;height:15.46757in" />
