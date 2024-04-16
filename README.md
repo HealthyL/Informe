@@ -880,6 +880,16 @@ deseo de adoptar una rutina diaria de un estilo de vida más saludable.
 ### 2.3.1. User Personas
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
+> Esta técnica nos permite comprender y visualizar el proceso que
+> atraviesa un usuario desde el primer contacto con nuestro producto o
+> servicio hasta la realización de una acción deseada. Además, veremos
+> cómo esta técnica nos permite diseñar soluciones centradas en las
+> necesidades y expectativas de nuestros usuarios, mejorando así la
+> experiencia global y aumentando la satisfacción y fidelidad del
+> cliente.
+>
+> <img src="./media/image32.png"
+> style="width:6.67765in;height:3.0814in" />
 ### 2.3.4. Empathy Mapping
 ### 2.3.5. As-is Scenario Mapping
 > Antes de sumergirse en nuestra plataforma, los entusiastas del fitness
