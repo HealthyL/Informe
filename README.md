@@ -171,6 +171,19 @@ TB1:
 
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
+> FitHub es más que una plataforma; es un ecosistema completo diseñado
+> para mejorar la salud y el bienestar de nuestros usuarios. Nos
+> enorgullece ofrecer una amplia gama de servicios personalizados que
+> abordan tanto el aspecto físico como el nutricional, permitiendo a
+> cada individuo alcanzar sus objetivos de manera efectiva y sostenible.
+>
+> Nuestra plataforma no se limita a proporcionar rutinas estándar de
+> ejercicio o dietas genéricas. En cambio, utilizamos análisis de datos
+> de rendimiento para comprender mejor las necesidades y capacidades
+> únicas de cada usuario. Esto nos permite ofrecer planes de suscripción
+> personalizados que se adaptan específicamente a sus objetivos,
+> preferencias y nivel de condición física.
+
 ### 1.1.2. Perfiles de integrantes del equipo
 ## 1.1. Startup Profile
 
@@ -252,8 +265,132 @@ TB1:
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
+En la sociedad contemporánea, el interés por la salud y el bienestar
+físico ha experimentado un notable aumento en los últimos años. Sin
+embargo, a pesar de este creciente interés, muchas personas enfrentan
+desafíos significativos al intentar mejorar su condición física y
+adoptar un estilo de vida más saludable. Uno de los principales
+problemas radica en la falta de personalización en las soluciones
+disponibles en el mercado. Las opciones de fitness y nutrición suelen
+ser genéricas y no tienen en cuenta las necesidades individuales de los
+usuarios, lo que dificulta su eficacia y su mantenimiento a largo plazo.
+
+Con el propósito de obtener una comprensión más profunda de las
+necesidades de nuestro segmento, emplearemos la técnica de las "5W y 2H"
+para examinar los antecedentes históricos y los desafíos asociados. A
+continuación, compartimos la información recopilada.
+
+What (Qué):
+
+*<span class="mark">¿Cuál es la relación del problema con las
+personas?</span>*
+
+- El problema está relacionado con las dificultades que enfrentan las
+  personas para mejorar su salud y estado físico debido a la falta de
+  acceso a programas personalizados de entrenamiento y nutrición.
+
+When (Cuándo):
+
+*<span class="mark">¿Cuándo sucede el problema?</span>*
+
+- El problema ocurre cuando las personas se encuentran con obstáculos
+  como la falta de tiempo, conocimientos o recursos para seguir un plan
+  de fitness y nutrición adecuado.
+
+- Además, los clientes pueden enfrentar este problema en cualquier
+  momento en que intenten mejorar su salud y bienestar. Sin embargo, es
+  más evidente cuando se acercan a eventos importantes como bodas,
+  vacaciones o cambios en las estaciones.
+
+<span class="mark">¿Cuándo utiliza el cliente el servicio?</span>
+
+- Los clientes pueden utilizar el servicio de FitHub en cualquier
+  momento que les resulte conveniente, ya sea en casa o en el gimnasio.
+
+Where (Dónde):
+
+*<span class="mark">¿Dónde está el cliente cuando usa el
+producto?</span>*
+
+- Los clientes pueden usar FitHub en cualquier lugar donde tengan acceso
+  a internet, ya sea en casa, en el trabajo o en el gimnasio.
+
+Who (Quién):
+
+*<span class="mark">¿Quiénes están involucrados?</span>*
+
+- Los principales involucrados son personas que desean mejorar su salud
+  y estado físico, pero se enfrentan a dificultades para encontrar
+  programas de entrenamiento y nutrición personalizados.
+
+*<span class="mark">¿Quién lo utilizará?</span>*
+
+- FitHub está diseñado para ser utilizado por personas de todas las
+  edades y niveles de condición física que buscan orientación y apoyo
+  para alcanzar sus objetivos de bienestar.
+
+Why (Por qué):
+
+*<span class="mark">¿Cuál es la causa del problema?</span>*
+
+- La causa del problema radica en la falta de acceso a programas de
+  fitness y nutrición personalizados que se ajusten a las necesidades
+  individuales de cada persona.
+
+- La falta de conocimientos sobre cómo diseñar un programa de ejercicio
+  y nutrición efectivo hasta la falta de tiempo para investigar y
+  planificar por sí mismos.
+
+How (Cómo):
+
+*<span class="mark">¿En qué condiciones los clientes usan nuestro
+producto?</span>*
+
+- Los clientes pueden usar el producto FitHub en una variedad de
+  condiciones, como en casa, en el gimnasio o mientras viajan, ya que la
+  plataforma es accesible desde cualquier dispositivo con conexión a
+  internet.
+
+*<span class="mark">¿Cómo nos conocieron los compradores?</span>*
+
+- Los clientes pueden conocer FitHub a través de recomendaciones de
+  amigos o familiares, publicidad en línea, búsquedas en internet o
+  mediante la participación en eventos relacionados con el fitness y la
+  salud.
+
+*<span class="mark">¿Cómo prefieren los lectores acceder a nuestro
+contenido?</span>*
+
+- Los clientes pueden preferir acceder al contenido de FitHub a través
+  de su plataforma, así como recibir notificaciones por correo
+  electrónico o mensajes de texto para mantenerse al día con sus rutinas
+  y planes de nutrición.
+
+*<span class="mark">¿Qué llevó a la persona a esta situación?</span>*
+
+- Las personas pueden llegar a esta situación debido a una variedad de
+  factores, como el aumento de peso, la falta de energía, la mala
+  alimentación, el estrés, la falta de ejercicio, entre otros.
+
+How much (Cuánto):
+
+- Los precios que ofrecemos son accesibles para cada usuario y además
+  ofrecemos diferentes planes que pueden tener diferentes funciones,
+  entre control de nutrición y creación de rutinas personalizadas, o
+  ambos.
+  
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
+El problema al que nos dirigimos con nuestra plataforma es la falta de
+acceso a programas personalizados de entrenamiento y nutrición, lo que
+dificulta que las personas alcancen sus objetivos de salud y estado
+físico de manera efectiva y sencilla. Esto se debe a la falta de tiempo,
+recursos y conocimientos para diseñar y seguir un plan de bienestar
+adecuado. Por otro lado, las personas se encuentran con la sobrecarga de
+información y la confusión sobre qué consejos y recomendaciones seguir,
+lo que dificulta aún más su capacidad para tomar decisiones informadas y
+mantenerse comprometidos con sus objetivos de salud.
+
 #### 1.2.2.2. Lean UX Assumptions
 
 - **<span class="mark">Business Assumptions</span>**
@@ -746,6 +883,39 @@ deseo de adoptar una rutina diaria de un estilo de vida más saludable.
 ### 2.3.4. Empathy Mapping
 ### 2.3.5. As-is Scenario Mapping
 ## 2.4. Ubiquitous Language.
+- Visitante: Cualquier persona que visite la landing page.
+
+- FitHub: Visitante que se registra y accede a nuestra plataforma con el
+  objetivo de mejorar su salud y estado físico.
+
+- Entusiasta del fitness: Un tipo de usuario que muestra un alto nivel
+  de interés y compromiso con su salud y estado físico.
+
+- Plan de entrenamiento: Un programa personalizado de ejercicios
+  diseñado para ayudar al usuario a alcanzar sus objetivos de fitness.
+
+- Rutina de ejercicios: Una serie estructurada de actividades físicas
+  que un usuario realiza regularmente como parte de su plan de
+  entrenamiento.
+
+- Plan de nutrición: Un programa personalizado de dieta diseñado para
+  satisfacer las necesidades nutricionales del usuario y apoyar sus
+  objetivos de fitness.
+
+- Dieta balanceada: Un plan de alimentación que incluye una variedad de
+  nutrientes en las cantidades adecuadas para mantener la salud y el
+  bienestar.
+
+- Seguimiento de progreso: El proceso de monitorear y registrar los
+  logros y avances del usuario en su viaje de fitness.
+
+- Notificaciones: Mensajes automáticos enviados a los usuarios para
+  recordarles eventos importantes, como sesiones de entrenamiento
+  programadas o cambios en sus planes de nutrición.
+
+- Recompensas: Incentivos virtuales o tangibles otorgados a los usuarios
+  como reconocimiento por alcanzar hitos o logros específicos en su
+  programa de fitness.
 
 # Capítulo III: Requirements Specification
 
