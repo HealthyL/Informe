@@ -741,6 +741,16 @@ deseo de adoptar una rutina diaria de un estilo de vida más saludable.
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
+### 2.3.2. User Task Matrix
+### 2.3.3. User Journey Mapping
+### 2.3.4. Empathy Mapping
+### 2.3.5. As-is Scenario Mapping
+## 2.4. Ubiquitous Language.
+
+# Capítulo III: Requirements Specification
+
+## 3.1. To-Be Scenario Mapping
+## 3.2. User Stories
 
 <table>
 <colgroup>
@@ -1094,7 +1104,6 @@ plan</p></th>
 </tbody>
 </table>
 
-
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
 
@@ -1106,17 +1115,6 @@ plan</p></th>
 | 4       | US004         | Sección Planes                            | Como visitante de la landing page quiero poder conocer a que planes me puedo afiliar.                                                                                                             | 3           |
 | 5       | US005         | Creación de la cuenta                     | Como visitante de la landing page quiero poder ser dirigido fácilmente al apartado de iniciar sesión.                                                                                             | 3           |
 | 6       | US006         | Iniciar Sesión                            | Como visitante de la landing page quiero poder ser dirigido fácilmente al apartado de creación de cuenta                                                                                          | 3           |
-
-### 2.3.2. User Task Matrix
-### 2.3.3. User Journey Mapping
-### 2.3.4. Empathy Mapping
-### 2.3.5. As-is Scenario Mapping
-
-# Capítulo III: Requirements Specification
-
-## 3.1. To-Be Scenario Mapping
-## 3.2. User Stories
-
 
 # Capítulo IV: Product Design
 
