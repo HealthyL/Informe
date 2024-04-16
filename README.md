@@ -1395,7 +1395,39 @@ style="width:8.33333in;height:5.68731in" />
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
+
+<img src="./media/image18.png"
+style="width:6.42188in;height:4.17422in" /><img src="./media/image64.png"
+style="width:6.50833in;height:4.23139in" /><img src="./media/image16.png"
+style="width:6.59896in;height:4.28932in" />
+
+<img src="./media/image22.png"
+style="width:6.51101in;height:4.23323in" /><img src="./media/image35.png"
+style="width:6.65104in;height:4.31901in" />
+
+<img src="./media/image15.png"
+style="width:6.73438in;height:4.37387in" /><img src="./media/image26.png"
+style="width:6.71667in;height:4.36484in" /><img src="./media/image33.png"
+style="width:6.91113in;height:4.48718in" />
+
+<img src="./media/image30.png"
+style="width:6.59694in;height:4.28801in" /><img src="./media/image36.png"
+style="width:6.43234in;height:4.18102in" /><img src="./media/image31.png"
+style="width:6.13954in;height:3.9907in" /><img src="./media/image24.png"
+style="width:6.08713in;height:3.95663in" /><img src="./media/image59.png"
+style="width:6.27083in;height:4.08206in" /><img src="./media/image11.png"
+style="width:6.55164in;height:4.25474in" />
+
+<img src="./media/image54.png"
+style="width:6.43454in;height:4.18047in" /><img src="./media/image71.png"
+style="width:6.61946in;height:4.30265in" /><img src="./media/image76.png"
+style="width:6.54787in;height:4.26163in" />
 ### 4.4.2. Web Applications Wireflow Diagrams
+En esta introducción, explicaremos cómo los Diagramas de Flujo de
+Aplicaciones Web nos ayudan a entender la estructura y la lógica de
+nuestra aplicación, identificando las diferentes pantallas, funciones y
+acciones que los usuarios pueden realizar.
+
 ### 4.4.3. Web Applications Mock-ups
 
 En esta introducción, exploraremos cómo los Mock-ups de Aplicaciones Web
