@@ -54,6 +54,13 @@
 
 
 # Project Report Collaboration Insights
+URL del repositorio para el reporte del proyecto:
+
+| Integrante   | Tarea Asignada      |
+|Loarte Matos, Anthony Bahan  | Lean UX Assumptions, Análisis competitivo. Empathy Mapping, To-Be Scenario Mapping, Labeling Systems, Searching Systems, Source Code Style Guide & Conventions, Software Deployment Configuration, Testing Suite Evidence for Sprint Review, Software Deployment Evidence for Sprint Review  |
+|Cama Salvatierra Jimena Tamara   | Lean ux canvas, diseño de entrevistas, registro de entrevista, Análisis de entrevistas, user persona, user stories, impact mapping general style guideline, web style guidelines, organization sistems, labeling systems, landing page mock ups, Database Diagram, Sprint Planning 1, sprint backlog 1.     |
+|Cipriano Chumbes, Bruce Andres | Lean UX Hypothesis Statements , User Task Matrix, Impact Mapping, Product Backlog, To-Be Scenario Mapping, SEO Tags and Meta Tags, Navigation Systems, Software Development Environment Configuration, Source Code Management, Development Evidence for Sprint Review, Services Documentation Evidence for Sprint Review.  |
+|Quezada Portalatino, Barbara Susana | Problem Statement, Descripción de la startup, antecedentes y problemática, Estrategias y tácticas frente a competidores, Assumptions, diseño de entrevistas, Ubiquitous Language. As-is Scenario Mapping, User Journey Mapping, User stories, Landing Page Wireframe, Web Applications Wireflow Diagrams, Web Applications Wireframe, Domain-Driven Software Architecture, Team Collaboration Insights during Sprint, Execution Evidence for Sprint Review. |
 
 # Contenido
 - [Aplicaciones Web](#-div-align--center---Aplicaciones-Web---div-)
@@ -1282,3 +1289,6 @@ sesión.
 # Bibliografía
 
 # Anexos
+Enlace para acceder a la landing page: https://healthyl.github.io/FitHub-LandingPage/
+Video exposición TB1: 
+Video Product prototyping: http://upc-pre-202401-si729-WS51-HealthyL-FitHub-navigation-sprint-1
