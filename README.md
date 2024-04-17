@@ -714,64 +714,79 @@ Ofrecemos una variedad de opciones de suscripción que se adaptan a las necesida
 10. ¿Qué aspectos de tu rutina de ejercicio y dieta te gustaría cambiar
     o mejorar?
 
-### 2.2.2. Registro de entrevistas
+### 2.2.2. Registro de entrevistas.
+**Segmento entusiastas del Fitness**
 
-3.  
+* **Entrevista 1** 
+  - Nombres: Jair 
+  - Apellidos: Castillo
+  - Edad: 20 años
+  - Distrito: Callao
+  - Link de la entrevista: [Enlace aquí](https://drive.google.com/file/d/1fRUfC72HD6yWInaV6Lsof_Tuzsqbdo-R/view)
+  - Timing y Duración: 03:29
+  - Evidencia de la reunión:<br>
+    <p align="center">
+     <img src="https://media.discordapp.net/attachments/1229240004270882826/1229963827374985317/image.png?ex=66319814&is=661f2314&hm=812f4a0d1dee3ff9dbc9d1daa3f2f2e686da37ed4265fc693a21b9b09cfac2ab&=&format=webp&quality=lossless" style="margin-bottom: 5px;" width="620px" align="center"/>
+    </p>
+  - Resumen de la entrevista:
+El entrevistado, Jair Castillo, destacó su compromiso activo con un estilo de vida saludable, enfocado en mantener un cuerpo en forma y una alimentación equilibrada. Sin embargo, admitió enfrentarse a una considerable confusión al buscar orientación en línea para obtener planes de entrenamiento y consejos sobre nutrición. Actualmente, se ve obligado a recurrir a videos de YouTube y a seguir a entrenadores en redes sociales en busca de información relevante. A pesar de sus esfuerzos, Jair expresó su frustración por la falta de resultados rápidos y efectivos en su búsqueda por mejorar su salud y forma física.
 
-> Sexo: Masculino
->
-> Edad: 20 años
->
-> Ubicación: Surco
->
-> Link: [<u>ENTREVISTA-SALVADOR
-> DIAZ</u>](https://us05web.zoom.us/j/87544591859?pwd=WmmPfxhIWYWdFNgV76oBe8XbawScbt.1)
->
-> Duración: 4:02
->
-> Resumen:  
-> Salvador Diaz está comprometido con mantenerse en forma y llevar una
-> alimentación equilibrada, pero se enfrenta a la confusión al buscar
-> orientación en línea sobre nutrición. Aunque recurre a videos de
-> YouTube y redes sociales para obtener información, está frustrado por
-> la falta de resultados rápidos y efectivos. Se le sugiere buscar
-> fuentes de información más confiables, como sitios web de
-> instituciones médicas, y considerar la consulta directa con un
-> profesional de la salud para obtener orientación personalizada. Se le
-> anima a ser paciente y a adoptar un enfoque integral para lograr sus
-> objetivos.
+* **Entrevista 2** 
+  - Nombres: Elias
+  - Apellidos: Yauri
+  - Edad: 20 años
+  - Distrito: San Miguel
+  - Link de la entrevista: [Enlace aquí](https://drive.google.com/file/d/1TESjsVLUgQN-isLQoe-tkEiDbRxPplQx/view)
+  - Timing y Duración: 06:43
+  - Evidencia de la reunión:<br>
+    <p align="center">
+     <img src="https://media.discordapp.net/attachments/1229240004270882826/1229965193891676190/image.png?ex=66319959&is=661f2459&hm=d47104d875836d54a6030cbeb967a93a3c2d01cc13b2dc048455b754b6b8092d&=&format=webp&quality=lossless" style="margin-bottom: 5px;" width="620px" align="center"/>
+    </p>
+  - Resumen de la entrevista:
+El entrevistado, Jair Castillo, destacó su compromiso activo con un estilo de vida saludable, enfocado en mantener un cuerpo en forma y una alimentación equilibrada. Sin embargo, admitió enfrentarse a una considerable confusión al buscar orientación en línea para obtener planes de entrenamiento y consejos sobre nutrición. Actualmente, se ve obligado a recurrir a videos de YouTube y a seguir a entrenadores en redes sociales en busca de información relevante. A pesar de sus esfuerzos, Jair expresó su frustración por la falta de resultados rápidos y efectivos en su búsqueda por mejorar su salud y forma física.
 
-5.  
+* **Entrevista 3** 
+  - Nombres: Salvador
+  - Apellidos: Diaz
+  - Edad: 20 años
+  - Distrito: Surco
+  - Link de la entrevista: [Enlace aquí](----)
+  - Timing y Duración: 04:02
+  - Evidencia de la reunión:<br>
+    <p align="center">
+     <img src="https://media.discordapp.net/attachments/1229240004270882826/1229963827374985317/image.png?ex=66319814&is=661f2314&hm=812f4a0d1dee3ff9dbc9d1daa3f2f2e686da37ed4265fc693a21b9b09cfac2ab&=&format=webp&quality=losslesss" style="margin-bottom: 5px;" width="620px" align="center"/>
+    </p>
+  - Resumen de la entrevista:
+Salvador Diaz está comprometido con mantenerse en forma y llevar una alimentación equilibrada, pero se enfrenta a la confusión al buscar orientación en línea sobre nutrición. Aunque recurre a videos de YouTube y redes sociales para obtener información, está frustrado por la falta de resultados rápidos y efectivos. Se le sugiere buscar fuentes de información más confiables, como sitios web de instituciones médicas, y considerar la consulta directa con un profesional de la salud para obtener orientación personalizada. Se le anima a ser paciente y a adoptar un enfoque integral para lograr sus objetivos.
 
-> Sexo: Masculino
->
-> Edad: 21 años
->
-> Ubicación: Puente Piedra
->
-> Link: [<u>ENTREVISTA -RAY DEL
-> CARMEN</u>](https://drive.google.com/file/d/1NfZ7pKXqtex2yA3J2bm9I_obQjvR6TJV/view?usp=drive_link)
->
-> Duración: 9:17
->
-> Resumen:
->
-> Ray del Carmen, residente de Puente Piedra, tiene 21 años y comparte
-> su experiencia acerca de que hace para mantenerse en forma y llevar
-> una dieta saludable. Actualmente, practica fútbol y ejercicios de
-> resistencia, para mejorar su rendimiento. Su principal objetivo al
-> buscar un servicio en línea o un app fitness es acompañar su rutina
-> diaria con una dieta balanceada. Ray encuentra diversos obstáculos al
-> momento de buscar ejercicios y dietas adecuadas al deporte que él
-> practica y en muchas ocasiones los ejercicios recomendados por los
-> anuncios no son los acertados. Su motivación para ejercitarse es tener
-> una buena salud y ser el mejor en el deporte que lo apasiona. Espera
-> recibir información sobre rutinas de ejercicio y dietas personalizadas
-> en base a objetivos que permitan cumplir sus metas establecidas.
-> Actualmente, elabora su propia rutina de ejercicio y dieta, buscando
-> información en Internet o aplicaciones enfocadas en deportes. Ray
-> busca adquirir un plan adecuado en base a la experiencia de otros
-> usuarios, rutinas y dietas que sean efectivas y comprobadas.
+* **Entrevista 4** 
+  - Nombres: Agustin  
+  - Apellidos: Aguilar
+  - Edad: 21 años
+  - Distrito: San Miguel
+  - Link de la entrevista: [Enlace aquí](https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view)
+  - Timing y Duración: 05:04
+  - Evidencia de la reunión:<br>
+    <p align="center">
+     <img src="https://media.discordapp.net/attachments/1229240004270882826/1229967222232059975/image.png?ex=66319b3d&is=661f263d&hm=6946518dc59cbf66ebccc47e1e6b3d7ea190c75ff271b5b74c171a779ef3a526&=&format=webp&quality=lossless&width=550&height=199" style="margin-bottom: 5px;" width="620px" align="center"/>
+    </p>
+  - Resumen de la entrevista:
+Agustín Aguilar, residente de San miguel, tiene 21 años y está interesado en mantenerse en forma y llevar una dieta saludable. Actualmente, realiza ejercicio ocasionalmente, principalmente planchas y pesas, y no sigue una dieta estricta, aunque se alimenta de manera saludable. Su principal objetivo al usar un servicio de fitness en línea es mejorar su estado físico y mantenerse en forma. Agustín enfrenta desafíos para seguir una dieta constante y encontrar la motivación para mantener una rutina de ejercicio. Le motiva sentirse bien consigo mismo y manejar el estrés y la ansiedad. Espera recibir información sobre rutinas de ejercicio y dietas personalizadas, consejos para mantener la disciplina y un lugar para registrar su progreso. Actualmente, establece su propia rutina de ejercicio y dieta, buscando información en Internet y comparando diferentes fuentes. Agustín desea recibir un plan de rutina establecida y una dieta definida en lugar de improvisar cada día.
+
+* **Entrevista 5** 
+  - Nombres: Ray 
+  - Apellidos: Del Carmen
+  - Edad: 21 años
+  - Distrito: Puente Piedra
+  - Link de la entrevista: [Enlace aquí](https://drive.google.com/file/d/1fRUfC72HD6yWInaV6Lsof_Tuzsqbdo-R/view)
+  - Timing y Duración: 09:17
+  - Evidencia de la reunión:<br>
+    <p align="center">
+     <img src="https://media.discordapp.net/attachments/1229240004270882826/1229967688609169408/image.png?ex=66319bac&is=661f26ac&hm=9905c764801cd181c4d15c6fddd31dcdd11caa8887579d7a2f012fdf97df4cf9&=&format=webp&quality=lossless" style="margin-bottom: 5px;" width="620px" align="center"/>
+    </p>
+  - Resumen de la entrevista:
+Ray del Carmen, residente de Puente Piedra, tiene 21 años y comparte su experiencia acerca de que hace para mantenerse en forma y llevar una dieta saludable. Actualmente, practica fútbol y ejercicios de resistencia, para mejorar su rendimiento. Su principal objetivo al buscar un servicio en línea o un app fitness es acompañar su rutina diaria con una dieta balanceada. Ray encuentra diversos obstáculos al momento de buscar ejercicios y dietas adecuadas al deporte que él practica y en muchas ocasiones los ejercicios recomendados por los anuncios no son los acertados. Su motivación para ejercitarse es tener una buena salud y ser el mejor en el deporte que lo apasiona. Espera recibir información sobre rutinas de ejercicio y dietas personalizadas en base a objetivos que permitan cumplir sus metas establecidas. Actualmente, elabora su propia rutina de ejercicio y dieta, buscando información en Internet o aplicaciones enfocadas en deportes. Ray busca adquirir un plan adecuado en base a la experiencia de otros usuarios, rutinas y dietas que sean efectivas y comprobadas.
+
 
 ### 2.2.3. Análisis de entrevistas
 
