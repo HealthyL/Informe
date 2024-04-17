@@ -370,136 +370,66 @@ Los precios que ofrecemos son accesibles para cada usuario y además ofrecemos d
 
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
-El problema al que nos dirigimos con nuestra plataforma es la falta de
-acceso a programas personalizados de entrenamiento y nutrición, lo que
-dificulta que las personas alcancen sus objetivos de salud y estado
-físico de manera efectiva y sencilla. Esto se debe a la falta de tiempo,
-recursos y conocimientos para diseñar y seguir un plan de bienestar
-adecuado. Por otro lado, las personas se encuentran con la sobrecarga de
-información y la confusión sobre qué consejos y recomendaciones seguir,
-lo que dificulta aún más su capacidad para tomar decisiones informadas y
-mantenerse comprometidos con sus objetivos de salud.
+El problema al que nos dirigimos con nuestra plataforma es la falta de acceso a programas personalizados de entrenamiento y nutrición, lo que dificulta que las personas alcancen sus objetivos de salud y estado físico de manera efectiva y sencilla. Esto se debe a la falta de tiempo, recursos y conocimientos para diseñar y seguir un plan de bienestar adecuado. Por otro lado, las personas se encuentran con la sobrecarga de información y la confusión sobre qué consejos y recomendaciones seguir, lo que dificulta aún más su capacidad para tomar decisiones informadas y mantenerse comprometidos con sus objetivos de salud.
 
-#### 1.2.2.2. Lean UX Assumptions
+Nuestra plataforma busca abordar estas preocupaciones al ofrecer un espacio digital donde las personas pueden acceder a programas de entrenamiento y nutrición personalizados, basados en sus necesidades individuales y objetivos específicos. Además, proporcionamos herramientas y recursos que simplifican el proceso de seguimiento y monitoreo del progreso.
 
-- **<span class="mark">Business Assumptions</span>**
+¿Cómo podemos ayudar a las personas a superar los obstáculos que enfrentan en su búsqueda de una vida más saludable y activa?
 
-1.  <span class="mark">Creemos que existe una necesidad de servicios
-    personalizados de fitness y nutrición basados ​​en datos de
-    rendimiento y características individuales del usuario.</span>
 
-2.  <span class="mark">Se espera que los usuarios participen activamente
-    en programas de entrenamiento personalizados y dietas adaptadas a
-    sus necesidades específicas.</span>
+#### 1.2.2.2. Lean UX Assumptions.
+* **Business Assumptions**  
+* Creemos que existe una necesidad de servicios personalizados de fitness y nutrición basados ​​en datos de rendimiento y características individuales del usuario.
 
-3.  <span class="mark">Creemos que la disponibilidad de pruebas
-    limitadas de planes freemium alentará a los usuarios a probar
-    nuestra plataforma antes de registrarse.</span>
+ * Se espera que los usuarios participen activamente en programas de entrenamiento personalizados y dietas adaptadas a sus necesidades específicas.
 
-4.  <span class="mark">Creemos que las estrategias de marketing
-    personalizadas, como correos electrónicos personalizados, descuentos
-    exclusivos y contenido exclusivo, aumentan la retención de usuarios
-    y convierten a los usuarios de prueba en suscriptores.</span>
+ * Creemos que la disponibilidad de pruebas limitadas de planes freemium alentará a los usuarios a probar nuestra plataforma antes de registrarse.
 
-5.  <span class="mark">Creemos que la segmentación a través de campañas
-    de marketing digital dirigidas en plataformas relevantes aumenta el
-    conocimiento de la marca y la participación del cliente.</span>
+ * Creemos que las estrategias de marketing personalizadas, como correos electrónicos personalizados, descuentos exclusivos y contenido exclusivo, aumentan la retención de usuarios y convierten a los usuarios de prueba en suscriptores.
 
-6.  <span class="mark">Suponemos que los usuarios están dispuestos a
-    pagar por servicios premium que brinden beneficios adicionales como
-    acceso a contenido exclusivo y descuentos en productos
-    relacionados.</span>
+ * Creemos que la segmentación a través de campañas de marketing digital dirigidas en plataformas relevantes aumenta el conocimiento de la marca y la participación del cliente.
 
-7.  <span class="mark">Creemos que agregar una suscripción familiar
-    aumentará la participación y retención de los usuarios, brindando
-    beneficios a múltiples usuarios con una sola suscripción.</span>
+ * Suponemos que los usuarios están dispuestos a pagar por servicios premium que brinden beneficios adicionales como acceso a contenido exclusivo y descuentos en productos relacionados.
 
-<span class="mark"></span>
+ * Creemos que agregar una suscripción familiar aumentará la participación y retención de los usuarios, brindando  beneficios a múltiples usuarios con una sola suscripción.
 
-- **<span class="mark">User Assumptions</span>**
+* **User Assumptions**
+  
+  * **¿Quién es el usuario?**
+    
+      Nuestros productos están diseñados para cualquier persona que quiera mejorar su salud y estado físico a través de programas de entrenamiento y dietas personalizados. Esto incluye personas de todas las edades y niveles de condición física, desde principiantes hasta atletas experimentados.
+  * **¿Cuál es el impacto de nuestro producto, en su trabajo o vida?**
+    
+      Nuestros productos se integran en la vida diaria de los usuarios como herramientas integrales para mejorar la salud y el estado físico 
+  * **¿Qué problemas tiene nuestro producto y cómo se pueden resolver?**
+    * Problema: Tengo dificultades para mantenerme motivado y constante en mi entrenamiento diario.
+    * Solución:Implementar un sistema de seguimiento del progreso para registrar logros como completar hitos de entrenamiento y mejorar la fuerza y ​​la resistencia.También proporciona recompensas virtuales y reconocimiento de logros para motivar a los usuarios a continuar con sus actividades diarias.
 
-¿Quién es el usuario?
+    * Problema: Seguir un plan de nutrición adecuado y personalizado  puede resultar difícil debido a la falta de variedad y opciones atractivas.
+    * Solución: Proporciona una variedad de recetas deliciosas y saludables adaptadas a las preferencias dietéticas personales de los usuarios. Además, hay opciones de personalización disponibles para adaptar las comidas a las restricciones dietéticas y preferencias personales de cada usuario.
 
-- Nuestros productos están diseñados para cualquier persona que quiera
-  mejorar su salud y estado físico a través de programas de
-  entrenamiento y dietas personalizados. Esto incluye personas de todas
-  las edades y niveles de condición física, desde principiantes hasta
-  atletas experimentados.
+    * Problema: Es difícil mantener la coherencia con su rutina diaria de ejercicios debido a la falta de recordatorios y planificación.
+    * Solución:  Integrar sistemas de capacitación para enviar mensajes automáticos a los usuarios recordándoles las próximas sesiones de capacitación. Además, debería permitir a los usuarios crear planes de formación personalizados y establecer objetivos a alcanzar para mantener la coherencia a largo plazo.
 
-¿Cuál es el impacto de nuestro producto, en su trabajo o vida?
+  * **¿Cuándo y cómo es usado nuestro producto?**
+    
+      Nuestros productos se utilizan principalmente para entrenar y planificar las comidas diarias. Los usuarios pueden acceder a la plataforma en cualquier momento a través de su dispositivo móvil o computadora, ya sea en casa, en el gimnasio o mientras viajan. Adaptable al estilo de vida, ya sea en casa, en el gimnasio o al aire libre, y te sirve de guía en tu entrenamiento y alimentación.
 
-- Nuestros productos se integran en la vida diaria de los usuarios como
-  herramientas integrales para mejorar la salud y el estado físico
+  * **¿Qué características son importantes?**
 
-¿Qué problemas tiene nuestro producto y cómo se pueden resolver?
+    * Análisis detallado de  datos de rendimiento.
+    * Planes de entrenamiento y alimentación personalizados.
+    * Monitoriza tu progreso y motivación.
+    * Asesoramiento y recomendaciones personales.
+    * Fácil de usar y navegación intuitiva.
+    * Accede a contenidos exclusivos  actualizados periódicamente.
 
-- Problema: Tengo dificultades para mantenerme motivado y constante en
-  mi entrenamiento diario.
+    
+  * **¿Cómo debe verse nuestro producto y cómo debe comportarse?**
 
-- Solución:Implementar un sistema de seguimiento del progreso para
-  registrar logros como completar hitos de entrenamiento y mejorar la
-  fuerza y ​​la resistencia.También proporciona recompensas virtuales y
-  reconocimiento de logros para motivar a los usuarios a continuar con
-  sus actividades diarias.
-
-<!-- -->
-
-- Problema: Seguir un plan de nutrición adecuado y personalizado puede
-  resultar difícil debido a la falta de variedad y opciones atractivas.
-
-- Solución: Proporciona una variedad de recetas deliciosas y saludables
-  adaptadas a las preferencias dietéticas personales de los usuarios.
-  Además, hay opciones de personalización disponibles para adaptar las
-  comidas a las restricciones dietéticas y preferencias personales de
-  cada usuario.
-
-<!-- -->
-
-- Problema: Es difícil mantener la coherencia con su rutina diaria de
-  ejercicios debido a la falta de recordatorios y planificación.
-
-- Solución: Integrar sistemas de capacitación para enviar mensajes
-  automáticos a los usuarios recordándoles las próximas sesiones de
-  capacitación. Además, debería permitir a los usuarios crear planes de
-  formación personalizados y establecer objetivos a alcanzar para
-  mantener la coherencia a largo plazo.
-
-¿Cuándo y cómo es usado nuestro producto?
-
-- Nuestros productos se utilizan principalmente para entrenar y
-  planificar las comidas diarias. Los usuarios pueden acceder a la
-  plataforma en cualquier momento a través de su dispositivo móvil o
-  computadora, ya sea en casa, en el gimnasio o mientras viajan.
-  Adaptable al estilo de vida, ya sea en casa, en el gimnasio o al aire
-  libre, y te sirve de guía en tu entrenamiento y alimentación.
-
-¿Qué características son importantes?
-
-- Análisis detallado de datos de rendimiento.
-
-- Planes de entrenamiento y alimentación personalizados.
-
-- Monitoriza tu progreso y motivación.
-
-- Asesoramiento y recomendaciones personales.
-
-- Fácil de usar y navegación intuitiva.
-
-- Accede a contenidos exclusivos actualizados periódicamente.
-
-¿Cómo debe verse nuestro producto y cómo debe comportarse?
-
-- Nuestros productos deben verse atractivos, con una interfaz limpia y
-  moderna, y ser fáciles de usar en dispositivos móviles y computadoras.
-  Debe tener una apariencia única diseño.
-
-<!-- -->
-
-- Debe ser fluido y responsivo, proporcionando una experiencia de
-  usuario fluida con funcionalidad intuitiva y navegación clara. Estas
-  suposiciones de los usuarios representan suposiciones sobre cómo los
-  usuarios interactúan con los Productos FitHub.Si necesita información
-  adicional o personalización, háganoslo saber.
+    * Nuestros productos deben verse atractivos, con una interfaz limpia y moderna, y ser fáciles de usar en dispositivos móviles y computadoras. Debe tener una apariencia única diseño.
+    * Debe ser fluido y responsivo, proporcionando una experiencia de usuario fluida con funcionalidad intuitiva y navegación clara. Estas suposiciones de los usuarios representan suposiciones sobre cómo los usuarios  interactúan con los Productos FitHub.Si necesita información adicional o personalización, háganoslo saber.
+ 
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
@@ -587,6 +517,7 @@ general. Personas que busquen soluciones convenientes y efectivas y, de
 esta manera, ayudarles a alcanzar sus metas de alimentación y físico.
 Podrán elejir entre diferentes planes, pero todas tendrán en común el
 deseo de adoptar una rutina diaria de un estilo de vida más saludable.
+
 # Capítulo II: Requirements Elicitation & Analysis
 
 ## 2.1. Competidores
@@ -738,35 +669,14 @@ deseo de adoptar una rutina diaria de un estilo de vida más saludable.
   </table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
+En el dinámico mercado de fitness y nutrición, la competencia es feroz y la diferenciación es clave para destacarse entre la multitud. En esta sección, exploramos una serie de estrategias y tácticas diseñadas para posicionar nuestra empresa de manera efectiva frente a competidores directos e indirectos.
+* En FitHub, nos destacamos por nuestra capacidad para ofrecer planes de entrenamiento y dietas altamente personalizados basados en datos de rendimiento y características individuales de nuestros usuarios.
+Nuestra plataforma brinda flexibilidad y conveniencia a nuestros usuarios, permitiéndoles realizar sus rutinas de ejercicio desde la comodidad de su hogar y adaptarlas a sus horarios y preferencias individuales.
+* Estamos constantemente explorando nuevas formas de mejorar la experiencia del usuario y la precisión de nuestras recomendaciones a través de la integración de tecnologías emergentes y la retroalimentación de nuestros usuarios.
+* Estamos enfocados en expandir nuestro alcance a nuevos mercados internacionales y establecer colaboraciones estratégicas con influencers, atletas y celebridades en el campo del fitness y la nutrición.
+Ofrecemos una variedad de opciones de suscripción que se adaptan a las necesidades y presupuestos de nuestros usuarios. Desde planes básicos hasta opciones premium.
 
-> En el dinámico mercado de fitness y nutrición, la competencia es feroz
-> y la diferenciación es clave para destacarse entre la multitud. En
-> esta sección, exploramos una serie de estrategias y tácticas diseñadas
-> para posicionar nuestra empresa de manera efectiva frente a
-> competidores directos e indirectos.
 
-- En FitHub, nos destacamos por nuestra capacidad para ofrecer planes de
-  entrenamiento y dietas altamente personalizados basados en datos de
-  rendimiento y características individuales de nuestros usuarios.
-
-- Nuestra plataforma brinda flexibilidad y conveniencia a nuestros
-  usuarios, permitiéndoles realizar sus rutinas de ejercicio desde la
-  comodidad de su hogar y adaptarlas a sus horarios y preferencias
-  individuales.
-
-- Estamos constantemente explorando nuevas formas de mejorar la
-  experiencia del usuario y la precisión de nuestras recomendaciones a
-  través de la integración de tecnologías emergentes y la
-  retroalimentación de nuestros usuarios.
-
-- Estamos enfocados en expandir nuestro alcance a nuevos mercados
-  internacionales y establecer colaboraciones estratégicas con
-  influencers, atletas y celebridades en el campo del fitness y la
-  nutrición.
-
-- Ofrecemos una variedad de opciones de suscripción que se adaptan a las
-  necesidades y presupuestos de nuestros usuarios. Desde planes básicos
-  hasta opciones premium.
 
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
