@@ -790,37 +790,79 @@ Ray del Carmen, residente de Puente Piedra, tiene 21 años y comparte su experie
 
 ### 2.2.3. Análisis de entrevistas
 
-## 2.3. Needfinding
-### 2.3.1. User Personas
-### 2.3.2. User Task Matrix
-### 2.3.3. User Journey Mapping
-> Esta técnica nos permite comprender y visualizar el proceso que
-> atraviesa un usuario desde el primer contacto con nuestro producto o
-> servicio hasta la realización de una acción deseada. Además, veremos
-> cómo esta técnica nos permite diseñar soluciones centradas en las
-> necesidades y expectativas de nuestros usuarios, mejorando así la
-> experiencia global y aumentando la satisfacción y fidelidad del
-> cliente.
->
-> <img src="./media/image32.png"
-> style="width:6.67765in;height:3.0814in" />
-### 2.3.4. Empathy Mapping
-### 2.3.5. As-is Scenario Mapping
-> Antes de sumergirse en nuestra plataforma, los entusiastas del fitness
-> dependen de una combinación de métodos tradicionales y recursos en
-> línea para guiar su entrenamiento y nutrición. Se apoyan en rutinas
-> preestablecidas que pueden encontrar en libros o en línea, utilizan
-> aplicaciones gratuitas para rastrear sus actividades físicas y contar
-> calorías, e incluso buscan inspiración en comunidades en línea y redes
-> sociales. Sin embargo, el análisis de la situación actual revelará los
-> desafíos y limitaciones de estos métodos que los usuarios han
-> enfrentado hasta ahora.
->
-> <img src="./media/image50.png"
-> style="width:17.38542in;height:6.4375in" />
->
-> Link:
-> [<u>Miro</u>](https://miro.com/welcomeonboard/NmtrbXdaT3NSdnMydExMdmFjVXhBS3NoeWhDRUFFTzFHZzhDZkJzbnVkVUpwSzRrcnZFaUszSER1aGlPZUZ1UXwzMDc0NDU3MzUwMjczNDg5Mzc4fDI=?share_link_id=170806574388)
+
+## 2.3. Needfinding.
+### 2.3.1. User Personas.
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897037705777232/image36.png?ex=663159e0&is=661ee4e0&hm=9a1c60c0ef38ad9255da9f4fa7575045eb38147a6a857664a92804dfd368a7ff&=&format=webp&quality=lossless&width=892&height=502" alt="Segmento 1" style="margin-bottom: 3px;" width="780px">
+</p>
+
+### 2.3.2. User Task Matrix.
+
+<table align="center">
+    <thead>
+        <tr>
+            <th rowspan=2>User Task Matrix</th>
+            <th colspan=2>Marco Torres</th>
+         <tr>
+            <th rowspan=1 align="center">Frecuencia</td>
+            <th rowspan=1 align="center">Importancia</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=1 align="center">Implementar una rutina personalizada en su vida diaria</td>
+            <td rowspan=1 align="center">Low</td>
+            <td rowspan=1 align="center">High</td>
+        </tr>
+        <tr>
+            <td rowspan=1 align="center">Tener más energía y reducir el estrés</td>
+            <td rowspan=1 align="center">Medium</td>
+            <td rowspan=1 align="center">High</td>
+        </tr>
+         <tr>
+            <td rowspan=1 align="center">Mejorar su confianza en sí mismo</td>
+            <td rowspan=1 align="center">Low</td>
+            <td rowspan=1 align="center">High</td>
+        </tr>
+         <tr>
+            <td rowspan=1 align="center">Encontrar una solución personalizada que se ajuste a su agenda</td>
+            <td rowspan=1 align="center">Low</td>
+            <td rowspan=1 align="center">Medium</td>
+        </tr>
+         <tr>
+            <td rowspan=1 align="center">Mantener una rutina constante debido a sus compromisos laborales</td>
+            <td rowspan=1 align="center">Low</td>
+            <td rowspan=1 align="center">High</td>
+        </tr>
+         <tr>
+            <td rowspan=1 align="center">Evitar caer en hábitos poco saludables</td>
+            <td rowspan=1 align="center">Medium</td>
+            <td rowspan=1 align="center">Low</td>
+        </tr>
+    </tbody>
+</table>
+
+
+### 2.3.3. User Journey Mapping.
+Esta técnica nos permite comprender y visualizar el proceso que atraviesa un usuario desde el primer contacto con nuestro producto o servicio hasta la realización de una acción deseada. Además, veremos cómo esta técnica nos permite diseñar soluciones centradas en las necesidades y expectativas de nuestros usuarios, mejorando así la experiencia global y aumentando la satisfacción y fidelidad del cliente.
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1229240004270882826/1229896798966120598/image4.png?ex=663159a7&is=661ee4a7&hm=f7c1807e0a75017c1680747f744eb0559303c7e52e96e9d16216ec4f6ef06379&=&format=webp&quality=lossless&width=1090&height=502" alt="Segmento 1" style="margin-bottom: 3px;" width="780px">
+</p>
+
+### 2.3.4. Empathy Mapping.
+Al utilizar el Empathy Mapping, podemos adentrarnos en la mente y el corazón de nuestros usuarios, comprendiendo sus pensamientos, sentimientos, necesidades y deseos.
+
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897465327779900/image78.png?ex=66315a46&is=661ee546&hm=85b9adaab8c772150cb9e837e024c56db30fa3e063ac008ce102705328519cd3&=&format=webp&quality=lossless" alt="Segmento 1" style="margin-bottom: 3px;" width="780px">
+</p>
+
+### 2.3.5. As-is Scenario Mapping.
+Antes de sumergirse en nuestra plataforma, los entusiastas del fitness dependen de una combinación de métodos tradicionales y recursos en línea para guiar su entrenamiento y nutrición. Se apoyan en rutinas preestablecidas que pueden encontrar en libros o en línea, utilizan aplicaciones gratuitas para rastrear sus actividades físicas y contar calorías, e incluso buscan inspiración en comunidades en línea y redes sociales. Sin embargo, el análisis de la situación actual revelará los desafíos y limitaciones de estos métodos que los usuarios han enfrentado hasta ahora.
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897202076487851/image53.png?ex=66315a07&is=661ee507&hm=9aec9186876fa48e67fc40c012271ba41581e1ded47c9745ed8e9d779662e83f&=&format=webp&quality=lossless&width=1200&height=444" alt="Segmento 1" style="margin-bottom: 3px;" width="780px">
+</p>
+
 
 ## 2.4. Ubiquitous Language.
 - Visitante: Cualquier persona que visite la landing page.
