@@ -237,13 +237,9 @@ TB1:
 > preferencias y nivel de condición física.
 
 ### 1.1.2. Perfiles de integrantes del equipo
-## 1.1. Startup Profile
-
-## 1.1. Startup Profile
-
 <table>
   <tr>
-    <td rowspan="3"> <img src="https://cdn.discordapp.com/attachments/1227176636328185917/1227182887267471370/appweb.png?ex=66277a20&is=66150520&hm=17d069fdaa133f31c644984e6610347394a73fb609328e94590829e51c6589f8&" alt="Barbara" style="margin-bottom: 5px;" width="620"/> </td>
+    <td rowspan="3"> <img src="https://cdn.discordapp.com/attachments/1229240004270882826/1229897036862722179/image33.png?ex=663159df&is=661ee4df&hm=edbfb44bc56ee65130afa7271304c5d90f5a854dbc49e8e7dc16c830200a65cd&" alt="Jimena Cama" style="margin-bottom: 5px;" width="620"/> </td>
     <td> 
       <strong>Nombres y apellidos:</strong> <br>
       Jimena Tamara Cama Salvatierra
@@ -259,15 +255,12 @@ TB1:
     <td>
       <strong>Acerca de:</strong> <br>
       <p>
-        Soy Jimena, estudiante de Ingeniería de Software en la UPC (Universidad Peruana de Ciencias Aplicadas), actualmente en el 5to ciclo. Me considero curiosa, determinada y organizada. Con experiencia en proyectos de startup y trabajos en equipo, mi objetivo es lograr resultados óptimos en el proyecto.
+        Soy estudiante de la carrera de Ingeniería de Software en la UPC y actualmente estoy cursando el 5to ciclo. Me considero una persona curiosa, determinada y organizada. Con la experiencia en proyectos de startup y trabajos en equipo, trabajaré junto a mis compañeros para lograr un óptimo resultado del proyecto.
       </p>  
     </td>
   </tr>
-</table>
-
-<table>
   <tr>
-    <td rowspan="3"> <img src="https://cdn.discordapp.com/attachments/1227176636328185917/1227176692519534602/Diseno_sin_titulo.jpg?ex=6627745b&is=6614ff5b&hm=732da9b4b72ccd40ae3b74aeb1842a6ada76da9950c119650f8159f7090a79a4" alt="Bruce" style="margin-bottom: 5px;" width="620"/> </td>
+    <td rowspan="3"> <img src="https://cdn.discordapp.com/attachments/1229240004270882826/1229897405990834206/image63.jpg?ex=66315a37&is=661ee537&hm=c41edf577155f777afdfcc4f60db52570ce0fb227e0e42e8be288281a0c77582&" alt="Bruce Cipriano" style="margin-bottom: 5px;" width="620"/> </td>
     <td> 
       <strong>Nombres y apellidos:</strong> <br>
       Bruce Andres Cipriano Chumbes
@@ -279,22 +272,40 @@ TB1:
       Ingeniería de Software
     </td>
   </tr>
- <tr>
+  <tr>
     <td>
       <strong>Acerca de:</strong> <br>
       <p>
-        Soy Bruce, estudiante de Ingeniería de Software en la UPC (Universidad Peruana de Ciencias Aplicadas). Siempre me ha fascinado la tecnología y cómo funciona. Disfruto programar, ser responsable y trabajar en equipo. Tengo conocimientos básicos en C#, Java, JavaScript, HTML y CSS, y conocimientos intermedios en C++, SQL y MongoDB. Mi objetivo es contribuir al mundo de la tecnología mientras desarrollo mi carrera profesional como ingeniero de software.
+        Soy estudiante de Ingeniería de Software en la UPC. Siempre me ha fascinado la tecnología y cómo funciona. Disfruto programar, ser responsable y trabajar en equipo. Tengo conocimientos básicos en C#, Java, JavaScript, HTML y CSS, y conocimientos intermedios en C++, SQL y MongoDB. Mi objetivo es contribuir al mundo de la tecnología mientras desarrollo mi carrera profesional como ingeniero de software.
       </p>  
     </td>
   </tr>
-</table>
-
-<table>
-  <tr>
-    <td rowspan="3"> <img src="https://cdn.discordapp.com/attachments/1227176636328185917/1227176692519534602/Diseno_sin_titulo.jpg?ex=6627745b&is=6614ff5b&hm=732da9b4b72ccd40ae3b74aeb1842a6ada76da9950c119650f8159f7090a79a4" alt="Anthony" style="margin-bottom: 5px;" width="620"/> </td>
+ <tr>
+    <td rowspan="3"> <img src= "https://cdn.discordapp.com/attachments/1229240004270882826/1229925787453493268/Imagen.jpeg?ex=663174a6&is=661effa6&hm=53597c4ed5240024b51a2f3639efe970942b89ba16f69d0740b8bb5846031d26&" alt="Anthony Loarte" style="margin-bottom: 5px;" width="620"/> </td>
     <td> 
       <strong>Nombres y apellidos:</strong> <br>
       Anthony Brahan Loarte Matos
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Carrera:</strong> <br>
+      Ingeniería de Software
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Acerca de:</strong> <br>
+      <p>   
+        ¡Hola! Actualmente estoy en la universidad peruana de ciencias aplicadas en la carrera de Ingeniería de Software. Me apasiona todo lo relacionado con la tecnología, los avances tecnológicos y los procesos de arquitectura para el desarrollo de software. Asimismo, cuento con la capacidad para innovar en el diseño y desarrollo de proyectos.Tengo conocimientos básicos en C++, python, HTML y CSS. Estoy comprometido con contribuir al mundo de la tecnología mediante el desarrollo de soluciones innovadoras y efectivas. Me entusiasma enfrentar nuevos desafíos y seguir aprendiendo en este apasionante campo de la ingeniería de software.
+      </p>  
+    </td>
+  </tr>
+  <tr>
+     <td rowspan="3"> <img src="https://cdn.discordapp.com/attachments/1229240004270882826/1229897406254944317/image64.png?ex=66315a38&is=661ee538&hm=afe9e8b6a10468825d441ef12f12deed6b1f57ccc3a7f4ab2aec3d3a5e2b126c&" alt="Barbara Quezada" style="margin-bottom: 5px;" width="620"/> </td>
+    <td> 
+      <strong>Nombres y apellidos:</strong> <br>
+      Barbara Susana Quezada Portalatino
     </td>
   </tr>
   <tr>
@@ -307,7 +318,7 @@ TB1:
     <td>
       <strong>Acerca de:</strong> <br>
       <p>
-        ¡Hola! Soy Anthony, estudiante de Ingeniería de Software en la UPC (Universidad Peruana de Ciencias Aplicadas). Me apasiona todo lo relacionado con la tecnología, los avances tecnológicos y los procesos de arquitectura para el desarrollo de software. Asimismo, cuento con la capacidad para innovar en el diseño y desarrollo de proyectos. Tengo conocimientos básicos en C++, Python, HTML y CSS. Estoy comprometido con contribuir al mundo de la tecnología mediante el desarrollo de soluciones innovadoras y efectivas. Me entusiasma enfrentar nuevos desafíos y seguir aprendiendo en este apasionante campo de la ingeniería de software.
+        Soy estudiante de la carrera de Ingeniería de Software en la UPC y actualmente estoy cursando el 5to ciclo. Me considero una persona perseverante, comprensiva y organizada. Junto a mis habilidades de liderazgo y trabajo en equipo en un ambiente de respeto, sé que lograré ejecutar la startup de nuestro proyecto de manera efectiva.
       </p>  
     </td>
   </tr>
