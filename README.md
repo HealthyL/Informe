@@ -219,22 +219,20 @@ TB1:
 </table>
 
 
-# Capítulo I: Introducción
 
+# Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
-> FitHub es más que una plataforma; es un ecosistema completo diseñado
-> para mejorar la salud y el bienestar de nuestros usuarios. Nos
-> enorgullece ofrecer una amplia gama de servicios personalizados que
-> abordan tanto el aspecto físico como el nutricional, permitiendo a
-> cada individuo alcanzar sus objetivos de manera efectiva y sostenible.
->
-> Nuestra plataforma no se limita a proporcionar rutinas estándar de
-> ejercicio o dietas genéricas. En cambio, utilizamos análisis de datos
-> de rendimiento para comprender mejor las necesidades y capacidades
-> únicas de cada usuario. Esto nos permite ofrecer planes de suscripción
-> personalizados que se adaptan específicamente a sus objetivos,
-> preferencias y nivel de condición física.
+FitHub es más que una plataforma; es un ecosistema completo diseñado para mejorar la salud y el bienestar de nuestros usuarios. Nos enorgullece ofrecer una amplia gama de servicios personalizados que abordan tanto el aspecto físico como el nutricional, permitiendo a cada individuo alcanzar sus objetivos de manera efectiva y sostenible.
+
+Nuestra plataforma no se limita a proporcionar rutinas estándar de ejercicio o dietas genéricas. En cambio, utilizamos análisis de datos de rendimiento para comprender mejor las necesidades y capacidades únicas de cada usuario. Esto nos permite ofrecer planes de suscripción personalizados que se adaptan específicamente a sus objetivos, preferencias y nivel de condición física.
+ 
+
+* **Misión de FitHub:**  
+La misión de FitHub es empoderar a las personas para que tomen el control de su salud y bienestar a través de soluciones personalizadas y accesibles. Creemos que cada individuo es único, y por lo tanto, sus necesidades y objetivos de salud también lo son. Nos esforzamos por ofrecer herramientas y recursos que permitan a nuestros usuarios descubrir su potencial, mejorar su condición física y nutricional, y adoptar un estilo de vida saludable de manera sostenible.
+
+* **Visión de FitHub:**  
+Nuestra visión es ser líderes en el mercado de salud y bienestar, reconocidos por nuestra innovación, calidad y compromiso con la satisfacción del cliente. Queremos ser el ecosistema preferido por aquellos que buscan transformar su vida a través del fitness y la nutrición personalizada. Aspiramos a expandir nuestro alcance globalmente, llegando a comunidades de todo el mundo y adaptándonos a las necesidades cambiantes de nuestros usuarios. En FitHub, imaginamos un mundo donde cada persona tiene acceso a las herramientas y el apoyo necesario para alcanzar y mantener un estilo de vida saludable, y estamos dedicados a hacer de esta visión una realidad.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 <table>
