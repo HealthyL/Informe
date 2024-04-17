@@ -326,120 +326,48 @@ Nuestra visión es ser líderes en el mercado de salud y bienestar, reconocidos 
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
-En la sociedad contemporánea, el interés por la salud y el bienestar
-físico ha experimentado un notable aumento en los últimos años. Sin
-embargo, a pesar de este creciente interés, muchas personas enfrentan
-desafíos significativos al intentar mejorar su condición física y
-adoptar un estilo de vida más saludable. Uno de los principales
-problemas radica en la falta de personalización en las soluciones
-disponibles en el mercado. Las opciones de fitness y nutrición suelen
-ser genéricas y no tienen en cuenta las necesidades individuales de los
-usuarios, lo que dificulta su eficacia y su mantenimiento a largo plazo.
+En la sociedad contemporánea, el interés por la salud y el bienestar físico ha experimentado un notable aumento en los últimos años. Sin embargo, a pesar de este creciente interés, muchas personas enfrentan desafíos significativos al intentar mejorar su condición física y adoptar un estilo de vida más saludable. Uno de los principales problemas radica en la falta de personalización en las soluciones disponibles en el mercado. Las opciones de fitness y nutrición suelen ser genéricas y no tienen en cuenta las necesidades individuales de los usuarios, lo que dificulta su eficacia y su mantenimiento a largo plazo. 
+Con el propósito de obtener una comprensión más profunda de las necesidades de nuestro segmento, emplearemos la técnica de las "5W y 2H" para examinar los antecedentes históricos y los desafíos asociados. A continuación, compartimos la información recopilada.
 
-Con el propósito de obtener una comprensión más profunda de las
-necesidades de nuestro segmento, emplearemos la técnica de las "5W y 2H"
-para examinar los antecedentes históricos y los desafíos asociados. A
-continuación, compartimos la información recopilada.
+* **What?**  
+*¿Cuál es la relación del problema con las personas?*<br>
+El problema está relacionado con las dificultades que enfrentan las personas para mejorar su salud y estado físico debido a la falta de acceso a programas personalizados de entrenamiento y nutrición.
 
-What (Qué):
+* **When?** 
+*¿Cuándo sucede el problema?*<br> 
+El problema ocurre cuando las personas se encuentran con obstáculos como la falta de tiempo, conocimientos o recursos para seguir un plan de fitness y nutrición adecuado. Además, los clientes pueden enfrentar este problema en cualquier momento en que intenten mejorar su salud y bienestar. Sin embargo, es más evidente cuando se acercan a eventos importantes como bodas, vacaciones o cambios en las estaciones.<br>
+¿Cuándo utiliza el cliente el servicio?<br>
+Los clientes pueden utilizar el servicio de FitHub en cualquier momento que les resulte conveniente, ya sea en casa o en el gimnasio.
 
-*<span class="mark">¿Cuál es la relación del problema con las
-personas?</span>*
 
-- El problema está relacionado con las dificultades que enfrentan las
-  personas para mejorar su salud y estado físico debido a la falta de
-  acceso a programas personalizados de entrenamiento y nutrición.
+* **Where?**
+*¿Dónde está el cliente cuando usa el producto?*<br>
+Los clientes pueden usar FitHub en cualquier lugar donde tengan acceso a internet, ya sea en casa, en el trabajo o en el gimnasio.
 
-When (Cuándo):
+* **Who?** 
+*¿Quiénes están involucrado?*<br>
+Los principales involucrados son personas que desean mejorar su salud y estado físico, pero se enfrentan a dificultades para encontrar programas de entrenamiento y nutrición personalizados.
+¿Quién lo utilizará?<br>
+FitHub está diseñado para ser utilizado por personas de todas las edades y niveles de condición física que buscan orientación y apoyo para alcanzar sus objetivos de bienestar.
 
-*<span class="mark">¿Cuándo sucede el problema?</span>*
+* **Why?**
+*¿Cuál es la causa del problema?*<br>
+La causa del problema radica en la falta de acceso a programas de fitness y nutrición personalizados que se ajusten a las necesidades individuales de cada persona.<br>
+La falta de conocimientos sobre cómo diseñar un programa de ejercicio y nutrición efectivo hasta la falta de tiempo para investigar y planificar por sí mismos.
 
-- El problema ocurre cuando las personas se encuentran con obstáculos
-  como la falta de tiempo, conocimientos o recursos para seguir un plan
-  de fitness y nutrición adecuado.
 
-- Además, los clientes pueden enfrentar este problema en cualquier
-  momento en que intenten mejorar su salud y bienestar. Sin embargo, es
-  más evidente cuando se acercan a eventos importantes como bodas,
-  vacaciones o cambios en las estaciones.
+* **How?**
+*¿En qué condiciones los clientes usan nuestro producto?*<br>
+Los clientes pueden usar el producto FitHub en una variedad de condiciones, como en casa, en el gimnasio o mientras viajan, ya que la plataforma es accesible desde cualquier dispositivo con conexión a internet.<br>
+¿Cómo nos conocieron los compradores?<br>Los clientes pueden conocer FitHub a través de recomendaciones de amigos o familiares, publicidad en línea, búsquedas en internet o mediante la participación en eventos relacionados con el fitness y la salud.<br>
+¿Cómo prefieren los lectores acceder a nuestro contenido?<br>
+Los clientes pueden preferir acceder al contenido de FitHub a través de su plataforma, así como recibir notificaciones por correo electrónico o mensajes de texto para mantenerse al día con sus rutinas y planes de nutrición.<br>
+¿Qué llevó a la persona a esta situación?<br>
+Las personas pueden llegar a esta situación debido a una variedad de factores, como el aumento de peso, la falta de energía, la mala alimentación, el estrés, la falta de ejercicio, entre otros.
 
-<span class="mark">¿Cuándo utiliza el cliente el servicio?</span>
+* **How much?**   
+Los precios que ofrecemos son accesibles para cada usuario y además ofrecemos diferentes planes que pueden tener diferentes funciones, entre control de nutrición y creación de rutinas personalizadas, o ambos.  
 
-- Los clientes pueden utilizar el servicio de FitHub en cualquier
-  momento que les resulte conveniente, ya sea en casa o en el gimnasio.
-
-Where (Dónde):
-
-*<span class="mark">¿Dónde está el cliente cuando usa el
-producto?</span>*
-
-- Los clientes pueden usar FitHub en cualquier lugar donde tengan acceso
-  a internet, ya sea en casa, en el trabajo o en el gimnasio.
-
-Who (Quién):
-
-*<span class="mark">¿Quiénes están involucrados?</span>*
-
-- Los principales involucrados son personas que desean mejorar su salud
-  y estado físico, pero se enfrentan a dificultades para encontrar
-  programas de entrenamiento y nutrición personalizados.
-
-*<span class="mark">¿Quién lo utilizará?</span>*
-
-- FitHub está diseñado para ser utilizado por personas de todas las
-  edades y niveles de condición física que buscan orientación y apoyo
-  para alcanzar sus objetivos de bienestar.
-
-Why (Por qué):
-
-*<span class="mark">¿Cuál es la causa del problema?</span>*
-
-- La causa del problema radica en la falta de acceso a programas de
-  fitness y nutrición personalizados que se ajusten a las necesidades
-  individuales de cada persona.
-
-- La falta de conocimientos sobre cómo diseñar un programa de ejercicio
-  y nutrición efectivo hasta la falta de tiempo para investigar y
-  planificar por sí mismos.
-
-How (Cómo):
-
-*<span class="mark">¿En qué condiciones los clientes usan nuestro
-producto?</span>*
-
-- Los clientes pueden usar el producto FitHub en una variedad de
-  condiciones, como en casa, en el gimnasio o mientras viajan, ya que la
-  plataforma es accesible desde cualquier dispositivo con conexión a
-  internet.
-
-*<span class="mark">¿Cómo nos conocieron los compradores?</span>*
-
-- Los clientes pueden conocer FitHub a través de recomendaciones de
-  amigos o familiares, publicidad en línea, búsquedas en internet o
-  mediante la participación en eventos relacionados con el fitness y la
-  salud.
-
-*<span class="mark">¿Cómo prefieren los lectores acceder a nuestro
-contenido?</span>*
-
-- Los clientes pueden preferir acceder al contenido de FitHub a través
-  de su plataforma, así como recibir notificaciones por correo
-  electrónico o mensajes de texto para mantenerse al día con sus rutinas
-  y planes de nutrición.
-
-*<span class="mark">¿Qué llevó a la persona a esta situación?</span>*
-
-- Las personas pueden llegar a esta situación debido a una variedad de
-  factores, como el aumento de peso, la falta de energía, la mala
-  alimentación, el estrés, la falta de ejercicio, entre otros.
-
-How much (Cuánto):
-
-- Los precios que ofrecemos son accesibles para cada usuario y además
-  ofrecemos diferentes planes que pueden tener diferentes funciones,
-  entre control de nutrición y creación de rutinas personalizadas, o
-  ambos.
-  
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
 El problema al que nos dirigimos con nuestra plataforma es la falta de
