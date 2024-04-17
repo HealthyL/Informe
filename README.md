@@ -1425,47 +1425,52 @@ Estos elementos optimizados ayudan a mejorar la visibilidad de FitHub en los mot
     </p>
  
     
-   
-## 4.4. Web Applications UX/UI Design.
-### 4.4.1. Web Applications Wireframes.
 
-<img src="https://cdn.discordapp.com/attachments/1229240004270882826/1229981233124081674/image.png?ex=6631a849&is=661f3349&hm=425ac44e95d440fe434bd452fc354fab7876d044e007956d0889a70f978d1ec7&"
-style="width:6.42188in;height:4.17422in" /><img src="https://media.discordapp.net/attachments/1229240004270882826/1229897204018450432/image59.png?ex=66315a07&is=661ee507&hm=3cb3734713d7ec382e9cd0d870aff2e2766679c5a6ffdd77af84b3c8ae971121&=&format=webp&quality=lossless&width=838&height=545"
-style="width:6.50833in;height:4.23139in" /><img src="https://cdn.discordapp.com/attachments/1229240004270882826/1229981380927029329/image.png?ex=6631a86d&is=661f336d&hm=bdfb456010b1fe5dde6f73732585667580c259fb6b441d7c1a0583d07a402d17&"
-style="width:6.59896in;height:4.28932in" />
+# Capítulo IV: Product Design
+## 4.1. Style Guidelines.
+### 4.1.1. General Style Guidelines.
+**Overview:**
+Como organización se considera el diseño web una parte fundamental del proyecto, ya que debe ser agradable, cómodo para navegar para nuestros clientes finales, estar en sintonía con nuestra marca y lo que queremos transmitir como empresa.
 
-<img src="https://cdn.discordapp.com/attachments/1229240004270882826/1229981553858445452/image.png?ex=6631a896&is=661f3396&hm=8488b2187f6411832fbbbbf3275a3f90ec3c2a9b080d1c36861997e83709fc01&"
-style="width:6.51101in;height:4.23323in" /><img src="https://media.discordapp.net/attachments/1229240004270882826/1229897090113605792/image44.png?ex=663159ec&is=661ee4ec&hm=da8fa561aad5fa544bbeeafc2d1070878cc72944e7d3558343924cdf504d22f7&=&format=webp&quality=lossless&width=838&height=545"
-style="width:6.65104in;height:4.31901in" />
+**Brand Name:**
+La elección de denominar nuestra propuesta de solución como "FitHub" surge de su firme enfoque en brindar ayuda a los usuarios y establecer vínculos sólidos con las empresas en el sector del Salud.
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897036132913326/image40.png?ex=663159df&is=661ee4df&hm=3ae3e3731518afd937ba938f9e54397bc9614c5e79a8f401506d6e310eb32688&=&format=webp&quality=lossless" alt="Logo" style="margin-bottom: 5px;" width="300px" align="center"/>
+</p>
 
-<img src="https://cdn.discordapp.com/attachments/1229240004270882826/1229981727510888479/image.png?ex=6631a8bf&is=661f33bf&hm=d20b7b8d0d69502b58fd76e9fd0fc139697f4105dc9ea6b2b1083b90bec64244&"
-style="width:6.73438in;height:4.37387in" /><img src="https://cdn.discordapp.com/attachments/1229240004270882826/1229981856225693786/image.png?ex=6631a8de&is=661f33de&hm=5766c2c61c7baccb54dbffa253fe3680d282282569a6fdc5ddbc0211db3059b8&"
-style="width:6.71667in;height:4.36484in" /><img 
-src="https://media.discordapp.net/attachments/1229240004270882826/1229897089731919934/image43.png?ex=663159ec&is=661ee4ec&hm=2a0e25cf975b64cc9bb9698ece91326d87f10f12a3d30fd15bbcedd49bd427c6&=&format=webp&quality=lossless&width=838&height=545"
-style="width:6.91113in;height:4.48718in" />
+*¿Qué debe tener?*
+* Logo haciendo alusión al corazón, bienestar.
+* Minimalista, estético.
+*¿Qué no debe tener?*
+* Colores fuertes.  
+* Imagen de una persona.
+* imagen de una balanza.
 
-<img src="https://media.discordapp.net/attachments/1229240004270882826/1229897038326403243/image38.png?ex=663159e0&is=661ee4e0&hm=36eafcf5df8302c39c7b44959e3964f9a6fc69107af1c84dd4154f95308f7028&=&format=webp&quality=lossless&width=838&height=545"
-style="width:6.59694in;height:4.28801in" /><img src="https://media.discordapp.net/attachments/1229240004270882826/1229897036619321574/image32.png?ex=663159df&is=661ee4df&hm=e9aa62e196c82d1d09e40568c9c537f76ce0fda37f3bec7d098eaa3a1087ea99&=&format=webp&quality=lossless&width=838&height=545"
-style="width:6.43234in;height:4.18102in" /><img src="https://cdn.discordapp.com/attachments/1229240004270882826/1229982299689582593/image.png?ex=6631a948&is=661f3448&hm=69b291fc7c163105e4f38e3aa726ab0f4401141958ceada8fae11687b48a41d2&"
-style="width:6.13954in;height:3.9907in" /><img src="https://media.discordapp.net/attachments/1229240004270882826/1229982121209102356/image.png?ex=6631a91d&is=661f341d&hm=ab06bf111d1c2d53f63dfe1076b3e8f91a68be2944db93bc8ea537b48b94344b&=&format=webp&quality=lossless"
-style="width:6.08713in;height:3.95663in" /><img src="https://media.discordapp.net/attachments/1229240004270882826/1229897405424472064/image61.png?ex=66315a37&is=661ee537&hm=44a87e88d71de9a57f1f2056e913efda258b8a443f9567d090edf757aff123ee&=&format=webp&quality=lossless&width=838&height=545"
-style="width:6.27083in;height:4.08206in" /><img src="https://cdn.discordapp.com/attachments/1229240004270882826/1229982009380573244/image.png?ex=6631a902&is=661f3402&hm=e0fd4463bf619160baebaf4ede0aa6b2bebe08e26a7109568be9158965c5b988&"
-style="width:6.55164in;height:4.25474in" />
+**Typography:**
+El equipo ha seleccionado las tipografías "Nunito" y "Inter" para el proyecto. Estas fuentes tipográficas fueron elegidas cuidadosamente por su estilo y legibilidad, asegurando que la presentación del contenido sea atractiva y fácil de leer para los usuarios.
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897006743556126/image21.png?ex=663159d8&is=661ee4d8&hm=e96cfdc32ff4adc6f06d9c740370fa0729dbf89601659363072679546c4453c8&=&format=webp&quality=lossless" alt="Typografy" style="margin-bottom: 5px;" width="200px" align="center"/>
+</p>
+    
+**Palet Colors:**
+#8CB500
+#C5D951
+#B1C868
+#FEFE8A
+#FFFFFF
+#4B4B4B
 
-<img src="https://media.discordapp.net/attachments/1229240004270882826/1229897089392185476/image42.png?ex=663159ec&is=661ee4ec&hm=24e723ee01cf36f441ff02eb75ff1ff478e06eac822c37ef5f23ba7c2116b7ce&=&format=webp&quality=lossless&width=838&height=545"
-style="width:6.43454in;height:4.18047in" /><img src="https://media.discordapp.net/attachments/1229240004270882826/1229897466900643901/image73.png?ex=66315a46&is=661ee546&hm=4c83497669d8af853d99980b0cc168b9724c0b75b13f82883244b024731239a8&=&format=webp&quality=lossless&width=838&height=545"
-style="width:6.61946in;height:4.30265in" /><img src="https://media.discordapp.net/attachments/1229240004270882826/1229897405164556299/image70.png?ex=66315a37&is=661ee537&hm=57ca31dbef10cbeee0131ebd79d92c5fc7d307930c587daeac6c724f1390599b&=&format=webp&quality=lossless&width=838&height=545"
-style="width:6.54787in;height:4.26163in" />
+**Buttons:**
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1229240004270882826/1229896799742066738/image6.png?ex=663159a7&is=661ee4a7&hm=49a5a72c958485ba05e58aa4b1901c857cabeca4410c333bef26ca48f1c4b0f6&=&format=webp&quality=lossless" alt="Model buttons" style="margin-bottom: 5px;" width="250px" align="center"/>
+</p>
 
+### 4.1.2. Web Style Guidelines.
 
-### 4.4.2. Web Applications Wireflow Diagrams. 
-En esta introducción, explicaremos cómo los Diagramas de Flujo de Aplicaciones Web nos ayudan a entender la estructura y la lógica de nuestra aplicación, identificando las diferentes pantallas, funciones y acciones que los usuarios pueden realizar.
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897005996838942/image29.png?ex=663159d8&is=661ee4d8&hm=f902c34fd8925f5bb17446aafb1051b4c226156c984a7d7ffe50310fea29804b&=&format=webp&quality=lossless&width=892&height=502" alt="Responsive windows" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
 
-Link del [<u>Miro</u>](https://miro.com/welcomeonboard/ZFhtbE9ONzU3OHhqTWYzQ3d2ZFpEUWh6eFlRWnJTMG85ZFRscWxlZXRFSlNxR0xGdzA0T2JndE1wU2oyZXhCQnwzMDc0NDU3MzUwMjczNDg5Mzc4fDI=?share_link_id=933635258022)
-
-
-<img src="https://media.discordapp.net/attachments/1229240004270882826/1229897090809856030/image46.jpg?ex=663159ec&is=661ee4ec&hm=99caca11731d2ca7d02001f30d033b2cc24d335e5c453020d3d669dc112aa457&=&format=webp&width=739&height=671"
-style="width:6.82549in;height:6.19946in"/>
 
 ### 4.4.3. Web Applications Mock-ups.
 
