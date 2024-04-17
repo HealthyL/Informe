@@ -165,7 +165,59 @@ TB1:
 
 
 
+
 # Student Outcome
+<table align="center" border="1" width="90%">
+
+  <tr>
+    <th>Criterio específico</th>
+    <th>Acciones realizadas</th>
+    <th>Conclusiones</th>
+  </tr>
+
+  <tr>
+    <td>Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
+    <td>
+      <b>Cama Salvatierra, Jimena Cama</b> </br>
+      <b>TB1:</b> </br>
+      - Para esta entrega identifiqué el problema que solucionaremos, el principal segmento objetivo en el que nos enfocaremos. Así mismo, planteé algunas hipótesis, riesgos y soluciones respecto al desarrollo de esta. Tomé desiciones de diseño para la landing page.</br>
+      <b>Quezada Portalatino, Barbara Susana</b> </br>
+      <b>TB1:</b> </br>
+      - En mi comunicación escrita sobre nuestro proyecto de ingeniería, enfatice en la importancia de comprender los antecedentes y la problemática que enfrentamos.<br>- Describí detalladamente el proceso de User Journey Mapping y As-is Scenario Mapping que hemos llevado a cabo para visualizar los puntos de mejora y los obstáculos potenciales.<br>- Presenté los wireframes y mockups de Fithub, destacando cómo estos reflejan nuestras decisiones de diseño centradas en el usuario.</br>
+      <b>Cipriano Chumbes, Bruce Andres</b> </br>
+      <b>TB1:</b> </br>
+      - Presentó los hallazgos y resultados del análisis competitivo y las estrategias frente a competidores durante las reuniones de revisión con el equipo multidisciplinario, proporcionando una visión clara de la posición de la startup en el mercado y las acciones planificadas para enfrentar la competencia.</br>
+      <b>Loarte Matos, Anthony Brahan</b> </br>
+      <b>TB1:</b> </br>
+      - Participó activamente en la comunicación oral de las decisiones y estrategias relacionadas con el proceso de diseño de la arquitectura de software durante las reuniones de planificación y revisión del sprint, brindando una visión detallada de los componentes y la estructura del sistema en desarrollo.</br>
+    </td>
+    <td>
+      - La comunicación efectiva de las ideas y resultados durante el desarrollo del proyecto fue fundamental para garantizar un entendimiento claro y preciso entre los diferentes miembros del equipo, así como con otros stakeholders. Estas interacciones permitieron identificar y abordar las necesidades y expectativas de manera integral, lo que facilitó la toma de decisiones informadas y la alineación de objetivos en todos los niveles jerárquicos y áreas de especialidad involucradas en el proyecto de ingeniería.
+    </td>
+  </tr>
+
+  <tr>
+    <td>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
+    <td>
+      <b>Cama Salvatierra, Jimena Cama</b> </br>
+      <b>TB1:</b> </br>
+      - Al identificar distintos aspectos base de nuestra start up tomé en cuenta las necesidades y limitaciones de nuestros usuarios, tanto para el lean ux canva como para la interfaz de la landing page.</br>
+      <b>Quezada Portalatino, Barbara Susana</b> </br>
+      <b>TB1:</b> </br>
+      - Detallé el análisis de antecedentes y problemática, así como las estrategias frente a competidores que estamos implementando. Además, mencioné el registro de entrevistas realizadas, la elaboración del User Journey Mapping y As-is Scenario Mapping, y la creación de wireframes y mockups para la plataforma Fithub.</br>
+      <b>Cipriano Chumbes, Bruce Andres</b> </br>
+      <b>TB1:</b> </br>
+      - Contribuyó en la comunicación escrita del proyecto al redactar las secciones relacionadas con la arquitectura de software, incluyendo la creación de diagramas contextuales, de contenedores y de componentes. Además, participó en la redacción de las guías de estilo y convenciones del código fuente, así como en la configuración de la gestión del código fuente y del despliegue del software..</br>
+      <b>Loarte Matos, Anthony Brahan</b> </br>
+      <b>TB1:</b> </br>
+      - Participó en la comunicación escrita del proyecto al elaborar la documentación relacionada con el diseño de la base de datos, incluyendo la creación del diagrama de la base de datos. Además, contribuyó en la configuración del despliegue del software, asegurando que la infraestructura estuviera correctamente configurada para la implementación del producto.</br>
+    </td>
+    <td>
+      - Con las secciones desarrolladas, podemos concluir que la comunicación escrita efectiva fue esencial para garantizar la claridad, coherencia y objetividad en la presentación de ideas y resultados del proyecto de ingeniería. El trabajo en equipo, la distribución eficiente de tareas y la verificación constante de las contribuciones individuales fueron aspectos cruciales que contribuyeron al éxito del proceso de documentación. Además, la comunicación escrita facilitó la colaboración entre diferentes especialidades y niveles jerárquicos, asegurando que todos los aspectos del proyecto fueran abordados de manera integral y comprensible para todos los involucrados.
+    </td>
+  </tr>
+</table>
+
 
 # Capítulo I: Introducción
 
