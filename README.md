@@ -745,16 +745,17 @@ El entrevistado, Jair Castillo, destacó su compromiso activo con un estilo de v
   - Resumen de la entrevista:
 El entrevistado, Jair Castillo, destacó su compromiso activo con un estilo de vida saludable, enfocado en mantener un cuerpo en forma y una alimentación equilibrada. Sin embargo, admitió enfrentarse a una considerable confusión al buscar orientación en línea para obtener planes de entrenamiento y consejos sobre nutrición. Actualmente, se ve obligado a recurrir a videos de YouTube y a seguir a entrenadores en redes sociales en busca de información relevante. A pesar de sus esfuerzos, Jair expresó su frustración por la falta de resultados rápidos y efectivos en su búsqueda por mejorar su salud y forma física.
 
+
 * **Entrevista 3** 
   - Nombres: Salvador
   - Apellidos: Diaz
   - Edad: 20 años
   - Distrito: Surco
-  - Link de la entrevista: [Enlace aquí](----)
+  - Link de la entrevista: [Enlace aquí](https://drive.google.com/file/d/177_n_26XWHlHz2t6qElLyxO4C8aBuPEU/view?usp=sharing)
   - Timing y Duración: 04:02
   - Evidencia de la reunión:<br>
     <p align="center">
-     <img src="https://media.discordapp.net/attachments/1229240004270882826/1229963827374985317/image.png?ex=66319814&is=661f2314&hm=812f4a0d1dee3ff9dbc9d1daa3f2f2e686da37ed4265fc693a21b9b09cfac2ab&=&format=webp&quality=losslesss" style="margin-bottom: 5px;" width="620px" align="center"/>
+     <img src="https://cdn.discordapp.com/attachments/1229240004270882826/1230005643688284180/image.png?ex=6631bf05&is=661f4a05&hm=5be3009e6674865ed5e659ddcbc5056261141cc6be1729100baf4f4834468a52&" style="margin-bottom: 5px;" width="620px" align="center"/>
     </p>
   - Resumen de la entrevista:
 Salvador Diaz está comprometido con mantenerse en forma y llevar una alimentación equilibrada, pero se enfrenta a la confusión al buscar orientación en línea sobre nutrición. Aunque recurre a videos de YouTube y redes sociales para obtener información, está frustrado por la falta de resultados rápidos y efectivos. Se le sugiere buscar fuentes de información más confiables, como sitios web de instituciones médicas, y considerar la consulta directa con un profesional de la salud para obtener orientación personalizada. Se le anima a ser paciente y a adoptar un enfoque integral para lograr sus objetivos.
