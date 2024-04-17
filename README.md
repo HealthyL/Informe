@@ -1333,184 +1333,251 @@ style="width:8.33333in;height:5.68731in" />
 ### 4.2.2. Labeling Systems
 ### 4.2.3. SEO Tags and Meta Tags
 ### 4.2.4. Searching Systems
-### 4.2.5. Navigation Systems
 
-## 4.3. Landing Page UI Design
-### 4.3.1. Landing Page Wireframe
+### 4.2.5. Navigation Systems.
 
-> <img src="./media/image23.png"
-> style="width:6.80396in;height:18.94963in" />
->
-> <img src="./media/image7.png"
-> style="width:6.90104in;height:4.75599in" /><img src="./media/image67.png"
-> style="width:7.01354in;height:4.83111in" />
+**El sistema de navegación de la plataforma FitHub guiará a los usuarios a través de las distintas secciones y ventanas del sitio web, proporcionándoles la información que necesitan sobre la aplicación. A continuación, se detallan las acciones técnicas que facilitarán la navegación de los usuarios:**
 
-### 4.3.2. Landing Page Mock-up
-> <img src="./media/image14.png"
-> style="width:5.55047in;height:15.46757in" />
+| Nombre        | Descripción                                                                                                                                                |
+|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Inicio        | Enlace que redirige al usuario a la página de inicio, donde se presentará una visión general de FitHub y sus características principales.                  |
+| Perfil        | Enlace que llevará al usuario a su perfil personal, donde podrá editar sus preferencias y configuraciones relacionadas con el fitness.                     |
+| Explorar      | Enlace que permitirá al usuario explorar las diferentes funciones y secciones de FitHub, incluyendo rutinas, seguimiento de progreso, etc.                 |
+| Planes        | Enlace que dirigirá al usuario a la sección de planes de entrenamiento, donde podrá encontrar rutinas prediseñadas y recomendaciones.                      |
+| Configuración | Enlace que redirige al usuario a la sección de configuración de la cuenta, donde puede ajustar sus preferencias y datos personales.                        |
+| Contáctanos   | Este enlace redirigirá a los usuarios a la sección de contacto, donde podrán encontrar información de contacto y formularios para consultas y preguntas.   |
+| Crear Cuenta  | Los nuevos usuarios podrán registrarse en FitHub y crear una cuenta personalizada para comenzar a disfrutar de todas las funcionalidades de la plataforma. |
+| Ayuda soporte | Enlace que guiará al usuario a la sección de ayuda y soporte, donde encontrará respuestas a preguntas frecuentes y podrá contactar al equipo de soporte.   |
 
-## 4.4. Web Applications UX/UI Design
-### 4.4.1. Web Applications Wireframes
+**Este sistema de navegación simple y claro garantizará que los usuarios puedan moverse fácilmente por FitHub y acceder a las herramientas y recursos que necesitan para mejorar su salud y bienestar.**
 
-<img src="./media/image18.png"
-style="width:6.42188in;height:4.17422in" /><img src="./media/image64.png"
-style="width:6.50833in;height:4.23139in" /><img src="./media/image16.png"
+
+## 4.3. Landing Page UI Design.
+### 4.3.1. Landing Page Wireframe.
+
+ <img src="https://cdn.discordapp.com/attachments/1229240004270882826/1229984573933486150/unnamed.png?ex=6631ab66&is=661f3666&hm=aac1882441cd794cc86490209b0378f0eaeb70c880ea2746e7f07dd5e55fce76&"
+ style="width:6.80396in;height:18.94963in" />
+
+ <img src="https://media.discordapp.net/attachments/1229240004270882826/1229896800010240030/image7.png?ex=663159a7&is=661ee4a7&hm=46b7c5052c7ece179f3342e2349472c2a227a1007b4711f8e929b4e322c52e4f&=&format=webp&quality=lossless&width=838&height=578"
+ style="width:6.90104in;height:4.75599in" /><img src="https://media.discordapp.net/attachments/1229240004270882826/1229897203003429004/image56.png?ex=66315a07&is=661ee507&hm=1e3b21db7c7698b2ef041d1bb32144d9fa2d5e83d2262b2f661101af66c98a51&=&format=webp&quality=lossless&width=838&height=578"
+ style="width:7.01354in;height:4.83111in" />
+
+### 4.3.2. Landing Page Mock-up.
+
+
+  <p align="center">
+     <img src="https://media.discordapp.net/attachments/1229240004270882826/1229896929090211891/image14.png?ex=663159c6&is=661ee4c6&hm=1aa7e612b8acf75e4ac30bb60c44cb0a552fa26624672a5a7ed96883ef9519a5&=&format=webp&quality=lossless&width=241&height=671" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+    </p>
+ 
+    
+   
+## 4.4. Web Applications UX/UI Design.
+### 4.4.1. Web Applications Wireframes.
+
+<img src="https://cdn.discordapp.com/attachments/1229240004270882826/1229981233124081674/image.png?ex=6631a849&is=661f3349&hm=425ac44e95d440fe434bd452fc354fab7876d044e007956d0889a70f978d1ec7&"
+style="width:6.42188in;height:4.17422in" /><img src="https://media.discordapp.net/attachments/1229240004270882826/1229897204018450432/image59.png?ex=66315a07&is=661ee507&hm=3cb3734713d7ec382e9cd0d870aff2e2766679c5a6ffdd77af84b3c8ae971121&=&format=webp&quality=lossless&width=838&height=545"
+style="width:6.50833in;height:4.23139in" /><img src="https://cdn.discordapp.com/attachments/1229240004270882826/1229981380927029329/image.png?ex=6631a86d&is=661f336d&hm=bdfb456010b1fe5dde6f73732585667580c259fb6b441d7c1a0583d07a402d17&"
 style="width:6.59896in;height:4.28932in" />
 
-<img src="./media/image22.png"
-style="width:6.51101in;height:4.23323in" /><img src="./media/image35.png"
+<img src="https://cdn.discordapp.com/attachments/1229240004270882826/1229981553858445452/image.png?ex=6631a896&is=661f3396&hm=8488b2187f6411832fbbbbf3275a3f90ec3c2a9b080d1c36861997e83709fc01&"
+style="width:6.51101in;height:4.23323in" /><img src="https://media.discordapp.net/attachments/1229240004270882826/1229897090113605792/image44.png?ex=663159ec&is=661ee4ec&hm=da8fa561aad5fa544bbeeafc2d1070878cc72944e7d3558343924cdf504d22f7&=&format=webp&quality=lossless&width=838&height=545"
 style="width:6.65104in;height:4.31901in" />
 
-<img src="./media/image15.png"
-style="width:6.73438in;height:4.37387in" /><img src="./media/image26.png"
-style="width:6.71667in;height:4.36484in" /><img src="./media/image33.png"
+<img src="https://cdn.discordapp.com/attachments/1229240004270882826/1229981727510888479/image.png?ex=6631a8bf&is=661f33bf&hm=d20b7b8d0d69502b58fd76e9fd0fc139697f4105dc9ea6b2b1083b90bec64244&"
+style="width:6.73438in;height:4.37387in" /><img src="https://cdn.discordapp.com/attachments/1229240004270882826/1229981856225693786/image.png?ex=6631a8de&is=661f33de&hm=5766c2c61c7baccb54dbffa253fe3680d282282569a6fdc5ddbc0211db3059b8&"
+style="width:6.71667in;height:4.36484in" /><img 
+src="https://media.discordapp.net/attachments/1229240004270882826/1229897089731919934/image43.png?ex=663159ec&is=661ee4ec&hm=2a0e25cf975b64cc9bb9698ece91326d87f10f12a3d30fd15bbcedd49bd427c6&=&format=webp&quality=lossless&width=838&height=545"
 style="width:6.91113in;height:4.48718in" />
 
-<img src="./media/image30.png"
-style="width:6.59694in;height:4.28801in" /><img src="./media/image36.png"
-style="width:6.43234in;height:4.18102in" /><img src="./media/image31.png"
-style="width:6.13954in;height:3.9907in" /><img src="./media/image24.png"
-style="width:6.08713in;height:3.95663in" /><img src="./media/image59.png"
-style="width:6.27083in;height:4.08206in" /><img src="./media/image11.png"
+<img src="https://media.discordapp.net/attachments/1229240004270882826/1229897038326403243/image38.png?ex=663159e0&is=661ee4e0&hm=36eafcf5df8302c39c7b44959e3964f9a6fc69107af1c84dd4154f95308f7028&=&format=webp&quality=lossless&width=838&height=545"
+style="width:6.59694in;height:4.28801in" /><img src="https://media.discordapp.net/attachments/1229240004270882826/1229897036619321574/image32.png?ex=663159df&is=661ee4df&hm=e9aa62e196c82d1d09e40568c9c537f76ce0fda37f3bec7d098eaa3a1087ea99&=&format=webp&quality=lossless&width=838&height=545"
+style="width:6.43234in;height:4.18102in" /><img src="https://cdn.discordapp.com/attachments/1229240004270882826/1229982299689582593/image.png?ex=6631a948&is=661f3448&hm=69b291fc7c163105e4f38e3aa726ab0f4401141958ceada8fae11687b48a41d2&"
+style="width:6.13954in;height:3.9907in" /><img src="https://media.discordapp.net/attachments/1229240004270882826/1229982121209102356/image.png?ex=6631a91d&is=661f341d&hm=ab06bf111d1c2d53f63dfe1076b3e8f91a68be2944db93bc8ea537b48b94344b&=&format=webp&quality=lossless"
+style="width:6.08713in;height:3.95663in" /><img src="https://media.discordapp.net/attachments/1229240004270882826/1229897405424472064/image61.png?ex=66315a37&is=661ee537&hm=44a87e88d71de9a57f1f2056e913efda258b8a443f9567d090edf757aff123ee&=&format=webp&quality=lossless&width=838&height=545"
+style="width:6.27083in;height:4.08206in" /><img src="https://cdn.discordapp.com/attachments/1229240004270882826/1229982009380573244/image.png?ex=6631a902&is=661f3402&hm=e0fd4463bf619160baebaf4ede0aa6b2bebe08e26a7109568be9158965c5b988&"
 style="width:6.55164in;height:4.25474in" />
 
-<img src="./media/image54.png"
-style="width:6.43454in;height:4.18047in" /><img src="./media/image71.png"
-style="width:6.61946in;height:4.30265in" /><img src="./media/image76.png"
+<img src="https://media.discordapp.net/attachments/1229240004270882826/1229897089392185476/image42.png?ex=663159ec&is=661ee4ec&hm=24e723ee01cf36f441ff02eb75ff1ff478e06eac822c37ef5f23ba7c2116b7ce&=&format=webp&quality=lossless&width=838&height=545"
+style="width:6.43454in;height:4.18047in" /><img src="https://media.discordapp.net/attachments/1229240004270882826/1229897466900643901/image73.png?ex=66315a46&is=661ee546&hm=4c83497669d8af853d99980b0cc168b9724c0b75b13f82883244b024731239a8&=&format=webp&quality=lossless&width=838&height=545"
+style="width:6.61946in;height:4.30265in" /><img src="https://media.discordapp.net/attachments/1229240004270882826/1229897405164556299/image70.png?ex=66315a37&is=661ee537&hm=57ca31dbef10cbeee0131ebd79d92c5fc7d307930c587daeac6c724f1390599b&=&format=webp&quality=lossless&width=838&height=545"
 style="width:6.54787in;height:4.26163in" />
-### 4.4.2. Web Applications Wireflow Diagrams
-En esta introducción, explicaremos cómo los Diagramas de Flujo de
-Aplicaciones Web nos ayudan a entender la estructura y la lógica de
-nuestra aplicación, identificando las diferentes pantallas, funciones y
-acciones que los usuarios pueden realizar.
 
-### 4.4.3. Web Applications Mock-ups
 
-En esta introducción, exploraremos cómo los Mock-ups de Aplicaciones Web
-nos ayudan a transformar ideas y conceptos en diseños tangibles,
-permitiendo una mejor comprensión de la estructura y el flujo de la
-aplicación. Veremos cómo estos mock-ups nos permiten validar y refinar
-el diseño antes de pasar a la etapa de desarrollo, identificando
-posibles problemas de usabilidad y asegurando una experiencia de usuario
+### 4.4.2. Web Applications Wireflow Diagrams. 
+En esta introducción, explicaremos cómo los Diagramas de Flujo de Aplicaciones Web nos ayudan a entender la estructura y la lógica de nuestra aplicación, identificando las diferentes pantallas, funciones y acciones que los usuarios pueden realizar.
+
+Link del [<u>Miro</u>](https://miro.com/welcomeonboard/ZFhtbE9ONzU3OHhqTWYzQ3d2ZFpEUWh6eFlRWnJTMG85ZFRscWxlZXRFSlNxR0xGdzA0T2JndE1wU2oyZXhCQnwzMDc0NDU3MzUwMjczNDg5Mzc4fDI=?share_link_id=933635258022)
+
+
+<img src="https://media.discordapp.net/attachments/1229240004270882826/1229897090809856030/image46.jpg?ex=663159ec&is=661ee4ec&hm=99caca11731d2ca7d02001f30d033b2cc24d335e5c453020d3d669dc112aa457&=&format=webp&width=739&height=671"
+style="width:6.82549in;height:6.19946in"/>
+
+### 4.4.3. Web Applications Mock-ups.
+
+En esta introducción, exploraremos cómo los Mock-ups de Aplicaciones Web nos ayudan a transformar ideas y onceptos en diseños tangibles, permitiendo una mejor comprensión de la estructura y el flujo de la aplicación. Veremos cómo estos mock-ups nos permiten validar y refinar el diseño antes de pasar a la etapa de desarrollo, identificando posibles problemas de usabilidad y asegurando una experiencia de usuario
 óptima.
 
-Link al
-[<u>Miro</u>](https://miro.com/app/board/uXjVKVPiyIw=/?share_link_id=964995313337)
+Link al [<u>Miro</u>](https://miro.com/app/board/uXjVKVPiyIw=/?share_link_id=964995313337)
 
-<img src="./media/image55.png"
-style="width:8.11458in;height:5.2438in" /><img src="./media/image47.png"
-style="width:8.43495in;height:5.48859in" /><img src="./media/image3.png"
-style="width:8.26042in;height:5.37943in" /><img src="./media/image62.png"
-style="width:8.77887in;height:5.71128in" />
 
-<img src="./media/image58.png"
-style="width:7.55729in;height:4.90696in" />
 
-<img src="./media/image28.png"
-style="width:7.09896in;height:4.60994in" />
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897202730795119/image55.png?ex=66315a07&is=661ee507&hm=9fefe6d2aef2354e1b8a3a6acf3fb52fc61567eb72b1267764f42c540e091377&=&format=webp&quality=lossless&width=838&height=541" alt="Wireflow 1" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
 
-<img src="./media/image39.png"
-style="width:7.27604in;height:4.73296in" />
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897091149463552/image47.png?ex=663159ec&is=661ee4ec&hm=9c03e2753d0c14f2f3109be4ae5a41392a4ff95ebe10fa8e7dd9abb5084bd4e1&=&format=webp&quality=lossless&width=838&height=545" alt="Wireflow 2" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
 
-<img src="./media/image68.png"
-style="width:6.90104in;height:4.48316in" /><img src="./media/image52.png"
-style="width:7.07918in;height:4.60188in" /><img src="./media/image45.png"
-style="width:7.09896in;height:4.61632in" /><img src="./media/image30.png"
-style="width:7.05672in;height:4.58687in" /><img src="./media/image74.png"
-style="width:7.11348in;height:4.62376in" /><img src="./media/image60.png"
-style="width:6.95739in;height:4.5219in" /><img src="./media/image69.png"
-style="width:7.75539in;height:5.04503in" />
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1229240004270882826/1229896798731112539/image3.png?ex=663159a7&is=661ee4a7&hm=f65434f93a8e673ed351b3cfb1bb00c710efe73f7aa2cbf502b175b080dc615d&=&format=webp&quality=lossless&width=838&height=545" alt="Wireflow 3" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
 
-<img src="./media/image65.png"
-style="width:7.70313in;height:5.0092in" /><img src="./media/image71.png"
-style="width:7.70783in;height:5.00796in" />
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897405713874975/image62.png?ex=66315a37&is=661ee537&hm=f0b0f9b8bccbea80a2be293efd2db54081d18f5e9b457bb2a74304b430fbe963&=&format=webp&quality=lossless&width=838&height=545" alt="Wireflow 4" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
 
-<img src="./media/image5.png" style="width:7.4966in;height:4.87484in" /><img src="./media/image67.png"
-style="width:6.80729in;height:4.42146in" />
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897203708067902/image58.png?ex=66315a07&is=661ee507&hm=b11dd1121a9691c799edd9f589d56c60350f0518b686659ebf4e47a4468acece&=&format=webp&quality=lossless&width=838&height=545" alt="Wireflow 5" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
 
-<img src="./media/image25.png"
-style="width:7.02604in;height:4.56457in" />
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897008739782828/image28.png?ex=663159d9&is=661ee4d9&hm=1016954426304fb93f0c024f156bb450172e2ab4159465dc45a78bf3c0e82a98&=&format=webp&quality=lossless&width=838&height=545" alt="Wireflow 6" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
 
-### 4.4.3. Web Applications User Flow Diagrams.
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897038594969753/image39.png?ex=663159e0&is=661ee4e0&hm=b6c4f7abc950f6ca959223694cffbe1ca632ce2c0560d09d53cf4f0bbe0b510b&=&format=webp&quality=lossless&width=838&height=545" alt="Wireflow 7" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
 
-> Link al [<u>Lucid
-> Chart</u>](https://lucid.app/lucidchart/c740f309-b599-4400-9bd0-1fb5f125f4c8/edit?invitationId=inv_842f2d78-2e17-4543-b39c-eb393529cb6f)
->
-> **User goal:** Crear cuenta
->
-> **User persona:** FitExplorer
->
-> **Explicación del flujo:** En primer lugar, el visitante deberá dar
-> click al botón “Crear Cuenta”, que se encuentra en el Header de la
-> Landing Page. Este mostrará la sección “Crear Cuenta” en donde se
-> deben ingresar los datos requeridos. En segundo lugar, el visitante
-> será redireccionado al sector de planes, en donde tendrá 3 opciones de
-> planes por elegir. En tercer lugar, deberá llenar los datos para
-> realizar el pago correspondiente al plan elegido. Si el pago se
-> realiza correctamente el usuario se redirigirá a llenar unos datos
-> finales para la creación de su plantilla personalizada, si el pago no
-> se realiza, volverá a pedir los datos de “Pago”. Finalmente, cuando
-> todo esté completado el usuario, ahora FitExplorer podrá disfrutar de
-> los servicios personalizados ofrecidos por la aplicación web.
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897407593058324/image68.png?ex=66315a38&is=661ee538&hm=f0a3403ab5ff76cf0f0933603afad90ae6fa027d668f29686cc705deeddc335b&=&format=webp&quality=lossless&width=838&height=545" alt="Wireflow 8" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
 
-<img src="./media/image10.png"
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897201791271043/image52.png?ex=66315a07&is=661ee507&hm=2e634a0a687c772f3f231269ec9ad56360d71e84e48ef7c7f032a6e7f3404582&=&format=webp&quality=lossless&width=838&height=545" alt="Wireflow 8" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897090507735040/image45.png?ex=663159ec&is=661ee4ec&hm=060aad25f9ca5d09471e67f9254bff8b2a880353c4ddddb35980769ab0840baf&=&format=webp&quality=lossless&width=838&height=545" alt="Wireflow 8" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897201183096902/image60.png?ex=66315a07&is=661ee507&hm=ae136dd8c54817a226e1f313730c1c5fc563781a0e3f080f90f01a86f49ab1c3&=&format=webp&quality=lossless&width=838&height=545" alt="Wireflow 8" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897006432915528/image30.png?ex=663159d8&is=661ee4d8&hm=202daa0cd33c4705ebebd6a1bd5c3a08b517eb9265f86522a96c16b4cc04c013&=&format=webp&quality=lossless&width=838&height=545" alt="Wireflow 8" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897467215085618/image74.png?ex=66315a46&is=661ee546&hm=c7d46df6d73ddfebeab2576ac13d5e28ca2b738b0a2ed007ded58b749c81b0d2&=&format=webp&quality=lossless&width=838&height=545" alt="Wireflow 8" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897201183096902/image60.png?ex=66315a07&is=661ee507&hm=ae136dd8c54817a226e1f313730c1c5fc563781a0e3f080f90f01a86f49ab1c3&=&format=webp&quality=lossless&width=838&height=545" alt="Wireflow 8" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897407894917232/image69.png?ex=66315a38&is=661ee538&hm=7e38dfdf6e7d3b1b8462435ddbbce97a962e399f6e66fc10d32c626fa4bca229&=&format=webp&quality=lossless&width=838&height=545" alt="Wireflow 8" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897406645010493/image65.png?ex=66315a38&is=661ee538&hm=86c55cde13ee2344a74446f10a984f6e97c00255dd047ae443243e2fb74ecbc9&=&format=webp&quality=lossless&width=838&height=545" alt="Wireflow 8" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897466317635724/image71.png?ex=66315a46&is=661ee546&hm=50fa4e175399884f60c73b2089fe93179856cff1fbab1be31dbafe8cd045a67d&=&format=webp&quality=lossless&width=838&height=545" alt="Wireflow 8" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897407303516210/image67.png?ex=66315a38&is=661ee538&hm=be15257269be3a229bf56c32d66838fedab3a80653cee8e0d0d1de70841b20ea&=&format=webp&quality=lossless&width=838&height=545" alt="Wireflow 8" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1229240004270882826/1229896799469174906/image5.png?ex=663159a7&is=661ee4a7&hm=17a1e8eed312c0c81d28f793910cea31fc32268d19597cc0dd8fbaf1ba8ae13d&=&format=webp&quality=lossless&width=838&height=545" alt="Wireflow 8" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897007955447899/image25.png?ex=663159d9&is=661ee4d9&hm=a33b3ec1781de98703e7ff902ea3f03579325d5059ad5dd4f1d5fa130bd13655&=&format=webp&quality=lossless&width=838&height=545" alt="Wireflow 8" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+
+### 4.4.4. Web Applications User Flow Diagrams.
+
+
+ Link al [<u>Lucid Chart</u>](https://lucid.app/lucidchart/c740f309-b599-4400-9bd0-1fb5f125f4c8/edit?invitationId=inv_842f2d78-2e17-4543-b39c-eb393529cb6f)
+
+ **User goal:** Crear cuenta
+
+ **User persona:** FitExplorer
+ 
+  **Explicación del flujo:** En primer lugar, el visitante deberá dar
+  click al botón “Crear Cuenta”, que se encuentra en el Header de la
+  Landing Page. Este mostrará la sección “Crear Cuenta” en donde se
+  deben ingresar los datos requeridos. En segundo lugar, el visitante
+  será redireccionado al sector de planes, en donde tendrá 3 opciones de
+  planes por elegir. En tercer lugar, deberá llenar los datos para
+  realizar el pago correspondiente al plan elegido. Si el pago se
+  realiza correctamente el usuario se redirigirá a llenar unos datos
+  finales para la creación de su plantilla personalizada, si el pago no
+  se realiza, volverá a pedir los datos de “Pago”. Finalmente, cuando
+  todo esté completado el usuario, ahora FitExplorer podrá disfrutar de
+  los servicios personalizados ofrecidos por la aplicación web.
+
+<img src="https://media.discordapp.net/attachments/1229240004270882826/1229896797598515230/image10.png?ex=663159a6&is=661ee4a6&hm=72e43bdb0d1bb2abcc4aa357959e6b30c276e31e410d34e7888537ab81b17064&=&format=webp&quality=lossless&width=838&height=496"
 style="width:7.43842in;height:4.39191in" />
 
-> **User goal:** Iniciar sesión
->
-> **User persona:** FitExplorer
->
-> **Explicación del flujo:** Primero, el FitExplorer deberá ingresar a
-> nuestra landing page. A continuación, deberá dar click en el botón
-> iniciar sesión, que se encuentra en el header, para ser dirigido a
-> rellenar sus datos. Una vez complete sus datos, se desplegará la
-> plataforma. Su primera vista será el apartado de cuenta.
->
-> <img src="./media/image49.png"
-> style="width:8.04757in;height:3.17859in" />
->
-> **User goal:** Visualización de progreso semanal
->
-> **User persona:** FitExplorer
->
-> **Explicación del flujo:** Cuando el usuario ingresa a su cuenta, al
-> lado izquierdo se encuentran los iconos de los servicios que se
-> ofrecen. El quinto icono, de barras, son las estadísticas a las que
-> podrán acceder. Un resumen de las calorías consumidas en el día, las
-> comidas, y los ejercicios.
+  **User goal:** Iniciar sesión
+ 
+  **User persona:** FitExplorer
+ 
+  **Explicación del flujo:** Primero, el FitExplorer deberá ingresar a
+  nuestra landing page. A continuación, deberá dar click en el botón
+  iniciar sesión, que se encuentra en el header, para ser dirigido a
+  rellenar sus datos. Una vez complete sus datos, se desplegará la
+  plataforma. Su primera vista será el apartado de cuenta.
+ 
+  <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897091879407667/image49.png?ex=663159ed&is=661ee4ed&hm=7e59a9312c6c2e10cd54036f12fc2ca5bdc3395f547f35c8b938fea153f2078b&=&format=webp&quality=lossless&width=720&height=284"
+  style="width:8.04757in;height:3.17859in" /> 
+ 
+  **User goal:** Visualización de progreso semanal
+ 
+  **User persona:** FitExplorer
+ 
+  **Explicación del flujo:** Cuando el usuario ingresa a su cuenta, al
+  lado izquierdo se encuentran los iconos de los servicios que se
+  ofrecen. El quinto icono, de barras, son las estadísticas a las que
+  podrán acceder. Un resumen de las calorías consumidas en el día, las
+  comidas, y los ejercicios.
 
-<img src="./media/image57.png"
-style="width:7.62604in;height:2.34141in" />
+<img src="https://media.discordapp.net/attachments/1229240004270882826/1229897203309346836/image57.png?ex=66315a07&is=661ee507&hm=d5d77a07732aca53c0bc51c98e7de96b05433476db0ca29152e9427171f748cf&=&format=webp&quality=lossless&width=720&height=221"
+style="width:7.62604in;height:2.34141in" /> 
 
-> **User goal:** Elección de comidas
->
-> **User persona:** FitExplorer
->
-> **Explicación del flujo:** Cuando el usuario ingresa a su cuenta, al
-> lado izquierdo se encuentran los iconos de los servicios que se
-> ofrecen. El cuarto icono, de la manzana, redijire al FitExplorer a la
-> interfaz de las comidas que tiene por elegir. Tendrá las opciones de
-> almuerzos, lo redirigirá a elegir opciones de almuerzos, y la misma
-> secuencia se realiza para el sector de cenas.
+  **User goal:** Elección de comidas
+ 
+  **User persona:** FitExplorer
+ 
+  **Explicación del flujo:** Cuando el usuario ingresa a su cuenta, al
+  lado izquierdo se encuentran los iconos de los servicios que se
+  ofrecen. El cuarto icono, de la manzana, redijire al FitExplorer a la
+  interfaz de las comidas que tiene por elegir. Tendrá las opciones de
+  almuerzos, lo redirigirá a elegir opciones de almuerzos, y la misma
+  secuencia se realiza para el sector de cenas.
 
-<img src="./media/image2.png" style="width:7.80313in;height:5.5764in" />
+<img src="https://media.discordapp.net/attachments/1229240004270882826/1229896798307352726/image2.png?ex=663159a7&is=661ee4a7&hm=9f893b15f9c80223860dd747eb79ce278fd939c5d8d62183308445f15d1d1ff8&=&format=webp&quality=lossless&width=720&height=515"
+style="width:7.80313in;height:5.5764in" />
 
-> **User goal:** Visualización de rutina
->
-> **User persona:** FitExplorer
->
-> **Explicación del flujo:** Cuando el usuario ingresa a su cuenta, al
-> lado izquierdo se encuentran los iconos de los servicios que se
-> ofrecen. El tercer icono, de la pesa, redijire al FitExplorer a la
-> interfaz de las rutinas. Tendrá la opción de elegir la rutina
-> dependiendo del grupo de músculos a trabajar. Cuando el grupo sea
-> seleccionado se mostrarán los ejercicios completos. Si uno de los
-> ejercicios es seleccionado muestra detalles del ejercicio.
->
-> <img src="./media/image35.png"
-> style="width:21.33333in;height:10.85417in" />
+  **User goal:** Visualización de rutina
+ 
+  **User persona:** FitExplorer
+ 
+  **Explicación del flujo:** Cuando el usuario ingresa a su cuenta, al
+  lado izquierdo se encuentran los iconos de los servicios que se
+  ofrecen. El tercer icono, de la pesa, redijire al FitExplorer a la
+  interfaz de las rutinas. Tendrá la opción de elegir la rutina
+  dependiendo del grupo de músculos a trabajar. Cuando el grupo sea
+  seleccionado se mostrarán los ejercicios completos. Si uno de los
+  ejercicios es seleccionado muestra detalles del ejercicio.
+ 
+  <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897037311381514/image35.png?ex=663159e0&is=661ee4e0&hm=b4e32192feee18bf9ec3f78c739a8beab55fcbdc1976d7a4ac5489b86f84510b&=&format=webp&quality=lossless&width=720&height=366"
+  style="width:21.33333in;height:10.85417in" />
+
 
 ## 4.5. Web Applications Prototyping.
+
 
 Establecimos una serie de criterios fundamentales para desarrollar los
 prototipos de la interfaz de usuario:
@@ -1524,228 +1591,859 @@ prototipos de la interfaz de usuario:
   necesitas ver, sin abrumarte con información innecesaria. Así, puedes
   concentrarte en lo que es importante para ti sin distracciones.
 
-<img src="./media/image18.png"
+<img src="https://media.discordapp.net/attachments/1229240004270882826/1229896930155429998/image18.png?ex=663159c6&is=661ee4c6&hm=bdf2666b387013106ff37d65933fd2cc454cd382911b0c87f16e4e95ff9ac2c6&=&format=webp&quality=lossless&width=720&height=459"
 style="width:8.30208in;height:5.29167in" />
 
-En este video de
-[<u>explicación</u>](http://upc-pre-202401-si729-ws51-healthyl-fithub-navigation-sprint-1),exploramos
-desde el inicio de sesión hasta la realización de tareas específicas,
-exploramos cómo los usuarios interactúan con la aplicación y cómo se
-guían a través de ella para lograr sus objetivos.
-
-Enlace para el
-[<u>Flujo</u>](https://www.figma.com/proto/Z2i4YAkSxGxcsbblQ8HQmR/FITHUB?type=design&node-id=115-487&t=GeELQHRExaICt9WA-1&scaling=scale-down&page-id=29%3A3&starting-point-node-id=115%3A487&show-proto-sidebar=1&mode=design)
-
-## 4.6. Domain-Driven Software Architecture
-### 4.6.1. Software Architecture Context Diagram
-> <img src="./media/image43.png"
-> style="width:5.4463in;height:6.46241in" />
-
-### 4.6.2. Software Architecture Container Diagrams
-> <img src="./media/image58.png"
-> style="width:5.49479in;height:7.64106in" />
-
-### 4.6.3. Software Architecture Components Diagrams
-<img src="./media/image14.png"
-style="width:5.48438in;height:4.35938in" />
-
-## 4.7. Software Object-Oriented Design
-### 4.7.1. Class Diagrams
-### 4.7.2. Class Dictionary
-
-## 4.8. Database Design
-### 4.8.1. Database Diagram
-> <img src="./media/image76.png"
-> style="width:11.30208in;height:5.98958in" />
 
 
-# Capítulo V: Product Implementation, Validation & Deployment
+En este video de [<u>explicación</u>](http://upc-pre-202401-si729-ws51-healthyl-fithub-navigation-sprint-1), exploramos
+desde el inicio de sesión hasta la realización de tareas específicas, exploramos cómo los usuarios interactúan con la aplicación y cómo se guían a través de ella para lograr sus objetivos.
 
-## 5.1. Software Configuration Management
-### 5.1.1. Software Development Environment Configuration
-### 5.1.2. Source Code Management
-### 5.1.3. Source Code Style Guide & Conventions
-### 5.1.4. Software Deployment Configuration
+Enlace para el [<u>Flujo</u>](https://www.figma.com/proto/Z2i4YAkSxGxcsbblQ8HQmR/FITHUB?type=design&node-id=115-487&t=GeELQHRExaICt9WA-1&scaling=scale-down&page-id=29%3A3&starting-point-node-id=115%3A487&show-proto-sidebar=1&mode=design)
 
-## 5.2. Landing Page, Services & Applications Implementation
+
+
+## 4.6. Domain-Driven Software Architecture.
+### 4.6.1. Software Architecture Context Diagram.
+<p align="center">
+     <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897091543859210/image48.png?ex=663159ed&is=661ee4ed&hm=8a717548ae75ff198ee385ca0affa7efb07753e958122e87e7fff5b53bed8730&=&format=webp&quality=lossless&width=565&height=671" alt="fithub context diagram" style="margin-bottom: 5px;" width="1020px"/>
+</p>
+
+### 4.6.2. Software Architecture Container Diagrams.
+<p align="center">
+     <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897202453708921/image54.png?ex=66315a07&is=661ee507&hm=7d79de18bb1e3884963e1cec058994514a958796944a2ffb3eb74b01ba28a8b6&=&format=webp&quality=lossless&width=482&height=671" alt="fithub container diagram" style="margin-bottom: 5px;" width="1020px"/>
+</p>
+
+### 4.6.3. Software Architecture Components Diagrams.
+<p align="center">
+     <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897007078838303/image22.png?ex=663159d8&is=661ee4d8&hm=eeff04b4d4cbb8f82e41ea8fe02dfd6ec177efd59939bebb1b052e1ff7884487&=&format=webp&quality=lossless&width=720&height=572" alt="fithub component diagram 1" style="margin-bottom: 5px;" width="1020px"/>
+</p>
+</br>
+
+## 4.7. Software Object-Oriented Design.
+### 4.7.1. Class Diagrams.
+<p align="center">
+     <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897465814057142/image79.png?ex=66315a46&is=661ee546&hm=4ee5418427c2491b67c5c5071aac60b5781fa86954d612567e1f23693a044075&=&format=webp&quality=lossless&width=639&height=671" alt="fithub-class-diagram" style="margin-bottom: 5px;" width="1020px"/>
+</p>
+
+### 4.7.2. Class Dictionary.
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>User</b></th>
+  </tr>
+  <tr align="left">
+    <td>int</td>
+    <td>id</td>
+    <td>Identificador único del usuario</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>username</td>
+    <td>Alias del usuario</td>
+  </tr>
+  <tr align="left">
+    <td>date</td>
+    <td>birthdate</td>
+    <td>Fecha de nacimiento del usuario</td>
+  </tr>
+  <tr align="left">
+    <td>Location</td>
+    <td>location</td>
+    <td>Ubicación del usuario</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>email</td>
+    <td>Correo del usuario</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>get_info()</td>
+    <td>Obtener los atributos del usuario</td>
+  </tr>
+  <tr align="left">
+    <td>bool</td>
+    <td>login()</td>
+    <td>Iniciar sesión del usuario</td>
+  </tr>
+  <tr align="left">
+    <td>void</td>
+    <td>logout()</td>
+    <td>Cerrar sesión de usuario</td>
+  </tr>
+  <tr align="left">
+    <td>void</td>
+    <td>updateProfile()</td>
+    <td>Actualizar los atributos del perfil</td>
+  </tr>
+</table>
+</br>
+
+
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>Plan</b></th>
+  </tr>
+  <tr align="left">
+    <td>int</td>
+    <td>id</td>
+    <td>Identificador único del plan</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>name</td>
+    <td>Nombre del plan</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>description</td>
+    <td>Descripción del plan</td>
+  </tr>
+  <tr align="left">
+    <td>float</td>
+    <td>price</td>
+    <td>Precio del plan</td>
+  </tr>
+  <tr align="left">
+    <td>bool</td>
+    <td>isActive</td>
+    <td>Indica si el plan está activo</td>
+  </tr>
+  <tr align="left">
+    <td>void</td>
+    <td>subscribe()</td>
+    <td>Suscribirse al plan</td>
+  </tr>
+  <tr align="left">
+    <td>void</td>
+    <td>unsubscribe()</td>
+    <td>Cancelar la suscripción al plan</td>
+  </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>Promocion</b></th>
+  </tr>
+  <tr align="left">
+    <td>int</td>
+    <td>id</td>
+    <td>Identificador único de la promoción</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>name</td>
+    <td>Nombre de la promoción</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>description</td>
+    <td>Descripción de la promoción</td>
+  </tr>
+  <tr align="left">
+    <td>date</td>
+    <td>startDate</td>
+    <td>Fecha de inicio de la promoción</td>
+  </tr>
+  <tr align="left">
+    <td>date</td>
+    <td>endDate</td>
+    <td>Fecha de fin de la promoción</td>
+  </tr>
+  <tr align="left">
+    <td>float</td>
+    <td>discount</td>
+    <td>Descuento aplicable en la promoción</td>
+  </tr>
+  <tr align="left">
+    <td>void</td>
+    <td>applyPromotion()</td>
+    <td>Aplicar la promoción al carrito</td>
+  </tr>
+</table>
+
+</br>
+
+
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>RutinaEntrenamiento</b></th>
+  </tr>
+  <tr align="left">
+    <td>int</td>
+    <td>id</td>
+    <td>Identificador único de la rutina de entrenamiento</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>name</td>
+    <td>Nombre de la rutina de entrenamiento</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>description</td>
+    <td>Descripción de la rutina de entrenamiento</td>
+  </tr>
+  <tr align="left">
+    <td>int</td>
+    <td>duration</td>
+    <td>Duración estimada de la rutina (en minutos)</td>
+  </tr>
+  <tr align="left">
+    <td>List&lt;Exercise&gt;</td>
+    <td>exercises</td>
+    <td>Lista de ejercicios incluidos en la rutina</td>
+  </tr>
+  <tr align="left">
+    <td>void</td>
+    <td>startRoutine()</td>
+    <td>Comenzar la ejecución de la rutina de entrenamiento</td>
+  </tr>
+  <tr align="left">
+    <td>void</td>
+    <td>pauseRoutine()</td>
+    <td>Pausar la ejecución de la rutina de entrenamiento</td>
+  </tr>
+  <tr align="left">
+    <td>void</td>
+    <td>endRoutine()</td>
+    <td>Finalizar la ejecución de la rutina de entrenamiento</td>
+  </tr>
+</table>
+
+</br>
+
+
+
+
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>DietaNutricion</b></th>
+  </tr>
+  <tr align="left">
+    <td>int</td>
+    <td>id</td>
+    <td>Identificador único de la dieta de nutrición</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>name</td>
+    <td>Nombre de la dieta de nutrición</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>description</td>
+    <td>Descripción de la dieta de nutrición</td>
+  </tr>
+  <tr align="left">
+    <td>List&lt;Meal&gt;</td>
+    <td>meals</td>
+    <td>Lista de comidas incluidas en la dieta</td>
+  </tr>
+  <tr align="left">
+    <td>int</td>
+    <td>caloriesPerDay</td>
+    <td>Calorías diarias objetivo de la dieta</td>
+  </tr>
+  <tr align="left">
+    <td>void</td>
+    <td>startDiet()</td>
+    <td>Comenzar la dieta de nutrición</td>
+  </tr>
+  <tr align="left">
+    <td>void</td>
+    <td>trackProgress()</td>
+    <td>Seguir el progreso de la dieta de nutrición</td>
+  </tr>
+  <tr align="left">
+    <td>void</td>
+    <td>endDiet()</td>
+    <td>Finalizar la dieta de nutrición</td>
+  </tr>
+</table>
+
+</br>
+
+
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>Evento</b></th>
+  </tr>
+  <tr align="left">
+    <td>int</td>
+    <td>id</td>
+    <td>Identificador único del evento</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>name</td>
+    <td>Nombre del evento</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>description</td>
+    <td>Descripción del evento</td>
+  </tr>
+  <tr align="left">
+    <td>date</td>
+    <td>date</td>
+    <td>Fecha del evento</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>location</td>
+    <td>Ubicación del evento</td>
+  </tr>
+  <tr align="left">
+    <td>List&lt;User&gt;</td>
+    <td>attendees</td>
+    <td>Lista de asistentes al evento</td>
+  </tr>
+  <tr align="left">
+    <td>void</td>
+    <td>addAttendee()</td>
+    <td>Agregar un asistente al evento</td>
+  </tr>
+  <tr align="left">
+    <td>void</td>
+    <td>removeAttendee()</td>
+    <td>Eliminar un asistente del evento</td>
+  </tr>
+</table>
+
+</br>
+
+
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>Suscripcion</b></th>
+  </tr>
+  <tr align="left">
+    <td>int</td>
+    <td>id</td>
+    <td>Identificador único de la suscripción</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>plan</td>
+    <td>Plan de suscripción</td>
+  </tr>
+  <tr align="left">
+    <td>date</td>
+    <td>startDate</td>
+    <td>Fecha de inicio de la suscripción</td>
+  </tr>
+  <tr align="left">
+    <td>date</td>
+    <td>endDate</td>
+    <td>Fecha de finalización de la suscripción</td>
+  </tr>
+  <tr align="left">
+    <td>bool</td>
+    <td>active</td>
+    <td>Estado activo de la suscripción</td>
+  </tr>
+  <tr align="left">
+    <td>User</td>
+    <td>user</td>
+    <td>Usuario suscrito</td>
+  </tr>
+  <tr align="left">
+    <td>void</td>
+    <td>activate()</td>
+    <td>Activar la suscripción</td>
+  </tr>
+  <tr align="left">
+    <td>void</td>
+    <td>deactivate()</td>
+    <td>Desactivar la suscripción</td>
+  </tr>
+</table>
+
+</br>
+
+## 4.8. Database Design.
+
+### 4.8.1. Database Diagram.
+<p align="center">
+     <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897467789836298/image76.png?ex=66315a46&is=661ee546&hm=c10eea72b619c174a30eb63a7cee42821397579a2f5b798528c23fde4b043a52&=&format=webp&quality=lossless&width=720&height=382" alt="TPlaner-db" style="margin-bottom: 5px;" width="1020px"/>
+</p>
+
+# Capítulo V: Product Implementation, Validation & Deployment.
+
+## 5.1. Software Configuration Management.
+
+### 5.1.1. Software Development Environment Configuration.
+
+En nuestro equipo de desarrollo, utilizamos una variedad de herramientas de software para colaborar en todas las fases del ciclo de vida de nuestro producto digital. A continuación, se detallan estas herramientas junto con sus propósitos:
+
+
+- <b>Whatsapp:</b>  Aplicación de mensajería instantánea que permite a los usuarios enviar mensajes de texto, voz, imágenes y videos a través de Internet. Es ampliamente utilizada para la comunicación personal y empresarial.
+- <b>Discord:</b> Plataforma de comunicación en línea que combina chat de texto, voz y video. Es popular en la comunidad de jugadores, pero también se utiliza para la comunicación en grupos y equipos.
+- <b>Google</b> Drive: Servicio de almacenamiento en la nube de Google que permite a los usuarios almacenar y compartir archivos en línea. También ofrece herramientas de colaboración, como Google Docs.
+- <b>GitHub:</b> Plataforma de desarrollo colaborativo que utiliza el control de versiones Git. Se utiliza principalmente para alojar y gestionar proyectos de software, facilitando la colaboración entre desarrolladores.
+- <b>Visual Studio Code:</b> Editor de código fuente gratuito y de código abierto desarrollado por Microsoft. Es ampliamente utilizado por programadores y desarrolladores para escribir y depurar código.
+- <b>Uxpressia:</b> Herramienta de diseño de experiencia de usuario (UX) que ayuda a crear mapas de viaje del usuario, personas y otros recursos para diseñadores y equipos de desarrollo.
+- <b>Vertabelo:</b> Plataforma de diseño y modelado de bases de datos en línea que permite a los usuarios crear diagramas de bases de datos y colaborar en su diseño.
+- <b>LucidChart:</b> Herramienta de diagramación en línea que permite crear diagramas, flujos de trabajo y gráficos. Se utiliza para visualizar procesos y conceptos.
+- <b>Figma:</b> Aplicación de diseño de interfaz de usuario basada en la nube que permite a los diseñadores colaborar en tiempo real en proyectos de diseño web y de aplicaciones.
+- <b>Trello:</b> Herramienta de gestión de proyectos basada en tarjetas y tableros. Facilita la organización de tareas y proyectos, así como la colaboración en equipo.
+- <b>Structurizr:</b> Herramienta de modelado de arquitectura de software que ayuda a los equipos a documentar y visualizar la arquitectura de sus sistemas.
+- <b>Canvas:</b> Plataforma en línea que permite a los usuarios crear gráficos, diseños y presentaciones de manera sencilla, con una amplia variedad de plantillas y elementos gráficos predefinidos.
+
+
+### 5.1.2. Source Code Management.
+
+## Metodología GitFlow para Gestión Colaborativa
+
+Para facilitar la gestión colaborativa del código fuente en nuestro equipo, utilizamos Git y GitHub como sistema de control de versiones para nuestro proyecto. Seguimos la metodología GitFlow, que nos permite colaborar de manera eficiente y ágil, siguiendo convenciones y mejores prácticas.
+
+Dentro de la estructura de GitFlow, contamos con las siguientes ramas:
+
+- **Main:** Contiene la versión estable y funcional del proyecto, representando el estado de producción.
+
+- **Develop:** Rama donde trabajamos en nuevas características y mejoras planificadas para el proyecto. Aquí se fusionan las contribuciones del equipo antes de avanzar hacia la rama principal.
+
+- **Feature:** Se utilizan para implementar nuevas funcionalidades o mejoras específicas. Cada característica se desarrolla en su propia rama y se fusiona con la rama de desarrollo una vez completada.
+
+- **Release:** Permiten preparar el proyecto para su lanzamiento. Aquí se corrigen los últimos problemas y se realizan ajustes finales antes de la fusión con la rama principal.
+
+- **Hotfix:** Se crean en caso de problemas críticos en producción y se utilizan para abordar y resolver estos problemas de manera urgente.
+
+- **Fix:** Se utilizan para solucionar problemas no críticos o errores menores que se descubran en el desarrollo regular.
+
+Este enfoque nos ayuda a mantener un control efectivo de nuestras versiones y a colaborar de manera más eficiente en nuestro proyecto.
+
+
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897088960167936/image41.png?ex=663159ec&is=661ee4ec&hm=2988ede178eaeb9f9d0b5801d744a81528888f1cb69e441711cb97c5421fa489&=&format=webp&quality=lossless" alt="GitFlow" style="margin-bottom: 3px;" width="780px">
+</p>
+
+### 5.1.3. Source Code Style Guide & Conventions.
+
+Para mantener consistencia y claridad en el código fuente de nuestra página de aterrizaje FitHub, seguimos las siguientes convenciones y directrices:
+
+Uso de Etiquetas HTML en Minúsculas: Todas las etiquetas HTML deben escribirse en minúsculas para garantizar la coherencia y cumplir con las especificaciones.
+
+#### HTML
+- **Uso de Etiquetas en Minúsculas:** Todas las etiquetas HTML deben escribirse en minúsculas para garantizar la coherencia y cumplir con las especificaciones.
+  ```html
+  <etiqueta>
+
+
+* Capitalización: Todo el código debe utilizar letras minúsculas, incluidos los nombres de elementos HTML, atributos, valores de atributos, selectores CSS, propiedades y valores de propiedades (excepto cadenas).
+  
+  ```HTML
+  <img src="google.png" alt="Google">
+  ```
+  ```CSS
+  color: #e5e5e5;
+  ```
+* Uso de Atributos en Comillas Dobles: Los atributos de las etiquetas deben estar dentro de comillas dobles para asegurar una sintaxis válida.
+  ```HTML
+  <etiqueta atributo="valor">
+  ```
+
+* Indentación y Estructura Clara: Seguimos una estructura de indentación clara de 2 espacios para mejorar la legibilidad del código HTML.
+  
+  ```HTML
+  <!DOCTYPE html>
+  <html>
+  <head>
+      <title>Página de ejemplo</title>
+  </head>
+  <body>
+    <header>
+      <h1>Encabezado</h1>
+      <nav>
+        <ul>
+            <li><a href="#">Inicio</a></li>
+            <li><a href="#">funcion</a></li>
+            <li><a href="#">planes</a></li>
+            <li><a href="#">Contacto</a></li>
+        </ul>
+      </nav>
+    </header>
+    <footer><p>&copy; 2023 - Mi Empresa</p></footer>
+  </body>
+  </html>
+  ```
+* Separación de Bloques de Declaración: La llave de apertura debe estar en la misma línea que el último selector en una regla determinada, con un espacio entre el bloque de declaración y el último selector.
+  ```CSS
+  .card {
+    margin-top: 1em;
+  }
+  ```
+* Separación de Reglas: Dejar siempre una línea en blanco entre bloques de reglas.
+  ```CSS
+  html {
+    background: #fff;
+  }
+  
+  body {
+    margin: auto;
+    width: 50%;
+  }
+  ```
+
+### 5.1.4. Software Deployment Configuration.
+
+Para implementar y desplegar nuestra página de aterrizaje FitHub, seguimos el siguiente proceso utilizando la funcionalidad de "GitHub Pages":
+
+1. **Seleccionar Repositorio y Rama:** Nos dirigimos al repositorio de nuestra página de aterrizaje FitHub en GitHub. En el apartado de "Pages", seleccionamos la rama principal (main) como la rama de implementación.
+
+2. **Configurar Despliegue:** Una vez seleccionada la rama, GitHub Pages generará automáticamente un enlace a nuestra página de aterrizaje.
+
+3. **Verificar y Probar:** Esperamos a que se genere el enlace a nuestra página de aterrizaje y verificamos que todo funcione correctamente probando el enlace.
+
+Siguiendo este proceso, garantizamos que nuestra página de aterrizaje FitHub esté disponible para su visualización y acceso público de manera rápida y sencilla.
+
+## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
-#### 5.2.1.1. Sprint Planning 1
-
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-tr class="header">
-<th>Sprint #</th>
-<th>Sprint 1</th>
-</tr>
-<tr class="odd">
-<th colspan="2">Sprint Planning Background</th>
-</tr>
-<tr class="header">
-<th>Date</th>
-<th>12/04/2024</th>
-</tr>
-<tr class="odd">
-<th>Time</th>
-<th>9:00 AM</th>
-</tr>
-<tr class="header">
-<th>Location</th>
-<th>Reunión virtual en Discord</th>
-</tr>
-<tr class="odd">
-<th>Prepared by</th>
-<th>Jimena Cama Salvatierra</th>
-</tr>
-<tr class="header">
-<th>Attendees (to planning meeting)</th>
-<th><p>Jimena Tamara Cama Salvatierra</p>
-<p>Bruce Andres Cipriano Chumbes</p>
-<p>Anthony Brahan Loarte Matos</p>
-<p>Barbara Susana Quezada Portalatino</p></th>
-</tr>
-<tr class="odd">
-<th colspan="2">Sprint Goal &amp; User stories</th>
-</tr>
-<tr class="header">
-<th>Sprint n Goal</th>
-<th>Elaborar y diseñar una landing page atractiva, llamativa,
-profesional e informativa para la aplicación web “FitHub”</th>
-</tr>
-<tr class="odd">
-<th>Sprint n Velocity</th>
-<th></th>
-</tr>
-<tr class="header">
-<th>Sum of story points</th>
-<th>18</th>
-</tr>
-</thead>
-<tbody>
-</tbody>
+#### 5.2.1.1. Sprint Planning 1.
+<table align="center" border="1" width="90%" style="text-align:left">
+  <tr>
+    <td><b>Sprint #</b></td>
+    <td>Sprint 1</td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Sprint Planning Background</b></td>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>12-04-2024</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>9:00 AM</td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>Reunión virtual en Discord</td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Jimena Cama Salvatierra</td>
+  </tr>
+  <tr>
+    <td>Attendees (to planning meeting)</td>
+    <td>Jimena Tamara Cama Salvatierra
+ </br>Bruce Andres Cipriano Chumbes
+ </br> Cipriano Chumbes, Bruce Andres</br> Loarte Matos, Anthony Brahan</br> Barbara Susana Quezada Portalatino
+</td>
+  </tr>
+  <tr>
+      <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+  </tr>
+  <tr>
+    <td>Sprint 1 Goal</td>
+    <td>Elaborar y diseñar una landing page atractiva, llamativa, profesional e informativa para la aplicación web “FitHub”</td>
+  </tr>
+  <tr>
+    <td>Sprint n Velocity</td>
+    <td>11</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td>18</td>
+  </tr>
 </table>
 
 #### 5.2.1.2. Sprint Backlog 1.
+En esta sección, se detalló el contenido del Sprint Backlog 1. Para una gestión adecuada de las tareas asignadas a cada miembro del equipo, se optó por utilizar Trello como la plataforma principal de seguimiento y organización de las actividades.
 
-Para el primer sprint backlog, reunimos las historias de usuario
-relacionadas con la landing page. La herramienta que utilizamos fue
-Trello. Gracias a esta, pudimos dividir las historias de usuario en
-tareas fáciles de realizar y repartirlas entre los miembros del grupo.
-Completamos la mayoría de los user stories, ya que el objetivo principal
-de este primer sprint era completar la landing page en su totalidad, con
-un diseño atractivo e intuitivo para el usuario. Sin embargo, aún no se
-implementa al 100% el funcionamiento de creación de cuenta e inicio de
-sesión.
+Enlace del Trello: [Sprint Backlog 1 - Odyssey]()
 
-> <img src="./media/image72.png"
-> style="width:7.95313in;height:2.51817in" />
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897466585939978/image72.png?ex=66315a46&is=661ee546&hm=98f4a68c6b335e3592cb0d146b3ab911035f4fb6e0c510353391f7f7a29bfabb&=&format=webp&quality=lossless&width=720&height=228" alt="Sprint Backlog 1" style="margin-bottom: 3px;" width="1080px">
+</p>
 
-| Sprint \#  | Sprint 1                           |                  |                                          |                                                                                                  |                    |                 |                                               |
-|------------|------------------------------------|------------------|------------------------------------------|--------------------------------------------------------------------------------------------------|--------------------|-----------------|-----------------------------------------------|
-| User Story |                                    | Work-Item / Task |                                          |                                                                                                  |                    |                 |                                               |
-| ID         | Title                              | ID               | Title                                    | Description                                                                                      | Estimation (Hours) | Assigned To     | Status (To-do / InProcess / To-Review / Done) |
-| US001      | Creación de hipervínculos (Header) | TA001            | Funcionamiento correcto de hipervínculos | Cada hipervínculo redirige correctamente a la sección indicada                                   | ½ hora             | Jimena Cama     | Done                                          |
-|            |                                    | TA002            | Función sticky                           | El header se puede visualizar en toda la landing page sin ningún problema                        | ½ hora             | Jimena Cama     | Done                                          |
-| US002      | Sección funcionamiento             | TA001            | División de espacios                     | Los espacios se dividen correctamente para cada elemento                                         | ½ hora             | Anthony Loarte  | Done                                          |
-|            |                                    | TA002            | Implementación del diseño                | Se agrega color, imágenes e información a las secciones                                          | ½ hora             | Bruce Cipriano  | Done                                          |
-| U003       | Sección contáctanos                | TA001            | Forms para enviar mensajes               | Se realiza un forms para enviar mensajes por si el usuario tiene alguna duda                     | 1 hora             | Jimena Cama     | Done                                          |
-| US004      | Sección planes                     | TA001            | Implementar información sobre los planes | Se realiza un grid para implementar los planes en orden, atractivos y llamativos para el usuario | 1 hora             | Barbara Quezada | Done                                          |
-| US005      | Creación de la cuenta              | TA001            | Ingreso de datos                         | Se realiza un forms en donde el usuario ingresa los datos                                        | ½ hora             | Anthony Loarte  | Done                                          |
-| US006      | Iniciar Sesión                     | TA001            | Ingreso de datos                         | Se realiza un forms en donde el usuario ingresa los datos                                        | ½ hora             | Bruce Cipriano  | Done                                          |
+<table align="center" border="1" width="90%" style="text-align:center">
+ <tr>
+    <td colspan="1"><b>Sprint #</b></td>
+    <td colspan="7"><b>Sprint 1</b></td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>User Story</b></td>
+    <td colspan="6"><b>Work-Item / Task</b></td>
+  </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Description</b></td>
+    <td><b>Estimation(Hours)</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+  </tr>
+  <tr>
+    <td rowspan="2">US01</td>
+    <td rowspan="2">Creación de hipervínculos (Header)</td>
+    <td>T01</td>
+    <td>Funcionamiento correcto de hipervínculos</td>
+    <td>Cada hipervínculo redirige correctamente a la sección indicada</td>
+    <td>0.5</td>
+    <td>Jimena Cama</td>
+    <td>Done</td>
+   </tr>
 
-#### 5.2.1.3. Development Evidence for Sprint Review
-#### 5.2.1.4. Testing Suite Evidence for Sprint Review
-#### 5.2.1.5. Execution Evidence for Sprint Review
+   <tr>
+    <td>T02</td>
+    <td>Función sticky  </td>
+    <td>El header se puede visualizar en toda la landing page sin ningún problema</td>
+    <td>0.5</td>
+    <td>Jimena Cama</td>
+    <td>Done</td>
+</tr>
 
-Durante el sprint inicial, se logró un avance parcial en la ejecución
-del despliegue de la página inicial de FitHub. Esta página ofrece una
-variedad de secciones donde los usuarios pueden acceder a información
-relevante sobre nuestro producto y la empresa. A continuación, se
-comparten algunas pruebas que respaldan este progreso.
+<tr> 
+    <td rowspan="2">US02</td>
+   <td rowspan="2">Sección funcionamiento</td>
+    <td>T03</td>
+    <td>División de espacios</td>
+    <td>Los espacios se dividen correctamente para cada elemento</td>
+    <td>0.5</td>
+    <td>Anthony Loarte</td>
+    <td>Done</td>
+   <tr>
+    <td>T04</td>
+    <td>Implementación del diseño</td>
+    <td>Se agrega color, imágenes e información a las secciones</td>
+    <td>0.5</td>
+    <td>Bruce Cipriano</td>
+    <td>Done</td>
+   </tr>
+</tr>
+    <td>US03</td>
+    <td>Sección contáctanos</td>
+    <td>T05</td>
+    <td>Forms para enviar mensajes
 
-1.  Sección de planes: En la sección de planes, el usuario puede
-    visualizar e interactuar con los diferentes planes que cuenta
-    nuestra plataforma.
+</td>
+    <td>Se realiza un forms para enviar mensajes por si el usuario tiene alguna duda
 
-> <img src="./media/image49.png"
-> style="width:9.52083in;height:4.03125in" />
+</td>
+    <td>1</td>
+    <td>Jimena Cama
 
-2.  Sección de Contáctanos: En la sección de contáctanos, se incluye un
-    formulario interactivo mediante el cual los usuarios pueden
-    completar sus consultas, comentarios o sugerencias. Este formulario
-    está diseñado para recopilar información básica del usuario, como
-    nombre, dirección de correo electrónico y mensaje.
+</td>
+    <td>Done</td>
+ </tr>
 
-> <img src="./media/image34.png"
-> style="width:9.54167in;height:4.91667in" />
+<tr>
+    <td>US04</td>
+    <td>Sección planes</td>
+    <td>T06</td>
+    <td>Implementar información sobre los planes
 
-3.  Sección de Iniciar Sesión: En la sección de "Iniciar Sesión", se
-    brinda a los usuarios la oportunidad de acceder a sus cuentas
-    existentes en la plataforma FitHub. Aquí, se presenta un formulario
-    de inicio de sesión donde los usuarios pueden ingresar su nombre de
-    usuario o dirección de correo electrónico junto con su contraseña
-    para acceder a sus perfiles.
+</td>
+    <td>Se realiza un grid para implementar los planes en orden, atractivos y llamativos para el usuario
 
-> <img src="./media/image65.png"
-> style="width:9.54167in;height:4.97917in" />
+</td>
+    <td>1</td>
+    <td>Barbara Quezada
 
-4.  Sección de Crear Cuenta: Se proporciona a los usuarios la
-    posibilidad de registrarse en la plataforma FitHub para acceder a
-    sus funcionalidades y contenido exclusivo. Esta sección incluye un
-    formulario de registro en el que los usuarios pueden ingresar la
-    información necesaria, como nombre, dirección de correo electrónico,
-    contraseña, entre otros datos relevantes.
+</td>
+    <td>Done</td>
+ </tr>
 
-> <img src="./media/image20.png"
-> style="width:9.58333in;height:6.54167in" />
+<tr>
+    <td>US05</td>
+    <td>Creación de la cuenta
 
-5.  Sección de Inicio: En la sección de "Inicio", damos la bienvenida a
-    los usuarios a nuestra aplicación web FitHub con una interfaz
-    atractiva y concisa en la información inicialmente que brindamos
-    sobre nosotros.
+</td>
+    <td>TA07</td>
+    <td>Ingreso de datos
 
-> <img src="./media/image75.png"
-> style="width:16.66667in;height:7.94792in" />
+</td>
+    <td>Se realiza un forms en donde el usuario ingresa los datos
 
-6.  Sección de ¿Cómo funciona?: En la sección de Cómo funciona,
-    explicamos sobre los servicios que el usuario podrá gozar al
-    registrarse y escoger un plan en nuestra aplicación web.
+</td>
+    <td>0.5</td>
+    <td>Anthony Loarte</td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>US06</td>
+    <td>Iniciar Sesión</td>
+    <td>T08</td>
+    <td>Ingreso de datos</td>
+    <td>Se realiza un forms en donde el usuario ingresa los datos</td>
+    <td>0.5</td>
+    <td>Bruce Cipriano</td>
+    <td>Done</td>
+ </tr>
+</table>
 
-> <img src="./media/image2.png"
-> style="width:16.66667in;height:7.9375in" />
+#### 5.2.1.3. Development Evidence for Sprint Review.
 
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review
-#### 5.2.1.8. Team Collaboration Insights during Sprint
 
-| **Alumno**                          | **Actividad**                                                          |
-|-------------------------------------|------------------------------------------------------------------------|
-| Quezada Portalatino, Barbara Susana | Reestructuración de la sección planes y el footer de la landing page.  |
-| Cama Salvatierra, Jimena Tamara     | Creación del header, home y contactanos, iniciar sesión y crear cuenta |
-| Cipriano Chumbes, Bruce Andres      | Creación de como funciona                                              |
-| Loarte Matos, Anthony Braham        | Creación de home                                                       |
 
-Repositorio Landing:
+| Repository                                         | Branch  | Commit Id      | Commit Message          | Commit Message Body     | Committed on (Date) |
+|----------------------------------------------------|---------|----------------|-------------------------|-------------------------|----------------------|
+| [HealthyL/FitHub-LandingPage](https://github.com/HealthyL/FitHub-LandingPage) | main    | 1be2512cad442d286dc920a033c8c6fa6f73e3cf | initial commit          | initial commit          | 01/04/2024          |
+| [HealthyL/FitHub-LandingPage](https://github.com/HealthyL/FitHub-LandingPage) | develop | 1198e546c374c143691b4f2815cee44625fe926d | initial commit from develop | initial commit from develop | 13/04/2024          |
+| [HealthyL/FitHub-LandingPage](https://github.com/HealthyL/FitHub-LandingPage) | feat:add_funcion-html | fb457d562900c87e3e797b6210a01ad135e4068b | feat: navbar-added      | navbar-added            | 10/04/2024          |
+| [HealthyL/FitHub-LandingPage](https://github.com/HealthyL/FitHub-LandingPage) | feat:add_funcion-html | bd28ebb18c39defb56e1bdbe54e571f47ac5d66e | feat: main content added | main content added      | 10/04/2024          |
+| [HealthyL/FitHub-LandingPage](https://github.com/HealthyL/FitHub-LandingPage) | feat:add_home-html   | cd556f725d855557efa905325f304daa14236a32 | feat: footer added      | footer added            | 10/04/2024          |
+| [HealthyL/FitHub-LandingPage](https://github.com/HealthyL/FitHub-LandingPage) | feat:add_home-html   | cd556f725d855557efa905325f304daa14236a32 | Merge pull request #1 from healthyl/feature_add-html | Feature add html       | 10/04/2024          |
+| [HealthyL/FitHub-LandingPage](https://github.com/HealthyL/FitHub-LandingPage) | feature/add-styles   | 456021d4e418abce16ab8c94c5144bd4a629f8a1 | feat: style added       | style added             | 10/04/2024          |
+| [HealthyL/FitHub-LandingPage](https://github.com/HealthyL/FitHub-LandingPage) | feature/add-styles   | 1f1c2d3f2199ad9dbdf6bd9b960d2b992333c588 | feat: footer style added1 | footer style added1     | 10/04/2024          |
+| [HealthyL/FitHub-LandingPage](https://github.com/HealthyL/FitHub-LandingPage) | develop              | 0bfe2fd2b28db0038f7b9fa853de58445d038053 | Merge pull request #3 from healthyl/feature_add-styles | Feature add styles     | 10/04/2024          |
+| [HealthyL/FitHub-LandingPage](https://github.com/HealthyL/FitHub-LandingPage) | feature/add-js       | aa750cc58166168f868d149bb51e51dc54eea1c3 | feat: carrousel added   | carrousel added         | 10/04/2024          |
+| [HealthyL/FitHub-LandingPage](https://github.com/HealthyL/FitHub-LandingPage) | feature/add-js       | 5596d04b1e7334bc4611b09062a729f73a0b8293 | feat: form added        | form added              | 10/04/2024          |
+| [HealthyL/FitHub-LandingPage](https://github.com/HealthyL/FitHub-LandingPage) | develop              | e11d723bb5125784f265cb77d7d0f14f8053d6b6 | Merge pull request #4 from healthyl/feature_add-js | Feature add js         | 10/04/2024          |
+| [HealthyL/FitHub-LandingPage](https://github.com/HealthyL/FitHub-LandingPage) | release/1.0          | b4fccc31f2444cb61249092ce8b8f339c926c518 | fix: footer adress fixed | footer adress fixed     | 10/04/2024          |
+| [HealthyL/FitHub-LandingPage](https://github.com/HealthyL/FitHub-LandingPage) | main    | 1b4ee5e145773061328c8dc0e468d99d415f19ca | Merge pull request #5 from healthyl/release-1.0 | Release 1.0            | 13/04/2024          |
 
-<img src="./media/image37.png"
-style="width:6.84375in;height:1.90625in" />
+
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+
+
+| Repositorio/Branch                                                      | Commit Id | Commit Message            | Commit Message Body | Committed on (Date) |
+|-------------------------------------------------------------------------|-----------|---------------------------|---------------------|----------------------|
+| [US01.feature](https://github.com/HealthyL/testing-/blob/develop/Sprint%201/US01.feature) | 90aaa00   | feat: add gherkin US01     | add gherkin US01    | Committed on (Date) |
+| [US02.feature](https://github.com/HealthyL/testing-/blob/develop/Sprint%201/US02.feature) | d0440c9   | feat: add gherkin US02     | add gherkin US02    | Committed on (Date) |
+| [US03.feature](https://github.com/HealthyL/testing-/blob/develop/Sprint%201/US03.feature) | 7e5f45a   | feat: add gherkin US03     | add gherkin US03    | Committed on (Date) |
+| [US04.feature](https://github.com/HealthyL/testing-/blob/develop/Sprint%201/US04.feature) | 9ae69ce   | feat: add gherkin US04     | add gherkin US04    | Committed on (Date) |
+| [US05.feature](https://github.com/HealthyL/testing-/blob/develop/Sprint%201/US05.feature) | 53935b3   | feat: add gherkin US05     | add gherkin US05    | Committed on (Date) |
+| [US06.feature](https://github.com/HealthyL/testing-/blob/develop/Sprint%201/US06.feature) | 9b99f32   | feat: add gherkin US06     | add gherkin US06    | Committed on (Date) |
+
+
+#### 5.2.1.5. Execution Evidence for Sprint Review.
+
+Durante el sprint inicial, se logró un avance parcial en la ejecución del despliegue de la página inicial de FitHub. Esta página ofrece una variedad de secciones donde los usuarios pueden acceder a información relevante sobre nuestro producto y la empresa. A continuación, se comparten algunas pruebas que respaldan este progreso:
+
+- **Sección de Planes:** En esta sección, el usuario puede visualizar e interactuar con los diferentes planes que ofrece nuestra plataforma.
+
+
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1229240004270882826/1229935109189402644/image.png?ex=66317d55&is=661f0855&hm=2caea5e64d035cdf010359c51f1d5d4f8fe21ec5ff79a9ff7adbb7dec8fa81a5&=&format=webp&quality=lossless&width=720&height=342" alt="landing 1" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+
+
+- **Sección de Contáctanos:** Aquí se incluye un formulario interactivo mediante el cual los usuarios pueden completar sus consultas, comentarios o sugerencias. Este formulario está diseñado para recopilar información básica del usuario, como nombre, dirección de correo electrónico y mensaje.
+
+
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1229240004270882826/1229935162687623168/image.png?ex=66317d61&is=661f0861&hm=27d53193edb53156d077e74b637c777754cceddfd82279d97f9a25d311060157&=&format=webp&quality=lossless&width=720&height=342" alt="landing 2" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+
+- **Sección de Iniciar Sesión:** Se brinda a los usuarios la oportunidad de acceder a sus cuentas existentes en la plataforma FitHub. Presentamos un formulario de inicio de sesión donde los usuarios pueden ingresar su nombre de usuario o dirección de correo electrónico junto con su contraseña para acceder a sus perfiles.
+
+
+
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1229240004270882826/1229935290248990750/image.png?ex=66317d80&is=661f0880&hm=1ae83910d56fd54385bec8594ef8603cb5fbec5745860d46bdcf61f9481e3bf0&=&format=webp&quality=lossless&width=720&height=344" alt="landing 3" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+- **Sección de Crear Cuenta:** Proporcionamos a los usuarios la posibilidad de registrarse en la plataforma FitHub para acceder a sus funcionalidades y contenido exclusivo. Esta sección incluye un formulario de registro en el que los usuarios pueden ingresar la información necesaria, como nombre, dirección de correo electrónico, contraseña, entre otros datos relevantes.
+
+
+
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1229240004270882826/1229935376320299089/image.png?ex=66317d94&is=661f0894&hm=1242d7aed7ac02957135910c73792b19f87368e47a9b88af876f335a79e8b373&=&format=webp&quality=lossless&width=720&height=343" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+- **Sección de Inicio:** Damos la bienvenida a los usuarios a nuestra aplicación web FitHub con una interfaz atractiva y concisa en la información inicialmente que brindamos sobre nosotros.
+
+
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1229240004270882826/1229934945737375775/image.png?ex=66317d2e&is=661f082e&hm=b92637037ce316f15c3cc6a99c7cd0927d9b34231e4bbf5e893e61f840b985f5&" alt="landing 5" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+
+
+- **Sección de ¿Cómo funciona?:** Explicamos sobre los servicios que el usuario podrá disfrutar al registrarse y escoger un plan en nuestra aplicación web.
+
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1229240004270882826/1229935056600956958/image.png?ex=66317d48&is=661f0848&hm=d2a96ea3a9ffc7f4c811931b3e160b9ba679a7c009e6265ccfa4106bc1dca113&=&format=webp&quality=lossless&width=720&height=343" alt="landing 6" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+Para esta entrega no se ha implementado ningún servicio adicional, ya que el enfoque principal fue el diseño y desarrollo de la landing page de FitHub. El despliegue de la landing page se puede acceder mediante el siguiente enlace:  FitHub Landing
+
+ Page: [https://healthyl.github.io/FitHub-LandingPage/](https://healthyl.github.io/FitHub-LandingPage/)
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+Para el despliegue de la landing page de FitHub, se utilizaron las siguientes tecnologías y servicios:
+
+1. **Git**: Git fue fundamental para la gestión eficiente de todas las versiones de código y recursos utilizados en el proyecto de la landing page de FitHub. Permitió realizar un seguimiento de cambios, fusionar ramas de desarrollo y resolver conflictos de manera efectiva, manteniendo la coherencia y la integridad del código a lo largo del ciclo de vida del proyecto.
+
+2. **GitHub**: Esta plataforma facilitó el trabajo colaborativo y centralizado en los archivos y código del proyecto. GitHub permitió la gestión de repositorios compartidos, lo que ayudó al equipo a mantener un registro detallado de todas las actualizaciones, comentarios y problemas relacionados con la landing page de FitHub. GitHub fue un componente crucial en la infraestructura de desarrollo, promoviendo la colaboración eficiente y el éxito general del proyecto.
+
+3. **GitHub Pages**: Este servicio de GitHub fue esencial para el despliegue de la landing page de FitHub. GitHub Pages proporcionó una forma sencilla y confiable de alojar y publicar la página web de manera gratuita. Se utilizó para crear una versión en vivo de la landing page, permitiendo compartir fácilmente el progreso del proyecto con otros miembros del equipo, interesados y partes interesadas externas.
+
+
+
+#### 5.2.1.8.  Team Collaboration Insights during Sprint
+
+| Alumno                        | Actividad                                                                          |
+|-------------------------------|------------------------------------------------------------------------------------|
+| Quezada Portalatino, Barbara Susana | Reestructuración de la sección de planes y el footer de la página de inicio.       |
+| Cama Salvatierra, Jimena Tamara     | Creación del encabezado, página de inicio, página de contacto, inicio de sesión y creación de cuenta. |
+| Cipriano Chumbes, Bruce Andres      | Creación de la sección "Cómo funciona".                                           |
+| Loarte Matos, Anthony Braham        | Creación de la página de inicio.                                                  |
+
+
 
 # Conclusiones
+ ## Conclusiones y recomendaciones
 
-## Conclusiones y recomendaciones
-## Video About-the-Team
+   * La integración de metodologías ágiles como Lean UX y Scrum ha sido fundamental para el desarrollo efectivo de FitHub, permitiendo una comprensión profunda de las necesidades de los usuarios y una gestión eficiente del trabajo en equipo.
+  * La utilización de herramientas como GitHub y GitFlow ha facilitado la colaboración entre los miembros del equipo y la gestión de versiones, minimizando los obstáculos relacionados con la compatibilidad y las diferencias temporales.
+  * La realización de entrevistas y la creación de perfiles de usuario han sido actividades cruciales para comprender las necesidades y expectativas de los usuarios de FitHub, permitiendo así un diseño centrado en el usuario.
+  * La incorporación de UXPRESSIA ha enriquecido el proceso de desarrollo al proporcionar herramientas para el análisis de usuarios y la visualización del impacto de la aplicación, lo que ha mejorado la toma de decisiones basada en datos.
+  * El análisis competitivo ha permitido identificar áreas de mejora y diferenciación para FitHub, proporcionando una base sólida para ofrecer un producto que destaque en el mercado.
+  * En resumen, la combinación de metodologías ágiles, herramientas de colaboración, análisis de usuarios y competidores ha sido clave para el éxito de FitHub, y se recomienda seguir utilizando estos enfoques en el futuro desarrollo y mejora del producto.
+
+## Video About-the-Team.
+
+
+
+
 
 # Bibliografía
 
+Google. (2017, 24 de febrero). _Google HTML/CSS Style Guide_. Google GitHub. Recuperado el 10 de setiembre de 2023, de [https://google.github.io/styleguide/htmlcssguide.html#Background](https://google.github.io/styleguide/htmlcssguide.html#Background) 
+
+Adrián Alonso. (2018, 10 de marzo). Impact Mapping: la técnica ágil que te ayuda a construir un mejor producto. Recuperado el 15 de setiembre de 2023, de [https://adrianalonso.es/project-management/tecnicas-agiles-impact-mapping/](https://adrianalonso.es/project-management/tecnicas-agiles-impact-mapping/)
+
+Atlassian. (2021, 10 de mayo). User stories. Agile project management with Scrum. Recuperado el 15 de setiembre de 2023, de [https://www.atlassian.com/agile/project-management/user-stories#:~:text=software%20user's%2](https://www.atlassian.com/agile/project-management/user-stories#:~:text=software%20user's%2)
+
+Becas Santander. (2019, 17 de julio). Misión, visión y valores. Recuperado el 15 de setiembre de 2023, de [https://www.becas-santander.com/es/blog/mision-vision-y-valores.html#:~:text=Es%20com%C3](https://www.becas-santander.com/es/blog/mision-vision-y-valores.html#:~:text=Es%20com%C3)
+
+Design Toolkit. (2020, 22 de marzo). Lean UX Canvas. Recuperado el 15 de setiembre de 2023, de [http://design-toolkit.uoc.edu/es/lean-ux-canvas/](http://design-toolkit.uoc.edu/es/lean-ux-canvas/)
+
+IBM. (2020, 09 de julio). To-be scenario map. IBM Design Thinking: Tools. Recuperado el 15 de setiembre de 2023, de [https://www.ibm.com/design/thinking/page/toolkit/activity/to-be-scenario-map](https://www.ibm.com/design/thinking/page/toolkit/activity/to-be-scenario-map)
+
+Interfaz. (2022, 18 de agosto). Agile Methodologies. Recuperado el 15 de setiembre de 2023, de [https://interfaz.io/agile-methodologies/](https://interfaz.io/agile-methodologies/)
+
+Martín, A. (2021, 5 de octubre). Sprint Planning: ¿Qué es y cómo hacerlo bien? Recuperado el 15 de setiembre de 2023, de [https://laboratorioti.com/sprint-planning/](https://laboratorioti.com/sprint-planning/)
+
+Microsoft Docs. (s.f.). GitHub Flow. Recuperado el 15 de setiembre de 2023, de [https://docs.microsoft.com/en-us/azure/devops/repos/gitflow/github-flow?view=azure-devops](https://docs.microsoft.com/en-us/azure/devops/repos/gitflow/github-flow?view=azure-devops)
+
+Norma ISO 9001. (2020, 14 de diciembre). ISO 9001 Quality Management Systems. Recuperado el 15 de setiembre de 2023, de [https://www.iso.org/iso-9001-quality-management.html](https://www.iso.org/iso-9001-quality-management.html)
+
+
+
 # Anexos
-- Enlace para acceder a la landing page:
-  [<u>https://healthyl.github.io/FitHub-LandingPage/</u>](https://healthyl.github.io/FitHub-LandingPage/)
 
-- Video exposición TB1:
-  [<u>upc-pre-202401-si729-WS51-HealthyL-expo-TB1.mp4</u>](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210778_upc_edu_pe/EU2MBbdUu0ROteqz89m0ISUBRht2PHINKeqW1Gx86uh1EA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=UUhSCl)
 
-- Video Product prototyping:
-  [<u>http://upc-pre-202401-si729-WS51-HealthyL-FitHub-navigation-sprint-1</u>](http://upc-pre-202401-si729-ws51-healthyl-fithub-navigation-sprint-1)
+Enlace para acceder a la landing page: [FitHub Landing Page](https://healthyl.github.io/FitHub-LandingPage/)
+
+
+
+Video exposición TB1: [upc-pre-202401-si729-WS51-HealthyL-expo-TB1.mp4](http://upc-pre-202401-si729-WS51-HealthyL-expo-TB1.mp4)
+
+
+
+Video Product prototyping: [upc-pre-202401-si729-WS51-HealthyL-FitHub-navigation-sprint-1](http://upc-pre-202401-si729-WS51-HealthyL-FitHub-navigation-sprint-1)
+
