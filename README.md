@@ -899,365 +899,24 @@ Antes de sumergirse en nuestra plataforma, los entusiastas del fitness dependen 
   como reconocimiento por alcanzar hitos o logros específicos en su
   programa de fitness.
 
+
 # Capítulo III: Requirements Specification
+## 3.1. To-Be Scenario Mapping.
 
-## 3.1. To-Be Scenario Mapping
-## 3.2. User Stories
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1229240004270882826/1229896928452542576/image12.png?ex=663159c6&is=661ee4c6&hm=c075050e58119feb45b7b2921435c0189e211de6b200fb8d63ce0910a88e9044&=&format=webp&quality=lossless" alt="Segmento 1" style="margin-bottom: 3px;" width="780px">
+</p>
 
-<table>
-<colgroup>
-<col style="width: 10%" />
-<col style="width: 13%" />
-<col style="width: 23%" />
-<col style="width: 15%" />
-<col style="width: 17%" />
-<col style="width: 19%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th colspan="6">Historia de Usuario</th>
-</tr>
-<tr class="odd">
-<th>Número</th>
-<th>US001</th>
-<th>Usuario</th>
-<th>Visitante Landing</th>
-<th>Nombre HU</th>
-<th>Creación de hipervínculos (Header)</th>
-</tr>
-<tr class="header">
-<th>Prioridad</th>
-<th>Alta</th>
-<th>Riesgo</th>
-<th>Bajo</th>
-<th>Iteración</th>
-<th>Sprint 1</th>
-</tr>
-<tr class="odd">
-<th>Estimación</th>
-<th>1 hora</th>
-<th>Programador responsable</th>
-<th>Jimena Cama</th>
-<th>Actividades claves</th>
-<th></th>
-</tr>
-<tr class="header">
-<th>Descripción</th>
-<th colspan="5">Como visitante de la landing page quiero poder
-interactuar con la landing page.</th>
-</tr>
-<tr class="odd">
-<th>Criterios de aceptación</th>
-<th colspan="5"><p>Escenario 1: Interacción con hipervinculos</p>
-<p>Dado que el visitante interactua con los hipervinculos</p>
-<p>Cuando seleccióno una de la secciones</p>
-<p>Entonces será dirigido a la sección seleccionada.</p></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+## 3.2. User Stories.
 
-<table>
-<colgroup>
-<col style="width: 10%" />
-<col style="width: 13%" />
-<col style="width: 23%" />
-<col style="width: 15%" />
-<col style="width: 17%" />
-<col style="width: 19%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th colspan="6">Historia de Usuario</th>
-</tr>
-<tr class="odd">
-<th>Número</th>
-<th>US002</th>
-<th>Usuario</th>
-<th>Visitante Landing</th>
-<th>Nombre HU</th>
-<th>Sección Contáctanos</th>
-</tr>
-<tr class="header">
-<th>Prioridad</th>
-<th>Alta</th>
-<th>Riesgo</th>
-<th>Bajo</th>
-<th>Iteración</th>
-<th>Sprint 1</th>
-</tr>
-<tr class="odd">
-<th>Estimación</th>
-<th>1 hora</th>
-<th>Programador responsable</th>
-<th>Jimena Cama</th>
-<th>Actividades claves</th>
-<th></th>
-</tr>
-<tr class="header">
-<th>Descripción</th>
-<th colspan="5">Como visitante de la landing page quiero poder
-contactarme con FitHub.</th>
-</tr>
-<tr class="odd">
-<th>Criterios de aceptación</th>
-<th colspan="5"><p>Escenario 1: Interacción con el hipervínculo</p>
-<p>Dado que el visitante se encuentra en la landing page</p>
-<p>Cuando haga click en el hipervinculo de “Contáctanos”</p>
-<p>Entonces se dirigirá a esta sección</p>
-<p>Escenario 2: Ingresa datos</p>
-<p>Dado que el visitante se encuentra en la landing page</p>
-<p>Cuando haga click a las barras de texto</p>
-<p>Entonces podra ingresar texto.</p>
-<p>Escenario 2: Enviar datos</p>
-<p>Dado que el visitante se encuentra en la landing page</p>
-<p>Cuando haga click en el botón "submit"</p>
-<p>Entonces los textos ingresados serán enviados.</p></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+## 3.3. Impact Mapping.
 
-<table>
-<colgroup>
-<col style="width: 10%" />
-<col style="width: 13%" />
-<col style="width: 23%" />
-<col style="width: 15%" />
-<col style="width: 17%" />
-<col style="width: 19%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th colspan="6">Historia de Usuario</th>
-</tr>
-<tr class="odd">
-<th>Número</th>
-<th>US003</th>
-<th>Usuario</th>
-<th>Visitante Landing</th>
-<th>Nombre HU</th>
-<th>Sección funcionamiento</th>
-</tr>
-<tr class="header">
-<th>Prioridad</th>
-<th>Alta</th>
-<th>Riesgo</th>
-<th>Bajo</th>
-<th>Iteración</th>
-<th>Sprint 1</th>
-</tr>
-<tr class="odd">
-<th>Estimación</th>
-<th>2 horas</th>
-<th>Programador responsable</th>
-<th>Bruce Cipriano</th>
-<th>Actividades claves</th>
-<th></th>
-</tr>
-<tr class="header">
-<th>Descripción</th>
-<th colspan="5">Como visitante de la landing page quiero tener
-conocimiento de cómo afiliarme.</th>
-</tr>
-<tr class="odd">
-<th>Criterios de aceptación</th>
-<th colspan="5"><p>Escenario 1: Interacción con el hipervínculo</p>
-<p>Dado que el visitante se encuentra en la landing page</p>
-<p>Cuando haga clic en el hipervínculo de “¿Cómo funciona?”</p>
-<p>Entonces se dirigirá a esta sección</p>
-<p>Escenario 2: Visualización de pasos</p>
-<p>Dado que el visitante se encuentra en la sección “¿Cómo
-funciona?”</p>
-<p>Entonces podrá ver los pasos que debe realizar para
-afiliarse</p></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+<p align="center">
+     <img src="https://media.discordapp.net/attachments/1229240004270882826/1229896927873597502/image20.png?ex=663159c5&is=661ee4c5&hm=80dfbe340fb0f9c9b671668ca7095f04bc29a44798ea6de783829fd654e96ac0&=&format=webp&quality=lossless&width=540&height=502" alt="TPlaner-class-diagram" style="margin-bottom: 5px;" width="1020px"/>
+</p>
 
-<table>
-<colgroup>
-<col style="width: 10%" />
-<col style="width: 13%" />
-<col style="width: 23%" />
-<col style="width: 15%" />
-<col style="width: 17%" />
-<col style="width: 19%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th colspan="6">Historia de Usuario</th>
-</tr>
-<tr class="odd">
-<th>Número</th>
-<th>US004</th>
-<th>Usuario</th>
-<th>Visitante Landing</th>
-<th>Nombre HU</th>
-<th>Sección Planes</th>
-</tr>
-<tr class="header">
-<th>Prioridad</th>
-<th>Alta</th>
-<th>Riesgo</th>
-<th>Bajo</th>
-<th>Iteración</th>
-<th>Sprint 1</th>
-</tr>
-<tr class="odd">
-<th>Estimación</th>
-<th>2 horas</th>
-<th>Programador responsable</th>
-<th>Barbara Quezada</th>
-<th>Actividades claves</th>
-<th></th>
-</tr>
-<tr class="header">
-<th>Descripción</th>
-<th colspan="5">Como visitante de la landing page quiero poder conocer a
-que planes me puedo afiliar.</th>
-</tr>
-<tr class="odd">
-<th>Criterios de aceptación</th>
-<th colspan="5"><p>Escenario 1: Interacción con el hipervínculo</p>
-<p>Dado que el visitante se encuentra en la landing page</p>
-<p>Cuando haga clic en el hipervínculo de “Planes”</p>
-<p>Entonces se dirigirá a esta sección</p>
-<p>Escenario 2: Interacción con cartillas</p>
-<p>Dado que el visitante se encuentra en la sección “Planes”</p>
-<p>Cuando pueda leer la información que ofrece cada plan y el costo</p>
-<p>Entonces podrá crear una cuenta</p></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+## 3.4. Product Backlog. 
 
-<table>
-<colgroup>
-<col style="width: 10%" />
-<col style="width: 13%" />
-<col style="width: 23%" />
-<col style="width: 15%" />
-<col style="width: 17%" />
-<col style="width: 19%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th colspan="6">Historia de Usuario</th>
-</tr>
-<tr class="odd">
-<th>Número</th>
-<th>US005</th>
-<th>Usuario</th>
-<th>Visitante Landing</th>
-<th>Nombre HU</th>
-<th>Crear cuenta</th>
-</tr>
-<tr class="header">
-<th>Prioridad</th>
-<th>Alta</th>
-<th>Riesgo</th>
-<th>Alto</th>
-<th>Iteración</th>
-<th>Sprint 1</th>
-</tr>
-<tr class="odd">
-<th>Estimación</th>
-<th>1 hora</th>
-<th>Programador responsable</th>
-<th>Anthony Loarte</th>
-<th>Actividades claves</th>
-<th></th>
-</tr>
-<tr class="header">
-<th>Descripción</th>
-<th colspan="5">Como visitante de la landing page quiero poder ser
-dirigido fácilmente al apartado de creación de cuenta</th>
-</tr>
-<tr class="odd">
-<th>Criterios de aceptación</th>
-<th colspan="5"><p>Escenario 1: Redirigir al visitante al apartado de
-creación de cuenta</p>
-<p>Dado que el visitante se encuentra en la landing page y quiere
-registrarse en FitHub</p>
-<p>Cuando haga click al botón de "create account"</p>
-<p>Entonces será enviado a la pestaña de creación de cuentas.</p></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
-
-<table>
-<colgroup>
-<col style="width: 10%" />
-<col style="width: 13%" />
-<col style="width: 23%" />
-<col style="width: 15%" />
-<col style="width: 17%" />
-<col style="width: 19%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th colspan="6">Historia de Usuario</th>
-</tr>
-<tr class="odd">
-<th>Número</th>
-<th>US006</th>
-<th>Usuario</th>
-<th>Visitante Landing</th>
-<th>Nombre HU</th>
-<th>Iniciar Sesión</th>
-</tr>
-<tr class="header">
-<th>Prioridad</th>
-<th>Alta</th>
-<th>Riesgo</th>
-<th>Alto</th>
-<th>Iteración</th>
-<th>Sprint 2</th>
-</tr>
-<tr class="odd">
-<th>Estimación</th>
-<th>2 horas</th>
-<th>Programador responsable</th>
-<th>Elias Yauri</th>
-<th>Actividades claves</th>
-<th></th>
-</tr>
-<tr class="header">
-<th>Descripción</th>
-<th colspan="5">Como visitante de la landing page quiero poder ser
-dirigido fácilmente al apartado de iniciar sesión</th>
-</tr>
-<tr class="odd">
-<th>Criterios de aceptación</th>
-<th colspan="5"><p>Escenario 1: Redirigir al visitante al apartado de
-inicio de sesión</p>
-<p>Dado que el visitante se encuentra en la landing page y quiere
-iniciar sesión en MindCare</p>
-<p>Cuando haga click al botón de "iniciar sesión"</p>
-<p>Entonces será enviado a la pestaña de inicio de sesión.</p>
-<p>Escenario 2: Ingresar a su cuenta</p>
-<p>Dado que el visitante se encuentra en la pestaña de inicio de
-sesión</p>
-<p>Cuando ingrese sus datos</p>
-<p>Y le de click a Ingresar</p>
-<p>Entonces se mostraran sus datos y todos los servicios incluidos en su
-plan</p></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
-
-## 3.3. Impact Mapping
-## 3.4. Product Backlog
 
 | \#Order | User Story ID | Título                                    | Descripción                                                                                                                                                                                       | Story point |
 |---------|---------------|-------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
@@ -1267,6 +926,14 @@ plan</p></th>
 | 4       | US004         | Sección Planes                            | Como visitante de la landing page quiero poder conocer a que planes me puedo afiliar.                                                                                                             | 3           |
 | 5       | US005         | Creación de la cuenta                     | Como visitante de la landing page quiero poder ser dirigido fácilmente al apartado de iniciar sesión.                                                                                             | 3           |
 | 6       | US006         | Iniciar Sesión                            | Como visitante de la landing page quiero poder ser dirigido fácilmente al apartado de creación de cuenta                                                                                          | 3           |
+| 7       | US007         | Visualización de progreso semanal         | Como FitExplorer de la aplicación, quiero poder ver mi progreso semanal en términos de cumplimiento de mi plan de entrenamiento y dieta.                                                          | 5           |
+| 8       | US008         | Configuración de objetivos personales     | Como FitExplorer, quiero poder configurar mis objetivos personales de fitness y nutrición en la aplicación.                                                                                       | 3           |
+| 9       | US009         | Notificaciones de recordatorio            | Como FitExplorer, quiero recibir notificaciones de recordatorio para cumplir con mi plan de ejercicio y alimentación.                                                                             | 3           |
+| 10      | US010         | Elección de comidas                       | Como FitExplorer, quiero poder tener platos que elegir para las tres comidas del día.                                                                                                             | 5           |
+| 11      | US011         | Seguimiento de consumo calórico diario    | Como FitExplorer, quiero poder realizar un seguimiento de mi consumo calórico diario para mantenerme en línea con mis objetivos de salud y fitness.                                               | 3           |
+| 12      | US012         | Seguimiento de progreso mediante gráficos | Como FitExplorer, quiero poder visualizar mi progreso a lo largo del tiempo mediante gráficos claros y fáciles de entender para evaluar mi rendimiento y ajustar mis estrategias si es necesario. | 5           |
+| 13      | US013         | Visualizar rutina                         | Como FitExplorer, quiero poder visualizar mi rutina diaria dada por la aplicación web para seguirla durante la semana.                                                                            | 3           |
+
 
 # Capítulo IV: Product Design
 
