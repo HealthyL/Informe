@@ -1321,18 +1321,73 @@ style="width:2.48024in;height:1.63655in" />
 style="width:6.77188in;height:3.80744in" />
 
 ## 4.2. Information Architecture.
-
 ### 4.2.1. Organization Systems.
 
-<img src="./media/image75.jpg"
-style="width:8.33854in;height:4.98053in" />
+**Después de haber discutido en grupo cómo organizar la información en la página web/landing page de nuestra aplicación “FitHub”, se decidió usar un formato jerárquico común. Este tipo de organización es el que se observa en la mayoría de las páginas y permitirá a los usuarios visualizar la interfaz de forma intuitiva.**
 
-<img src="./media/image66.jpg"
-style="width:8.33333in;height:5.68731in" />
+<p align="center">
+     <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897467537915954/image75.jpg?ex=66315a46&is=661ee546&hm=0ac55ac99101efc0266bcf57a40cc8e7353f5ca843207504018c600ded0f87c8&=&format=webp&width=841&height=502" alt="Organization systems" style="margin-bottom: 5px;" width="1020px"/>
+</p>
 
-### 4.2.2. Labeling Systems
+<p align="center">
+     <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897406942941275/image66.jpg?ex=66315a38&is=661ee538&hm=f794711acb885ff84074ac65993690491615341313131e23d270b4fdf76327f7&=&format=webp&width=735&height=502" alt="Organization systems" style="margin-bottom: 5px;" width="1020px"/>
+</p>
+
+### 4.2.2. Labeling Systems.
+
+**Antes de implementar las etiquetas en nuestra página, debemos determinar qué requisitos  necesitamos cumplir. Las etiquetas nos permiten agregar texto, imágenes y otros elementos a nuestra página. El sistema “Learn Sing” utilizará las siguientes etiquetas para representar conjuntos de información:**
+
+|Etiqueta	| Descripción |
+|---------|--------------|
+|Registrarse	|Botón para crear una cuenta en FitHub.|
+|Iniciar Sesión	|Botón para iniciar sesión en una cuenta existente en FitHub.|
+|Ajustes de Cuenta	| Espacio para ver información de la cuenta y configurar opciones, como la membresía en FitHub.|
+|Ver  Rutina	| Espacio para que los usuarios visualicen sus rutinas de ejercicio personalizadas en FitHub.|
+|Ver Planes	| Espacio para que los usuarios vean los planes de afiliación disponibles en FitHub.|
+|Contactar Soporte	| Opción para que los usuarios se pongan en contacto con el equipo de soporte de FitHub para obtener ayuda o información adicional.|
+|Versión Premium	| Opción para que los usuarios adquieran una versión premium de FitHub con características y beneficios adicionales.|
+|Notificaciones	| El sistema enviará notificaciones para recordar al usuario sus próximas actividades programadas en FitHub.|
+
 ### 4.2.3. SEO Tags and Meta Tags
-### 4.2.4. Searching Systems
+
+**La optimización de los meta tags es crucial para ampliar nuestro alcance a través de las búsquedas realizadas por los robots en línea. En este sentido, SignLingo aprovecha eficazmente estos elementos con el objetivo de posicionarse en las primeras búsquedas y atraer la atención de un público más amplio.**
+
+Title Tags:
+
+ ```html
+<title>FitHub - Bienestar personalizado y efectivo con FITHUB
+Alcanza tus metas de salud y fitness con nuestra plataforma integral.</title>
+```
+
+Meta Description Tag:
+
+```html
+  <meta name="description" content="Descubre FitHub: Planifica rutinas, sigue tu progreso y únete a una comunidad de fitness." />
+  ```
+
+
+Meta Keywords Tag:
+ ```html
+<meta name="keywords" content="fitness, ejercicio, salud, rutinas, progreso, comunidad, FitHub" />
+```
+
+
+Estos elementos optimizados ayudan a mejorar la visibilidad de FitHub en los motores de búsqueda, atrayendo a una audiencia interesada en el fitness y el bienestar.
+
+### 4.2.4. Searching Systems.
+
+**El sistema de búsqueda propuesto para FitHub permitirá a los usuarios personalizar su experiencia de fitness de acuerdo a sus preferencias. Este sistema facilitará la personalización de rutinas de ejercicio, planes de alimentación y actividades relacionadas con el fitness. Los filtros disponibles serán:**
+
+**El sistema de búsqueda contará con los siguientes filtros:**
+
+| Nombre del filtro     | Descripción                                                                                                         |
+|-----------------------|---------------------------------------------------------------------------------------------------------------------|
+| Tipo  de Rutina         | Los  usuarios podrán seleccionar el tipo de rutina que desean, como cardio, fuerza, flexibilidad, etc.                  |
+| Objetivo  Fitness              | Los  usuarios podrán indicar su objetivo fitness, ya sea perder peso, ganar masa muscular, mantenerse en forma, etc.                                           |
+| Equipo  Necesario  | Los  usuarios podrán filtrar las rutinas según el equipamiento necesario, como pesas, banda elástica, máquina de cardio, etc.           |
+| Nivel  de Dificultad           | Los  usuarios podrán elegir el nivel de dificultad de las rutinas, ya sea principiante, intermedio o avanzado.                                            |
+| Tipo de Alimentación    | Los usuarios podrán seleccionar el tipo de alimentación que desean seguir, como dieta balanceada, vegetariana, alta en proteínas, etc.                              |
+
 
 ### 4.2.5. Navigation Systems.
 
