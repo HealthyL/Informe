@@ -930,55 +930,48 @@ Antes de sumergirse en nuestra plataforma, los entusiastas del fitness dependen 
 
 # Capítulo IV: Product Design
 
-## 4.1. Style Guidelines
-### 4.1.1. General Style Guidelines
-Logo
+### 4.1.1. General Style Guidelines.
+**Overview:**
+Como organización se considera el diseño web una parte fundamental del proyecto, ya que debe ser agradable, cómodo para navegar para nuestros clientes finales, estar en sintonía con nuestra marca y lo que queremos transmitir como empresa.
 
-<img src="./media/image40.png"
-style="width:1.25032in;height:1.09403in" />
+**Brand Name:**
+La elección de denominar nuestra propuesta de solución como "FitHub" surge de su firme enfoque en brindar ayuda a los usuarios y establecer vínculos sólidos con las empresas en el sector del Salud.
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897036132913326/image40.png?ex=663159df&is=661ee4df&hm=3ae3e3731518afd937ba938f9e54397bc9614c5e79a8f401506d6e310eb32688&=&format=webp&quality=lossless" alt="Logo" style="margin-bottom: 5px;" width="300px" align="center"/>
+</p>
 
-¿Qué debe tener?
+*¿Qué debe tener?*
+* Logo haciendo alusión al corazón, bienestar.
+* Minimalista, estético.
+*¿Qué no debe tener?*
+* Colores fuertes.  
+* Imagen de una persona.
+* imagen de una balanza.
 
-- Logo haciendo alusión al corazón, bienestar
+**Typography:**
+El equipo ha seleccionado las tipografías "Nunito" y "Inter" para el proyecto. Estas fuentes tipográficas fueron elegidas cuidadosamente por su estilo y legibilidad, asegurando que la presentación del contenido sea atractiva y fácil de leer para los usuarios.
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897006743556126/image21.png?ex=663159d8&is=661ee4d8&hm=e96cfdc32ff4adc6f06d9c740370fa0729dbf89601659363072679546c4453c8&=&format=webp&quality=lossless" alt="Typografy" style="margin-bottom: 5px;" width="200px" align="center"/>
+</p>
+    
+**Palet Colors:**
+#8CB500
+#C5D951
+#B1C868
+#FEFE8A
+#FFFFFF
+#4B4B4B
 
-- Minimalista, estético
+**Buttons:**
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1229240004270882826/1229896799742066738/image6.png?ex=663159a7&is=661ee4a7&hm=49a5a72c958485ba05e58aa4b1901c857cabeca4410c333bef26ca48f1c4b0f6&=&format=webp&quality=lossless" alt="Model buttons" style="margin-bottom: 5px;" width="250px" align="center"/>
+</p>
 
-¿Qué no debe tener?
+### 4.1.2. Web Style Guidelines.
 
-- Colores fuertes
-
-- Imagen de una persona
-
-- imagen de una balanza
-
-Tipografía
-
-<img src="./media/image21.png"
-style="width:1.64063in;height:2.4956in" />
-
-Paleta de colores
-
-\#8CB500
-
-\#C5D951
-
-\#B1C868
-
-\#FEFE8A
-
-\#FFFFFF
-
-\#4B4B4B
-
-Botones
-
-<img src="./media/image6.png"
-style="width:2.48024in;height:1.63655in" />
-
-### 4.1.2. Web Style Guidelines
-
-<img src="./media/image29.png"
-style="width:6.77188in;height:3.80744in" />
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897005996838942/image29.png?ex=663159d8&is=661ee4d8&hm=f902c34fd8925f5bb17446aafb1051b4c226156c984a7d7ffe50310fea29804b&=&format=webp&quality=lossless&width=892&height=502" alt="Responsive windows" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
 
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
