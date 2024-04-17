@@ -790,6 +790,21 @@ Ray del Carmen, residente de Puente Piedra, tiene 21 años y comparte su experie
 
 ### 2.2.3. Análisis de entrevistas
 
+Realizamos un análisis detallado de las entrevistas llevadas a cabo con el segmento de entusiastas del fitness, con el objetivo de identificar sus necesidades y preferencias. A continuación, presentamos los hallazgos obtenidos:
+
+* **Segmento objetivo: Entusiastas del Fitness**
+
+  <ul>
+    <li>La edad promedio de los entrevistados es de 20.4 años, todos ellos jóvenes adultos.</li>
+    <li>Existe una búsqueda activa de información en línea sobre entrenamiento y nutrición, utilizando principalmente videos de YouTube y redes sociales.</li>
+    <li>Se reporta una sensación general de confusión y frustración al intentar obtener resultados rápidos y efectivos a través de las fuentes actuales de información.</li>
+    <li>Los entrevistados expresan la necesidad de una guía más estructurada y confiable para diseñar sus rutinas de ejercicio y planificar sus dietas.</li>
+    <li>La mayoría de los entrevistados valoran la idea de recibir planes de entrenamiento y dietas personalizados, así como el acceso a profesionales de la salud para orientación adicional.</li>
+    <li>Se destaca la importancia de mantener la motivación y la disciplina para mantener un estilo de vida saludable a largo plazo.</li>
+  </ul>
+
+  Estos resultados nos proporcionan información valiosa sobre las necesidades y expectativas de nuestro segmento objetivo, lo cual será fundamental para desarrollar los componentes adecuados en FitHub y proporcionar una experiencia integral y satisfactoria para nuestros usuarios.
+
 
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
