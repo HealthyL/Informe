@@ -864,40 +864,18 @@ Antes de sumergirse en nuestra plataforma, los entusiastas del fitness dependen 
 </p>
 
 
+
 ## 2.4. Ubiquitous Language.
-- Visitante: Cualquier persona que visite la landing page.
-
-- FitHub: Visitante que se registra y accede a nuestra plataforma con el
-  objetivo de mejorar su salud y estado físico.
-
-- Entusiasta del fitness: Un tipo de usuario que muestra un alto nivel
-  de interés y compromiso con su salud y estado físico.
-
-- Plan de entrenamiento: Un programa personalizado de ejercicios
-  diseñado para ayudar al usuario a alcanzar sus objetivos de fitness.
-
-- Rutina de ejercicios: Una serie estructurada de actividades físicas
-  que un usuario realiza regularmente como parte de su plan de
-  entrenamiento.
-
-- Plan de nutrición: Un programa personalizado de dieta diseñado para
-  satisfacer las necesidades nutricionales del usuario y apoyar sus
-  objetivos de fitness.
-
-- Dieta balanceada: Un plan de alimentación que incluye una variedad de
-  nutrientes en las cantidades adecuadas para mantener la salud y el
-  bienestar.
-
-- Seguimiento de progreso: El proceso de monitorear y registrar los
-  logros y avances del usuario en su viaje de fitness.
-
-- Notificaciones: Mensajes automáticos enviados a los usuarios para
-  recordarles eventos importantes, como sesiones de entrenamiento
-  programadas o cambios en sus planes de nutrición.
-
-- Recompensas: Incentivos virtuales o tangibles otorgados a los usuarios
-  como reconocimiento por alcanzar hitos o logros específicos en su
-  programa de fitness.
+* Visitante: Cualquier persona que visite la landing page.
+* FitExplorer: Visitante que se registra y accede a nuestra plataforma con el objetivo de mejorar su salud y estado físico.
+* Entusiasta del fitness: Un tipo de usuario que muestra un alto nivel de interés y compromiso con su salud y estado físico.
+* Plan de entrenamiento: Un programa personalizado de ejercicios diseñado para ayudar al usuario a alcanzar sus objetivos de fitness.
+* Rutina de ejercicios: Una serie estructurada de actividades físicas que un usuario realiza regularmente como parte de su plan de entrenamiento.
+* Plan de nutrición: Un programa personalizado de dieta diseñado para satisfacer las necesidades nutricionales del usuario y apoyar sus objetivos de fitness.
+* Dieta balanceada: Un plan de alimentación que incluye una variedad de nutrientes en las cantidades adecuadas para mantener la salud y el bienestar.
+* Seguimiento de progreso: El proceso de monitorear y registrar los logros y avances del usuario en su viaje de fitness.
+* Notificaciones: Mensajes automáticos enviados a los usuarios para recordarles eventos importantes, como sesiones de entrenamiento programadas o cambios en sus planes de nutrición.
+* Recompensas: Incentivos virtuales o tangibles otorgados a los usuarios como reconocimiento por alcanzar hitos o logros específicos en su programa de fitness.
 
 
 # Capítulo III: Requirements Specification
