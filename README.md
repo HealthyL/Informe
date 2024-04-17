@@ -1703,9 +1703,79 @@ sesión.
 #### 5.2.1.3. Development Evidence for Sprint Review
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 #### 5.2.1.5. Execution Evidence for Sprint Review
+
+Durante el sprint inicial, se logró un avance parcial en la ejecución
+del despliegue de la página inicial de FitHub. Esta página ofrece una
+variedad de secciones donde los usuarios pueden acceder a información
+relevante sobre nuestro producto y la empresa. A continuación, se
+comparten algunas pruebas que respaldan este progreso.
+
+1.  Sección de planes: En la sección de planes, el usuario puede
+    visualizar e interactuar con los diferentes planes que cuenta
+    nuestra plataforma.
+
+> <img src="./media/image49.png"
+> style="width:9.52083in;height:4.03125in" />
+
+2.  Sección de Contáctanos: En la sección de contáctanos, se incluye un
+    formulario interactivo mediante el cual los usuarios pueden
+    completar sus consultas, comentarios o sugerencias. Este formulario
+    está diseñado para recopilar información básica del usuario, como
+    nombre, dirección de correo electrónico y mensaje.
+
+> <img src="./media/image34.png"
+> style="width:9.54167in;height:4.91667in" />
+
+3.  Sección de Iniciar Sesión: En la sección de "Iniciar Sesión", se
+    brinda a los usuarios la oportunidad de acceder a sus cuentas
+    existentes en la plataforma FitHub. Aquí, se presenta un formulario
+    de inicio de sesión donde los usuarios pueden ingresar su nombre de
+    usuario o dirección de correo electrónico junto con su contraseña
+    para acceder a sus perfiles.
+
+> <img src="./media/image65.png"
+> style="width:9.54167in;height:4.97917in" />
+
+4.  Sección de Crear Cuenta: Se proporciona a los usuarios la
+    posibilidad de registrarse en la plataforma FitHub para acceder a
+    sus funcionalidades y contenido exclusivo. Esta sección incluye un
+    formulario de registro en el que los usuarios pueden ingresar la
+    información necesaria, como nombre, dirección de correo electrónico,
+    contraseña, entre otros datos relevantes.
+
+> <img src="./media/image20.png"
+> style="width:9.58333in;height:6.54167in" />
+
+5.  Sección de Inicio: En la sección de "Inicio", damos la bienvenida a
+    los usuarios a nuestra aplicación web FitHub con una interfaz
+    atractiva y concisa en la información inicialmente que brindamos
+    sobre nosotros.
+
+> <img src="./media/image75.png"
+> style="width:16.66667in;height:7.94792in" />
+
+6.  Sección de ¿Cómo funciona?: En la sección de Cómo funciona,
+    explicamos sobre los servicios que el usuario podrá gozar al
+    registrarse y escoger un plan en nuestra aplicación web.
+
+> <img src="./media/image2.png"
+> style="width:16.66667in;height:7.9375in" />
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+
+| **Alumno**                          | **Actividad**                                                          |
+|-------------------------------------|------------------------------------------------------------------------|
+| Quezada Portalatino, Barbara Susana | Reestructuración de la sección planes y el footer de la landing page.  |
+| Cama Salvatierra, Jimena Tamara     | Creación del header, home y contactanos, iniciar sesión y crear cuenta |
+| Cipriano Chumbes, Bruce Andres      | Creación de como funciona                                              |
+| Loarte Matos, Anthony Braham        | Creación de home                                                       |
+
+Repositorio Landing:
+
+<img src="./media/image37.png"
+style="width:6.84375in;height:1.90625in" />
 
 # Conclusiones
 
