@@ -2146,18 +2146,16 @@ Microsoft Docs. (s.f.). GitHub Flow. Recuperado el 15 de setiembre de 2023, de [
 
 Norma ISO 9001. (2020, 14 de diciembre). ISO 9001 Quality Management Systems. Recuperado el 15 de setiembre de 2023, de [https://www.iso.org/iso-9001-quality-management.html](https://www.iso.org/iso-9001-quality-management.html)
 
+# Conclusiones
+Concluimos que hemos comprendido la importancia de ofrecer soluciones personalizadas que se ajusten a las necesidades individuales de cada usuario para mejorar la efectividad y el mantenimiento a largo plazo de los programas de salud y estado físico. Además, se ha aprendido a utilizar la tecnología para desarrollar una plataforma que brinde programas de entrenamiento y nutrición personalizados de manera accesible y conveniente para los usuarios, adaptándose a sus diferentes contextos y estilos de vida.
+El enfoque en el usuario ha sido una prioridad durante todo el proceso, lo que ha implicado comprender las necesidades y problemas del usuario y proporcionar soluciones que aborden directamente estos problemas, como la falta de motivación, la dificultad para seguir planes de nutrición y la inconsistencia en la rutina de ejercicios. Finalmente, se ha reconocido la importancia de la iteración y la mejora continua, lo que implica probar hipótesis, recopilar retroalimentación y ajustar las estrategias según sea necesario para mejorar la experiencia del usuario y alcanzar los objetivos del proyecto.
+FInalmente, el trabajo en grupo nos ha permitido identificar y abordar de manera efectiva los desafíos relacionados con la falta de personalización en las soluciones de fitness y nutrición, utilizando herramientas ágiles como Lean UX y aprendiendo sobre la importancia de la personalización, el enfoque en el usuario y la mejora continua.
+
+# Bibliografía
 
 
 # Anexos
-
-
 Enlace para acceder a la landing page: [FitHub Landing Page](https://healthyl.github.io/FitHub-LandingPage/)
-
-
-
 Video exposición TB1: [upc-pre-202401-si729-WS51-HealthyL-expo-TB1.mp4](http://upc-pre-202401-si729-WS51-HealthyL-expo-TB1.mp4)
-
-
-
 Video Product prototyping: [upc-pre-202401-si729-WS51-HealthyL-FitHub-navigation-sprint-1](http://upc-pre-202401-si729-WS51-HealthyL-FitHub-navigation-sprint-1)
 
