@@ -49,6 +49,7 @@
 | TB1     | 11-04-2024 | Anthony   | - Se agregó el Database Design definido.                      |
 | TB1     | 12-04-2024 | Bruce     | - Se agregó el Software Configuration Management realizado.  |
 | TB1     | 12-04-2024 | Anthony   | - Se agregó el Landing Page, Services & Applications Implementation iniciado.|
+| TP1     | 27-04-2024 | Jimena    | Correxión de los user storires y el product backlog          |
 
 
 
@@ -903,6 +904,129 @@ Antes de sumergirse en nuestra plataforma, los entusiastas del fitness dependen 
 
 ## 3.2. User Stories.
 
+**Epicas**
+| Epic ID | Detalle                                    |
+| ------- | ------------------------------------------ |
+| EP001   | Gestión de Acceso de Usuarios              |
+| EP002   | Experiencia del Usuario en la Landing Page |
+| EP003   | Funcionalidades del FitExplorer            |
+| EP004   | Gestion de herramientas                    |
+| EP005   | Funcionalidades técnicas                   |
+
+
+
+|User story ID|Título                                   |Descripción                                                                                                                                                                                      |Criterios de aceptación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |Relacionado con Epic ID|
+|-------------|-----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|
+|US001        |Creación de hipervínculos (Header)       |Como visitante de la landing page quiero poder interactuar con la landing page.                                                                                                                  |Escenario 1: Interacción con hipervínculos<br>Dado que el visitante interactúa con los hipervínculos<br>Cuando selecciono una de la secciones<br>Entonces será dirigido a la sección seleccionada                                                                                                                                                                                                                                                                                                                                                         |EP002                  |
+|US002        |Sección Contáctanos                      |Como visitante de la landing page quiero poder contactarme con FitHub.                                                                                                                           |Escenario 1: Interacción con el hipervínculo<br>Dado que el visitante se encuentra en la landing page<br>Cuando haga click en el hipervínculo de “Contáctanos”<br>Entonces se dirigirá a esta sección<br>Escenario 2: Ingresa datos<br>Dado que el visitante se encuentra en la landing page<br>Cuando haga click a las barras de texto<br>Entonces podrá ingresar texto.<br>Escenario 2: Enviar datos<br>Dado que el visitante se encuentra en la landing page<br>Cuando haga click en el botón "submit" 
+
+Entonces los textos ingresados serán enviados.|EP002                  |
+|US003        |Sección funcionamiento                   |Como visitante de la landing page quiero tener conocimiento de cómo afiliarme.                                                                                                                   |Escenario 1: Interacción con el hipervínculo
+
+Dado que el visitante se encuentra en la landing page
+
+Cuando haga clic en el hipervínculo de “¿Cómo funciona?”
+
+Entonces se dirigirá a esta sección
+
+Escenario 2: Visualización de pasos
+
+Dado que el visitante se encuentra en la sección “¿Cómo funciona?”
+
+Entonces podrá ver los pasos que debe realizar para afiliarse                                                                                                                                                                                |EP002                  |
+|US004        |Sección Planes                           |Como visitante de la landing page quiero poder conocer a que planes me puedo afiliar.                                                                                                            |Escenario 1: Interacción con el hipervínculo
+
+Dado que el visitante se encuentra en la landing page
+
+Cuando haga clic en el hipervínculo de “Planes”
+
+Entonces se dirigirá a esta sección
+
+Escenario 2: Interacción con cartillas
+
+Dado que el visitante se encuentra en la sección “Planes”
+
+Cuando pueda leer la información que ofrece cada plan y el costo
+
+Entonces podrá crear una cuenta                                                                                                                                                           |EP002                  |
+|US005        |Crear cuenta                             |Como visitante de la landing page quiero poder ser dirigido fácilmente al apartado de creación de cuenta                                                                                         |Escenario 1: Redirigir al visitante al apartado de creación de cuenta 
+
+Dado que el visitante se encuentra en la landing page y quiere registrarse en FitHub
+
+Cuando haga click al botón de "create account" 
+
+Entonces será enviado a la pestaña de creación de cuentas.                                                                                                                                                                                                                                                                                 |EP001                  |
+|US006        |Iniciar Sesión                           |Como visitante de la landing page quiero poder ser dirigido fácilmente al apartado de iniciar sesión                                                                                             |Escenario 1: Redirigir al visitante al apartado de inicio de sesión
+
+Dado que el visitante se encuentra en la landing page y quiere iniciar sesión en MindCare
+
+Cuando haga click al botón de "iniciar sesión" 
+
+Entonces será enviado a la pestaña de inicio de sesión.
+
+Escenario 2: Ingresar a su cuenta
+
+Dado que el visitante se encuentra en la pestaña de inicio de sesión
+
+Cuando ingrese sus datos
+
+Y le de click a Ingresar
+
+Entonces se mostraran sus datos y todos los servicios incluidos en su plan                                         |EP001                  |
+|US007        |Visualización de progreso semanal        |Como FitExplorer de la aplicación, quiero poder ver mi progreso semanal en términos de cumplimiento de mi plan de entrenamiento y dieta.                                                         |Escenario 1: Visualización del progreso semanal
+
+Dado que soy un FitExplorer y estoy en mi cuenta
+
+Cuando acceda a la sección de progreso semanal
+
+Entonces podré ver gráficos y estadísticas que muestren mi rendimiento en relación con mis objetivos.                                                                                                                                                                                                                                                                                                  |EP004                  |
+|US008        |Configuración de objetivos personales    |Como FitExplorer, quiero poder configurar mis objetivos personales de fitness y nutrición en la aplicación.                                                                                      |Escenario 1: Configuración de objetivos
+
+Dado que soy un FitExplorer y estoy en mi cuenta
+
+Cuando acceda a la sección de configuración de objetivos
+
+Entonces podré establecer metas específicas relacionadas con peso, masa muscular, resistencia, entre otros.                                                                                                                                                                                                                                                                                          |EP004                  |
+|US009        |Selección de dietas personalizadas       |Como FitExplorer, quiero poder tener platos que elegir para las tres comidas del día.                                                                                                            |Escenario 1: Dirigirse a la sección alimentos
+
+Dado que soy un FitExplorer y estoy en mi cuenta
+
+Cuando de click al icono de la manzana
+
+Entonces se mostrará la interfaz de la sección de alimentos<br><br>
+
+Escenario 2: Seleccionar alimentos
+
+Dado que soy un FitExplorer y veo los alimentos disponibles para mi objetivo
+
+Cuando de click a un plato puedo ver sus ingredientes 
+
+Y puedo ver una receta corta
+
+Entonces con el botón elegir lo selecciono                                                                                          |EP003                  |
+|U010         |Visualizar rutina                        |Como FitExplorer, quiero poder visualizar mi rutina diaria dada por la aplicación web para seguirla durante la semana.                                                                           |Escenario 1: Visualización de gráficos de progreso
+
+Dado que soy un FitExplorer y estoy en mi cuenta
+
+Cuando acceda a la sección de seguimiento de progreso
+
+Entonces podré ver gráficos que representen mi evolución en áreas como peso, porcentaje de grasa corporal, consumo calórico, entre otros, con opciones de filtrado y personalización.                                                                                                                                                                                                        |EP003                  |
+|US011        |Seguimiento de consumo calórico diario   |Como FitExplorer, quiero poder realizar un seguimiento de mi consumo calórico diario para mantenerme en línea con mis objetivos de salud y fitness.                                              |Escenario 1: Registro de consumo calórico
+
+Dado que soy un FitExplorer y estoy en mi cuenta
+
+Cuando acceda a la sección de seguimiento de consumo calórico
+
+Entonces podré registrar los alimentos consumidos a lo largo del día, junto con su cantidad y calorías asociadas.                                                                                                                                                                                                                                                                             |EP004                  |
+|US012        |Seguimiento de progreso mediante gráficos|Como FitExplorer, quiero poder visualizar mi progreso a lo largo del tiempo mediante gráficos claros y fáciles de entender para evaluar mi rendimiento y ajustar las estrategias si es necesario.|Escenario 1: Visualización de gráficos de progreso
+
+Dado que soy un FitExplorer y estoy en mi cuenta
+
+Cuando acceda a la sección de seguimiento de progreso
+
+Entonces podré ver gráficos que representen mi evolución en áreas como peso, porcentaje de grasa corporal, consumo calórico, entre otros, con opciones de filtrado y personalización.                                                                                                                                                                                                        |EP004                  |
+
+
 ## 3.3. Impact Mapping.
 
 <p align="center">
@@ -1306,11 +1430,10 @@ prototipos de la interfaz de usuario:
   concentrarte en lo que es importante para ti sin distracciones.
 
 <img src="https://media.discordapp.net/attachments/1229240004270882826/1229896930155429998/image18.png?ex=663159c6&is=661ee4c6&hm=bdf2666b387013106ff37d65933fd2cc454cd382911b0c87f16e4e95ff9ac2c6&=&format=webp&quality=lossless&width=720&height=459"
-style="width:8.30208in;height:5.29167in" />
+style="width:8.30208in;height:5.29167in"/>
 
 
-
-En este video de [<u>explicación</u>](http://upc-pre-202401-si729-ws51-healthyl-fithub-navigation-sprint-1), exploramos
+En este video de [<u>explicación</u>](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210778_upc_edu_pe/EffIn_xlDglEruVvXZLjas0Bmxf0N7GqNtjWrPi4rsoD2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=DsgsMx), exploramos
 desde el inicio de sesión hasta la realización de tareas específicas, exploramos cómo los usuarios interactúan con la aplicación y cómo se guían a través de ella para lograr sus objetivos.
 
 Enlace para el [<u>Flujo</u>](https://www.figma.com/proto/Z2i4YAkSxGxcsbblQ8HQmR/FITHUB?type=design&node-id=115-487&t=GeELQHRExaICt9WA-1&scaling=scale-down&page-id=29%3A3&starting-point-node-id=115%3A487&show-proto-sidebar=1&mode=design)
