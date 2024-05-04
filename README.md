@@ -2229,6 +2229,22 @@ Nos hemos dedicado a detallar cada función, desde la visualización de los alim
 Además de la documentación escrita, hemos incluido capturas de pantalla que ilustran cómo se utilizan estas funciones en la práctica, proporcionando una guía visual tanto para los usuarios nuevos como para los desarrolladores. Todo este trabajo se ha llevado a cabo en nuestro repositorio de Fithub en GitHub, donde hemos vinculado cada documentación con sus respectivos cambios para asegurar una trazabilidad completa del desarrollo.
 
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+Para la entrega del segundo sprint, se desplego parcialmente el web application. Cumpliendo los user stories correspondientes al entregable.
+Web Application:
+Jimena Cama
+![image](https://github.com/HealthyL/Informe/assets/134560396/5b2c43bb-388a-4d6d-b6a3-3a693fcec58c)
+![image](https://github.com/HealthyL/Informe/assets/134560396/b3570542-4840-41f5-91b1-6207714f03b1)
+
+Barbara Quezada
+![image](https://github.com/HealthyL/Informe/assets/134560396/bac0d809-5014-4517-9682-0db02d53211a)
+
+![image](https://github.com/HealthyL/Informe/assets/134560396/b50eef10-33ee-4df5-9517-cb2ee753b632)
+![image](https://github.com/HealthyL/Informe/assets/134560396/e0df3a7e-f83f-40d9-ac31-6b7ef68209fe)
+
+Anthony Loarte
+
+Bruce Cipriano
+
 
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
 
