@@ -2248,7 +2248,12 @@ Bruce Cipriano
 
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
 
-
+| Alumno | Actividad |
+|:---:|:---:|
+| Cama Salvatierra, Jimena Tamara	 | Implementacion del bounded context de de Data Management |
+| Quezada Portalatino, Barbara Susana	 | Implementacion del bounded context de Nutrition |
+| Anthony Loarte | Implementacion del bounded context Flujo inicial |
+| Bruce Cipriano | Implementacion del bounded context Rutine Design |
 
 ## Video About-the-Team.
 
