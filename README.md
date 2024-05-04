@@ -2204,16 +2204,6 @@ Para el despliegue de la landing page de FitHub, se utilizaron las siguientes te
 
 #### 5.2.2.5.Execution Evidence for Sprint Review.
 Durante este segundo sprint los integrantes del equipo desarrollaron las distintas bounded context del dominio de Mind Care, emplenado los conocimientos aprendidos sobre el framework de Angular, usando los componentes de Angular Material y haciendo uso de la estructura.
-
-
-#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
-Durante este sprint, hemos centrado nuestros esfuerzos en documentar de manera exhaustiva los distintos aspectos de Fithub, nuestra plataforma para el seguimiento personalizado de la alimentación y el ejercicio. Este enfoque nos ha permitido ofrecer una visión clara de las acciones disponibles en nuestra aplicación, tanto para los usuarios que buscan mejorar su salud como para aquellos que desean mantenerse en forma.
-
-Nos hemos dedicado a detallar cada función, desde la visualización de los alimentos disponibles hasta la creación de rutinas de ejercicio personalizadas, pasando por el seguimiento del progreso individual. Cada sección de la aplicación, incluyendo "Mi Cuenta", "Rutina", "Nutrición" y "Configuración", ha sido meticulosamente documentada para garantizar que los usuarios comprendan completamente todas las funcionalidades disponibles.
-
-Además de la documentación escrita, hemos incluido capturas de pantalla que ilustran cómo se utilizan estas funciones en la práctica, proporcionando una guía visual tanto para los usuarios nuevos como para los desarrolladores. Todo este trabajo se ha llevado a cabo en nuestro repositorio de Fithub en GitHub, donde hemos vinculado cada documentación con sus respectivos cambios para asegurar una trazabilidad completa del desarrollo.
-
-#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
 Durante este segundo sprint los integrantes del equipo desarrollaron las distintas bounded context del dominio de Mind Care, emplenado los conocimientos aprendidos sobre el framework de Angular, usando los componentes de Angular Material y haciendo uso de la estructura.
 
 Jimena Cama
@@ -2229,6 +2219,16 @@ Barbara Quezada
 Anthony Loarte
 
 Bruce Cipriano
+
+
+#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+Durante este sprint, hemos centrado nuestros esfuerzos en documentar de manera exhaustiva los distintos aspectos de Fithub, nuestra plataforma para el seguimiento personalizado de la alimentación y el ejercicio. Este enfoque nos ha permitido ofrecer una visión clara de las acciones disponibles en nuestra aplicación, tanto para los usuarios que buscan mejorar su salud como para aquellos que desean mantenerse en forma.
+
+Nos hemos dedicado a detallar cada función, desde la visualización de los alimentos disponibles hasta la creación de rutinas de ejercicio personalizadas, pasando por el seguimiento del progreso individual. Cada sección de la aplicación, incluyendo "Mi Cuenta", "Rutina", "Nutrición" y "Configuración", ha sido meticulosamente documentada para garantizar que los usuarios comprendan completamente todas las funcionalidades disponibles.
+
+Además de la documentación escrita, hemos incluido capturas de pantalla que ilustran cómo se utilizan estas funciones en la práctica, proporcionando una guía visual tanto para los usuarios nuevos como para los desarrolladores. Todo este trabajo se ha llevado a cabo en nuestro repositorio de Fithub en GitHub, donde hemos vinculado cada documentación con sus respectivos cambios para asegurar una trazabilidad completa del desarrollo.
+
+#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
 
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
 
