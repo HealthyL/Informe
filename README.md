@@ -2134,6 +2134,8 @@ Para el despliegue de la landing page de FitHub, se utilizaron las siguientes te
 
 #### 5.2.1.8.  Team Collaboration Insights during Sprint
 
+<img width="921" alt="Screenshot 2024-05-04 at 09 13 46" src="https://github.com/HealthyL/FitHub-Frontend/assets/107071662/3568c77d-cdf6-4870-9542-223d89813ee9">
+
 | Alumno                        | Actividad                                                                          |
 |-------------------------------|------------------------------------------------------------------------------------|
 | Quezada Portalatino, Barbara Susana | Reestructuración de la sección de planes y el footer de la página de inicio.       |
