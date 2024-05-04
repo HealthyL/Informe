@@ -68,99 +68,108 @@ TB1:
 
 
 # Contenido
-- [Aplicaciones Web](#-div-align--center---Aplicaciones-Web---div-)
+- [ Aplicaciones Web ](#-aplicaciones-web-)
+    - [TB1](#tb1)
+    - [Startup: FitHub ](#startup-fithub-)
+    - [Producto: FitHub](#producto-fithub)
+    - [ Ciclo 2024-1 ](#-ciclo-2024-1-)
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
 - [Project Report Collaboration Insights](#project-report-collaboration-insights)
 - [Contenido](#contenido)
 - [Student Outcome](#student-outcome)
 - [Capítulo I: Introducción](#capítulo-i-introducción)
-  * [1.1. Startup Profile](#11-startup-profile)
-    + [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
-    + [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
-  * [1.2. Solution Profile](#12-solution-profile)
-    + [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
-    + [1.2.2 Lean UX Process.](#122-lean-ux-process)
+  - [1.1. Startup Profile](#11-startup-profile)
+    - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
+    - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+  - [1.2. Solution Profile](#12-solution-profile)
+    - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
+    - [1.2.2 Lean UX Process.](#122-lean-ux-process)
       - [1.2.2.1. Lean UX Problem Statements.](#1221-lean-ux-problem-statements)
       - [1.2.2.2. Lean UX Assumptions.](#1222-lean-ux-assumptions)
       - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
       - [1.2.2.4. Lean UX Canvas.](#1224-lean-ux-canvas)
-  * [1.3. Segmentos objetivo](#13-segmentos-objetivo)
-- [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)
-  * [2.1. Competidores](#21-competidores)
-    + [2.1.1. Análisis competitivo](#211-análisis-competitivo)
-    + [2.1.2. Estrategias y tácticas frente a competidores.](#212-estrategias-y-tácticas-frente-a-competidores)
-  * [2.2. Entrevistas](#22-entrevistas)
-    + [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
-    + [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
-    + [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
-  * [2.3. Needfinding](#23-needfinding)
-    + [2.3.1. User Personas](#231-user-personas)
-    + [2.3.2. User Task Matrix](#232-user-task-matrix)
-    + [2.3.3. User Journey Mapping](#233-user-journey-mapping)
-    + [2.3.4. Empathy Mapping](#234-empathy-mapping)
-    + [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+  - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
+- [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
+  - [2.1. Competidores](#21-competidores)
+    - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
+    - [2.1.2. Estrategias y tácticas frente a competidores.](#212-estrategias-y-tácticas-frente-a-competidores)
+  - [2.2. Entrevistas](#22-entrevistas)
+    - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
+    - [2.2.2. Registro de entrevistas.](#222-registro-de-entrevistas)
+    - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
+  - [2.3. Needfinding.](#23-needfinding)
+    - [2.3.1. User Personas.](#231-user-personas)
+    - [2.3.2. User Task Matrix.](#232-user-task-matrix)
+    - [2.3.3. User Journey Mapping.](#233-user-journey-mapping)
+    - [2.3.4. Empathy Mapping.](#234-empathy-mapping)
+    - [2.3.5. As-is Scenario Mapping.](#235-as-is-scenario-mapping)
+  - [2.4. Ubiquitous Language.](#24-ubiquitous-language)
 - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
-  * [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
-  * [3.2. User Stories](#32-user-stories)
-  * [3.3. Impact Mapping](#33-impact-mapping)
-  * [3.4. Product Backlog](#34-product-backlog)
+  - [3.1. To-Be Scenario Mapping.](#31-to-be-scenario-mapping)
+  - [3.2. User Stories.](#32-user-stories)
+  - [3.3. Impact Mapping.](#33-impact-mapping)
+  - [3.4. Product Backlog.](#34-product-backlog)
 - [Capítulo IV: Product Design](#capítulo-iv-product-design)
-  * [4.1. Style Guidelines](#41-style-guidelines)
-    + [4.1.1. General Style Guidelines](#411-general-style-guidelines)
-    + [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
-  * [4.2. Information Architecture](#42-information-architecture)
-    + [4.2.1. Organization Systems](#421-organization-systems)
-    + [4.2.2. Labeling Systems](#422-labeling-systems)
-    + [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
-    + [4.2.4. Searching Systems](#424-searching-systems)
-    + [4.2.5. Navigation Systems](#425-navigation-systems)
-  * [4.3. Landing Page UI Design](#43-landing-page-ui-design)
-    + [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
-    + [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
-  * [4.4. Web Applications UX/UI Design](#44-web-applications-ux-ui-design)
-    + [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
-    + [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
-    + [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
-    + [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
-  * [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
-  * [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
-    + [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
-    + [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
-    + [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
-  * [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
-    + [4.7.1. Class Diagrams](#471-class-diagrams)
-    + [4.7.2. Class Dictionary](#472-class-dictionary)
-  * [4.8. Database Design](#48-database-design)
-    + [4.8.1. Database Diagram](#481-database-diagram)
-- [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
-  * [5.1. Software Configuration Management](#51-software-configuration-management)
-    + [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
-    + [5.1.2. Source Code Management](#512-source-code-management)
-    + [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide---conventions)
-    + [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
-  * [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services---applications-implementation)
-    + [5.2.1. Sprint 1](#521-sprint-1)
-      - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
-      - [5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)
-      - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
-      - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
-      - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
-      - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
-      - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
-      - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-    + [5.2.2. Sprint 2](#522-sprint-2)
-      - [5.2.1.1. Sprint Planning 2](#5221-sprint-planning-2)
-      - [5.2.1.2. Sprint Backlog 2](#5222-sprint-backlog-2)
-      - [5.2.1.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
-      - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
-      - [5.2.1.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
-      - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
-      - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
-      - [5.2.1.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+    - [4.1.1. General Style Guidelines.](#411-general-style-guidelines)
+    - [4.1.2. Web Style Guidelines.](#412-web-style-guidelines)
+  - [4.2. Information Architecture.](#42-information-architecture)
+    - [4.2.1. Organization Systems.](#421-organization-systems)
+    - [4.2.2. Labeling Systems.](#422-labeling-systems)
+    - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+    - [4.2.4. Searching Systems.](#424-searching-systems)
+    - [4.2.5. Navigation Systems.](#425-navigation-systems)
+  - [4.3. Landing Page UI Design.](#43-landing-page-ui-design)
+    - [4.3.1. Landing Page Wireframe.](#431-landing-page-wireframe)
+    - [4.3.2. Landing Page Mock-up.](#432-landing-page-mock-up)
+- [Capítulo IV: Product Design](#capítulo-iv-product-design-1)
+  - [4.1. Style Guidelines.](#41-style-guidelines)
+    - [4.1.1. General Style Guidelines.](#411-general-style-guidelines-1)
+    - [4.1.2. Web Style Guidelines.](#412-web-style-guidelines-1)
+    - [4.4.3. Web Applications Mock-ups.](#443-web-applications-mock-ups)
+    - [4.4.4. Web Applications User Flow Diagrams.](#444-web-applications-user-flow-diagrams)
+  - [4.5. Web Applications Prototyping.](#45-web-applications-prototyping)
+  - [4.6. Domain-Driven Software Architecture.](#46-domain-driven-software-architecture)
+    - [4.6.1. Software Architecture Context Diagram.](#461-software-architecture-context-diagram)
+    - [4.6.2. Software Architecture Container Diagrams.](#462-software-architecture-container-diagrams)
+    - [4.6.3. Software Architecture Components Diagrams.](#463-software-architecture-components-diagrams)
+  - [4.7. Software Object-Oriented Design.](#47-software-object-oriented-design)
+    - [4.7.1. Class Diagrams.](#471-class-diagrams)
+    - [4.7.2. Class Dictionary.](#472-class-dictionary)
+  - [4.8. Database Design.](#48-database-design)
+    - [4.8.1. Database Diagram.](#481-database-diagram)
+- [Capítulo V: Product Implementation, Validation \& Deployment.](#capítulo-v-product-implementation-validation--deployment)
+  - [5.1. Software Configuration Management.](#51-software-configuration-management)
+    - [5.1.1. Software Development Environment Configuration.](#511-software-development-environment-configuration)
+    - [5.1.2. Source Code Management.](#512-source-code-management)
+  - [Metodología GitFlow para Gestión Colaborativa](#metodología-gitflow-para-gestión-colaborativa)
+    - [5.1.3. Source Code Style Guide \& Conventions.](#513-source-code-style-guide--conventions)
+      - [HTML](#html)
+    - [5.1.4. Software Deployment Configuration.](#514-software-deployment-configuration)
+  - [5.2. Landing Page, Services \& Applications Implementation.](#52-landing-page-services--applications-implementation)
+    - [5.2.1. Sprint 1](#521-sprint-1)
+      - [5.2.1.1. Sprint Planning 1.](#5211-sprint-planning-1)
+      - [5.2.1.2. Sprint Backlog 1.](#5212-sprint-backlog-1)
+      - [5.2.1.3. Development Evidence for Sprint Review.](#5213-development-evidence-for-sprint-review)
+      - [5.2.1.4. Testing Suite Evidence for Sprint Review.](#5214-testing-suite-evidence-for-sprint-review)
+      - [5.2.1.5. Execution Evidence for Sprint Review.](#5215-execution-evidence-for-sprint-review)
+      - [5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
+      - [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
+      - [5.2.1.8.  Team Collaboration Insights during Sprint](#5218--team-collaboration-insights-during-sprint)
 - [Conclusiones](#conclusiones)
-  * [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
-  * [Video About-the-Team](#video-about-the-team)
+  - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
+    - [Sprint 2](#sprint-2)
+      - [5.2.2.1. Sprint planinning 2](#5221-sprint-planinning-2)
+      - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
+      - [5.2.2.3. Development Evidence for Sprint Review.](#5223-development-evidence-for-sprint-review)
+      - [5.2.2.4.Testing Suite Evidence for Sprint Review.](#5224testing-suite-evidence-for-sprint-review)
+      - [5.2.2.5.Execution Evidence for Sprint Review.](#5225execution-evidence-for-sprint-review)
+      - [5.2.2.6.Services Documentation Evidence for Sprint Review.](#5226services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7.Software Deployment Evidence for Sprint Review.](#5227software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8.Team Collaboration Insights during Sprint.](#5228team-collaboration-insights-during-sprint)
+  - [Video About-the-Team.](#video-about-the-team)
 - [Bibliografía](#bibliografía)
+- [Conclusiones](#conclusiones-1)
+- [Bibliografía](#bibliografía-1)
 - [Anexos](#anexos)
 
 
@@ -922,13 +931,12 @@ Antes de sumergirse en nuestra plataforma, los entusiastas del fitness dependen 
 | US004 	| Sección Planes 	| Como visitante de la landing page quiero conocer los planes para saber sobre los beneficios que tendré. 	| _Escenario 1: Interacción con el hipervínculo_<br>Dado que el visitante se encuentra en la landing page<br>Cuando haga clic en el hipervínculo de “Planes”<br>Entonces se dirigirá a esta sección<br><br><br>_Escenario 2: Interacción con cartillas_<br>Dado que el visitante se encuentra en la sección “Planes”<br>Cuando pueda leer la información que ofrece cada plan y el costo<br>Entonces podrá crear una cuenta 	| EP002 	|
 | US005 	| Crear cuenta 	| Como visitante de la landing page quiero ser dirigido al apartado de creación de cuenta para afiliarme a FitHub 	| _Escenario 1: Redirigir al visitante al apartado de creación de cuenta_<br>Dado que el visitante se encuentra en la landing page y quiere registrarse en FitHub<br>Cuando haga click al botón de "create account" <br>Entonces será enviado a la pestaña de creación de cuentas. 	| EP001 	|
 | US006 	| Iniciar sesión 	| Como visitante de la landing page quiero ser dirigido al apartado de iniciar sesión para acceder a todas las funcionalidades 	| _Escenario 1: Redirigir al visitante al apartado de inicio de sesión_<br>Dado que el visitante se encuentra en la landing page y quiere iniciar sesión en MindCare<br>Cuando haga click al botón de "iniciar sesión" <br>Entonces será enviado a la pestaña de inicio de sesión.<br><br><br>_Escenario 2: Ingresar a su cuenta_<br>Dado que el visitante se encuentra en la pestaña de inicio de sesión<br>Cuando ingrese sus datos<br>Y le de click a Ingresar<br>Entonces se mostraran sus datos y todos los servicios incluidos en su plan 	| EP001 	|
-| US007 	| Visualización de progreso semanal 	| Como FitExplorer de la aplicación, quiero ver mi progreso semanal para ver el progreso de mi plan de entrenamiento y dieta. 	| _Escenario 1: Visualización del progreso semanal_<br>Dado que soy un FitExplorer y estoy en mi cuenta<br>Cuando acceda a la sección de progreso semanal<br>Entonces podré ver gráficos y estadísticas que muestren mi rendimiento en relación con mis objetivos. 	| EP003 	|
-| US008 	| Configuración de objetivos personales 	| Como FitExplorer, quiero configurar mis objetivos personales para la personalización de mi rutina. 	| _Escenario 1: Configuración de objetivos_<br>Dado que soy un FitExplorer y estoy en mi cuenta<br>Cuando acceda a la sección de configuración de objetivos<br>Entonces podré establecer metas específicas relacionadas con peso, masa muscular, resistencia, entre otros. 	| EP004 	|
-| US009 	| Elección de comidas 	| Como FitExplorer, quiero elegir diferentes platos para las tres comidas del día.	| _Escenario 1: Dirigirse a la sección alimentos_<br>Dado que soy un FitExplorer y estoy en mi cuenta<br>Cuando de click al icono de la manzana<br>Entonces se mostrará la interfaz de la sección de alimentos<br><br><br>_Escenario 2: Seleccionar alimentos_<br>Dado que soy un FitExplorer y veo los alimentos disponibles para mi objetivo<br>Cuando de click a un plato puedo ver sus ingredientes <br>Y puedo ver una receta corta<br>Entonces con el botón elegir lo selecciono 	| EP003 	|
-| US010 	| Seguimiento de consumo calórico diario 	| Como FitExplorer, quiero poder realizar un seguimiento de mi consumo calórico diario para mantenerme en línea con mis objetivos de salud y fitness. 	| _Escenario 1: Registro de consumo calórico_<br>Dado que soy un FitExplorer y estoy en mi cuenta<br>Cuando acceda a la sección de seguimiento de consumo calórico<br>Entonces podré registrar los alimentos consumidos a lo largo del día, junto con su cantidad y calorías asociadas. 	| EP004 	|
-| US011 	| Seguimiento de progreso mediante gráficos 	| Como FitExplorer, quiero poder visualizar mi progreso a lo largo del tiempo mediante gráficos claros y fáciles de entender para evaluar mi rendimiento y ajustar las estrategias si es necesario. 	| _Escenario 1: Visualización de gráficos de progreso_<br>Dado que soy un FitExplorer y estoy en mi cuenta<br>Cuando acceda a la sección de seguimiento de progreso<br>Entonces podré ver gráficos que representen mi evolución en áreas como peso, porcentaje de grasa corporal, consumo calórico, entre otros, con opciones de filtrado y personalización. 	| EP004 	|
-| US012 	| Visualizar rutina 	| Como FitExplorer, quiero poder visualizar mi rutina diaria dada por la aplicación web para seguirla durante la semana. 	| _Escenario 1: Visualización de gráficos de progreso_<br>Dado que soy un FitExplorer y estoy en mi cuenta<br>Cuando acceda a la sección de seguimiento de progreso<br>Entonces podré ver gráficos que representen mi evolución en áreas como peso, porcentaje de grasa corporal, consumo calórico, entre otros, con opciones de filtrado y personalización. 	| EP003 	|
-| US013 	| Interacción con el chatbot de ayuda 	| Como FitExplorer, quiero acceder al soporte técnico fácilmente a través de un chatbot o mediante la opción de hablar con un asesor humano para resolver cualquier problema que pueda tener con la plataforma. 	| _Escenario 01: Acceso al chatbot de soporte técnico_<br>Dado que el FitExplorer encuentra un problema con la plataforma<br>Cuando el FitExplorer busca ayuda para resolver el problema<br>Entonces el sistema muestra un icono de chatbot claramente visible en la interfaz<br>Y el FitExplorer hace clic en el icono para iniciar una conversación con el chatbot<br><br>_Escenario 02: Inicio de conversación con el chatbot_<br>Dado que el FitExplorer ha accedido al chatbot de soporte técnico<br>Cuando el FitExplorer describe el problema que está experimentando<br>Entonces el chatbot responde con un mensaje de bienvenida y ofrece opciones para ayudar al FitExplorer a solucionar su problema<br><br>_Escenario 03: Interacción con el chatbot para resolver el problema_<br>Dado que el FitExplorer está interactuando con el chatbot de soporte técnico<br>Cuando el FitExplorer proporciona detalles adicionales sobre el problema o sigue las indicaciones del chatbot<br>Entonces el chatbot ofrece soluciones para resolver el problema,<br>Y el FitExplorer sigue las instrucciones proporcionadas por el chatbot para solucionar el problema<br><br>_Escenario 04: Transferencia a un asesor humano_<br><br>Dado que el FitExplorer está interactuando con el chatbot de soporte técnico<br>Cuando el FitExplorer no puede resolver el problema utilizando las opciones proporcionadas por el chatbot<br>Entonces el chatbot ofrece al FitExplorer la opción de hablar con un asesor humano<br>Y el FitExplorer solicita hablar con un asesor humano para obtener ayuda adicional<br><br>_Escenario 05: Resolución del problema por parte del asesor humano_<br>Dado que el FitExplorer ha sido transferido a un asesor humano<br>Cuando el asesor humano revisa la consulta o problema del FitExplorer<br>Entonces el asesor humano proporciona una solución o respuesta al FitExplorer<br>Y el FitExplorer sigue las instrucciones del asesor humano para resolver el problema 	| EP005 	|
+| US007 	| Configuración de objetivos personales 	| Como FitExplorer, quiero configurar mis objetivos personales para la personalización de mi rutina. 	| _Escenario 1: Configuración de objetivos_<br>Dado que soy un FitExplorer y estoy en mi cuenta<br>Cuando acceda a la sección de configuración de objetivos<br>Entonces podré establecer metas específicas relacionadas con peso, masa muscular, resistencia, entre otros. 	| EP004 	|
+| US008 	| Elección de comidas 	| Como FitExplorer, quiero elegir diferentes platos para las tres comidas del día.	| _Escenario 1: Dirigirse a la sección alimentos_<br>Dado que soy un FitExplorer y estoy en mi cuenta<br>Cuando de click al icono de la manzana<br>Entonces se mostrará la interfaz de la sección de alimentos<br><br><br>_Escenario 2: Seleccionar alimentos_<br>Dado que soy un FitExplorer y veo los alimentos disponibles para mi objetivo<br>Cuando de click a un plato puedo ver sus ingredientes <br>Y puedo ver una receta corta<br>Entonces con el botón elegir lo selecciono 	| EP003 	|
+| US009 	| Seguimiento de consumo calórico diario 	| Como FitExplorer, quiero poder realizar un seguimiento de mi consumo calórico diario para mantenerme en línea con mis objetivos de salud y fitness. 	| _Escenario 1: Registro de consumo calórico_<br>Dado que soy un FitExplorer y estoy en mi cuenta<br>Cuando acceda a la sección de seguimiento de consumo calórico<br>Entonces podré registrar los alimentos consumidos a lo largo del día, junto con su cantidad y calorías asociadas. 	| EP004 	|
+| US010 	| Seguimiento de progreso mediante gráficos 	| Como FitExplorer, quiero poder visualizar mi progreso a lo largo del tiempo mediante gráficos claros y fáciles de entender para evaluar mi rendimiento y ajustar las estrategias si es necesario. 	| _Escenario 1: Visualización de gráficos de progreso_<br>Dado que soy un FitExplorer y estoy en mi cuenta<br>Cuando acceda a la sección de seguimiento de progreso<br>Entonces podré ver gráficos que representen mi evolución en áreas como peso, porcentaje de grasa corporal, consumo calórico, entre otros, con opciones de filtrado y personalización. 	| EP004 	|
+| US011 	| Visualizar rutina 	| Como FitExplorer, quiero poder visualizar mi rutina diaria dada por la aplicación web para seguirla durante la semana. 	| _Escenario 1: Visualización de rutina semanal_<br>Dado que soy un FitExplorer y estoy en mi cuenta<br>Cuando acceda a la sección de rutinas<br>Entonces podré ver podre ver la rutina semanal<br><br>_Escenario 2: Visualización de rutina diaria_<br>Dado que veo la rutina semanal<br>Cuando acceda a la rutina de uno de los días<br>Entonces podré ver podre ver mas información sobre los ejercicios<br><br>_Escenario 3: Visualización de detalle de ejercicio_<br>Dado que soy un FitExplorer y veo los ejercicios diarios<br>Cuando le de click a un ejercicio<br>Entonces podré ver podre ver una breve explicacion de sus ejecución 	| EP003 	|
+| US012 	| Interacción con el chatbot de ayuda 	| Como FitExplorer, quiero acceder al soporte técnico fácilmente a través de un chatbot o mediante la opción de hablar con un asesor humano para resolver cualquier problema que pueda tener con la plataforma. 	| _Escenario 01: Acceso al chatbot de soporte técnico_<br>Dado que el FitExplorer encuentra un problema con la plataforma<br>Cuando el FitExplorer busca ayuda para resolver el problema<br>Entonces el sistema muestra un icono de chatbot claramente visible en la interfaz<br>Y el FitExplorer hace clic en el icono para iniciar una conversación con el chatbot<br><br>_Escenario 02: Inicio de conversación con el chatbot_<br>Dado que el FitExplorer ha accedido al chatbot de soporte técnico<br>Cuando el FitExplorer describe el problema que está experimentando<br>Entonces el chatbot responde con un mensaje de bienvenida y ofrece opciones para ayudar al FitExplorer a solucionar su problema<br><br>_Escenario 03: Interacción con el chatbot para resolver el problema_<br>Dado que el FitExplorer está interactuando con el chatbot de soporte técnico<br>Cuando el FitExplorer proporciona detalles adicionales sobre el problema o sigue las indicaciones del chatbot<br>Entonces el chatbot ofrece soluciones para resolver el problema,<br>Y el FitExplorer sigue las instrucciones proporcionadas por el chatbot para solucionar el problema<br><br>_Escenario 04: Transferencia a un asesor humano_<br><br>Dado que el FitExplorer está interactuando con el chatbot de soporte técnico<br>Cuando el FitExplorer no puede resolver el problema utilizando las opciones proporcionadas por el chatbot<br>Entonces el chatbot ofrece al FitExplorer la opción de hablar con un asesor humano<br>Y el FitExplorer solicita hablar con un asesor humano para obtener ayuda adicional<br><br>_Escenario 05: Resolución del problema por parte del asesor humano_<br>Dado que el FitExplorer ha sido transferido a un asesor humano<br>Cuando el asesor humano revisa la consulta o problema del FitExplorer<br>Entonces el asesor humano proporciona una solución o respuesta al FitExplorer<br>Y el FitExplorer sigue las instrucciones del asesor humano para resolver el problema 	| EP005 	|
 
 
 ## 3.3. Impact Mapping.
@@ -948,13 +956,12 @@ Antes de sumergirse en nuestra plataforma, los entusiastas del fitness dependen 
 | 4       | US004         | Sección Planes                            | Como visitante de la landing page quiero conocer los planes para saber sobre los beneficios que tendré.    | 3           |
 | 5       | US005         | Creación de la cuenta                     | Como visitante de la landing page quiero ser dirigido al apartado de creación de cuenta para afiliarme a FitHub | 3           |
 | 6       | US006         | Iniciar Sesión                            | Como visitante de la landing page quiero ser dirigido al apartado de iniciar sesión para acceder a todas las funcionalidades   | 3           |
-| 7       | US007         | Visualización de progreso semanal         | Como FitExplorer de la aplicación, quiero ver mi progreso semanal para ver el progreso de mi plan de entrenamiento y dieta.   | 5           |
-| 8       | US008         | Configuración de objetivos personales     | Como FitExplorer, quiero configurar mis objetivos personales para la personalización de mi rutina. | 3           |
-| 9       | US009         | Elección de comidas                       | Como FitExplorer, quiero elegir diferentes platos para las tres comidas del día.      | 5           |
-| 10      | US010         | Seguimiento de consumo calórico diario    | Como FitExplorer, quiero poder realizar un seguimiento de mi consumo calórico diario para mantenerme en línea con mis objetivos de salud y fitness.                                               | 3           |
-| 11      | US011         | Seguimiento de progreso mediante gráficos | Como FitExplorer, quiero poder visualizar mi progreso a lo largo del tiempo mediante gráficos claros y fáciles de entender para evaluar mi rendimiento y ajustar mis estrategias si es necesario. | 5           |
-| 12      | US012         | Visualizar rutina                         | Como FitExplorer, quiero poder visualizar mi rutina diaria dada por la aplicación web para seguirla durante la semana. | 3           |
-| 12      | US013         | Interacción con el chatbot de ayuda       | Como FitExplorer, quiero acceder al soporte técnico fácilmente a través de un chatbot o mediante la opción de hablar con un asesor humano para resolver cualquier problema que pueda tener con la plataforma. | 3           |
+| 7       | US007         | Configuración de objetivos personales     | Como FitExplorer, quiero configurar mis objetivos personales para la personalización de mi rutina. | 3           |
+| 8       | US008         | Elección de comidas                       | Como FitExplorer, quiero elegir diferentes platos para las tres comidas del día.      | 5           |
+| 9      | US009         | Seguimiento de consumo calórico diario    | Como FitExplorer, quiero poder realizar un seguimiento de mi consumo calórico diario para mantenerme en línea con mis objetivos de salud y fitness.                                               | 3           |
+| 10     | US010         | Seguimiento de progreso mediante gráficos | Como FitExplorer, quiero poder visualizar mi progreso a lo largo del tiempo mediante gráficos claros y fáciles de entender para evaluar mi rendimiento y ajustar mis estrategias si es necesario. | 5           |
+| 11      | US011         | Visualizar rutina                         | Como FitExplorer, quiero poder visualizar mi rutina diaria dada por la aplicación web para seguirla durante la semana. | 3           |
+| 12      | US012         | Interacción con el chatbot de ayuda       | Como FitExplorer, quiero acceder al soporte técnico fácilmente a través de un chatbot o mediante la opción de hablar con un asesor humano para resolver cualquier problema que pueda tener con la plataforma. | 3           |
 
 
 
@@ -2145,6 +2152,57 @@ Para el despliegue de la landing page de FitHub, se utilizaron las siguientes te
   * La incorporación de UXPRESSIA ha enriquecido el proceso de desarrollo al proporcionar herramientas para el análisis de usuarios y la visualización del impacto de la aplicación, lo que ha mejorado la toma de decisiones basada en datos.
   * El análisis competitivo ha permitido identificar áreas de mejora y diferenciación para FitHub, proporcionando una base sólida para ofrecer un producto que destaque en el mercado.
   * En resumen, la combinación de metodologías ágiles, herramientas de colaboración, análisis de usuarios y competidores ha sido clave para el éxito de FitHub, y se recomienda seguir utilizando estos enfoques en el futuro desarrollo y mejora del producto.
+
+
+
+
+### Sprint 2
+#### 5.2.2.1. Sprint planinning 2
+| **Sprint #** | Sprint 2 |
+|---|---|
+|**Sprint Planning Background** |  |
+| **Date** | 12/04/2024 |
+| **Time** | 9:00 AM |
+| **Location** | Reunión virtual en Discord |
+| **Prepared by** | Jimena Cama Salvatierra |
+| **Attendees (to planning meeting)** | Jimena Tamara Cama Salvatierra<br>Bruce Andres Cipriano Chumbes<br>Anthony Brahan Loarte Matos<br>Barbara Susana Quezada Portalatino |
+| **Sprint Goal & User stories** |  |
+| **Sprint 2 Goal** | Versión corregida y mejorada de artefactos previamente presentados.Implementación de una nueva versión del Landing Page y la primera versión de Frontend Web Applications. |
+| **Sprint 2 Velocity** | 5 |
+| **Sum of story points** | 20 |
+
+
+
+#### 5.2.2.2. Sprint Backlog 2
+
+| **Sprint #** | **Sprint 2** |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|
+| **User Story** |  | **Work-Item / Task** |  |  |  |  |  |
+| **ID** | **Title** | **ID** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** |  |
+| US005 | Creación de la cuenta | TA007 | Ingreso de datos | Se realiza un forms en donde el usuario ingresa los datos | 1 hora | Anthony Loarte |  |
+| US006 | Iniciar Sesión | TA008 | Ingreso de datos | Se realiza un forms en donde el usuario ingresa los datos | 1 hora | Anthony Loarte |  |
+| US007 | Configiracion de objetivos personales | TA001 | Interactuar con el objetivo | El usuario puede cambiar su objetivo y otros datos relevantes para la personalización de su cuenta | 2 horas | Jimena Cama |  |
+| US008 | Elección de comidas | TA001 | Mostrar alimentos | Mostrar la selección de alimentos en base a la dieta proporcionada por FitHub | 1 hora | Barbara Quezada |  |
+|  |  | TA002 | Selección de alimentos | Una vez se selecciona el alimento, se agrega a la lista de alimentos consumidos en el dia | 1 hora | Barbara Quezada |  |
+| US009 | Seguimiento de consumo calórico diario | TA001 | Cantidad de calorías | Se suma la cantidad de calorías de los elementos elegidos por el usuario | 2 horas | Jimena Cama |  |
+| US011 | Visualizar rutina | TA001 | Visualizar rutina semanal | El usuario tiene una vista general de la rutina de la semana | 1 hora | Bruce Cipriano |  |
+|  |  | TA002 | Visualizar rutina diaria detallada | El usuario puede ver detalles esenciales de la rutina del día | 1 hora | Bruce Cipriano |  |
+|  |  | TA003 | Visualizar detalles del  ejercicio | El usuario puede ver una explicación sobre el ejercicio a realizar en la rutina | 1 hora | Bruce Cipriano |  |
+
+#### 5.2.2.3. Development Evidence for Sprint Review.
+
+
+#### 5.2.2.4.Testing Suite Evidence for Sprint Review.
+
+#### 5.2.2.5.Execution Evidence for Sprint Review.
+
+#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+
+#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+
+#### 5.2.2.8.Team Collaboration Insights during Sprint.
+
+
 
 ## Video About-the-Team.
 
