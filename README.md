@@ -2191,6 +2191,14 @@ Para el despliegue de la landing page de FitHub, se utilizaron las siguientes te
 
 #### 5.2.2.3. Development Evidence for Sprint Review.
 
+| **Repository** | **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body** | **Committed on (Date)** |
+|---|---|---|---|---|---|
+| https://github.com/HealthyL/FitHub-LandingPage | develop | 1754fe99c6564c021ffdb918694a0947ab59c237 | feat: add US007  | Configuracion de objetivos personales | 3/05/24 |
+| https://github.com/HealthyL/FitHub-LandingPage | develop | 17c754e1e3946c1edf1c4f9becf964767134e634 | feat: add US008 | Elección de comidas | 3/05/24 |
+| https://github.com/HealthyL/FitHub-LandingPage | develop | 639709f01b9d3d7c360d55a702cacd83e5733941 | feat: add US009 | Seguimiento de consumo calórico diario | 3/05/24 |
+| https://github.com/HealthyL/FitHub-LandingPage | develop | 8f6bf5b696ff0fbe3376f45464684b65b75bc041 | feat: add US011 | Visualizar rutina | 3/05/24 |
+
+
 
 #### 5.2.2.4.Testing Suite Evidence for Sprint Review.
 
