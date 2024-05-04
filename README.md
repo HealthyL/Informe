@@ -2248,6 +2248,8 @@ Bruce Cipriano
 
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
 
+<img width="927" alt="Screenshot 2024-05-04 at 08 58 59" src="https://github.com/HealthyL/FitHub-Frontend/assets/107071662/ed28a425-a699-4af3-8353-2675a2006e40">
+
 | Alumno | Actividad |
 |:---:|:---:|
 | Cama Salvatierra, Jimena Tamara	 | Implementacion del bounded context de de Data Management |
