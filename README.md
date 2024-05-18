@@ -691,10 +691,7 @@ Ofrecemos una variedad de opciones de suscripción que se adaptan a las necesida
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 
-> En esta fase, hemos identificado preguntas clave para cada grupo de
-> usuarios, buscando entender sus necesidades y perspectivas. Esto nos
-> permitirá desarrollar una aplicación que resuelva eficazmente los
-> desafíos que enfrentan nuestros clientes.
+En esta fase, hemos identificado preguntas clave para cada grupo de usuarios, buscando entender sus necesidades y perspectivas. Esto nos permitirá desarrollar una aplicación que resuelva eficazmente los desafíos que enfrentan nuestros clientes.
 
 1.  ¿Qué acciones realizas regularmente para mantenerte en forma y
     saludable?
@@ -736,7 +733,7 @@ Ofrecemos una variedad de opciones de suscripción que se adaptan a las necesida
   - Timing y Duración: 03:29
   - Evidencia de la reunión:<br>
     <p align="center">
-     <img src="https://media.discordapp.net/attachments/1229240004270882826/1229963827374985317/image.png?ex=66319814&is=661f2314&hm=812f4a0d1dee3ff9dbc9d1daa3f2f2e686da37ed4265fc693a21b9b09cfac2ab&=&format=webp&quality=lossless" style="margin-bottom: 5px;" width="620px" align="center"/>
+     <img src="https://github.com/HealthyL/Informe/assets/107071662/e007f013-29e2-4e51-ab40-128bd21a6489" style="margin-bottom: 5px;" width="620px" align="center"/>
     </p>
   - Resumen de la entrevista:
 El entrevistado, Jair Castillo, destacó su compromiso activo con un estilo de vida saludable, enfocado en mantener un cuerpo en forma y una alimentación equilibrada. Sin embargo, admitió enfrentarse a una considerable confusión al buscar orientación en línea para obtener planes de entrenamiento y consejos sobre nutrición. Actualmente, se ve obligado a recurrir a videos de YouTube y a seguir a entrenadores en redes sociales en busca de información relevante. A pesar de sus esfuerzos, Jair expresó su frustración por la falta de resultados rápidos y efectivos en su búsqueda por mejorar su salud y forma física.
@@ -750,7 +747,7 @@ El entrevistado, Jair Castillo, destacó su compromiso activo con un estilo de v
   - Timing y Duración: 06:43
   - Evidencia de la reunión:<br>
     <p align="center">
-     <img src="https://media.discordapp.net/attachments/1229240004270882826/1229965193891676190/image.png?ex=66319959&is=661f2459&hm=d47104d875836d54a6030cbeb967a93a3c2d01cc13b2dc048455b754b6b8092d&=&format=webp&quality=lossless" style="margin-bottom: 5px;" width="620px" align="center"/>
+     <img src="https://github.com/HealthyL/Informe/assets/107071662/8b1d0e82-6ff4-4552-bece-578e46eedc3c" style="margin-bottom: 5px;" width="620px" align="center"/>
     </p>
   - Resumen de la entrevista:
 El entrevistado, Jair Castillo, destacó su compromiso activo con un estilo de vida saludable, enfocado en mantener un cuerpo en forma y una alimentación equilibrada. Sin embargo, admitió enfrentarse a una considerable confusión al buscar orientación en línea para obtener planes de entrenamiento y consejos sobre nutrición. Actualmente, se ve obligado a recurrir a videos de YouTube y a seguir a entrenadores en redes sociales en busca de información relevante. A pesar de sus esfuerzos, Jair expresó su frustración por la falta de resultados rápidos y efectivos en su búsqueda por mejorar su salud y forma física.
@@ -765,7 +762,7 @@ El entrevistado, Jair Castillo, destacó su compromiso activo con un estilo de v
   - Timing y Duración: 04:02
   - Evidencia de la reunión:<br>
     <p align="center">
-     <img src="https://cdn.discordapp.com/attachments/1229240004270882826/1230005643688284180/image.png?ex=6631bf05&is=661f4a05&hm=5be3009e6674865ed5e659ddcbc5056261141cc6be1729100baf4f4834468a52&" style="margin-bottom: 5px;" width="620px" align="center"/>
+     <img src="https://github.com/HealthyL/Informe/assets/107071662/a1e7cb63-20b8-4479-9e87-116d399ccc16" style="margin-bottom: 5px;" width="620px" align="center"/>
     </p>
   - Resumen de la entrevista:
 Salvador Diaz está comprometido con mantenerse en forma y llevar una alimentación equilibrada, pero se enfrenta a la confusión al buscar orientación en línea sobre nutrición. Aunque recurre a videos de YouTube y redes sociales para obtener información, está frustrado por la falta de resultados rápidos y efectivos. Se le sugiere buscar fuentes de información más confiables, como sitios web de instituciones médicas, y considerar la consulta directa con un profesional de la salud para obtener orientación personalizada. Se le anima a ser paciente y a adoptar un enfoque integral para lograr sus objetivos.
@@ -779,7 +776,7 @@ Salvador Diaz está comprometido con mantenerse en forma y llevar una alimentaci
   - Timing y Duración: 05:04
   - Evidencia de la reunión:<br>
     <p align="center">
-     <img src="https://media.discordapp.net/attachments/1229240004270882826/1229967222232059975/image.png?ex=66319b3d&is=661f263d&hm=6946518dc59cbf66ebccc47e1e6b3d7ea190c75ff271b5b74c171a779ef3a526&=&format=webp&quality=lossless&width=550&height=199" style="margin-bottom: 5px;" width="620px" align="center"/>
+     <img src="https://github.com/HealthyL/Informe/assets/107071662/31fa9383-ff39-4b40-bd02-9f3311c56006" style="margin-bottom: 5px;" width="620px" align="center"/>
     </p>
   - Resumen de la entrevista:
 Agustín Aguilar, residente de San miguel, tiene 21 años y está interesado en mantenerse en forma y llevar una dieta saludable. Actualmente, realiza ejercicio ocasionalmente, principalmente planchas y pesas, y no sigue una dieta estricta, aunque se alimenta de manera saludable. Su principal objetivo al usar un servicio de fitness en línea es mejorar su estado físico y mantenerse en forma. Agustín enfrenta desafíos para seguir una dieta constante y encontrar la motivación para mantener una rutina de ejercicio. Le motiva sentirse bien consigo mismo y manejar el estrés y la ansiedad. Espera recibir información sobre rutinas de ejercicio y dietas personalizadas, consejos para mantener la disciplina y un lugar para registrar su progreso. Actualmente, establece su propia rutina de ejercicio y dieta, buscando información en Internet y comparando diferentes fuentes. Agustín desea recibir un plan de rutina establecida y una dieta definida en lugar de improvisar cada día.
@@ -793,7 +790,7 @@ Agustín Aguilar, residente de San miguel, tiene 21 años y está interesado en 
   - Timing y Duración: 09:17
   - Evidencia de la reunión:<br>
     <p align="center">
-     <img src="https://media.discordapp.net/attachments/1229240004270882826/1229967688609169408/image.png?ex=66319bac&is=661f26ac&hm=9905c764801cd181c4d15c6fddd31dcdd11caa8887579d7a2f012fdf97df4cf9&=&format=webp&quality=lossless" style="margin-bottom: 5px;" width="620px" align="center"/>
+     <img src="https://github.com/HealthyL/Informe/assets/107071662/f5e8deef-9ec1-4a60-9e7c-bcfa6cc3e36d" style="margin-bottom: 5px;" width="620px" align="center"/>
     </p>
   - Resumen de la entrevista:
 Ray del Carmen, residente de Puente Piedra, tiene 21 años y comparte su experiencia acerca de que hace para mantenerse en forma y llevar una dieta saludable. Actualmente, practica fútbol y ejercicios de resistencia, para mejorar su rendimiento. Su principal objetivo al buscar un servicio en línea o un app fitness es acompañar su rutina diaria con una dieta balanceada. Ray encuentra diversos obstáculos al momento de buscar ejercicios y dietas adecuadas al deporte que él practica y en muchas ocasiones los ejercicios recomendados por los anuncios no son los acertados. Su motivación para ejercitarse es tener una buena salud y ser el mejor en el deporte que lo apasiona. Espera recibir información sobre rutinas de ejercicio y dietas personalizadas en base a objetivos que permitan cumplir sus metas establecidas. Actualmente, elabora su propia rutina de ejercicio y dieta, buscando información en Internet o aplicaciones enfocadas en deportes. Ray busca adquirir un plan adecuado en base a la experiencia de otros usuarios, rutinas y dietas que sean efectivas y comprobadas.
