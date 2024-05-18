@@ -247,7 +247,7 @@ Nuestra visión es ser líderes en el mercado de salud y bienestar, reconocidos 
 ### 1.1.2. Perfiles de integrantes del equipo
 <table>
   <tr>
-    <td rowspan="3"> <img src="https://cdn.discordapp.com/attachments/1229240004270882826/1229897036862722179/image33.png?ex=663159df&is=661ee4df&hm=edbfb44bc56ee65130afa7271304c5d90f5a854dbc49e8e7dc16c830200a65cd&" alt="Jimena Cama" style="margin-bottom: 5px;" width="620"/> </td>
+    <td rowspan="3"> <img src="https://github.com/HealthyL/Informe/assets/107071662/d2f1b5c9-fd9a-4e3b-9057-b84e353d8d29" alt="Jimena Cama" style="margin-bottom: 5px;" width="620"/> </td>
     <td> 
       <strong>Nombres y apellidos:</strong> <br>
       Jimena Tamara Cama Salvatierra
@@ -268,7 +268,7 @@ Nuestra visión es ser líderes en el mercado de salud y bienestar, reconocidos 
     </td>
   </tr>
   <tr>
-    <td rowspan="3"> <img src="https://cdn.discordapp.com/attachments/1229240004270882826/1229897405990834206/image63.jpg?ex=66315a37&is=661ee537&hm=c41edf577155f777afdfcc4f60db52570ce0fb227e0e42e8be288281a0c77582&" alt="Bruce Cipriano" style="margin-bottom: 5px;" width="620"/> </td>
+    <td rowspan="3"> <img src="https://github.com/HealthyL/Informe/assets/107071662/42e7a252-d401-45c4-88f2-ea417f6eb397" alt="Bruce Cipriano" style="margin-bottom: 5px;" width="620"/> </td>
     <td> 
       <strong>Nombres y apellidos:</strong> <br>
       Bruce Andres Cipriano Chumbes
@@ -289,7 +289,7 @@ Nuestra visión es ser líderes en el mercado de salud y bienestar, reconocidos 
     </td>
   </tr>
  <tr>
-    <td rowspan="3"> <img src= "https://cdn.discordapp.com/attachments/1229240004270882826/1229925787453493268/Imagen.jpeg?ex=663174a6&is=661effa6&hm=53597c4ed5240024b51a2f3639efe970942b89ba16f69d0740b8bb5846031d26&" alt="Anthony Loarte" style="margin-bottom: 5px;" width="620"/> </td>
+    <td rowspan="3"> <img src= "https://github.com/HealthyL/Informe/assets/107071662/6b24285d-6e18-4c23-ad33-7ead49619275" alt="Anthony Loarte" style="margin-bottom: 5px;" width="620"/> </td>
     <td> 
       <strong>Nombres y apellidos:</strong> <br>
       Anthony Brahan Loarte Matos
@@ -310,7 +310,7 @@ Nuestra visión es ser líderes en el mercado de salud y bienestar, reconocidos 
     </td>
   </tr>
   <tr>
-     <td rowspan="3"> <img src="https://cdn.discordapp.com/attachments/1229240004270882826/1229897406254944317/image64.png?ex=66315a38&is=661ee538&hm=afe9e8b6a10468825d441ef12f12deed6b1f57ccc3a7f4ab2aec3d3a5e2b126c&" alt="Barbara Quezada" style="margin-bottom: 5px;" width="620"/> </td>
+     <td rowspan="3"> <img src="https://github.com/HealthyL/Informe/assets/107071662/bf56816c-0167-44e7-8365-6df8bc2f8f0f" alt="Barbara Quezada" style="margin-bottom: 5px;" width="620"/> </td>
     <td> 
       <strong>Nombres y apellidos:</strong> <br>
       Barbara Susana Quezada Portalatino
