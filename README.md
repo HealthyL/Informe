@@ -2134,7 +2134,16 @@ Para el despliegue de la landing page de FitHub, se utilizaron las siguientes te
 
 #### 5.2.1.8.  Team Collaboration Insights during Sprint
 
-<img width="921" alt="Screenshot 2024-05-04 at 09 13 46" src="https://github.com/HealthyL/FitHub-Frontend/assets/107071662/3568c77d-cdf6-4870-9542-223d89813ee9">
+<p align="center">
+  <img src="https://github.com/HealthyL/FitHub-Frontend/assets/107071662/3568c77d-cdf6-4870-9542-223d89813ee9" alt="Contributions" style="margin-bottom: 3px;" width="921px">
+</p>
+
+**Network graph**
+
+<p align="center">
+  <img src="https://github.com/HealthyL/Informe/assets/107071662/9fa831db-bd9d-4974-ad03-1338dd4b25e9" alt="Network graph" style="margin-bottom: 3px;" width="917px">
+</p>
+
 
 | Alumno                        | Actividad                                                                          |
 |-------------------------------|------------------------------------------------------------------------------------|
