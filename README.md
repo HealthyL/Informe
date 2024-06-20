@@ -18,53 +18,62 @@
 ### <div align="center"> Ciclo 2024-1 </div>
 
 # Registro de Versiones del Informe
-| Versión | Fecha      | Autor     | Descripción de modificación                                    |
-|---------|------------|-----------|----------------------------------------------------------------|
-| TB1     | 01-04-2024 | Barbara   | - Se agregó la Introducción completada, incluyendo Startup Profile. |
-| TB1     | 01-04-2024 | Todos     | - Se agregó el Solution Profile elaborado, incluyendo Lean UX Process. |
-| TB1     | 02-04-2024 | Anthony   | - Se agregaron los Lean UX Assumptions.                        |
-| TB1     | 02-04-2024 | Bruce     | - Se agregó la Lean UX Hypothesis Statements elaborado.        |
-| TB1     | 03-04-2024 | Jimena    | - Se agregó el Lean UX Canvas diseñado.                       |
-| TB1     | 03-04-2024 | Jimena    | - Se agregaron los Segmentos objetivo definidos.               |
-| TB1     | 03-04-2024 | Anthony   | - Se agregó el análisis de Competidores, incluyendo estrategias. |
-| TB1     | 05-04-2024 | Barbara   | - Se agregó el diseño de Entrevistas.                         |
-| TB1     | 05-04-2024 | Todos     | - Se agregó el Registro de entrevistas completado.             |
-| TB1     | 05-04-2024 | Jimena    | - Se agregó el Análisis de entrevistas realizado.             |
-| TB1     | 06-04-2024 | Jimena    | - Se agregó el Needfinding completado, incluyendo User Personas. |
-| TB1     | 06-04-2024 | Bruce     | - Se agregó el User Task Matrix elaborado.                    |
-| TB1     | 06-04-2024 | Barbara   | - Se agregó el User Journey Mapping finalizado.               |
-| TB1     | 06-04-2024 | Anthony   | - Se agregó el Empathy Mapping completado.                    |
-| TB1     | 06-04-2024 | Barbara   | - Se agregó el As-is Scenario Mapping elaborado.              |
-| TB1     | 07-04-2024 | Barbara   | - Se agregó el Ubiquitous Language definido.                  |
-| TB1     | 07-04-2024 | Anthony   | - Se agregó el To-Be Scenario Mapping realizado.             |
-| TB1     | 07-04-2024 | Bruce     | - Se agregó el Impact Mapping finalizado.                     |
-| TB1     | 07-04-2024 | Anthony   | - Se agregó el Product Backlog elaborado.                     |
-| TB1     | 07-04-2024 | Jimena    | - Se agregaron los Style Guidelines definidos.                |
-| TB1     | 08-04-2024 | Jimena    | - Se agregó la Information Architecture completada.           |
-| TB1     | 09-04-2024 | Anthony   | - Se agregó el Landing Page UI Design finalizado.             |
-| TB1     | 09-04-2024 | Barbara   | - Se agregó el Web Applications UX/UI Design elaborado.       |
-| TB1     | 10-04-2024 | Barbara   | - Se agregó el Web Applications Prototyping completado.       |
-| TB1     | 10-04-2024 | Barbara   | - Se agregó el Domain-Driven Software Architecture definido.  |
-| TB1     | 11-04-2024 | Anthony   | - Se agregó el Software Object-Oriented Design elaborado.     |
-| TB1     | 11-04-2024 | Anthony   | - Se agregó el Database Design definido.                      |
-| TB1     | 12-04-2024 | Bruce     | - Se agregó el Software Configuration Management realizado.  |
-| TB1     | 12-04-2024 | Anthony   | - Se agregó el Landing Page, Services & Applications Implementation iniciado.|
-| TP1     | 27-04-2024 | Jimena    | Correxión de los user storires y el product backlog          |
-
-
-
+| Versión | Fecha | Autor | Descripción |  |
+|---|---|---|---|---|
+| <br><br>TB1 | 09/04/2024 | Barbara Quezada | Desarrollé el lenguaje ubicuo, así como la corrección de algunos términos que utilizamos dentro del lenguaje especializado en el informe. |  |
+|  | 09/04/2024 | Jimena Cama | Identifiqué e implementé el User persona para el Needfinding, en base a las entrevistas realizadas. Así como, parte de los User Stories y el Product Backlog |  |
+|  | 10/04/2024 | Jimena Cama | Diseñe el General Style Guideline para la Web Application. Además, de la Web Style Guideline. Mismamente, identifiqué el proceso del usuario dentro de nuestra Web Application en el Organization System. |  |
+|  | 11/04/2024 | Jimena Cama | Realicé correcciones en los user stories y el product backlog y agregué los mock-ups realizados para la landing page y la Web Application. Así como, realicé el Diagrama de base de datos. |  |
+|  | 12/04/2024 | Barbara Quezada | Realicé el mejoramiento del Domain-Driven Software Architecture, pues evaluamos la permanencia de un servicio externo en la arquitectura de la plataforma. |  |
+|  | 13/04/2024 | Jimena Cama | En Product Design, actualicé el header, la sección de Contactactanos, crear cuenta e iniciar sesión. |  |
+|  | 13/04/2024 | Barbara Quezada | En Product Design, actualice el footer y la sección de planes del landing page.<br>Corrección del As-Is Scenario Map. |  |
+|  | 11/04/2024 | Bruce<br>Cipriano | Se configuró el entorno de desarrollo de software, incluyendo la instalación y configuración de las herramientas necesarias para el desarrollo del producto. |  |
+|  | 10/04/2024 | Bruce<br>Cipriano | Se gestionó el código fuente del proyecto utilizando Git, creando y fusionando ramas de desarrollo según las necesidades del equipo.<br>Se proporcionó evidencia del desarrollo realizado durante el sprint 1, incluyendo commits, pull requests y cambios en el código. |  |
+|  | 10/04/2024 | Anthony<br>Loarte | Se proporcionó evidencia del desarrollo realizado durante el sprint 1, incluyendo commits, pull requests y cambios en el código.<br>- Se configuró el despliegue del software, definiendo los procedimientos y herramientas necesarias para llevar el producto a producción de manera eficiente. |  |
+|  | 10/04/2024 | Bruce<br>Cipriano | Se presentó evidencia de las pruebas realizadas durante el sprint 1, incluyendo resultados de pruebas unitarias, de integración y de aceptación.<br> - Se presentó evidencia de la documentación de los servicios desarrollados durante el sprint 1, incluyendo especificaciones técnicas y manuales de usuario. |  |
+|  | 14/04/2024 | Anthony<br>Loarte | - Se proporcionó evidencia del despliegue del software desarrollado durante el sprint 1, mostrando capturas de pantalla del producto en producción o en entornos de pruebas. |  |
+|  | 14/04/2024 | Anthony<br>Loarte | - Se presentó evidencia de las pruebas realizadas durante el sprint 1, incluyendo resultados de pruebas unitarias, de integración y de aceptación. |  |
+| TP | 24/04/2024 | Jimena Cama | - Se organizó el sprint Planning y el para la realización de las actividades |  |
+|  | 25/04/2024 | Loarte Anthony  | Avance del frontend de Cuenta de fithub |  |
+|  | 25/04/2024 | Bruce Cipriano | Avance del frontend de Rutinas de fithub |  |
+|  | 25/04/2024 | Jimena Cama |  - Se realizó el Sprint Backlog 2, con respeto a las actividades realizadas para el frontend en la entrega. Así como el Development Evidence for Sprint Review con los respectivos commits de github de cada uno. |  |
+|  | 25/04/2024 | Barbara Quezada | - Se realizó la evidencia sobre el Software Deployment Evidence for Sprint Review y Testing Suite Evidence for Sprint Review respecto al avance del frontend de fithub. |  |
+|  | 27/04/2024 | Barbara Quezada | - Se realizó la evidencia sobre el el Execution Evidence for Sprint Review respecto al avance del frontend de fithub. |  |
+| TB2 | 25/05/2024 | Jimena Cama | Se realizó el sprint planning con los user stories para el backend |  |
+|  | 7/06/2024 | Jimena Cama | Se evidenció avance del backend del bounded context de ProductManagement |  |
+|  | 9/06/2024 | Barbara Quezada | Se evidenció el avance del backend  del bounded context de NutritionManagement |  |
+| TF | 18/06/2024 | Barbara Quezada | Corrección del informe capítulo 5 y del backend de NutritionManagement |  |
+|  | 18/06/2024 | Jimena Cama | Se evidenció la corrección del backend del bounded context de ProductManagement |  |
 
 # Project Report Collaboration Insights
 
 URL del repositorio para el reporte del proyecto: [<u>https://github.com/HealthyL/FitHub-LandingPage/tree/main</u>](https://github.com/HealthyL/FitHub-LandingPage/tree/main)
 
 TB1:
-| Integrante                          | Tarea Asignada                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-|-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Integrante                          | Tarea Asignada|
+|----------------------|----|
 | Loarte Matos, Anthony Bahan         | Lean UX Assumptions, Análisis competitivo. Empathy Mapping, To-Be Scenario Mapping, Labeling Systems, Searching Systems, Source Code Style Guide & Conventions, Software Deployment Configuration, Testing Suite Evidence for Sprint Review, Software Deployment Evidence for Sprint Review                                                                                                                                                                 |
 | Cama Salvatierra Jimena Tamara      | Lean ux canvas, diseño de entrevistas, registro de entrevista, Análisis de entrevistas, user persona, user stories, impact mapping general style guideline, web style guidelines, organization sistems, labeling systems, landing page mock ups, Database Diagram, Sprint Planning 1, sprint backlog 1.                                                                                                                                                     |
 | Cipriano Chumbes, Bruce Andres      | Lean UX Hypothesis Statements , User Task Matrix, Impact Mapping, Product Backlog, To-Be Scenario Mapping, SEO Tags and Meta Tags, Navigation Systems, Software Development Environment Configuration, Source Code Management, Development Evidence for Sprint Review, Services Documentation Evidence for Sprint Review.                                                                                                                                   |
 | Quezada Portalatino, Barbara Susana | Problem Statement, Descripción de la startup, antecedentes y problemática, Estrategias y tácticas frente a competidores, Assumptions, diseño de entrevistas, Ubiquitous Language. As-is Scenario Mapping, User Journey Mapping, User stories, Landing Page Wireframe, Web Applications Wireflow Diagrams, Web Applications Wireframe, Domain-Driven Software Architecture, Team Collaboration Insights during Sprint, Execution Evidence for Sprint Review. |
+
+TP:
+| Integrante | Tarea Asignada |
+|---|---|
+| Loarte Matos, Anthony Bahan | Avance del frontend de Cuenta de fithub |
+| Cama Salvatierra Jimena Tamara | Sprint Backlog 2, Development Evidence for Sprint Review y avance del ProductManagement front end de fithub. |
+| Cipriano Chumbes, Bruce Andres | Avance del frontend de Rutinas de fithub |
+| Quezada Portalatino, Barbara Susana | Software Deployment Evidence for Sprint Review, <br>Testing Suite Evidence for Sprint Review y avance del NutritionManagement frontend de fithub. |
+
+TB2:
+| Integrante | Tarea Asignada |
+|---|---|
+| Loarte Matos, Anthony Bahan | No hay aporte en el informe |
+| Cama Salvatierra Jimena Tamara | Sprint Planning 2, sprint backlog 2, Testing Suite Evidence for Sprint Review y avance del backend de Products Management de fithub. |
+| Cipriano Chumbes, Bruce Andres | No hay aporte en el informe |
+| Quezada Portalatino, Barbara Susana | Software Deployment Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review y avance del backend de Nutrition Management de fithub. |
+
+TF:
 
 
 # Contenido
@@ -110,6 +119,7 @@ TB1:
   - [3.3. Impact Mapping.](#33-impact-mapping)
   - [3.4. Product Backlog.](#34-product-backlog)
 - [Capítulo IV: Product Design](#capítulo-iv-product-design)
+  - [4.1 Style Guidelines](#41-style-guidelines)
     - [4.1.1. General Style Guidelines.](#411-general-style-guidelines)
     - [4.1.2. Web Style Guidelines.](#412-web-style-guidelines)
   - [4.2. Information Architecture.](#42-information-architecture)
@@ -121,10 +131,9 @@ TB1:
   - [4.3. Landing Page UI Design.](#43-landing-page-ui-design)
     - [4.3.1. Landing Page Wireframe.](#431-landing-page-wireframe)
     - [4.3.2. Landing Page Mock-up.](#432-landing-page-mock-up)
-- [Capítulo IV: Product Design](#capítulo-iv-product-design-1)
-  - [4.1. Style Guidelines.](#41-style-guidelines)
-    - [4.1.1. General Style Guidelines.](#411-general-style-guidelines-1)
-    - [4.1.2. Web Style Guidelines.](#412-web-style-guidelines-1)
+  - [4.4 Web Applications UX/UI Design.](#44-web-applications-uxui-design)
+    - [4.4.1 WebApplication Wireframes.](#441-webapplication-wireframes)
+    - [4.4.2. Web Applications Wireflow Diagrams.](#442-web-applications-wireflow-diagrams)
     - [4.4.3. Web Applications Mock-ups.](#443-web-applications-mock-ups)
     - [4.4.4. Web Applications User Flow Diagrams.](#444-web-applications-user-flow-diagrams)
   - [4.5. Web Applications Prototyping.](#45-web-applications-prototyping)
@@ -141,9 +150,7 @@ TB1:
   - [5.1. Software Configuration Management.](#51-software-configuration-management)
     - [5.1.1. Software Development Environment Configuration.](#511-software-development-environment-configuration)
     - [5.1.2. Source Code Management.](#512-source-code-management)
-  - [Metodología GitFlow para Gestión Colaborativa](#metodología-gitflow-para-gestión-colaborativa)
     - [5.1.3. Source Code Style Guide \& Conventions.](#513-source-code-style-guide--conventions)
-      - [HTML](#html)
     - [5.1.4. Software Deployment Configuration.](#514-software-deployment-configuration)
   - [5.2. Landing Page, Services \& Applications Implementation.](#52-landing-page-services--applications-implementation)
     - [5.2.1. Sprint 1](#521-sprint-1)
@@ -173,61 +180,11 @@ TB1:
 - [Anexos](#anexos)
 
 
-
-
-
 # Student Outcome
-<table align="center" border="1" width="90%">
-
-  <tr>
-    <th>Criterio específico</th>
-    <th>Acciones realizadas</th>
-    <th>Conclusiones</th>
-  </tr>
-
-  <tr>
-    <td>Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
-    <td>
-      <b>Cama Salvatierra, Jimena Cama</b> </br>
-      <b>TB1:</b> </br>
-      - Para esta entrega identifiqué el problema que solucionaremos, el principal segmento objetivo en el que nos enfocaremos. Así mismo, planteé algunas hipótesis, riesgos y soluciones respecto al desarrollo de esta. Tomé desiciones de diseño para la landing page.</br>
-      <b>Quezada Portalatino, Barbara Susana</b> </br>
-      <b>TB1:</b> </br>
-      - En mi comunicación escrita sobre nuestro proyecto de ingeniería, enfatice en la importancia de comprender los antecedentes y la problemática que enfrentamos.<br>- Describí detalladamente el proceso de User Journey Mapping y As-is Scenario Mapping que hemos llevado a cabo para visualizar los puntos de mejora y los obstáculos potenciales.<br>- Presenté los wireframes y mockups de Fithub, destacando cómo estos reflejan nuestras decisiones de diseño centradas en el usuario.</br>
-      <b>Cipriano Chumbes, Bruce Andres</b> </br>
-      <b>TB1:</b> </br>
-      - Presentó los hallazgos y resultados del análisis competitivo y las estrategias frente a competidores durante las reuniones de revisión con el equipo multidisciplinario, proporcionando una visión clara de la posición de la startup en el mercado y las acciones planificadas para enfrentar la competencia.</br>
-      <b>Loarte Matos, Anthony Brahan</b> </br>
-      <b>TB1:</b> </br>
-      - Participó activamente en la comunicación oral de las decisiones y estrategias relacionadas con el proceso de diseño de la arquitectura de software durante las reuniones de planificación y revisión del sprint, brindando una visión detallada de los componentes y la estructura del sistema en desarrollo.</br>
-    </td>
-    <td>
-      - La comunicación efectiva de las ideas y resultados durante el desarrollo del proyecto fue fundamental para garantizar un entendimiento claro y preciso entre los diferentes miembros del equipo, así como con otros stakeholders. Estas interacciones permitieron identificar y abordar las necesidades y expectativas de manera integral, lo que facilitó la toma de decisiones informadas y la alineación de objetivos en todos los niveles jerárquicos y áreas de especialidad involucradas en el proyecto de ingeniería.
-    </td>
-  </tr>
-
-  <tr>
-    <td>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
-    <td>
-      <b>Cama Salvatierra, Jimena Cama</b> </br>
-      <b>TB1:</b> </br>
-      - Al identificar distintos aspectos base de nuestra start up tomé en cuenta las necesidades y limitaciones de nuestros usuarios, tanto para el lean ux canva como para la interfaz de la landing page.</br>
-      <b>Quezada Portalatino, Barbara Susana</b> </br>
-      <b>TB1:</b> </br>
-      - Detallé el análisis de antecedentes y problemática, así como las estrategias frente a competidores que estamos implementando. Además, mencioné el registro de entrevistas realizadas, la elaboración del User Journey Mapping y As-is Scenario Mapping, y la creación de wireframes y mockups para la plataforma Fithub.</br>
-      <b>Cipriano Chumbes, Bruce Andres</b> </br>
-      <b>TB1:</b> </br>
-      - Contribuyó en la comunicación escrita del proyecto al redactar las secciones relacionadas con la arquitectura de software, incluyendo la creación de diagramas contextuales, de contenedores y de componentes. Además, participó en la redacción de las guías de estilo y convenciones del código fuente, así como en la configuración de la gestión del código fuente y del despliegue del software..</br>
-      <b>Loarte Matos, Anthony Brahan</b> </br>
-      <b>TB1:</b> </br>
-      - Participó en la comunicación escrita del proyecto al elaborar la documentación relacionada con el diseño de la base de datos, incluyendo la creación del diagrama de la base de datos. Además, contribuyó en la configuración del despliegue del software, asegurando que la infraestructura estuviera correctamente configurada para la implementación del producto.</br>
-    </td>
-    <td>
-      - Con las secciones desarrolladas, podemos concluir que la comunicación escrita efectiva fue esencial para garantizar la claridad, coherencia y objetividad en la presentación de ideas y resultados del proyecto de ingeniería. El trabajo en equipo, la distribución eficiente de tareas y la verificación constante de las contribuciones individuales fueron aspectos cruciales que contribuyeron al éxito del proceso de documentación. Además, la comunicación escrita facilitó la colaboración entre diferentes especialidades y niveles jerárquicos, asegurando que todos los aspectos del proyecto fueran abordados de manera integral y comprensible para todos los involucrados.
-    </td>
-  </tr>
-</table>
-
+| Criterio específico | Acciones realizadas | Conclusiones |  |  |
+|---|---|---|---|---|
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | Jimena Tamara Cama Salvatierra TB1, para esta entrega identifiqué el problema que solucionaremos, el principal segmento objetivo en el que nos enfocaremos. Así mismo, planteé algunas hipótesis, riesgos y soluciones respecto al desarrollo de esta. Tomé decisiones de diseño para la landing page.<br>Barbara Susana Quezada Portalatino,TB1, en mi comunicación escrita sobre nuestro proyecto de ingeniería, enfatice en la importancia de comprender los antecedentes y la problemática que enfrentamos.<br>Bruce TB1 presentó los hallazgos y resultados del análisis competitivo y las estrategias frente a competidores durante las reuniones de revisión con el equipo multidisciplinario, proporcionando una visión clara de la posición de la startup en el mercado y las acciones planificadas para enfrentar la competencia.<br>Anthony TB1 participó activamente en la comunicación oral de las decisiones y estrategias relacionadas con el proceso de diseño de la arquitectura de software durante las reuniones de planificación y revisión del sprint, brindando una visión detallada de los componentes y la estructura del sistema en desarrollo.<br>_____________<br>Jimena Cama TP, participé activamente en la organización y la planificación de las tareas para el desarrollo del sprint 2. Aportando ideas para el desarrollo e implementación del frontend<br>Barbara Susana Quezada Portalatino TP, participe de manera activa en la comunicación oral para las ideas de implementación del front end de nuestro proyecto. Desarrollando ideas para la interfaz de la elección de las 3 comidas del día de nuestros usuarios.<br>______________<br>Jimena Cama TB2, participé activamente en la organización y la planificación de las tareas para el desarrollo del sprint 3. Aportando ideas para la planificación del backend. Explícitamente de la sección de Producto.<br>Barbara Susana Quezada Portalatino TB2, me encargué del backend de la sección de nutrición. Durante el desarrollo del proyecto, presenté mis avances y resultados al equipo, explicando cómo se implementan los diferentes componentes del backend para la gestión de nutrición. Mi participación incluyó discusión y colaboración con mis compañeros para asegurar que la solución fuera técnicamente sólida y alineada con los requisitos del proyecto y las expectativas de los stakeholders. | La comunicación efectiva de las ideas y resultados durante el desarrollo del proyecto fue fundamental para garantizar un entendimiento claro y preciso entre los diferentes miembros del equipo, así como con otros stakeholders. Estas interacciones permitieron identificar y abordar las necesidades y expectativas de manera integral, lo que facilitó la toma de decisiones informadas y la alineación de objetivos en todos los niveles jerárquicos y áreas de especialidad involucradas en el proyecto de ingeniería. |  |  |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.. | Jimena Tamara Cama Salvatierra TB1, al identificar distintos aspectos base de nuestra start up tomé en cuenta las necesidades y limitaciones de nuestros usuarios, tanto para el lean ux canva como para la interfaz de la landing page.<br>Barbara Susana Quezada Portalatino, TB1, detallé el análisis de antecedentes y problemática, así como las estrategias frente a competidores que estamos implementando. Además, mencioné el registro de entrevistas realizadas, la elaboración del User Journey Mapping y As-is Scenario Mapping, y la creación de wireframes y mockups para la plataforma Fithub.<br>Bruce TB1 contribuyó en la comunicación escrita del proyecto al redactar las secciones relacionadas con la arquitectura de software, incluyendo la creación de diagramas contextuales, de contenedores y de componentes. Además, participó en la redacción de las guías de estilo y convenciones del código fuente, así como en la configuración de la gestión del código fuente y del despliegue del software.<br>  <br>Anthony TB1 participó en la comunicación escrita del proyecto al elaborar la documentación relacionada con el diseño de la base de datos, incluyendo la creación del diagrama de la base de datos. Además, contribuyó en la configuración del despliegue del software, asegurando que la infraestructura estuviera correctamente configurada para la implementación del producto.<br>—<br>Jimena Cama Salvatierra TP, participé activamente en la comunicación escrita del proyecto, redactando las secciones de Sprint Planning 2, para la organización y planificación de los user stories. Sprint backlog con las tareas realizadas para cada usuario realizado, estimación y miembro correspondiente. Así como, en la evidencia de los avances realizados en GitHub.<br>Barbara Quezada Portalatino TP, participó de manera activa y efectiva en la comunicación escrita, evidenciando el desarrollo del backend realizado para mi bounded context Nutrition Management. Así como la evidencia para Validation Interviews el Team Collaboration Insights during Sprint y el Services Documentation Evidence for Sprint Review. <br>—<br>Jimena Cama TB2, participé activamente en la comunicación escrita del proyecto, redactando las secciones de Sprint Planning 3, para la organización y planificación de los user stories. Sprint backlog con las tareas realizadas para cada usuario realizado, estimación y miembro correspondiente. Así como, en la evidencia de las historias de usuario en formato feature relacionados a los avances realizados para esta entrega.<br>-Barbara Susana Quezada Portalatino TB2, diseñe y desarrollé el backend de la sección de nutrición. Documenté mi trabajo en reportes detallados sobre la arquitectura del sistema y los componentes clave del backend, incluyendo diagramas técnicos y explicaciones de diseño, considerando las necesidades de los usuarios finales. | Con las secciones desarrolladas, podemos concluir que la comunicación escrita efectiva fue esencial para garantizar la claridad, coherencia y objetividad en la presentación de ideas y resultados del proyecto de ingeniería. El trabajo en equipo, la distribución eficiente de tareas y la verificación constante de las contribuciones individuales fueron aspectos cruciales que contribuyeron al éxito del proceso de documentación. Además, la comunicación escrita facilitó la colaboración entre diferentes especialidades y niveles jerárquicos, asegurando que todos los aspectos del proyecto fueran abordados de manera integral y comprensible para todos los involucrados. |  |  |
 
 
 # Capítulo I: Introducción
@@ -245,93 +202,22 @@ La misión de FitHub es empoderar a las personas para que tomen el control de su
 Nuestra visión es ser líderes en el mercado de salud y bienestar, reconocidos por nuestra innovación, calidad y compromiso con la satisfacción del cliente. Queremos ser el ecosistema preferido por aquellos que buscan transformar su vida a través del fitness y la nutrición personalizada. Aspiramos a expandir nuestro alcance globalmente, llegando a comunidades de todo el mundo y adaptándonos a las necesidades cambiantes de nuestros usuarios. En FitHub, imaginamos un mundo donde cada persona tiene acceso a las herramientas y el apoyo necesario para alcanzar y mantener un estilo de vida saludable, y estamos dedicados a hacer de esta visión una realidad.
 
 ### 1.1.2. Perfiles de integrantes del equipo
-<table>
-  <tr>
-    <td rowspan="3"> <img src="https://github.com/HealthyL/Informe/assets/107071662/d2f1b5c9-fd9a-4e3b-9057-b84e353d8d29" alt="Jimena Cama" style="margin-bottom: 5px;" width="620"/> </td>
-    <td> 
-      <strong>Nombres y apellidos:</strong> <br>
-      Jimena Tamara Cama Salvatierra
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>Carrera:</strong> <br>
-      Ingeniería de Software
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>Acerca de:</strong> <br>
-      <p>
-        Soy estudiante de la carrera de Ingeniería de Software en la UPC y actualmente estoy cursando el 5to ciclo. Me considero una persona curiosa, determinada y organizada. Con la experiencia en proyectos de startup y trabajos en equipo, trabajaré junto a mis compañeros para lograr un óptimo resultado del proyecto.
-      </p>  
-    </td>
-  </tr>
-  <tr>
-    <td rowspan="3"> <img src="https://github.com/HealthyL/Informe/assets/107071662/42e7a252-d401-45c4-88f2-ea417f6eb397" alt="Bruce Cipriano" style="margin-bottom: 5px;" width="620"/> </td>
-    <td> 
-      <strong>Nombres y apellidos:</strong> <br>
-      Bruce Andres Cipriano Chumbes
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>Carrera:</strong> <br>
-      Ingeniería de Software
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>Acerca de:</strong> <br>
-      <p>
-        Soy estudiante de Ingeniería de Software en la UPC. Siempre me ha fascinado la tecnología y cómo funciona. Disfruto programar, ser responsable y trabajar en equipo. Tengo conocimientos básicos en C#, Java, JavaScript, HTML y CSS, y conocimientos intermedios en C++, SQL y MongoDB. Mi objetivo es contribuir al mundo de la tecnología mientras desarrollo mi carrera profesional como ingeniero de software.
-      </p>  
-    </td>
-  </tr>
- <tr>
-    <td rowspan="3"> <img src= "https://github.com/HealthyL/Informe/assets/107071662/6b24285d-6e18-4c23-ad33-7ead49619275" alt="Anthony Loarte" style="margin-bottom: 5px;" width="620"/> </td>
-    <td> 
-      <strong>Nombres y apellidos:</strong> <br>
-      Anthony Brahan Loarte Matos
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>Carrera:</strong> <br>
-      Ingeniería de Software
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>Acerca de:</strong> <br>
-      <p>   
-        ¡Hola! Actualmente estoy en la universidad peruana de ciencias aplicadas en la carrera de Ingeniería de Software. Me apasiona todo lo relacionado con la tecnología, los avances tecnológicos y los procesos de arquitectura para el desarrollo de software. Asimismo, cuento con la capacidad para innovar en el diseño y desarrollo de proyectos.Tengo conocimientos básicos en C++, python, HTML y CSS. Estoy comprometido con contribuir al mundo de la tecnología mediante el desarrollo de soluciones innovadoras y efectivas. Me entusiasma enfrentar nuevos desafíos y seguir aprendiendo en este apasionante campo de la ingeniería de software.
-      </p>  
-    </td>
-  </tr>
-  <tr>
-     <td rowspan="3"> <img src="https://github.com/HealthyL/Informe/assets/107071662/bf56816c-0167-44e7-8365-6df8bc2f8f0f" alt="Barbara Quezada" style="margin-bottom: 5px;" width="620"/> </td>
-    <td> 
-      <strong>Nombres y apellidos:</strong> <br>
-      Barbara Susana Quezada Portalatino
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>Carrera:</strong> <br>
-      Ingeniería de Software
-    </td>
-  </tr>
- <tr>
-    <td>
-      <strong>Acerca de:</strong> <br>
-      <p>
-        Soy estudiante de la carrera de Ingeniería de Software en la UPC y actualmente estoy cursando el 5to ciclo. Me considero una persona perseverante, comprensiva y organizada. Junto a mis habilidades de liderazgo y trabajo en equipo en un ambiente de respeto, sé que lograré ejecutar la startup de nuestro proyecto de manera efectiva.
-      </p>  
-    </td>
-  </tr>
-</table>
 
+*Jimena Tamara Cama Salvatierra*
+Soy estudiante de la carrera de Ingeniería de Software en la UPC y actualmente estoy cursando el 5to ciclo. Me considero una persona curiosa, determinada y organizada. Con la experiencia en proyectos de startup y trabajos en equipo, trabajaré junto a mis compañeros para lograr un óptimo resultado del proyecto.
+![jimena](https://github.com/HealthyL/Informe/assets/134560396/23f40433-64ab-4d19-9bcd-3cc72db68e0b)
+
+*Bruce Andres Cipriano Chumbes*
+Soy estudiante de Ingeniería de Software en la UPC. Siempre me ha fascinado la tecnología y cómo funciona. Disfruto programar, ser responsable y trabajar en equipo. Tengo conocimientos básicos en C#, Java, JavaScript, HTML y CSS, y conocimientos intermedios en C++, SQL y MongoDB. Mi objetivo es contribuir al mundo de la tecnología mientras desarrollo mi carrera profesional como ingeniero de software.
+![bruce](https://github.com/HealthyL/Informe/assets/134560396/b210f791-737d-406e-bbbd-d8c2d6a2d581)
+
+*Anthony Brahan Loarte Matos*
+¡Hola! Actualmente estoy en la universidad peruana de ciencias aplicadas en la carrera de Ingeniería de Software. Me apasiona todo lo relacionado con la tecnología, los avances tecnológicos y los procesos de arquitectura para el desarrollo de software. Asimismo, cuento con la capacidad para innovar en el diseño y desarrollo de proyectos.Tengo conocimientos básicos en C++, python, HTML y CSS. Estoy comprometido con contribuir al mundo de la tecnología mediante el desarrollo de soluciones innovadoras y efectivas. Me entusiasma enfrentar nuevos desafíos y seguir aprendiendo en este apasionante campo de la ingeniería de software.
+![anthony](https://github.com/HealthyL/Informe/assets/134560396/66a986c2-6f5b-482d-a75e-52606983282a)
+
+*Barbara Susana Quezada Portalatino*
+¿Soy estudiante de la carrera de Ingeniería de Software en la UPC y actualmente estoy cursando el 5to ciclo. Me considero una persona perseverante, comprensiva y organizada. Junto a mis habilidades de liderazgo y trabajo en equipo en un ambiente de respeto, sé que lograré ejecutar la startup de nuestro proyecto de manera efectiva.
+![barbara](https://github.com/HealthyL/Informe/assets/134560396/9c007894-d1dd-4314-b197-a7af204c09a3)
 
 
 ## 1.2. Solution Profile
@@ -470,55 +356,10 @@ Nuestra plataforma busca abordar estas preocupaciones al ofrecer un espacio digi
 
 
 #### 1.2.2.4. Lean UX Canvas.
-
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p><strong>Problemas de negocios</strong></p>
-<p>Falta de personalización en las rutinas y dietas que dificulta el
-progreso de los usuarios.</p></th>
-<th rowspan="2"><p><strong>Ideas de las soluciones</strong></p>
-<p>Rutinas y dietas más específicos</p>
-<p>Integrar tips para las dietas</p>
-<p>Apartado de recompensas por retos semales o mensuales</p></th>
-<th><p><strong>Resultado de comerciales</strong></p>
-<p>Sabremos que lo estamos haciendo bien cuando los comentarios los
-usuarios sean positivos por la calidad y la eficacia de las rutinas y
-dietas.</p></th>
-</tr>
-<tr class="odd">
-<th><p><strong>Usuarios y clientes</strong></p>
-<p><u>Usuarios:</u> Personas que busquen mejorar su salud y estado
-físico.</p>
-<p><u>Clientes:</u> Personas dispuestas a pagar por un servicio
-personalizado de fitness y nutrición en línea.</p></th>
-<th><p><strong>Beneficios del usuario</strong></p>
-<p>Los usuarios podrás disfrutar de un espacio en línea donde encuentren
-la mejor atención personalizada para su cuidado físico.</p></th>
-</tr>
-<tr class="header">
-<th><p><strong>Hipótesis</strong></p>
-<p>Creemos que lograremos que nuestros clientes alcancen sus
-objetivos.</p></th>
-<th><p><strong>¿Qué es lo más importante que necesitemos aprender
-primero?</strong></p>
-<p>Nuestro mayor riesgo sería que la plantilla no sea adecuada para las
-metas de los usuarios</p></th>
-<th><p><strong>¿Cuál es la menor cantidad de trabajo que necestiamos
-hacer para resolver las dudas y para hacer siguiente más
-importante?</strong></p>
-<p>Podríamos incluir un chatbot para dudas de los usuarios sobre el uso
-de la plataforma.</p></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+| Problemas de negocios<br>Falta de personalización en las rutinas y dietas que dificulta el progreso de los usuarios. | Ideas de las soluciones<br>Rutinas y dietas más específicos<br>Integrar tips para las dietas | Resultado de comerciales<br>Sabremos que lo estamos haciendo bien cuando los comentarios de los usuarios sean positivos por la calidad y la eficacia de las rutinas y dietas. |
+|---|---|---|
+| Usuarios y clientes<br>Usuarios: Personas que busquen mejorar su salud y estado físico.<br>Clientes: Personas dispuestas a pagar por un servicio personalizado de fitness y nutrición en línea. |  | Beneficios del usuario<br>Los usuarios podrán disfrutar de un espacio en línea donde encuentren la mejor atención personalizada para su cuidado físico. |
+| Hipótesis<br>Creemos que lograremos que nuestros clientes alcancen sus objetivos. | ¿Qué es lo más importante que necesitamos aprender primero?<br>Nuestro mayor riesgo sería que la plantilla no sea adecuada para las metas de los usuarios | ¿Cuál es la menor cantidad de trabajo que necesitamos hacer para resolver las dudas y para hacer lo siguiente más importante?<br>Podríamos incluir un chatbot para dudas de los usuarios sobre el uso de la plataforma. |
 
 ## 1.3. Segmentos objetivo
 Para esta aplicación web nos enfocaremos un público mayor de edad que
@@ -532,151 +373,23 @@ deseo de adoptar una rutina diaria de un estilo de vida más saludable.
 
 ## 2.1. Competidores
 ### 2.1.1. Análisis competitivo
-
-<table>
-    <tr>
-      <th colspan="7" valign="top"><b>Competitive Analysis Landscape</b></th>
-    </tr>
-    <tr>
-      <td colspan="2" rowspan="2">¿Por qué llevar a cabo este análisis?</td>
-      <td colspan="5">Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.</td>
-    </tr>
-    <tr>
-      <td colspan="5">El propósito de este análisis es identificar a nuestros competidores directos e indirectos en el mercado de fitness y nutrición, así como comprender sus fortalezas, debilidades, oportunidades y amenazas. Esto nos permitirá desarrollar estrategias efectivas para diferenciarnos y destacarnos en el mercado.</td>
-    </tr>
-    <tr>
-      <td colspan="3">(En la cabecera colocar por cada competidor nombre y logo)</td>
-      <td colspan="1" valign="top" style="font-weight: bold;">
-          FitHub
-          <br>
-          <div style="text-align: center; margin-top: 10px;">
-                  <img src="https://cdn.discordapp.com/attachments/1227176636328185917/1227215939486089350/image-4hNEppVbF-transformed.png?ex=662798e8&is=661523e8&hm=ad1536b06c2858a7aff25e31c9ce5303a9acf2800f7c658565c7e8fc91209c6e&" alt="FitHub" width="100px">
-          </div>
-      </td>
-      <td colspan="1" valign="top" style="font-weight: bold;">
-        FitOn
-      <div style="text-align: center;">
-                  <img src="https://media.discordapp.net/attachments/1227176636328185917/1227216459785048124/FitOn_Logo-removebg-preview.webp?ex=66279964&is=66152464&hm=b0196a6bcd6c67170070bc146825ec1a0b101038286158fa88f27689046b1b9b&=&format=webp" alt="FitOn" width="100px">
-          </div>
-      </td>
-      <td colspan="1" valign="top" style="font-weight: bold;">
-        Gymshark Training
-        <div style="text-align: center; margin-top: 20px;">
-                  <img src="https://media.discordapp.net/attachments/1227176636328185917/1227216460166987896/images-removebg-preview-5.webp?ex=66279964&is=66152464&hm=ff0ffc656860b6a20365ed4dbd355b2c74f9d3e7f8db7de149915b715010ad99&=&format=webp" alt="Gymshark Training" width="100px">
-              </div>
-        </td>
-      <td colspan="1" valign="top" style="font-weight: bold;" >
-        MyFitnessPal 
-        <div style="text-align: center; margin-top: 10px;">
-                  <img src="https://media.discordapp.net/attachments/1227176636328185917/1227216460544217148/OIP.jpg?ex=66279964&is=66152464&hm=fc72134b72fcd3b212de02feead979c3318c104811973b2d8bb097a1584115f5&=&format=webp" alt="MyFitnessPal" width="100px">
-              </div>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="1" rowspan="2"><p>Perfil</p></td>
-      <td colspan="2">Overview</td>
-      <td colspan="1" valign="top">FitHub es una plataforma en línea que ofrece servicios personalizados de fitness y nutrición basados en datos de rendimiento y características individuales de los usuarios. La plataforma se centra en proporcionar planes de entrenamiento y dietas diseñadas específicamente para cada usuario, teniendo en cuenta su edad, peso, altura y otros datos relevantes.</td>
-      <td colspan="1" valign="top">FitOn es una aplicación de fitness que ofrece una variedad de entrenamientos guiados por expertos en casa. Ofrece una amplia gama de opciones de entrenamiento, desde yoga hasta entrenamientos de alta intensidad.</td>
-      <td colspan="1" valign="top">Gymshark Training es una aplicación que ofrece entrenamientos de fitness diseñados por entrenadores profesionales. Se enfoca en proporcionar programas de entrenamiento efectivos para ayudar a los usuarios a alcanzar sus metas de fitness.</td>
-      <td colspan="1" valign="top">MyFitnessPal es una aplicación que ayuda a los usuarios a realizar un seguimiento de su ingesta de alimentos, ejercicio y progreso de pérdida de peso. Ofrece una amplia base de datos de alimentos y una comunidad activa de usuarios que comparten consejos y experiencias relacionadas con la dieta y el ejercicio.</td>
-    </tr>
-    <tr>
-      <td colspan="2">Ventaja competitiva</td>
-      <td colspan="1" valign="top">FitHub destaca por ofrecer planes de entrenamiento y dietas personalizados basados en datos y en investigaciones internas del equipo, lo que garantiza recomendaciones precisas y efectivas adaptadas a las necesidades individuales y objetivos de fitness.</td>
-      <td colspan="1" valign="top">FitOn se diferencia por ofrecer una amplia variedad de entrenamientos guiados por expertos en casa, lo que proporciona flexibilidad y conveniencia a los usuarios que desean mantenerse en forma desde la comodidad de su hogar.</td>
-      <td colspan="1" valign="top">Gymshark Training destaca por ofrecer entrenamientos diseñados por entrenadores profesionales, lo que garantiza la calidad y efectividad de los programas de entrenamiento ofrecidos a los usuarios.</td>
-      <td colspan="1" valign="top">MyFitnessPal destaca por su amplia base de datos de alimentos y su comunidad activa de usuarios, lo que proporciona una herramienta integral para el seguimiento de la salud y el fitness.</td>
-    </tr>
-    <tr>
-      <td colspan="1" rowspan="2"><p>Perfil de Marketing</p></td>
-      <td colspan="2">Mercado objetivo</td>
-      <td colspan="1" valign="top">FitHub está dirigido a personas de todas las edades y niveles de condición física que deseen mejorar su salud y forma física de manera personalizada y basada en datos.</td>
-      <td colspan="1" valign="top">FitOn se centra en personas que desean mantenerse en forma desde la comodidad de su hogar. Atrae a aquellos que buscan flexibilidad y conveniencia en sus rutinas de ejercicio.</td>
-      <td colspan="1" valign="top">Gymshark Training se dirige a personas que desean seguir programas de entrenamiento efectivos diseñados por profesionales de fitness para lograr sus objetivos de condición física.</td>
-      <td colspan="1" valign="top">MyFitnessPal está dirigido a personas que desean realizar un seguimiento de su ingesta de alimentos, ejercicio y progreso de pérdida de peso. Atrae a aquellos que buscan una herramienta integral para mantenerse saludables y en forma.</td>
-    </tr>
-    <tr>  
-      <td colspan="2">Estrategia de marketing</td>
-      <td colspan="1" valign="top">FitHub se centra en la personalización y la precisión de sus recomendaciones, destacando su enfoque basado en datos y su capacidad para adaptarse a las necesidades individuales de los usuarios.</td>
-      <td colspan="1" valign="top">FitOn se destaca por su conveniencia y flexibilidad, enfatizando la accesibilidad de los entrenamientos en casa y la variedad de opciones disponibles para los usuarios.</td>
-      <td colspan="1" valign="top">Gymshark Training se enfoca en la calidad y efectividad de sus programas de entrenamiento, promocionando la experiencia de entrenadores profesionales y la garantía de resultados.</td>
-      <td colspan="1" valign="top">MyFitnessPal se centra en su base de datos de alimentos y en la comunidad activa de usuarios, promoviendo la facilidad de seguimiento y la participación en una red de apoyo.</td>
-    </tr>
-     <tr>
-        <td colspan="1"rowspan="4"><p>Perfil de Producto</p></th>
-    </tr>
-    <tr>
-        <td colspan="2">Productos & Servicios</td>
-        <td colspan="1" valign="top">Ofrece servicios personalizados de fitness y nutrición basados en datos de rendimiento y características individuales de los usuarios. Sus principales productos incluyen:
-          - Planes de entrenamiento personalizados por un entrenador.
-          - Dietas personalizadas por un nutricionista.
-          - Planes combinados que incluyen tanto rutinas de ejercicio como dietas personalizadas.</td>
-        <td colspan="1" valign="top">Ofrece una aplicación que proporciona una variedad de entrenamientos guiados por expertos en fitness para realizar en casa. Sus principales productos incluyen:
-          - Amplia variedad de entrenamientos para todos los niveles de condición física.
-          - Programas específicos diseñados para objetivos de fitness individuales, como pérdida de peso, tonificación muscular o aumento de la fuerza.
-          - Incorporación de yoga, pilates y otros tipos de ejercicios para ofrecer diversidad en las rutinas de entrenamiento.</td>
-        <td colspan="1" valign="top">Ofrece programas de entrenamiento diseñados por entrenadores profesionales, así como contenido relacionado con el fitness y la nutrición. Sus principales productos incluyen:
-          - Planes de entrenamiento detallados para una variedad de objetivos de fitness, desde ganar masa muscular hasta mejorar la resistencia cardiovascular.
-          - Guías nutricionales y consejos de expertos en fitness para complementar los programas de entrenamiento.
-          - Integración con productos de Gymshark, como equipos de ejercicio y ropa deportiva, para una experiencia de entrenamiento completa.</td>
-        <td colspan="1" valign="top">Ofrece una aplicación que permite a los usuarios realizar un seguimiento de su ingesta de alimentos, ejercicio y progreso de pérdida de peso. Sus principales productos incluyen:
-          - Base de datos extensa de alimentos para realizar un seguimiento preciso de la ingesta calórica.
-          - Registro de actividad física y ejercicios para monitorear el gasto calórico.
-          - Funciones de análisis y seguimiento del progreso para ayudar a los usuarios a alcanzar sus objetivos de salud y fitness.</td>
-    </tr>
-    <tr>
-        <td colspan="2">Precios & Costos</td>
-        <td colspan="1" valign="top">Ofrece un plan freemium de prueba limitada de 3 meses de duración. Luego, los usuarios pueden optar por planes de suscripción básicos, premium y familiares:
-          - Plan Básico: $9.99/mes.
-          - Plan Premium: $19.99/mes.
-          - Plan Familiar: $29.99/mes (permite compartir la suscripción entre varios miembros de la familia).</td>
-        <td colspan="1" valign="top">Aplicación gratuita para descargar y usar, lo que lo hace accesible para una amplia audiencia. Ofrece contenido gratuito con la opción de acceso premium a funciones adicionales a través de una suscripción mensual o anual:
-          - FitOn Plus: $19.99/mes o $89.99/año.</td>
-        <td colspan="1" valign="top">Ofrece contenido gratuito a través de su plataforma en línea, así como acceso premium a programas de entrenamiento específicos a través de una suscripción mensual o anual:
-          - Gymshark Training Premium: $14.99/mes o $99.99/año.</td>
-        <td colspan="1" valign="top">Ofrece una versión gratuita de la aplicación con funciones básicas, así como una suscripción premium que brinda acceso a características adicionales:
-          - MyFitnessPal Premium: $9.99/mes o $49.99/año.</td>
-    </tr>
-    <tr>
-        <td colspan="2">Canales de distribución (Web y/o Móvil)</td>
-        <td colspan="1" valign="top">Se distribuye principalmente a través de su plataforma en línea, accesible tanto desde dispositivos móviles como desde navegadores web. Esto proporciona flexibilidad y conveniencia a los usuarios para acceder a los servicios desde cualquier lugar.</td>
-        <td colspan="1" valign="top">Está disponible como una aplicación móvil para dispositivos iOS y Android, así como a través de su plataforma web. Esto permite a los usuarios acceder a los entrenamientos desde cualquier lugar utilizando sus dispositivos móviles o navegadores web.</td>
-        <td colspan="1" valign="top">Se distribuye principalmente a través de su plataforma en línea y su aplicación móvil, disponible para dispositivos iOS y Android. Esto proporciona a los usuarios acceso conveniente a los programas de entrenamiento y contenido relacionado desde cualquier lugar.</td>
-        <td colspan="1" valign="top">Está disponible como una aplicación móvil para dispositivos iOS y Android, así como a través de su plataforma web. Esto permite a los usuarios acceder a la aplicación desde una variedad de dispositivos, lo que aumenta su accesibilidad.</td>
-    </tr>
-<tr>
-      <td colspan="1" rowspan="5"><p>Análisis SWOT</p></td>
-      <td colspan="6">Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus oportunidades y contribuir a lo que ustedes definen como su posible ventaja competitiva.</td>
-    </tr>
-    <tr>
-      <td colspan="2">Fortalezas</td>
-      <td colspan="1" valign="top">Ofrece servicios personalizados de fitness y nutrición. <br> Precios competitivos y plataforma accesible. <br> Enfoque en datos de rendimiento y características individuales. </td>
-      <td colspan="1" valign="top">Variedad de entrenamientos y aplicación gratuita. <br> Inclusión de yoga, pilates y otros ejercicios. <br> Accesibilidad para una amplia audiencia. </td>
-      <td colspan="1" valign="top">Marca reconocida en el sector de fitness y entrenamiento. <br> Contenido de alta calidad y guías de entrenamiento. <br> Comunidad comprometida y activa en redes sociales. </td>
-      <td colspan="1" valign="top">Base de datos extensa y marca establecida. <br> Amplia gama de funciones de seguimiento y análisis. <br> Versión gratuita con opción de actualización. </td>
-    </tr>
-    <tr>
-      <td colspan="2">Debilidades</td>
-      <td colspan="1" valign="top">Falta de reconocimiento de marca en comparación con competidores establecidos. <br> Posibles limitaciones financieras para escalar a gran escala. </td>
-      <td colspan="1" valign="top">Dependencia del compromiso del usuario. <br> Competencia en el mercado de aplicaciones de fitness en casa. </td>
-      <td colspan="1" valign="top">Dependencia de la disponibilidad de equipo y espacio para entrenamiento. <br> Competencia en el mercado de aplicaciones de fitness. </td>
-      <td colspan="1" valign="top">Limitaciones en la personalización y precisión de datos. <br> Dependencia de la entrada precisa del usuario. </td>
-    </tr>
-    <tr>
-      <td colspan="2">Oportunidades</td>
-      <td colspan="1" valign="top">Aumento de la demanda de servicios personalizados de salud y fitness. <br> Potencial para colaboraciones y tecnologías emergentes. </td>
-      <td colspan="1" valign="top">Expansión internacional y colaboración con influencers. <br> Integración de nuevas tecnologías. </td>
-      <td colspan="1" valign="top">Expansión internacional y asociaciones con atletas y celebridades. <br> Desarrollo de contenido exclusivo y programas de entrenamiento. </td>
-      <td colspan="1" valign="top">Expansión internacional y colaboraciones. <br> Integración de nuevas tecnologías. </td>
-    </tr>
-    <tr>
-      <td colspan="2">Amenazas</td>
-      <td colspan="1" valign="top">Competencia creciente en el mercado de fitness en línea. <br> Cambios en las tendencias de salud y fitness. <br> Desafíos regulatorios y de privacidad de datos. </td>
-      <td colspan="1" valign="top">Cambios en las tendencias de fitness. <br> Competencia agresiva en el mercado de aplicaciones de fitness. <br> Desafíos financieros para mantener la calidad del contenido. </td>
-      <td colspan="1" valign="top">Competencia creciente en el mercado de aplicaciones de fitness y entrenamiento. <br> Cambios en las preferencias de los usuarios y tendencias de la industria. <br> Desafíos financieros para mantener la calidad del contenido y la plataforma. </td>
-      <td colspan="1" valign="top">Competencia en el mercado de aplicaciones de salud y fitness. <br> Cambios en las preferencias del consumidor. <br> Riesgos de privacidad de datos. </td>
-    </tr>
-  </table>
+| Competitive Analysis Landscape |  |  |  |  |  |
+|---|---|---|---|---|---|
+| ¿Por qué llevar a cabo este análisis? | Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis. |  |  |  |  |
+|  | El propósito de este análisis es identificar a nuestros competidores directos e indirectos en el mercado de fitness y nutrición, así como comprender sus fortalezas, debilidades, oportunidades y amenazas. Esto nos permitirá desarrollar estrategias efectivas para diferenciarnos y destacarnos en el mercado. | ![fithub](https://github.com/HealthyL/Informe/assets/134560396/f15d808a-60e7-49fe-80ed-f11decb90b0a) | ![fiton](https://github.com/HealthyL/Informe/assets/134560396/ce82d16a-b103-4dc7-acb2-38e2ad13bdf3) | ![gymshark](https://github.com/HealthyL/Informe/assets/134560396/363af072-b3d2-4826-8add-05bab3c9ec0f) | ![fitnesspal](https://github.com/HealthyL/Informe/assets/134560396/52b3a1e1-7609-4727-a7d5-92c46412833a) |
+|  |  | FitHub<br># | FitOn<br># | Gymshark Training<br># | MyFitnessPal<br># |
+| <br>Perfil | Overview | FitHub es una plataforma en línea que ofrece servicios personalizados de fitness y nutrición basados en datos de rendimiento y características individuales de los usuarios. La plataforma se centra en proporcionar planes de entrenamiento y dietas diseñadas específicamente para cada usuario, teniendo en cuenta su edad, peso, altura y otros datos relevantes. | FitOn es una aplicación de fitness que ofrece una variedad de entrenamientos guiados por expertos en casa. Ofrece una amplia gama de opciones de entrenamiento, desde yoga hasta entrenamientos de alta intensidad. | Gymshark Training es una aplicación que ofrece entrenamientos de fitness diseñados por entrenadores profesionales. Se enfoca en proporcionar programas de entrenamiento efectivos para ayudar a los usuarios a alcanzar sus metas de fitness. | MyFitnessPal es una aplicación que ayuda a los usuarios a realizar un seguimiento de su ingesta de alimentos, ejercicio y progreso de pérdida de peso. Ofrece una amplia base de datos de alimentos y una comunidad activa de usuarios que comparten consejos y experiencias relacionadas con la dieta y el ejercicio. |
+|  | Ventaja competitiva | Se destaca por ofrecer planes de entrenamiento y dietas personalizados basados en datos y en investigaciones internas del equipo, lo que garantiza recomendaciones precisas y efectivas adaptadas a las necesidades individuales y objetivos de fitness. | Se diferencia por ofrecer una amplia variedad de entrenamientos guiados por expertos en casa, lo que proporciona flexibilidad y conveniencia a los usuarios que desean mantenerse en forma desde la comodidad de su hogar. | Se destaca por ofrecer entrenamientos diseñados por entrenadores profesionales, lo que garantiza la calidad y efectividad de los programas de entrenamiento ofrecidos a los usuarios. | destaca por su amplia base de datos de alimentos y su comunidad activa de usuarios, lo que proporciona una herramienta integral para el seguimiento de la salud y el fitness. |
+| <br>Perfil de Marketing | Mercado objetivo | Está dirigido a personas de todas las edades y niveles de condición física que deseen mejorar su salud y forma física de manera personalizada y basada en datos. | Se centra en personas que desean mantenerse en forma desde la comodidad de su hogar. Atrae a aquellos que buscan flexibilidad y conveniencia en sus rutinas de ejercicio. |  Se dirige a personas que desean seguir programas de entrenamiento efectivos diseñados por entrenadores profesionales. Atrae a aquellos que buscan resultados específicos y calidad en sus rutinas de ejercicio. | Se dirige a personas que desean realizar un seguimiento de su ingesta de alimentos, ejercicio y progreso de pérdida de peso. Atrae a aquellos que buscan una herramienta integral para el seguimiento de la salud y el fitness. |
+|  | Estrategias de marketing | Utilización de marketing digital dirigido en redes sociales, blogs de fitness y sitios web relacionados con la salud.<br>- Asociaciones con profesionales de la salud y fitness, así como con influencers en el campo, para ampliar el alcance y credibilidad. | - Promoción de una amplia variedad de entrenamientos guiados por expertos para atraer a usuarios interesados en la diversidad de opciones de ejercicio en casa.<br>- Marketing a través de redes sociales y colaboraciones con influencers en el fitness para llegar a su audiencia objetivo. | - Enfoque en la calidad de los programas de entrenamiento y la credibilidad de los entrenadores profesionales para atraer a usuarios comprometidos con su fitness.<br>- Uso de testimonios y estudios de caso para demostrar la efectividad de los programas de entrenamiento. | - Enfoque en la base de datos extensa de alimentos y la comunidad activa de usuarios para promover el boca a boca y la participación.<br>- Campañas de marketing digital enfocadas en destacar la utilidad y conveniencia de la aplicación. |
+| Perfil de Producto  | Productos &amp; Servicios | <br>Ofrece servicios personalizados de fitness y nutrición basados en datos de rendimiento y características individuales de los usuarios. Sus principales productos incluyen:<br>- Planes de entrenamiento personalizados por un entrenador.<br>- Dietas personalizadas por un nutricionista.<br>- Planes combinados que incluyen tanto rutinas de ejercicio como dietas personalizadas. | Ofrece una aplicación que proporciona una variedad de entrenamientos guiados por expertos en fitness para realizar en casa. Sus principales productos incluyen:<br>- Amplia variedad de entrenamientos para todos los niveles de condición física.<br>- Programas específicos diseñados para objetivos de fitness individuales, como pérdida de peso, tonificación muscular o aumento de la fuerza.<br>- Incorporación de yoga, pilates y otros tipos de ejercicios para ofrecer diversidad en las rutinas de entrenamiento. | Ofrece programas de entrenamiento diseñados por entrenadores profesionales, así como contenido relacionado con el fitness y la nutrición. Sus principales productos incluyen:<br>- Planes de entrenamiento detallados para una variedad de objetivos fitness, desde ganar masa muscular hasta mejorar la resistencia cardiovascular.<br>- Guías nutricionales y consejos de expertos en fitness para complementar los programas de entrenamiento.<br>- Integración con productos de Gymshark, como equipos de ejercicio y ropa deportiva, para una experiencia de entrenamiento completa. | Ofrece una aplicación que permite a los usuarios realizar un seguimiento de su ingesta de alimentos, ejercicio y progreso de pérdida de peso. Sus principales productos incluyen:<br>- Base de datos extensa de alimentos para realizar un seguimiento preciso de la ingesta calórica.<br>- Registro de actividad física y ejercicios para monitorear el gasto calórico.<br>- Funciones de análisis y seguimiento del progreso para ayudar a los usuarios a alcanzar sus objetivos de salud y fitness. |
+|  | Precios y Costos | <br>ofrece un plan freemium de prueba limitada de 3 meses de duración. Luego, los usuarios pueden optar por planes de suscripción básicos, premium y familiares:<br>- Plan Básico: $9.99/mes.<br>- Plan Premium: $19.99/mes.<br>- Plan Familiar: $29.99/mes (permite compartir la suscripción entre varios miembros de la familia). | aplicación gratuita para descargar y usar, lo que lo hace accesible para una amplia audiencia. Ofrece contenido gratuito con la opción de acceso premium a funciones adicionales a través de una suscripción mensual o anual:<br>- FitOPlus: $19.99/mes o $89.99/año. | ofrece contenido gratuito a través de su plataforma en línea, así como acceso premium a programas de entrenamiento específicos a través de una suscripción mensual o anual:<br>- Gymshark Training Premium: $14.99/mes o $99.99/año. | ofrece una versión gratuita de la aplicación con funciones básicas, así como una suscripción premium que brinda acceso a características adicionales:<br>- MyFitnessPal Premium: $9.99/mes o $49.99/año. |
+|  | Canales de distribución (Web y/o Móvil) | Se distribuye principalmente a través de su plataforma en línea, accesible tanto desde dispositivos móviles como desde navegadores web. Esto proporciona flexibilidad y conveniencia a los usuarios para acceder a los servicios desde cualquier lugar. | Está disponible como una aplicación móvil para dispositivos iOS y Android, así como a través de su plataforma web. Esto permite a los usuarios acceder a los entrenamientos desde cualquier lugar utilizando sus dispositivos móviles o navegadores web. | Se distribuye principalmente a través de su plataforma en línea y su aplicación móvil, disponible para dispositivos iOS y Android. Esto proporciona a los usuarios acceso conveniente a los programas de entrenamiento y contenido relacionado desde cualquier lugar. | Está disponible como una aplicación móvil para dispositivos iOS y Android, así como a través de su plataforma web. Esto permite a los usuarios acceder a la aplicación desde una variedad de dispositivos, lo que aumenta su accesibilidad. |
+| <br>Análisis SWOT | Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus oportunidades y contribuir a lo que ustedes definen como su posible ventaja competitiva. |  |  |  |  |
+|  | Fortalezas | - Ofrece servicios personalizados de fitness y nutrición.<br>- Precios competitivos y plataforma accesible.<br>- Enfoque en datos de rendimiento y características individuales. | - Variedad de entrenamientos y aplicación gratuita.<br>- Inclusión de yoga, pilates y otros ejercicios.<br>- Accesibilidad para una amplia audiencia. | - Marca reconocida en el sector de fitness y entrenamiento.<br>- Contenido de alta calidad y guías de entrenamiento.<br>- Comunidad comprometida y activa en redes sociales. | - Base de datos extensa y marca establecida.<br>- Amplia gama de funciones de seguimiento y análisis.<br>- Versión gratuita con opción de actualización. |
+|  | Debilidades | - Falta de reconocimiento de marca en comparación con competidores establecidos.<br>- Posibles limitaciones financieras para escalar a gran escala. | - Dependencia del compromiso del usuario.<br>- Competencia en el mercado de aplicaciones de fitness en casa. | - Dependencia de la disponibilidad de equipo y espacio para entrenamiento.<br>- Competencia en el mercado de aplicaciones de fitness. | - Limitaciones en la personalización y precisión de datos.<br>- Dependencia de la entrada precisa del usuario. |
+|  | Oportunidades | - Aumento de la demanda de servicios personalizados de salud y fitness.<br>- Potencial para colaboraciones y tecnologías emergentes. | - Expansión internacional y colaboración con influencers.<br>- Integración de nuevas tecnologías. | - Expansión internacional y asociaciones con atletas y celebridades.<br>- Desarrollo de contenido exclusivo y programas de entrenamiento. | - Expansión internacional y colaboraciones.<br>- Integración de nuevas tecnologías. |
+|  | Amenazas | - Competencia creciente en el mercado de fitness en línea.<br>- Cambios en las tendencias de salud y fitness.<br>- Desafíos regulatorios y de privacidad de datos. | - Cambios en las tendencias de fitness.<br>- Competencia agresiva en el mercado de aplicaciones de fitness.<br>- Desafíos financieros para mantener la calidad del contenido. | - Competencia creciente en el mercado de aplicaciones de fitness y entrenamiento.<br>- Cambios en las preferencias de los usuarios y tendencias de la industria.<br>- Desafíos financieros para mantener la calidad del contenido y la plataforma. | - Competencia en el mercado de aplicaciones de salud y fitness.<br>- Cambios en las preferencias del consumidor.<br>- Riesgos de privacidad de datos. |
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 En el dinámico mercado de fitness y nutrición, la competencia es feroz y la diferenciación es clave para destacarse entre la multitud. En esta sección, exploramos una serie de estrategias y tácticas diseñadas para posicionar nuestra empresa de manera efectiva frente a competidores directos e indirectos.
@@ -729,12 +442,10 @@ En esta fase, hemos identificado preguntas clave para cada grupo de usuarios, bu
   - Apellidos: Castillo
   - Edad: 20 años
   - Distrito: Callao
-  - Link de la entrevista: [Enlace aquí](https://drive.google.com/file/d/1fRUfC72HD6yWInaV6Lsof_Tuzsqbdo-R/view)
+  - Link de la entrevista: [Enlace aquí](https://drive.google.com/file/d/1fRUfC72HD6yWInaV6Lsof_Tuzsqbdo-R/view)](https://drive.google.com/file/d/1fRUfC72HD6yWInaV6Lsof_Tuzsqbdo-R/view)
   - Timing y Duración: 03:29
   - Evidencia de la reunión:<br>
-    <p align="center">
-     <img src="https://github.com/HealthyL/Informe/assets/107071662/e007f013-29e2-4e51-ab40-128bd21a6489" style="margin-bottom: 5px;" width="620px" align="center"/>
-    </p>
+[imagen](https://github.com/HealthyL/Informe/assets/107071662/e007f013-29e2-4e51-ab40-128bd21a6489)
   - Resumen de la entrevista:
 El entrevistado, Jair Castillo, destacó su compromiso activo con un estilo de vida saludable, enfocado en mantener un cuerpo en forma y una alimentación equilibrada. Sin embargo, admitió enfrentarse a una considerable confusión al buscar orientación en línea para obtener planes de entrenamiento y consejos sobre nutrición. Actualmente, se ve obligado a recurrir a videos de YouTube y a seguir a entrenadores en redes sociales en busca de información relevante. A pesar de sus esfuerzos, Jair expresó su frustración por la falta de resultados rápidos y efectivos en su búsqueda por mejorar su salud y forma física.
 
@@ -743,12 +454,10 @@ El entrevistado, Jair Castillo, destacó su compromiso activo con un estilo de v
   - Apellidos: Yauri
   - Edad: 20 años
   - Distrito: San Miguel
-  - Link de la entrevista: [Enlace aquí](https://drive.google.com/file/d/1TESjsVLUgQN-isLQoe-tkEiDbRxPplQx/view)
+  - Link de la entrevista: [[Enlace aquí](https://drive.google.com/file/d/1TESjsVLUgQN-isLQoe-tkEiDbRxPplQx/view)](https://drive.google.com/file/d/1TESjsVLUgQN-isLQoe-tkEiDbRxPplQx/view)
   - Timing y Duración: 06:43
   - Evidencia de la reunión:<br>
-    <p align="center">
-     <img src="https://github.com/HealthyL/Informe/assets/107071662/8b1d0e82-6ff4-4552-bece-578e46eedc3c" style="margin-bottom: 5px;" width="620px" align="center"/>
-    </p>
+[imagen](https://github.com/HealthyL/Informe/assets/107071662/8b1d0e82-6ff4-4552-bece-578e46eedc3c)
   - Resumen de la entrevista:
 El entrevistado, Jair Castillo, destacó su compromiso activo con un estilo de vida saludable, enfocado en mantener un cuerpo en forma y una alimentación equilibrada. Sin embargo, admitió enfrentarse a una considerable confusión al buscar orientación en línea para obtener planes de entrenamiento y consejos sobre nutrición. Actualmente, se ve obligado a recurrir a videos de YouTube y a seguir a entrenadores en redes sociales en busca de información relevante. A pesar de sus esfuerzos, Jair expresó su frustración por la falta de resultados rápidos y efectivos en su búsqueda por mejorar su salud y forma física.
 
@@ -758,12 +467,10 @@ El entrevistado, Jair Castillo, destacó su compromiso activo con un estilo de v
   - Apellidos: Diaz
   - Edad: 20 años
   - Distrito: Surco
-  - Link de la entrevista: [Enlace aquí](https://drive.google.com/file/d/177_n_26XWHlHz2t6qElLyxO4C8aBuPEU/view?usp=sharing)
+  - Link de la entrevista:[https://drive.google.com/file/d/177_n_26XWHlHz2t6qElLyxO4C8aBuPEU/view?usp=sharing](https://drive.google.com/file/d/177_n_26XWHlHz2t6qElLyxO4C8aBuPEU/view?usp=sharing)
   - Timing y Duración: 04:02
   - Evidencia de la reunión:<br>
-    <p align="center">
-     <img src="https://github.com/HealthyL/Informe/assets/107071662/a1e7cb63-20b8-4479-9e87-116d399ccc16" style="margin-bottom: 5px;" width="620px" align="center"/>
-    </p>
+[imagen](https://github.com/HealthyL/Informe/assets/107071662/a1e7cb63-20b8-4479-9e87-116d399ccc16)
   - Resumen de la entrevista:
 Salvador Diaz está comprometido con mantenerse en forma y llevar una alimentación equilibrada, pero se enfrenta a la confusión al buscar orientación en línea sobre nutrición. Aunque recurre a videos de YouTube y redes sociales para obtener información, está frustrado por la falta de resultados rápidos y efectivos. Se le sugiere buscar fuentes de información más confiables, como sitios web de instituciones médicas, y considerar la consulta directa con un profesional de la salud para obtener orientación personalizada. Se le anima a ser paciente y a adoptar un enfoque integral para lograr sus objetivos.
 
@@ -772,12 +479,10 @@ Salvador Diaz está comprometido con mantenerse en forma y llevar una alimentaci
   - Apellidos: Aguilar
   - Edad: 21 años
   - Distrito: San Miguel
-  - Link de la entrevista: [Enlace aquí](https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view)
+  - Link de la entrevista: [[Enlace aquí](https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view)](https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view)
   - Timing y Duración: 05:04
   - Evidencia de la reunión:<br>
-    <p align="center">
-     <img src="https://github.com/HealthyL/Informe/assets/107071662/31fa9383-ff39-4b40-bd02-9f3311c56006" style="margin-bottom: 5px;" width="620px" align="center"/>
-    </p>
+[imagen](https://github.com/HealthyL/Informe/assets/107071662/31fa9383-ff39-4b40-bd02-9f3311c56006)
   - Resumen de la entrevista:
 Agustín Aguilar, residente de San miguel, tiene 21 años y está interesado en mantenerse en forma y llevar una dieta saludable. Actualmente, realiza ejercicio ocasionalmente, principalmente planchas y pesas, y no sigue una dieta estricta, aunque se alimenta de manera saludable. Su principal objetivo al usar un servicio de fitness en línea es mejorar su estado físico y mantenerse en forma. Agustín enfrenta desafíos para seguir una dieta constante y encontrar la motivación para mantener una rutina de ejercicio. Le motiva sentirse bien consigo mismo y manejar el estrés y la ansiedad. Espera recibir información sobre rutinas de ejercicio y dietas personalizadas, consejos para mantener la disciplina y un lugar para registrar su progreso. Actualmente, establece su propia rutina de ejercicio y dieta, buscando información en Internet y comparando diferentes fuentes. Agustín desea recibir un plan de rutina establecida y una dieta definida en lugar de improvisar cada día.
 
@@ -786,12 +491,10 @@ Agustín Aguilar, residente de San miguel, tiene 21 años y está interesado en 
   - Apellidos: Del Carmen
   - Edad: 21 años
   - Distrito: Puente Piedra
-  - Link de la entrevista: [Enlace aquí](https://drive.google.com/file/d/1fRUfC72HD6yWInaV6Lsof_Tuzsqbdo-R/view)
+  - Link de la entrevista: [[Enlace aquí](https://drive.google.com/file/d/1fRUfC72HD6yWInaV6Lsof_Tuzsqbdo-R/view)](https://drive.google.com/file/d/1fRUfC72HD6yWInaV6Lsof_Tuzsqbdo-R/view)
   - Timing y Duración: 09:17
   - Evidencia de la reunión:<br>
-    <p align="center">
-     <img src="https://github.com/HealthyL/Informe/assets/107071662/f5e8deef-9ec1-4a60-9e7c-bcfa6cc3e36d" style="margin-bottom: 5px;" width="620px" align="center"/>
-    </p>
+[imagen](https://github.com/HealthyL/Informe/assets/107071662/f5e8deef-9ec1-4a60-9e7c-bcfa6cc3e36d)
   - Resumen de la entrevista:
 Ray del Carmen, residente de Puente Piedra, tiene 21 años y comparte su experiencia acerca de que hace para mantenerse en forma y llevar una dieta saludable. Actualmente, practica fútbol y ejercicios de resistencia, para mejorar su rendimiento. Su principal objetivo al buscar un servicio en línea o un app fitness es acompañar su rutina diaria con una dieta balanceada. Ray encuentra diversos obstáculos al momento de buscar ejercicios y dietas adecuadas al deporte que él practica y en muchas ocasiones los ejercicios recomendados por los anuncios no son los acertados. Su motivación para ejercitarse es tener una buena salud y ser el mejor en el deporte que lo apasiona. Espera recibir información sobre rutinas de ejercicio y dietas personalizadas en base a objetivos que permitan cumplir sus metas establecidas. Actualmente, elabora su propia rutina de ejercicio y dieta, buscando información en Internet o aplicaciones enfocadas en deportes. Ray busca adquirir un plan adecuado en base a la experiencia de otros usuarios, rutinas y dietas que sean efectivas y comprobadas.
 
@@ -816,77 +519,32 @@ Realizamos un análisis detallado de las entrevistas llevadas a cabo con el segm
 
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897037705777232/image36.png?ex=663159e0&is=661ee4e0&hm=9a1c60c0ef38ad9255da9f4fa7575045eb38147a6a857664a92804dfd368a7ff&=&format=webp&quality=lossless&width=892&height=502" alt="Segmento 1" style="margin-bottom: 3px;" width="780px">
-</p>
+[user-persona](https://media.discordapp.net/attachments/1229240004270882826/1229897037705777232/image36.png?ex=663159e0&is=661ee4e0&hm=9a1c60c0ef38ad9255da9f4fa7575045eb38147a6a857664a92804dfd368a7ff&=&format=webp&quality=lossless&width=892&height=502)
 
 ### 2.3.2. User Task Matrix.
-
-<table align="center">
-    <thead>
-        <tr>
-            <th rowspan=2>User Task Matrix</th>
-            <th colspan=2>Marco Torres</th>
-         <tr>
-            <th rowspan=1 align="center">Frecuencia</td>
-            <th rowspan=1 align="center">Importancia</td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td rowspan=1 align="center">Implementar una rutina personalizada en su vida diaria</td>
-            <td rowspan=1 align="center">Low</td>
-            <td rowspan=1 align="center">High</td>
-        </tr>
-        <tr>
-            <td rowspan=1 align="center">Tener más energía y reducir el estrés</td>
-            <td rowspan=1 align="center">Medium</td>
-            <td rowspan=1 align="center">High</td>
-        </tr>
-         <tr>
-            <td rowspan=1 align="center">Mejorar su confianza en sí mismo</td>
-            <td rowspan=1 align="center">Low</td>
-            <td rowspan=1 align="center">High</td>
-        </tr>
-         <tr>
-            <td rowspan=1 align="center">Encontrar una solución personalizada que se ajuste a su agenda</td>
-            <td rowspan=1 align="center">Low</td>
-            <td rowspan=1 align="center">Medium</td>
-        </tr>
-         <tr>
-            <td rowspan=1 align="center">Mantener una rutina constante debido a sus compromisos laborales</td>
-            <td rowspan=1 align="center">Low</td>
-            <td rowspan=1 align="center">High</td>
-        </tr>
-         <tr>
-            <td rowspan=1 align="center">Evitar caer en hábitos poco saludables</td>
-            <td rowspan=1 align="center">Medium</td>
-            <td rowspan=1 align="center">Low</td>
-        </tr>
-    </tbody>
-</table>
+| User task Matrix | Marco Torres |  |
+|---|---|---|
+|  | Frecuencia | Importancia |
+| Implementar una rutina personalizada en su vida diaria | Low | High |
+| Tener más energía y reducir el estrés | Medium | High |
+| Mejorar su confianza en sí mismo | Low | High |
+| Encontrar una solución personalizada que se ajuste a su agenda | Low | High |
+| Mantener una rutina constante debido a sus compromisos laborales | Low | High |
+| Evitar caer en hábitos poco saludables | Medium | High |
 
 
 ### 2.3.3. User Journey Mapping.
 Esta técnica nos permite comprender y visualizar el proceso que atraviesa un usuario desde el primer contacto con nuestro producto o servicio hasta la realización de una acción deseada. Además, veremos cómo esta técnica nos permite diseñar soluciones centradas en las necesidades y expectativas de nuestros usuarios, mejorando así la experiencia global y aumentando la satisfacción y fidelidad del cliente.
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/1229240004270882826/1229896798966120598/image4.png?ex=663159a7&is=661ee4a7&hm=f7c1807e0a75017c1680747f744eb0559303c7e52e96e9d16216ec4f6ef06379&=&format=webp&quality=lossless&width=1090&height=502" alt="Segmento 1" style="margin-bottom: 3px;" width="780px">
-</p>
+[journey-mapping](https://media.discordapp.net/attachments/1229240004270882826/1229896798966120598/image4.png?ex=663159a7&is=661ee4a7&hm=f7c1807e0a75017c1680747f744eb0559303c7e52e96e9d16216ec4f6ef06379&=&format=webp&quality=lossless&width=1090&height=502)
 
 ### 2.3.4. Empathy Mapping.
 Al utilizar el Empathy Mapping, podemos adentrarnos en la mente y el corazón de nuestros usuarios, comprendiendo sus pensamientos, sentimientos, necesidades y deseos.
 
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897465327779900/image78.png?ex=66315a46&is=661ee546&hm=85b9adaab8c772150cb9e837e024c56db30fa3e063ac008ce102705328519cd3&=&format=webp&quality=lossless" alt="Segmento 1" style="margin-bottom: 3px;" width="780px">
-</p>
+[empathy-mapping](https://media.discordapp.net/attachments/1229240004270882826/1229897465327779900/image78.png?ex=66315a46&is=661ee546&hm=85b9adaab8c772150cb9e837e024c56db30fa3e063ac008ce102705328519cd3&=&format=webp&quality=lossless)
 
 ### 2.3.5. As-is Scenario Mapping.
 Antes de sumergirse en nuestra plataforma, los entusiastas del fitness dependen de una combinación de métodos tradicionales y recursos en línea para guiar su entrenamiento y nutrición. Se apoyan en rutinas preestablecidas que pueden encontrar en libros o en línea, utilizan aplicaciones gratuitas para rastrear sus actividades físicas y contar calorías, e incluso buscan inspiración en comunidades en línea y redes sociales. Sin embargo, el análisis de la situación actual revelará los desafíos y limitaciones de estos métodos que los usuarios han enfrentado hasta ahora.
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897202076487851/image53.png?ex=66315a07&is=661ee507&hm=9aec9186876fa48e67fc40c012271ba41581e1ded47c9745ed8e9d779662e83f&=&format=webp&quality=lossless&width=1200&height=444" alt="Segmento 1" style="margin-bottom: 3px;" width="780px">
-</p>
-
-
+[as-is-scenario-mapping](https://media.discordapp.net/attachments/1229240004270882826/1229897202076487851/image53.png?ex=66315a07&is=661ee507&hm=9aec9186876fa48e67fc40c012271ba41581e1ded47c9745ed8e9d779662e83f&=&format=webp&quality=lossless&width=1200&height=444)
 
 ## 2.4. Ubiquitous Language.
 * Visitante: Cualquier persona que visite la landing page.
@@ -903,66 +561,43 @@ Antes de sumergirse en nuestra plataforma, los entusiastas del fitness dependen 
 
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
-
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/1229240004270882826/1229896928452542576/image12.png?ex=663159c6&is=661ee4c6&hm=c075050e58119feb45b7b2921435c0189e211de6b200fb8d63ce0910a88e9044&=&format=webp&quality=lossless" alt="Segmento 1" style="margin-bottom: 3px;" width="780px">
-</p>
+[to-be-scenario-mapping](https://media.discordapp.net/attachments/1229240004270882826/1229896928452542576/image12.png?ex=663159c6&is=661ee4c6&hm=c075050e58119feb45b7b2921435c0189e211de6b200fb8d63ce0910a88e9044&=&format=webp&quality=lossless)
 
 ## 3.2. User Stories.
 
 **Epicas**
-| Epic ID | Detalle                                    |
-| ------- | ------------------------------------------ |
-| EP001   | Gestión de Acceso de Usuarios              |
-| EP002   | Experiencia del Usuario en la Landing Page |
-| EP003   | Funcionalidades del FitExplorer            |
-| EP004   | Gestion de herramientas                    |
-| EP005   | Funcionalidades técnicas                   |
+| Epic ID | Detalle | 
+|---|---|
+| EP001 | Interacción con la Landing Page |  
+| EP002 | Gestión de Cuenta de Usuario |
+| EP003 | Acceso a Información de Nutrición y Productos |
+| EP004 | Acceso a Información de Rutinas Personalizadas | 
 
-
-| Story ID 	| Título 	| Descripción 	| Criterios de aceptación 	| Relacionado con (Epic ID) 	|
-|---	|---	|---	|---	|---	|
-| US001 	| Creación de hipervínculos (Header) 	|  Como visitante de la landing page quiero interactuar con la landing page para tener información sobre FitHub. 	| _Escenario 1: Interacción con hipervínculos_<br>Dado que el visitante interactúa con los hipervínculos <br>Cuando selecciono una de la secciones <br>Entonces será dirigido a la sección seleccionada. 	| EP002 	|
-| US002 	| Sección Contáctanos 	| Como visitante de la landing page quiero contactarme con FitHub para resolver mis dudas. 	| _Escenario 1: Interacción con el hipervínculo_<br>Dado que el visitante se encuentra en la landing page<br>Cuando haga click en el hipervinculo de “Contáctanos”<br>Entonces se dirigirá a esta sección<br><br><br>_Escenario 2: Ingresa datos_<br>Dado que el visitante se encuentra en la landing page <br>Cuando haga click a las barras de texto <br>Entonces podra ingresar texto.<br> <br>_Escenario 3: Enviar datos_<br>Dado que el visitante se encuentra en la landing page <br>Cuando haga click en el botón "submit" <br>Entonces los textos ingresados serán enviados. 	| EP002 	|
-| US003 	| Sección funcionamiento 	| Como visitante de la landing page quiero un vistazo a la app para saber como es la interfaz. 	| _Escenario 1: Interacción con el hipervínculo_<br>Dado que el visitante se encuentra en la landing page<br>Cuando haga clic en el hipervínculo de “¿Cómo funciona?”<br>Entonces se dirigirá a esta sección<br><br><br>_Escenario 2: Visualización de pasos_<br>Dado que el visitante se encuentra en la sección “¿Cómo funciona?”<br>Entonces podrá ver los pasos que debe realizar para afiliarse 	| EP02 	|
-| US004 	| Sección Planes 	| Como visitante de la landing page quiero conocer los planes para saber sobre los beneficios que tendré. 	| _Escenario 1: Interacción con el hipervínculo_<br>Dado que el visitante se encuentra en la landing page<br>Cuando haga clic en el hipervínculo de “Planes”<br>Entonces se dirigirá a esta sección<br><br><br>_Escenario 2: Interacción con cartillas_<br>Dado que el visitante se encuentra en la sección “Planes”<br>Cuando pueda leer la información que ofrece cada plan y el costo<br>Entonces podrá crear una cuenta 	| EP002 	|
-| US005 	| Crear cuenta 	| Como visitante de la landing page quiero ser dirigido al apartado de creación de cuenta para afiliarme a FitHub 	| _Escenario 1: Redirigir al visitante al apartado de creación de cuenta_<br>Dado que el visitante se encuentra en la landing page y quiere registrarse en FitHub<br>Cuando haga click al botón de "create account" <br>Entonces será enviado a la pestaña de creación de cuentas. 	| EP001 	|
-| US006 	| Iniciar sesión 	| Como visitante de la landing page quiero ser dirigido al apartado de iniciar sesión para acceder a todas las funcionalidades 	| _Escenario 1: Redirigir al visitante al apartado de inicio de sesión_<br>Dado que el visitante se encuentra en la landing page y quiere iniciar sesión en MindCare<br>Cuando haga click al botón de "iniciar sesión" <br>Entonces será enviado a la pestaña de inicio de sesión.<br><br><br>_Escenario 2: Ingresar a su cuenta_<br>Dado que el visitante se encuentra en la pestaña de inicio de sesión<br>Cuando ingrese sus datos<br>Y le de click a Ingresar<br>Entonces se mostraran sus datos y todos los servicios incluidos en su plan 	| EP001 	|
-| US007 	| Configuración de objetivos personales 	| Como FitExplorer, quiero configurar mis objetivos personales para la personalización de mi rutina. 	| _Escenario 1: Configuración de objetivos_<br>Dado que soy un FitExplorer y estoy en mi cuenta<br>Cuando acceda a la sección de configuración de objetivos<br>Entonces podré establecer metas específicas relacionadas con peso, masa muscular, resistencia, entre otros. 	| EP004 	|
-| US008 	| Elección de comidas 	| Como FitExplorer, quiero elegir diferentes platos para las tres comidas del día.	| _Escenario 1: Dirigirse a la sección alimentos_<br>Dado que soy un FitExplorer y estoy en mi cuenta<br>Cuando de click al icono de la manzana<br>Entonces se mostrará la interfaz de la sección de alimentos<br><br><br>_Escenario 2: Seleccionar alimentos_<br>Dado que soy un FitExplorer y veo los alimentos disponibles para mi objetivo<br>Cuando de click a un plato puedo ver sus ingredientes <br>Y puedo ver una receta corta<br>Entonces con el botón elegir lo selecciono 	| EP003 	|
-| US009 	| Seguimiento de consumo calórico diario 	| Como FitExplorer, quiero poder realizar un seguimiento de mi consumo calórico diario para mantenerme en línea con mis objetivos de salud y fitness. 	| _Escenario 1: Registro de consumo calórico_<br>Dado que soy un FitExplorer y estoy en mi cuenta<br>Cuando acceda a la sección de seguimiento de consumo calórico<br>Entonces podré registrar los alimentos consumidos a lo largo del día, junto con su cantidad y calorías asociadas. 	| EP004 	|
-| US010 	| Seguimiento de progreso mediante gráficos 	| Como FitExplorer, quiero poder visualizar mi progreso a lo largo del tiempo mediante gráficos claros y fáciles de entender para evaluar mi rendimiento y ajustar las estrategias si es necesario. 	| _Escenario 1: Visualización de gráficos de progreso_<br>Dado que soy un FitExplorer y estoy en mi cuenta<br>Cuando acceda a la sección de seguimiento de progreso<br>Entonces podré ver gráficos que representen mi evolución en áreas como peso, porcentaje de grasa corporal, consumo calórico, entre otros, con opciones de filtrado y personalización. 	| EP004 	|
-| US011 	| Visualizar rutina 	| Como FitExplorer, quiero poder visualizar mi rutina diaria dada por la aplicación web para seguirla durante la semana. 	| _Escenario 1: Visualización de rutina semanal_<br>Dado que soy un FitExplorer y estoy en mi cuenta<br>Cuando acceda a la sección de rutinas<br>Entonces podré ver podre ver la rutina semanal<br><br>_Escenario 2: Visualización de rutina diaria_<br>Dado que veo la rutina semanal<br>Cuando acceda a la rutina de uno de los días<br>Entonces podré ver podre ver mas información sobre los ejercicios<br><br>_Escenario 3: Visualización de detalle de ejercicio_<br>Dado que soy un FitExplorer y veo los ejercicios diarios<br>Cuando le de click a un ejercicio<br>Entonces podré ver podre ver una breve explicacion de sus ejecución 	| EP003 	|
-| US012 	| Interacción con el chatbot de ayuda 	| Como FitExplorer, quiero acceder al soporte técnico fácilmente a través de un chatbot o mediante la opción de hablar con un asesor humano para resolver cualquier problema que pueda tener con la plataforma. 	| _Escenario 01: Acceso al chatbot de soporte técnico_<br>Dado que el FitExplorer encuentra un problema con la plataforma<br>Cuando el FitExplorer busca ayuda para resolver el problema<br>Entonces el sistema muestra un icono de chatbot claramente visible en la interfaz<br>Y el FitExplorer hace clic en el icono para iniciar una conversación con el chatbot<br><br>_Escenario 02: Inicio de conversación con el chatbot_<br>Dado que el FitExplorer ha accedido al chatbot de soporte técnico<br>Cuando el FitExplorer describe el problema que está experimentando<br>Entonces el chatbot responde con un mensaje de bienvenida y ofrece opciones para ayudar al FitExplorer a solucionar su problema<br><br>_Escenario 03: Interacción con el chatbot para resolver el problema_<br>Dado que el FitExplorer está interactuando con el chatbot de soporte técnico<br>Cuando el FitExplorer proporciona detalles adicionales sobre el problema o sigue las indicaciones del chatbot<br>Entonces el chatbot ofrece soluciones para resolver el problema,<br>Y el FitExplorer sigue las instrucciones proporcionadas por el chatbot para solucionar el problema<br><br>_Escenario 04: Transferencia a un asesor humano_<br><br>Dado que el FitExplorer está interactuando con el chatbot de soporte técnico<br>Cuando el FitExplorer no puede resolver el problema utilizando las opciones proporcionadas por el chatbot<br>Entonces el chatbot ofrece al FitExplorer la opción de hablar con un asesor humano<br>Y el FitExplorer solicita hablar con un asesor humano para obtener ayuda adicional<br><br>_Escenario 05: Resolución del problema por parte del asesor humano_<br>Dado que el FitExplorer ha sido transferido a un asesor humano<br>Cuando el asesor humano revisa la consulta o problema del FitExplorer<br>Entonces el asesor humano proporciona una solución o respuesta al FitExplorer<br>Y el FitExplorer sigue las instrucciones del asesor humano para resolver el problema 	| EP005 	|
-
+| Story ID | Título | Descripción | Criterio de aceptación | Relacionado con (Epic ID) |
+|---|---|---|---|---|
+| US001 | Interacción con hipervínculos del Landing Page | Como visitante de la landing page quiero interactuar con la landing page para tener información sobre FitHub. | Escenario 1: Interacción con hipervínculos<br>Dado que el visitante se encuentra en la landing page<br>Cuando da click a una de la secciones<br>Entonces será dirigido a la sección seleccionada. | EP001 |
+| US002 | Navegar por la sección de Contáctanos | Como visitante de la landing page, quiero poder interactuar con la sección de Contáctenos para poder hacer consultas, enviar comentarios o solicitar información adicional. | Escenario 1: Acceso a la sección de Contáctenos desde el header<br>Dado que el visitante está en la landing page<br>Cuando hace clic en el hipervínculo "Contáctenos" en el header<br>Entonces es dirigido a la sección de Contáctenos de la página<br>Escenario 2: Visualización del formulario de contacto<br>Dado que el visitante está en la landing page<br>Cuando llega a la sección de Contáctenos<br>Entonces ve un formulario de contacto con los siguientes campos: Nombre, Correo electrónico, Mensaje<br>Escenario 3: Interacción con el formulario de contacto<br>Dado que el visitante está en la sección de Contáctenos<br>Cuando llena todos los campos requeridos del formulario de contacto<br>Y hace clic en el botón de enviar<br>Entonces el formulario se envía correctamente a soporte técnico. | EP001 |
+| US003 | Navegar por la sección de ¿Cómo Funciona? | Como visitante de la landing page, quiero tener conocimiento de cómo afiliarme, para entender los pasos que debo seguir y completar el proceso de afiliación en la app  de manera fácil y rápida. | Escenario 1: Interacción con el hipervínculo<br>Dado que el visitante está en la landing page<br>Cuando haga clic en el hipervínculo de "¿Cómo funciona?"<br>Entonces es dirigido a la sección "¿Cómo funciona?"<br>Escenario 2: Visualización de pasos<br>Dado que el visitante está en la sección "¿Cómo funciona?"<br>Entonces ve los pasos detallados que debe seguir para afiliarse, presentados de manera clara y organizada<br>Escenario 3: Accesibilidad de la información<br>Dado que el visitante está en la sección "¿Cómo funciona?"<br>Cuando visualiza los pasos para afiliarse<br>Entonces puede entender fácilmente el proceso, sin necesidad de información adicional | EP001 |
+| US004 | Ingreso a la interfaz de Iniciar Sesión | Como visitante de la landing page quiero poder ser dirigido fácilmente al apartado de iniciar sesión. | Escenario 1: Redirigir al visitante al apartado de inicio de sesión<br>Dado que el visitante se encuentra en la landing page y quiere iniciar sesión en FitHub<br>Cuando haga clic al botón de "iniciar sesión" <br>Entonces será enviado a la pestaña de inicio de sesión.<br>Escenario 2: Ingresar datos correctos de su cuenta<br>Dado que el visitante se encuentra en la pestaña de inicio de sesión<br>Cuando ingrese sus datos como email y su contraseña<br>Y le dé clic a Ingresar<br>Entonces podrá ingresar a las diferentes secciones que posee según su usuario.<br>Escenario 3: Ingresar datos incorrectos de su cuenta<br>Dado que el visitante se encuentra en la pestaña de inicio de sesión<br>Cuando ingrese sus datos incorrectos de email o su contraseña<br>Y le dé clic a Ingresar<br>Entonces recibirá un mensaje de error indicando que los datos son incorrectos. | EP001 |
+| US005 | Ingreso a la interfaz de Crear Cuenta | Como visitante de la landing page, quiero poder ser dirigido fácilmente al apartado de crear cuenta para poder gozar de los servicios de FitHub. | Escenario 1: Redirigir al paciente al apartado de creación de cuenta<br>Dado que un visitante está en la landing page<br>Cuando selecciona la opción "Crear cuenta"<br>Entonces el sistema  redirige al visitante a la página de selección de plan.<br>Escenario 2: Ingresar datos válidos para crear una cuenta<br>Dado que el paciente está en la interfaz de creación de cuenta para paciente<br>Cuando proporciona un correo electrónico y contraseña válidos<br>Y hace clic en el botón "Crear cuenta"<br>Entonces se crea exitosamente la cuenta <br>Y redirige al usuario registrado a la página principal de su interfaz.<br>Escenario 3: Ingresar datos inválidos para crear una cuenta<br>Dado que el paciente está en la interfaz de creación de cuenta para ser usuario en FitHub<br>Cuando ingresa datos inválidos para crear una cuenta<br>Y hace clic en el botón "Crear cuenta"<br>Entonces el sistema muestra un mensaje de error indicando que los datos ingresados son inválidos. | EP001 |
+| US006 | Desplazamiento mediante el header | Como FitExplorer quiero desplazarme en la web application para encontrar fácilmente las diferentes secciones. | Escenario 1: Interacción con hipervínculos<br>Dado que el FitExplorer se encuentra en su cuenta de FitHub<br>Cuando da click a una de la secciones en el header<br>Entonces será dirigido a la sección seleccionada. | EP001 |
+| US008 | Navegar por la sección de Productos | Como cliente en FitHub, quiero navegar por la sección de Productos para visualizar las diferentes herramientas y productos disponibles. | Escenario 1: Dirigirse a la sección productos<br>Dado que el FitExplorer se encuentra en su cuenta de FitHub<br>Cuando de click a la sección de Productos<br>Entonces se mostrará la interfaz de la sección de Productos<br>Escenario 2: Visualizar productos de Cardio<br>Dado que el FitExplorer está en  la sección de Productos<br>Cuando seleccione "Cardio" del dropdown<br>Entonces se mostrarán tarjetas con los productos de Cardio, que incluyen el nombre del producto, el precio y dónde se puede encontrar.<br>Escenario 3: Visualizar productos de Alimentación<br>Dado que el FitExplorer está en la sección de Productos<br>Cuando seleccione "Alimentación" del dropdown<br>Entonces se mostrarán tarjetas con los productos de Alimentación, que incluyen el nombre del producto, el precio y dónde se puede encontrar.<br>Escenario 4: Visualizar productos Funcionales<br>Dado que el FitExplorer está en la sección de Productos<br>Cuando seleccione "Funcional" del dropdown<br>Entonces se mostrarán tarjetas con los productos funcionales, que incluyen el nombre del producto, el precio y dónde se puede encontrar. | EP003 |
+| US009 | Editar datos personales | Como cliente en FitHub, quiero visualizar y editar mis datos actuales. | Escenario 1: Dirigirse a la sección alimentos<br>Dado el FitExplorer está en su cuenta<br>Cuando de click a la sección de Configuración<br>Entonces se mostrará la interfaz de la sección de Configuración<br>Escenario 2: Editar datos personales<br>Dado el FitExplorer se encuentra en la sección de configuración<br>Y ve sus datos<br>Entonces puede modificar cada uno de ellos<br>Y darle click al botón de submit para que se actualicen. | EP002 |
+| US010 | Navegar por la sección de Nutrición | Como cliente en FitHub, quiero poder navegar a la sección de Nutrición para explorar las opciones disponibles. | Escenario 1: Acceso a la sección de Nutrición<br>Dado que el cliente está en la página de inicio de FitHub<br>Cuando hace clic en el hipervínculo de "Nutrición"<br>Entonces es dirigido a la sección de Nutrición, donde se muestran tres botones: Desayunos, Almuerzos y Cenas | EP003 |
+| US011 | Visualizar recomendaciones de alimentos | Como cliente en FitHub, quiero poder ver recomendaciones de desayunos, almuerzos y cenas para elegir opciones saludables para mis comidas. | Escenario 1: Visualización de recomendaciones de desayunos<br>Dado que el cliente está en la sección de Nutrición<br>Cuando hace clic en el botón "Desayunos"<br>Entonces ve diferentes tarjetas con recomendaciones de desayunos saludables, incluyendo el nombre e ingredientes de cada desayuno<br>Escenario 2: Visualización de recomendaciones de almuerzos<br>Dado que el cliente está en la sección de Nutrición<br>Cuando hace clic en el botón "Almuerzos"<br>Entonces ve diferentes tarjetas con recomendaciones de almuerzos, incluyendo el nombre, una descripción corta y un hipervínculo a la receta completa<br>Escenario 3: Visualización de recomendaciones de cenas<br>Dado que el cliente está en la sección de Nutrición<br>Cuando hace clic en el botón "Cenas"<br>Entonces ve diferentes tarjetas con recomendaciones de cenas, incluyendo el nombre e ingredientes de cada cena | EP003 |
+| US012 | Edición y eliminación de recomendaciones de alimentos | Como cliente en FitHub, quiero poder editar o eliminar las recomendaciones de alimentos para personalizar mis opciones nutricionales. | Escenario 1: Edición y eliminación de recomendaciones de desayunos<br>Dado que el cliente está en la sección de Nutrición y ha seleccionado "Desayunos"<br>Cuando ve las cards de desayunos<br>Entonces puede editar cada card según sus necesidades o eliminar la card<br>Escenario 2: Agregar cards de almuerzos<br>Dado que el cliente está en la sección de Nutrición y ha seleccionado "Almuerzos"<br>Cuando ve las cards de almuerzos<br>Entonces puede agregar nuevas tarjetas de almuerzos para registrar recetas de almuerzos pasados que haya probado<br>Escenario 3: Edición y eliminación de recomendaciones de cenas<br>Dado que el cliente está en la sección de Nutrición y ha seleccionado "Cenas"<br>Cuando ve las cards de cenas<br>Entonces puede editar cada tarjeta según sus necesidades o eliminar la card | EP003 |
+| US013 | Visualizar rutina | Como cliente en FitHub, quiero ver mi rutina de ejercicios semanal y diaria para tener un control de mi rutina de ejercicios. | Escenario 1: Visualización de rutina semanal<br>Dado que soy un FitExplorer y estoy en mi cuenta<br>Cuando acceda a la sección de rutinas<br>Entonces puedo ver la rutina semanal<br>Escenario 2: Visualización de rutina diaria<br>Dado que veo la rutina semanal<br>Cuando acceda a la rutina de uno de los días<br>Entonces podré ver podre ver mas información sobre los ejercicios<br>Escenario 3: Visualización de detalle de ejercicio<br>Dado que soy un FitExplorer y veo los ejercicios diarios<br>Cuando le de click a un ejercicio<br>Entonces puedo ver una breve explicación de sus ejecución | EP004 |
 
 ## 3.3. Impact Mapping.
 
-<p align="center">
-     <img src="https://media.discordapp.net/attachments/1229240004270882826/1229896927873597502/image20.png?ex=663159c5&is=661ee4c5&hm=80dfbe340fb0f9c9b671668ca7095f04bc29a44798ea6de783829fd654e96ac0&=&format=webp&quality=lossless&width=540&height=502" alt="TPlaner-class-diagram" style="margin-bottom: 5px;" width="1020px"/>
-</p>
-
+[impact-mapping](https://media.discordapp.net/attachments/1229240004270882826/1229896927873597502/image20.png?ex=663159c5&is=661ee4c5&hm=80dfbe340fb0f9c9b671668ca7095f04bc29a44798ea6de783829fd654e96ac0&=&format=webp&quality=lossless&width=540&height=502)
 
 ## 3.4. Product Backlog. 
-
-| \#Order | User Story ID | Título                                    | Descripción                                                                                                                                                                                       | Story point |
-|---------|---------------|-------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| 1       | US001         | Creación de hipervínculos (Header)        |  Como visitante de la landing page quiero interactuar con la landing page para tener información sobre FitHub.   | 3           |
-| 2       | US002         | Sección Contáctanos                       | Como visitante de la landing page quiero poder contactarme con FitHub para resolver mis dudas.   | 3           |
-| 3       | US003         | Sección funcionamiento                    | Como visitante de la landing page quiero un vistazo a la app para saber como es la interfaz. | 3           |
-| 4       | US004         | Sección Planes                            | Como visitante de la landing page quiero conocer los planes para saber sobre los beneficios que tendré.    | 3           |
-| 5       | US005         | Creación de la cuenta                     | Como visitante de la landing page quiero ser dirigido al apartado de creación de cuenta para afiliarme a FitHub | 3           |
-| 6       | US006         | Iniciar Sesión                            | Como visitante de la landing page quiero ser dirigido al apartado de iniciar sesión para acceder a todas las funcionalidades   | 3           |
-| 7       | US007         | Configuración de objetivos personales     | Como FitExplorer, quiero configurar mis objetivos personales para la personalización de mi rutina. | 3           |
-| 8       | US008         | Elección de comidas                       | Como FitExplorer, quiero elegir diferentes platos para las tres comidas del día.      | 5           |
-| 9      | US009         | Seguimiento de consumo calórico diario    | Como FitExplorer, quiero poder realizar un seguimiento de mi consumo calórico diario para mantenerme en línea con mis objetivos de salud y fitness.                                               | 3           |
-| 10     | US010         | Seguimiento de progreso mediante gráficos | Como FitExplorer, quiero poder visualizar mi progreso a lo largo del tiempo mediante gráficos claros y fáciles de entender para evaluar mi rendimiento y ajustar mis estrategias si es necesario. | 5           |
-| 11      | US011         | Visualizar rutina                         | Como FitExplorer, quiero poder visualizar mi rutina diaria dada por la aplicación web para seguirla durante la semana. | 3           |
-| 12      | US012         | Interacción con el chatbot de ayuda       | Como FitExplorer, quiero acceder al soporte técnico fácilmente a través de un chatbot o mediante la opción de hablar con un asesor humano para resolver cualquier problema que pueda tener con la plataforma. | 3           |
 
 
 
 # Capítulo IV: Product Design
+## 4.1 Style Guidelines
 
 ### 4.1.1. General Style Guidelines.
 **Overview:**
@@ -970,10 +605,7 @@ Como organización se considera el diseño web una parte fundamental del proyect
 
 **Brand Name:**
 La elección de denominar nuestra propuesta de solución como "FitHub" surge de su firme enfoque en brindar ayuda a los usuarios y establecer vínculos sólidos con las empresas en el sector del Salud.
-<p align="center">
- <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897036132913326/image40.png?ex=663159df&is=661ee4df&hm=3ae3e3731518afd937ba938f9e54397bc9614c5e79a8f401506d6e310eb32688&=&format=webp&quality=lossless" alt="Logo" style="margin-bottom: 5px;" width="300px" align="center"/>
-</p>
-
+[imagen-fithub](https://media.discordapp.net/attachments/1229240004270882826/1229897036132913326/image40.png?ex=663159df&is=661ee4df&hm=3ae3e3731518afd937ba938f9e54397bc9614c5e79a8f401506d6e310eb32688&=&format=webp&quality=lossless)
 *¿Qué debe tener?*
 * Logo haciendo alusión al corazón, bienestar.
 * Minimalista, estético.
@@ -1016,9 +648,8 @@ El equipo ha seleccionado las tipografías "Nunito" y "Inter" para el proyecto. 
      <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897467537915954/image75.jpg?ex=66315a46&is=661ee546&hm=0ac55ac99101efc0266bcf57a40cc8e7353f5ca843207504018c600ded0f87c8&=&format=webp&width=841&height=502" alt="Organization systems" style="margin-bottom: 5px;" width="1020px"/>
 </p>
 
-<p align="center">
-     <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897406942941275/image66.jpg?ex=66315a38&is=661ee538&hm=f794711acb885ff84074ac65993690491615341313131e23d270b4fdf76327f7&=&format=webp&width=735&height=502" alt="Organization systems" style="margin-bottom: 5px;" width="1020px"/>
-</p>
+![organization](https://github.com/HealthyL/Informe/assets/134560396/b50fbdf1-bffa-4ad7-8790-2da6c0a0d624)
+
 
 ### 4.2.2. Labeling Systems.
 
@@ -1111,660 +742,180 @@ Estos elementos optimizados ayudan a mejorar la visibilidad de FitHub en los mot
      <img src="https://media.discordapp.net/attachments/1229240004270882826/1229896929090211891/image14.png?ex=663159c6&is=661ee4c6&hm=1aa7e612b8acf75e4ac30bb60c44cb0a552fa26624672a5a7ed96883ef9519a5&=&format=webp&quality=lossless&width=241&height=671" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
     </p>
  
-    
+## 4.4 Web Applications UX/UI Design.
+### 4.4.1 WebApplication Wireframes.
+Sección pago:
+![pago](https://github.com/HealthyL/Informe/assets/134560396/3ffe1e45-31d2-4c26-9a4d-0ff75105485e)
 
-# Capítulo IV: Product Design
-## 4.1. Style Guidelines.
-### 4.1.1. General Style Guidelines.
-**Overview:**
-Como organización se considera el diseño web una parte fundamental del proyecto, ya que debe ser agradable, cómodo para navegar para nuestros clientes finales, estar en sintonía con nuestra marca y lo que queremos transmitir como empresa.
+Sección datos:
+![datos](https://github.com/HealthyL/Informe/assets/134560396/c2119c5c-3d06-4411-bc86-3bca1255f0a4)
 
-**Brand Name:**
-La elección de denominar nuestra propuesta de solución como "FitHub" surge de su firme enfoque en brindar ayuda a los usuarios y establecer vínculos sólidos con las empresas en el sector del Salud.
-<p align="center">
- <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897036132913326/image40.png?ex=663159df&is=661ee4df&hm=3ae3e3731518afd937ba938f9e54397bc9614c5e79a8f401506d6e310eb32688&=&format=webp&quality=lossless" alt="Logo" style="margin-bottom: 5px;" width="300px" align="center"/>
-</p>
+Sección crear cuenta:
+![crearcuenta](https://github.com/HealthyL/Informe/assets/134560396/c191021e-f648-4a0b-822e-575858441df1)
 
-*¿Qué debe tener?*
-* Logo haciendo alusión al corazón, bienestar.
-* Minimalista, estético.
-*¿Qué no debe tener?*
-* Colores fuertes.  
-* Imagen de una persona.
-* imagen de una balanza.
+Sección iniciar sesión:
+![iniciarsesion](https://github.com/HealthyL/Informe/assets/134560396/9803aa5d-992b-43c6-8270-359cceab1d03)
 
-**Typography:**
-El equipo ha seleccionado las tipografías "Nunito" y "Inter" para el proyecto. Estas fuentes tipográficas fueron elegidas cuidadosamente por su estilo y legibilidad, asegurando que la presentación del contenido sea atractiva y fácil de leer para los usuarios.
-<p align="center">
- <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897006743556126/image21.png?ex=663159d8&is=661ee4d8&hm=e96cfdc32ff4adc6f06d9c740370fa0729dbf89601659363072679546c4453c8&=&format=webp&quality=lossless" alt="Typografy" style="margin-bottom: 5px;" width="200px" align="center"/>
-</p>
-    
-**Palet Colors:**
-#8CB500
-#C5D951
-#B1C868
-#FEFE8A
-#FFFFFF
-#4B4B4B
+Sección Mi cuenta:
+![micuenta](https://github.com/HealthyL/Informe/assets/134560396/73529280-17f1-4863-a93b-be91bc482b55)
 
-**Buttons:**
-<p align="center">
- <img src="https://media.discordapp.net/attachments/1229240004270882826/1229896799742066738/image6.png?ex=663159a7&is=661ee4a7&hm=49a5a72c958485ba05e58aa4b1901c857cabeca4410c333bef26ca48f1c4b0f6&=&format=webp&quality=lossless" alt="Model buttons" style="margin-bottom: 5px;" width="250px" align="center"/>
-</p>
+Sección Alimentación:
+![comida](https://github.com/HealthyL/Informe/assets/134560396/a98021ec-135f-45a9-93a6-4490f7314e5e)
 
-### 4.1.2. Web Style Guidelines.
+Sección Productos:
+![productos](https://github.com/HealthyL/Informe/assets/134560396/0e8b6dd2-4b1a-436c-81fa-ec9305cb779b)
 
-<p align="center">
- <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897005996838942/image29.png?ex=663159d8&is=661ee4d8&hm=f902c34fd8925f5bb17446aafb1051b4c226156c984a7d7ffe50310fea29804b&=&format=webp&quality=lossless&width=892&height=502" alt="Responsive windows" style="margin-bottom: 5px;" width="620px" align="center"/>
-</p>
+### 4.4.2. Web Applications Wireflow Diagrams.
+En esta introducción, explicaremos cómo los Diagramas de Flujo de Aplicaciones Web nos ayudan a entender la estructura y la lógica de nuestra aplicación, identificando las diferentes pantallas, funciones y acciones que los usuarios pueden realizar.
+Anexo D: [https://lucid.app/lucidchart/b95b72c2-ea32-40df-9f60-5d4aa4d4d722/edit?view_items=wdBDu4CwVQIy&invitationId=inv_2a5575a1-dbb7-40f4-8357-08d823c45748 ](https://lucid.app/lucidchart/b95b72c2-ea32-40df-9f60-5d4aa4d4d722/edit?view_items=wdBDu4CwVQIy&invitationId=inv_2a5575a1-dbb7-40f4-8357-08d823c45748 )
+
+User Goal: Navegar por la sección de Mi Cuenta
+Para lograrlo, el usuario ingresa a la sección de "Inicio Sesión", y luego presiona el botón de la barra de herramientas "Mi cuenta" para navegar por las opciones que ofrece esta sección. De esta manera, gestionar tus datos personales y preferencias según tus necesidades.
+![image](https://github.com/HealthyL/Informe/assets/134560396/755c4fb7-2823-4569-8aea-9fc6a91b71b7)
+
+
+User Goal: Navegar por la sección de Rutina
+Para lograrlo, el usuario ingresa a la sección inicial de "Mi Cuenta", y luego presiona el botón de la barra de herramientas "Rutina" para navegar por las opciones que ofrece esta sección. De esta manera, se mostrarán tarjetas de rutinas para diferentes días de la semana y la cantidad y tiempo que tienes que invertir en realizar cada ejercicio.
+![image](https://github.com/HealthyL/Informe/assets/134560396/f85592d3-f0e6-4ec4-8660-70db7a48e684)
+
+
+User Goal: Navegar por la sección de Nutrición
+Para lograrlo, el usuario ingresa a la sección inicial de "Mi Cuenta", y luego presiona el botón de la barra de herramientas "Nutrición" para navegar por las opciones que ofrece esta sección. Cabe resaltar que, por defecto, verá las recomendaciones de desayunos.
+![image](https://github.com/HealthyL/Informe/assets/134560396/3ce6873f-38c7-4285-a240-2a5685a360cd)
+
+
+User Goal: Visualización de los Almuerzos
+Para lograrlo,  el usuario ingresa a la sección inicial de Mi Cuenta, para luego, presionar el botón de la toolbar “Nutrición”, y instantáneamente presionar el botón de “Almuerzos”, donde el usuario podrá visualizar las diferentes recomendaciones de almuerzos.
+![image](https://github.com/HealthyL/Informe/assets/134560396/248a01fb-f0a8-4a27-9b29-176ed83435ce)
+
+
+User Goal: Visualización de los Cenas
+Para lograrlo,  el usuario ingresa a la sección inicial de Mi Cuenta, para luego, presionar el botón de la toolbar “Nutrición”, y instantáneamente presionar el botón de “Cenas”, donde el usuario podrá visualizar las diferentes recomendaciones de cenas.
+![image](https://github.com/HealthyL/Informe/assets/134560396/e4731d47-1010-4b16-a148-b885f2ddcda7)
+
+
+User Goal: Visualización de los Productos
+Para lograrlo,  el usuario ingresa a la sección inicial de Mi Cuenta, para luego, presionar el botón de la toolbar “Productos”, luego podrá visualizar las tarjetas de productos con diferentes opciones de estos.
+![image](https://github.com/HealthyL/Informe/assets/134560396/7f3d8000-2130-41a2-a73a-f0a19a9bba09)
 
 
 ### 4.4.3. Web Applications Mock-ups.
 
-En esta introducción, exploraremos cómo los Mock-ups de Aplicaciones Web nos ayudan a transformar ideas y onceptos en diseños tangibles, permitiendo una mejor comprensión de la estructura y el flujo de la aplicación. Veremos cómo estos mock-ups nos permiten validar y refinar el diseño antes de pasar a la etapa de desarrollo, identificando posibles problemas de usabilidad y asegurando una experiencia de usuario
-óptima.
+En esta introducción, explicaremos cómo los Mock-ups de Aplicaciones Web nos ayudan a transformar ideas y conceptos en diseños tangibles, permitiendo una mejor comprensión de la estructura y el flujo de la aplicación. Veremos cómo estos mockups nos permiten validar y refinar el diseño antes de pasar a la etapa de desarrollo, identificando posibles problemas de usabilidad y asegurando una experiencia de usuario óptima.<br>
+Anexo E: [https://www.figma.com/design/Z2i4YAkSxGxcsbblQ8HQmR/FITHUB?node-id=475-242](https://www.figma.com/design/Z2i4YAkSxGxcsbblQ8HQmR/FITHUB?node-id=475-242)
 
-Link al [<u>Miro</u>](https://miro.com/app/board/uXjVKVPiyIw=/?share_link_id=964995313337)
+En esta sección, el entusiasta del fitness debe registrarse como usuario nuevo, completando los campos requeridos: correo electrónico, nombre, apellidos, nombre de usuario y la contraseña para su cuenta.
+![image](https://github.com/HealthyL/Informe/assets/134560396/9713b48b-928b-4b7c-9e85-8c40a43dcfe8)
 
+En esta sección, el entusiasta del fitness debe escoger el plan que desee. Al seleccionar un plan, el sistema habilitará ciertas funcionalidades y recursos específicos según el plan elegido. Esto permitirá al usuario aprovechar al máximo las herramientas y servicios disponibles, optimizando su experiencia y apoyando mejor sus objetivos de fitness.
+![image](https://github.com/HealthyL/Informe/assets/134560396/bfe0be2b-8220-4e39-9b60-4d105f3f7f53)
 
-
-<p align="center">
- <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897202730795119/image55.png?ex=66315a07&is=661ee507&hm=9fefe6d2aef2354e1b8a3a6acf3fb52fc61567eb72b1267764f42c540e091377&=&format=webp&quality=lossless&width=838&height=541" alt="Wireflow 1" style="margin-bottom: 5px;" width="620px" align="center"/>
-</p>
-
-<p align="center">
- <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897091149463552/image47.png?ex=663159ec&is=661ee4ec&hm=9c03e2753d0c14f2f3109be4ae5a41392a4ff95ebe10fa8e7dd9abb5084bd4e1&=&format=webp&quality=lossless&width=838&height=545" alt="Wireflow 2" style="margin-bottom: 5px;" width="620px" align="center"/>
-</p>
-
-<p align="center">
- <img src="https://media.discordapp.net/attachments/1229240004270882826/1229896798731112539/image3.png?ex=663159a7&is=661ee4a7&hm=f65434f93a8e673ed351b3cfb1bb00c710efe73f7aa2cbf502b175b080dc615d&=&format=webp&quality=lossless&width=838&height=545" alt="Wireflow 3" style="margin-bottom: 5px;" width="620px" align="center"/>
-</p>
-
-<p align="center">
- <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897405713874975/image62.png?ex=66315a37&is=661ee537&hm=f0b0f9b8bccbea80a2be293efd2db54081d18f5e9b457bb2a74304b430fbe963&=&format=webp&quality=lossless&width=838&height=545" alt="Wireflow 4" style="margin-bottom: 5px;" width="620px" align="center"/>
-</p>
-
-<p align="center">
- <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897203708067902/image58.png?ex=66315a07&is=661ee507&hm=b11dd1121a9691c799edd9f589d56c60350f0518b686659ebf4e47a4468acece&=&format=webp&quality=lossless&width=838&height=545" alt="Wireflow 5" style="margin-bottom: 5px;" width="620px" align="center"/>
-</p>
-
-<p align="center">
- <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897008739782828/image28.png?ex=663159d9&is=661ee4d9&hm=1016954426304fb93f0c024f156bb450172e2ab4159465dc45a78bf3c0e82a98&=&format=webp&quality=lossless&width=838&height=545" alt="Wireflow 6" style="margin-bottom: 5px;" width="620px" align="center"/>
-</p>
-
-<p align="center">
- <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897038594969753/image39.png?ex=663159e0&is=661ee4e0&hm=b6c4f7abc950f6ca959223694cffbe1ca632ce2c0560d09d53cf4f0bbe0b510b&=&format=webp&quality=lossless&width=838&height=545" alt="Wireflow 7" style="margin-bottom: 5px;" width="620px" align="center"/>
-</p>
-
-<p align="center">
- <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897407593058324/image68.png?ex=66315a38&is=661ee538&hm=f0a3403ab5ff76cf0f0933603afad90ae6fa027d668f29686cc705deeddc335b&=&format=webp&quality=lossless&width=838&height=545" alt="Wireflow 8" style="margin-bottom: 5px;" width="620px" align="center"/>
-</p>
-
-<p align="center">
- <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897201791271043/image52.png?ex=66315a07&is=661ee507&hm=2e634a0a687c772f3f231269ec9ad56360d71e84e48ef7c7f032a6e7f3404582&=&format=webp&quality=lossless&width=838&height=545" alt="Wireflow 8" style="margin-bottom: 5px;" width="620px" align="center"/>
-</p>
-<p align="center">
- <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897090507735040/image45.png?ex=663159ec&is=661ee4ec&hm=060aad25f9ca5d09471e67f9254bff8b2a880353c4ddddb35980769ab0840baf&=&format=webp&quality=lossless&width=838&height=545" alt="Wireflow 8" style="margin-bottom: 5px;" width="620px" align="center"/>
-</p>
-<p align="center">
- <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897201183096902/image60.png?ex=66315a07&is=661ee507&hm=ae136dd8c54817a226e1f313730c1c5fc563781a0e3f080f90f01a86f49ab1c3&=&format=webp&quality=lossless&width=838&height=545" alt="Wireflow 8" style="margin-bottom: 5px;" width="620px" align="center"/>
-</p>
-<p align="center">
- <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897006432915528/image30.png?ex=663159d8&is=661ee4d8&hm=202daa0cd33c4705ebebd6a1bd5c3a08b517eb9265f86522a96c16b4cc04c013&=&format=webp&quality=lossless&width=838&height=545" alt="Wireflow 8" style="margin-bottom: 5px;" width="620px" align="center"/>
-</p>
-<p align="center">
- <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897467215085618/image74.png?ex=66315a46&is=661ee546&hm=c7d46df6d73ddfebeab2576ac13d5e28ca2b738b0a2ed007ded58b749c81b0d2&=&format=webp&quality=lossless&width=838&height=545" alt="Wireflow 8" style="margin-bottom: 5px;" width="620px" align="center"/>
-</p>
-<p align="center">
- <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897201183096902/image60.png?ex=66315a07&is=661ee507&hm=ae136dd8c54817a226e1f313730c1c5fc563781a0e3f080f90f01a86f49ab1c3&=&format=webp&quality=lossless&width=838&height=545" alt="Wireflow 8" style="margin-bottom: 5px;" width="620px" align="center"/>
-</p>
-<p align="center">
- <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897407894917232/image69.png?ex=66315a38&is=661ee538&hm=7e38dfdf6e7d3b1b8462435ddbbce97a962e399f6e66fc10d32c626fa4bca229&=&format=webp&quality=lossless&width=838&height=545" alt="Wireflow 8" style="margin-bottom: 5px;" width="620px" align="center"/>
-</p>
-<p align="center">
- <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897406645010493/image65.png?ex=66315a38&is=661ee538&hm=86c55cde13ee2344a74446f10a984f6e97c00255dd047ae443243e2fb74ecbc9&=&format=webp&quality=lossless&width=838&height=545" alt="Wireflow 8" style="margin-bottom: 5px;" width="620px" align="center"/>
-</p>
-<p align="center">
- <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897466317635724/image71.png?ex=66315a46&is=661ee546&hm=50fa4e175399884f60c73b2089fe93179856cff1fbab1be31dbafe8cd045a67d&=&format=webp&quality=lossless&width=838&height=545" alt="Wireflow 8" style="margin-bottom: 5px;" width="620px" align="center"/>
-</p>
-<p align="center">
- <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897407303516210/image67.png?ex=66315a38&is=661ee538&hm=be15257269be3a229bf56c32d66838fedab3a80653cee8e0d0d1de70841b20ea&=&format=webp&quality=lossless&width=838&height=545" alt="Wireflow 8" style="margin-bottom: 5px;" width="620px" align="center"/>
-</p>
+En esta sección, el entusiasta del fitness debe completar el proceso de pago para el plan que ha seleccionado. Una vez completado el pago, el usuario tendrá acceso inmediato a los beneficios y recursos del plan escogido.
+![image](https://github.com/HealthyL/Informe/assets/134560396/d817a20f-a119-44b6-95b3-2bc62911909d)
 
 
-<p align="center">
- <img src="https://media.discordapp.net/attachments/1229240004270882826/1229896799469174906/image5.png?ex=663159a7&is=661ee4a7&hm=17a1e8eed312c0c81d28f793910cea31fc32268d19597cc0dd8fbaf1ba8ae13d&=&format=webp&quality=lossless&width=838&height=545" alt="Wireflow 8" style="margin-bottom: 5px;" width="620px" align="center"/>
-</p>
+En esta sección, el entusiasta del fitness debe ingresar los datos que ayudarán al sistema a crear una navegación personalizada en nuestra plataforma. Los datos a completar son: peso, altura, edad y objetivo de fitness.
+![image](https://github.com/HealthyL/Informe/assets/134560396/d4cc6ab4-172d-406e-91c0-1bd3cb742701)
 
+En la sección de Mi Cuenta, el usuario tendrá la opción de actualizar sus datos personales, como su nombre, apellidos, correo electrónico, nombre de usuario, y contraseña. Esta funcionalidad asegura que la información del usuario esté siempre actualizada y que la plataforma pueda seguir proporcionando una experiencia personalizada y relevante.
+![image](https://github.com/HealthyL/Informe/assets/134560396/da5f25f5-db47-4c6d-8ac3-8c1b902d7284)
 
-<p align="center">
- <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897007955447899/image25.png?ex=663159d9&is=661ee4d9&hm=a33b3ec1781de98703e7ff902ea3f03579325d5059ad5dd4f1d5fa130bd13655&=&format=webp&quality=lossless&width=838&height=545" alt="Wireflow 8" style="margin-bottom: 5px;" width="620px" align="center"/>
-</p>
+En la sección de Rutinas, el usuario podrá explorar las diversas opciones de rutinas que ofrece FitHub. Podrá visualizar qué conjunto de ejercicios realizar en cada día, facilitando así la planificación y seguimiento de su entrenamiento físico. Al hacer clic en cada rutina específica, como "Sentadilla Búlgara", tendrá acceso a información detallada sobre los ejercicios incluidos, como instrucciones y repeticiones recomendadas.
+![image](https://github.com/HealthyL/Informe/assets/134560396/d76d799a-a018-413e-bcb6-ec95e34280f6)
+
+En la sección de Nutrición, el usuario podrá explorar las diversas opciones de platos que ofrece FitHub. Podrá acceder a ideas para desayunos, almuerzos y cenas, con la posibilidad de editar, eliminar o agregar nuevas recetas. Esto permite a los usuarios utilizar nuestra plataforma tanto como una fuente de inspiración para comidas equilibradas como para guardar y gestionar sus propias recetas favoritas.
+![image](https://github.com/HealthyL/Informe/assets/134560396/698431aa-5631-4b6c-bcc7-ac571a029b9c)
+
+En la sección de Productos, el usuario podrá visualizar diferentes productos de fitness para utilizar en sus ejercicios. Podrá ver el precio, dónde conseguirlos, así como el nombre e imagen del producto. Esta sección se divide en tres categorías: equipos para ejercicios cardiovasculares y funcionales, y productos de alimentación.
+![image](https://github.com/HealthyL/Informe/assets/134560396/6c8eeb72-8d54-430c-a97c-310e5f81e70c)
 
 
 ### 4.4.4. Web Applications User Flow Diagrams.
+En esta sección, exploramos el flujo del usuario al navegar por nuestra plataforma. 
+Anexo E: [https://lucid.app/lucidchart/c740f309-b599-4400-9bd0-1fb5f125f4c8/edit?invitationId=inv_842f2d78-2e17-4543-b39c-eb393529cb6f](https://lucid.app/lucidchart/c740f309-b599-4400-9bd0-1fb5f125f4c8/edit?invitationId=inv_842f2d78-2e17-4543-b39c-eb393529cb6f)
+
+User goal: Crear cuenta
+User persona: Cliente de FitHub
+Explicación del flujo: En primer lugar, el visitante deberá dar click al botón “Crear Cuenta”, que se encuentra en el Header de la Landing Page. Este mostrará la sección “Crear Cuenta” en donde se deben ingresar los datos requeridos. En segundo lugar, deberá llenar los datos para realizar el pago correspondiente al plan elegido. Si el pago se realiza correctamente el usuario se redirigirá a llenar unos datos finales para la creación de su plantilla personalizada, si el pago no se realiza, volverá a pedir los datos de “Pago”. Finalmente, cuando todo esté completado el usuario, ahora FitExplorer podrá disfrutar de los servicios personalizados ofrecidos por la aplicación web.
+![image](https://github.com/HealthyL/Informe/assets/134560396/9f3761e0-044d-4492-a393-c424b2e0ab71)
 
 
- Link al [<u>Lucid Chart</u>](https://lucid.app/lucidchart/c740f309-b599-4400-9bd0-1fb5f125f4c8/edit?invitationId=inv_842f2d78-2e17-4543-b39c-eb393529cb6f)
+User goal: Iniciar sesión
+User persona: Cliente de FitHub
+Explicación del flujo: Primero, el FitExplorer deberá ingresar a nuestra landing page. A continuación, deberá dar click en el botón iniciar sesión, que se encuentra en el header, para ser dirigido a rellenar sus datos. Una vez complete sus datos, se desplegará la plataforma. A primera vista será el apartado de cuenta.
+![image](https://github.com/HealthyL/Informe/assets/134560396/0e7f29ea-e9fe-43f7-a961-fa6af9cc7d77)
 
- **User goal:** Crear cuenta
 
- **User persona:** FitExplorer
- 
-  **Explicación del flujo:** En primer lugar, el visitante deberá dar
-  click al botón “Crear Cuenta”, que se encuentra en el Header de la
-  Landing Page. Este mostrará la sección “Crear Cuenta” en donde se
-  deben ingresar los datos requeridos. En segundo lugar, el visitante
-  será redireccionado al sector de planes, en donde tendrá 3 opciones de
-  planes por elegir. En tercer lugar, deberá llenar los datos para
-  realizar el pago correspondiente al plan elegido. Si el pago se
-  realiza correctamente el usuario se redirigirá a llenar unos datos
-  finales para la creación de su plantilla personalizada, si el pago no
-  se realiza, volverá a pedir los datos de “Pago”. Finalmente, cuando
-  todo esté completado el usuario, ahora FitExplorer podrá disfrutar de
-  los servicios personalizados ofrecidos por la aplicación web.
+User goal: Visualización de rutina
+User persona: Cliente de FitHub
+Explicación del flujo: Cuando el usuario ingresa a su cuenta, al lado izquierdo se encuentran los iconos de los servicios que se ofrecen. El tercer icono, de la pesa, redirige al FitExplorer a la interfaz de las rutinas. Tendrá la opción de elegir la rutina dependiendo del grupo de músculos a trabajar. Cuando el grupo sea seleccionado se mostrarán los ejercicios completos. Si uno de los ejercicios es seleccionado muestra detalles del ejercicio.
+![image](https://github.com/HealthyL/Informe/assets/134560396/66388dbf-b53e-4218-92ef-1ad872adbaa2)
 
-<img src="https://media.discordapp.net/attachments/1229240004270882826/1229896797598515230/image10.png?ex=663159a6&is=661ee4a6&hm=72e43bdb0d1bb2abcc4aa357959e6b30c276e31e410d34e7888537ab81b17064&=&format=webp&quality=lossless&width=838&height=496"
-style="width:7.43842in;height:4.39191in" />
 
-  **User goal:** Iniciar sesión
- 
-  **User persona:** FitExplorer
- 
-  **Explicación del flujo:** Primero, el FitExplorer deberá ingresar a
-  nuestra landing page. A continuación, deberá dar click en el botón
-  iniciar sesión, que se encuentra en el header, para ser dirigido a
-  rellenar sus datos. Una vez complete sus datos, se desplegará la
-  plataforma. Su primera vista será el apartado de cuenta.
- 
-  <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897091879407667/image49.png?ex=663159ed&is=661ee4ed&hm=7e59a9312c6c2e10cd54036f12fc2ca5bdc3395f547f35c8b938fea153f2078b&=&format=webp&quality=lossless&width=720&height=284"
-  style="width:8.04757in;height:3.17859in" /> 
- 
-  **User goal:** Visualización de progreso semanal
- 
-  **User persona:** FitExplorer
- 
-  **Explicación del flujo:** Cuando el usuario ingresa a su cuenta, al
-  lado izquierdo se encuentran los iconos de los servicios que se
-  ofrecen. El quinto icono, de barras, son las estadísticas a las que
-  podrán acceder. Un resumen de las calorías consumidas en el día, las
-  comidas, y los ejercicios.
+User goal: Elección de comidas
+User persona: Cliente de FitHub
+Explicación del flujo: Cuando el usuario accede a su cuenta en FitHub, encontrará una serie de opciones de navegación en el menú de arriba. El tercer icono, de la manzana, redirige al FitExplorer a la interfaz de las comidas que tiene por elegir. Tendrá las opciones de almuerzos, lo redirigirá a elegir opciones de almuerzos, y la misma secuencia se realiza para el sector de cenas y desayunos.
+![image](https://github.com/HealthyL/Informe/assets/134560396/96e57d86-8353-43f1-a19a-c7bec599b56c)
 
-<img src="https://media.discordapp.net/attachments/1229240004270882826/1229897203309346836/image57.png?ex=66315a07&is=661ee507&hm=d5d77a07732aca53c0bc51c98e7de96b05433476db0ca29152e9427171f748cf&=&format=webp&quality=lossless&width=720&height=221"
-style="width:7.62604in;height:2.34141in" /> 
 
-  **User goal:** Elección de comidas
- 
-  **User persona:** FitExplorer
- 
-  **Explicación del flujo:** Cuando el usuario ingresa a su cuenta, al
-  lado izquierdo se encuentran los iconos de los servicios que se
-  ofrecen. El cuarto icono, de la manzana, redijire al FitExplorer a la
-  interfaz de las comidas que tiene por elegir. Tendrá las opciones de
-  almuerzos, lo redirigirá a elegir opciones de almuerzos, y la misma
-  secuencia se realiza para el sector de cenas.
-
-<img src="https://media.discordapp.net/attachments/1229240004270882826/1229896798307352726/image2.png?ex=663159a7&is=661ee4a7&hm=9f893b15f9c80223860dd747eb79ce278fd939c5d8d62183308445f15d1d1ff8&=&format=webp&quality=lossless&width=720&height=515"
-style="width:7.80313in;height:5.5764in" />
-
-  **User goal:** Visualización de rutina
- 
-  **User persona:** FitExplorer
- 
-  **Explicación del flujo:** Cuando el usuario ingresa a su cuenta, al
-  lado izquierdo se encuentran los iconos de los servicios que se
-  ofrecen. El tercer icono, de la pesa, redijire al FitExplorer a la
-  interfaz de las rutinas. Tendrá la opción de elegir la rutina
-  dependiendo del grupo de músculos a trabajar. Cuando el grupo sea
-  seleccionado se mostrarán los ejercicios completos. Si uno de los
-  ejercicios es seleccionado muestra detalles del ejercicio.
- 
-  <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897037311381514/image35.png?ex=663159e0&is=661ee4e0&hm=b4e32192feee18bf9ec3f78c739a8beab55fcbdc1976d7a4ac5489b86f84510b&=&format=webp&quality=lossless&width=720&height=366"
-  style="width:21.33333in;height:10.85417in" />
+User goal: Elección de productos
+User persona: Cliente de FitHub
+Explicación del flujo: Cuando el usuario accede a su cuenta en FitHub, encontrará una serie de opciones de navegación en el menú de arriba. El cuarto ícono, representado por una manzana, lo dirigirá a la sección de productos disponibles. Al ingresar a esta sección, el cliente podrá elegir entre diferentes categorías de productos, como Cardio, Alimentación y Funcionales, utilizando un menú desplegable.
+Una vez seleccionada una categoría, se mostrarán tarjetas con los productos disponibles dentro de esa categoría. Por ejemplo, si elige la categoría "Cardio", verá una lista de productos relacionados con el entrenamiento cardiovascular, incluyendo el nombre del producto, su precio y dónde se puede adquirir.
+![image](https://github.com/HealthyL/Informe/assets/134560396/39275fb7-2fce-4916-a091-c593c27c8a74)
 
 
 ## 4.5. Web Applications Prototyping.
 
-
-Establecimos una serie de criterios fundamentales para desarrollar los
-prototipos de la interfaz de usuario:
-
-- **Amigable y claro:** Nos esforzamos en hacer que moverse dentro de la
-  aplicación sea como un paseo por el parque, donde puedas entender
-  fácilmente cómo hacer todo, desde registrar procesos hasta revisar
-  estadísticas, sin complicaciones.
-
-- **Lo que realmente importa:** Nos aseguramos de mostrar solo lo que
-  necesitas ver, sin abrumarte con información innecesaria. Así, puedes
-  concentrarte en lo que es importante para ti sin distracciones.
-
-<img src="https://media.discordapp.net/attachments/1229240004270882826/1229896930155429998/image18.png?ex=663159c6&is=661ee4c6&hm=bdf2666b387013106ff37d65933fd2cc454cd382911b0c87f16e4e95ff9ac2c6&=&format=webp&quality=lossless&width=720&height=459"
-style="width:8.30208in;height:5.29167in"/>
+Prototipo de Aplicación Web: "FitHub"
+*Página de Inicio:*
+- Bienvenida y Descripción: Breve descripción sobre FitHub, destacando su visión de promover una vida saludable mediante dietas y rutinas personalizadas.
+- Registro/Inicio de Sesión: Opciones claras para que los usuarios puedan registrarse o iniciar sesión.
+- Perfil Personal: Detalles del perfil del profesional, incluyendo su nombre, fecha de nacimiento, DNI, género. etc.
+- Funcionalidades:
+  - Rutinas: Lista de rutinas de ejercicios personalizados basados en los objetivos y nivel de fitness del usuario.
+  - Nutrición: Tarjetas con recomendaciones de desayunos, almuerzos y cenas saludables, incluyendo nombre e ingredientes. Opción para editar o eliminar tarjetas según necesidades.
+  - Productos: Tarjetas con productos alimenticios, funcionales y para entrenamiento cardiovascular, mostrando nombre del producto, precio y dónde se puede encontrar.
+- Enlace del flujo:
+Anexo F: [https://www.figma.com/proto/Z2i4YAkSxGxcsbblQ8HQmR/FITHUB?type=design&node-id=115-487&t=GeELQHRExaICt9WA-1&scaling=scale-down&page-id=29%3A3&starting-point-node-id=115%3A487&show-proto-sidebar=1&mode=design](https://www.figma.com/proto/Z2i4YAkSxGxcsbblQ8HQmR/FITHUB?type=design&node-id=115-487&t=GeELQHRExaICt9WA-1&scaling=scale-down&page-id=29%3A3&starting-point-node-id=115%3A487&show-proto-sidebar=1&mode=design)
 
 
-En este video de [<u>explicación</u>](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210778_upc_edu_pe/EffIn_xlDglEruVvXZLjas0Bmxf0N7GqNtjWrPi4rsoD2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=DsgsMx), exploramos
+Video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210778_upc_edu_pe/EffIn_xlDglEruVvXZLjas0Bmxf0N7GqNtjWrPi4rsoD2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=DsgsMx](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210778_upc_edu_pe/EffIn_xlDglEruVvXZLjas0Bmxf0N7GqNtjWrPi4rsoD2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=DsgsMx)
+En este video de explicación, exploramos
 desde el inicio de sesión hasta la realización de tareas específicas, exploramos cómo los usuarios interactúan con la aplicación y cómo se guían a través de ella para lograr sus objetivos.
-
-Enlace para el [<u>Flujo</u>](https://www.figma.com/proto/Z2i4YAkSxGxcsbblQ8HQmR/FITHUB?type=design&node-id=115-487&t=GeELQHRExaICt9WA-1&scaling=scale-down&page-id=29%3A3&starting-point-node-id=115%3A487&show-proto-sidebar=1&mode=design)
 
 
 
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
-<p align="center">
-     <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897091543859210/image48.png?ex=663159ed&is=661ee4ed&hm=8a717548ae75ff198ee385ca0affa7efb07753e958122e87e7fff5b53bed8730&=&format=webp&quality=lossless&width=565&height=671" alt="fithub context diagram" style="margin-bottom: 5px;" width="1020px"/>
-</p>
+![image](https://github.com/HealthyL/Informe/assets/134560396/cbae6de9-4fc2-42bd-af8d-cebd7e446fee)
 
 ### 4.6.2. Software Architecture Container Diagrams.
-<p align="center">
-     <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897202453708921/image54.png?ex=66315a07&is=661ee507&hm=7d79de18bb1e3884963e1cec058994514a958796944a2ffb3eb74b01ba28a8b6&=&format=webp&quality=lossless&width=482&height=671" alt="fithub container diagram" style="margin-bottom: 5px;" width="1020px"/>
-</p>
+![image](https://github.com/HealthyL/Informe/assets/134560396/4f46c8df-b3c8-42b6-b2a3-7401dea91dff)
+
 
 ### 4.6.3. Software Architecture Components Diagrams.
-<p align="center">
-     <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897007078838303/image22.png?ex=663159d8&is=661ee4d8&hm=eeff04b4d4cbb8f82e41ea8fe02dfd6ec177efd59939bebb1b052e1ff7884487&=&format=webp&quality=lossless&width=720&height=572" alt="fithub component diagram 1" style="margin-bottom: 5px;" width="1020px"/>
-</p>
-</br>
+![image](https://github.com/HealthyL/Informe/assets/134560396/b455551b-a4a2-44db-8f18-a0ef66d4bca9)
+
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
-<p align="center">
-     <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897465814057142/image79.png?ex=66315a46&is=661ee546&hm=4ee5418427c2491b67c5c5071aac60b5781fa86954d612567e1f23693a044075&=&format=webp&quality=lossless&width=639&height=671" alt="fithub-class-diagram" style="margin-bottom: 5px;" width="1020px"/>
-</p>
+ACTUALIZAR
 
 ### 4.7.2. Class Dictionary.
-<table align="center" border="1" width="90%" style="text-align:center">
-  <tr>
-    <th colspan="3"><b>User</b></th>
-  </tr>
-  <tr align="left">
-    <td>int</td>
-    <td>id</td>
-    <td>Identificador único del usuario</td>
-  </tr>
-  <tr align="left">
-    <td>string</td>
-    <td>username</td>
-    <td>Alias del usuario</td>
-  </tr>
-  <tr align="left">
-    <td>date</td>
-    <td>birthdate</td>
-    <td>Fecha de nacimiento del usuario</td>
-  </tr>
-  <tr align="left">
-    <td>Location</td>
-    <td>location</td>
-    <td>Ubicación del usuario</td>
-  </tr>
-  <tr align="left">
-    <td>string</td>
-    <td>email</td>
-    <td>Correo del usuario</td>
-  </tr>
-  <tr align="left">
-    <td>string</td>
-    <td>get_info()</td>
-    <td>Obtener los atributos del usuario</td>
-  </tr>
-  <tr align="left">
-    <td>bool</td>
-    <td>login()</td>
-    <td>Iniciar sesión del usuario</td>
-  </tr>
-  <tr align="left">
-    <td>void</td>
-    <td>logout()</td>
-    <td>Cerrar sesión de usuario</td>
-  </tr>
-  <tr align="left">
-    <td>void</td>
-    <td>updateProfile()</td>
-    <td>Actualizar los atributos del perfil</td>
-  </tr>
-</table>
-</br>
-
-
-<table align="center" border="1" width="90%" style="text-align:center">
-  <tr>
-    <th colspan="3"><b>Plan</b></th>
-  </tr>
-  <tr align="left">
-    <td>int</td>
-    <td>id</td>
-    <td>Identificador único del plan</td>
-  </tr>
-  <tr align="left">
-    <td>string</td>
-    <td>name</td>
-    <td>Nombre del plan</td>
-  </tr>
-  <tr align="left">
-    <td>string</td>
-    <td>description</td>
-    <td>Descripción del plan</td>
-  </tr>
-  <tr align="left">
-    <td>float</td>
-    <td>price</td>
-    <td>Precio del plan</td>
-  </tr>
-  <tr align="left">
-    <td>bool</td>
-    <td>isActive</td>
-    <td>Indica si el plan está activo</td>
-  </tr>
-  <tr align="left">
-    <td>void</td>
-    <td>subscribe()</td>
-    <td>Suscribirse al plan</td>
-  </tr>
-  <tr align="left">
-    <td>void</td>
-    <td>unsubscribe()</td>
-    <td>Cancelar la suscripción al plan</td>
-  </tr>
-</table>
-</br>
-
-<table align="center" border="1" width="90%" style="text-align:center">
-  <tr>
-    <th colspan="3"><b>Promocion</b></th>
-  </tr>
-  <tr align="left">
-    <td>int</td>
-    <td>id</td>
-    <td>Identificador único de la promoción</td>
-  </tr>
-  <tr align="left">
-    <td>string</td>
-    <td>name</td>
-    <td>Nombre de la promoción</td>
-  </tr>
-  <tr align="left">
-    <td>string</td>
-    <td>description</td>
-    <td>Descripción de la promoción</td>
-  </tr>
-  <tr align="left">
-    <td>date</td>
-    <td>startDate</td>
-    <td>Fecha de inicio de la promoción</td>
-  </tr>
-  <tr align="left">
-    <td>date</td>
-    <td>endDate</td>
-    <td>Fecha de fin de la promoción</td>
-  </tr>
-  <tr align="left">
-    <td>float</td>
-    <td>discount</td>
-    <td>Descuento aplicable en la promoción</td>
-  </tr>
-  <tr align="left">
-    <td>void</td>
-    <td>applyPromotion()</td>
-    <td>Aplicar la promoción al carrito</td>
-  </tr>
-</table>
-
-</br>
-
-
-<table align="center" border="1" width="90%" style="text-align:center">
-  <tr>
-    <th colspan="3"><b>RutinaEntrenamiento</b></th>
-  </tr>
-  <tr align="left">
-    <td>int</td>
-    <td>id</td>
-    <td>Identificador único de la rutina de entrenamiento</td>
-  </tr>
-  <tr align="left">
-    <td>string</td>
-    <td>name</td>
-    <td>Nombre de la rutina de entrenamiento</td>
-  </tr>
-  <tr align="left">
-    <td>string</td>
-    <td>description</td>
-    <td>Descripción de la rutina de entrenamiento</td>
-  </tr>
-  <tr align="left">
-    <td>int</td>
-    <td>duration</td>
-    <td>Duración estimada de la rutina (en minutos)</td>
-  </tr>
-  <tr align="left">
-    <td>List&lt;Exercise&gt;</td>
-    <td>exercises</td>
-    <td>Lista de ejercicios incluidos en la rutina</td>
-  </tr>
-  <tr align="left">
-    <td>void</td>
-    <td>startRoutine()</td>
-    <td>Comenzar la ejecución de la rutina de entrenamiento</td>
-  </tr>
-  <tr align="left">
-    <td>void</td>
-    <td>pauseRoutine()</td>
-    <td>Pausar la ejecución de la rutina de entrenamiento</td>
-  </tr>
-  <tr align="left">
-    <td>void</td>
-    <td>endRoutine()</td>
-    <td>Finalizar la ejecución de la rutina de entrenamiento</td>
-  </tr>
-</table>
-
-</br>
-
-
-
-
-<table align="center" border="1" width="90%" style="text-align:center">
-  <tr>
-    <th colspan="3"><b>DietaNutricion</b></th>
-  </tr>
-  <tr align="left">
-    <td>int</td>
-    <td>id</td>
-    <td>Identificador único de la dieta de nutrición</td>
-  </tr>
-  <tr align="left">
-    <td>string</td>
-    <td>name</td>
-    <td>Nombre de la dieta de nutrición</td>
-  </tr>
-  <tr align="left">
-    <td>string</td>
-    <td>description</td>
-    <td>Descripción de la dieta de nutrición</td>
-  </tr>
-  <tr align="left">
-    <td>List&lt;Meal&gt;</td>
-    <td>meals</td>
-    <td>Lista de comidas incluidas en la dieta</td>
-  </tr>
-  <tr align="left">
-    <td>int</td>
-    <td>caloriesPerDay</td>
-    <td>Calorías diarias objetivo de la dieta</td>
-  </tr>
-  <tr align="left">
-    <td>void</td>
-    <td>startDiet()</td>
-    <td>Comenzar la dieta de nutrición</td>
-  </tr>
-  <tr align="left">
-    <td>void</td>
-    <td>trackProgress()</td>
-    <td>Seguir el progreso de la dieta de nutrición</td>
-  </tr>
-  <tr align="left">
-    <td>void</td>
-    <td>endDiet()</td>
-    <td>Finalizar la dieta de nutrición</td>
-  </tr>
-</table>
-
-</br>
-
-
-<table align="center" border="1" width="90%" style="text-align:center">
-  <tr>
-    <th colspan="3"><b>Evento</b></th>
-  </tr>
-  <tr align="left">
-    <td>int</td>
-    <td>id</td>
-    <td>Identificador único del evento</td>
-  </tr>
-  <tr align="left">
-    <td>string</td>
-    <td>name</td>
-    <td>Nombre del evento</td>
-  </tr>
-  <tr align="left">
-    <td>string</td>
-    <td>description</td>
-    <td>Descripción del evento</td>
-  </tr>
-  <tr align="left">
-    <td>date</td>
-    <td>date</td>
-    <td>Fecha del evento</td>
-  </tr>
-  <tr align="left">
-    <td>string</td>
-    <td>location</td>
-    <td>Ubicación del evento</td>
-  </tr>
-  <tr align="left">
-    <td>List&lt;User&gt;</td>
-    <td>attendees</td>
-    <td>Lista de asistentes al evento</td>
-  </tr>
-  <tr align="left">
-    <td>void</td>
-    <td>addAttendee()</td>
-    <td>Agregar un asistente al evento</td>
-  </tr>
-  <tr align="left">
-    <td>void</td>
-    <td>removeAttendee()</td>
-    <td>Eliminar un asistente del evento</td>
-  </tr>
-</table>
-
-</br>
-
-
-<table align="center" border="1" width="90%" style="text-align:center">
-  <tr>
-    <th colspan="3"><b>Suscripcion</b></th>
-  </tr>
-  <tr align="left">
-    <td>int</td>
-    <td>id</td>
-    <td>Identificador único de la suscripción</td>
-  </tr>
-  <tr align="left">
-    <td>string</td>
-    <td>plan</td>
-    <td>Plan de suscripción</td>
-  </tr>
-  <tr align="left">
-    <td>date</td>
-    <td>startDate</td>
-    <td>Fecha de inicio de la suscripción</td>
-  </tr>
-  <tr align="left">
-    <td>date</td>
-    <td>endDate</td>
-    <td>Fecha de finalización de la suscripción</td>
-  </tr>
-  <tr align="left">
-    <td>bool</td>
-    <td>active</td>
-    <td>Estado activo de la suscripción</td>
-  </tr>
-  <tr align="left">
-    <td>User</td>
-    <td>user</td>
-    <td>Usuario suscrito</td>
-  </tr>
-  <tr align="left">
-    <td>void</td>
-    <td>activate()</td>
-    <td>Activar la suscripción</td>
-  </tr>
-  <tr align="left">
-    <td>void</td>
-    <td>deactivate()</td>
-    <td>Desactivar la suscripción</td>
-  </tr>
-</table>
-
-</br>
+ACTUALIZAR
 
 ## 4.8. Database Design.
-
 ### 4.8.1. Database Diagram.
-<p align="center">
-     <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897467789836298/image76.png?ex=66315a46&is=661ee546&hm=c10eea72b619c174a30eb63a7cee42821397579a2f5b798528c23fde4b043a52&=&format=webp&quality=lossless&width=720&height=382" alt="TPlaner-db" style="margin-bottom: 5px;" width="1020px"/>
-</p>
+ACTUALIZAR
 
 # Capítulo V: Product Implementation, Validation & Deployment.
-
 ## 5.1. Software Configuration Management.
-
-### 5.1.1. Software Development Environment Configuration.
-
-En nuestro equipo de desarrollo, utilizamos una variedad de herramientas de software para colaborar en todas las fases del ciclo de vida de nuestro producto digital. A continuación, se detallan estas herramientas junto con sus propósitos:
-
-
-- <b>Whatsapp:</b>  Aplicación de mensajería instantánea que permite a los usuarios enviar mensajes de texto, voz, imágenes y videos a través de Internet. Es ampliamente utilizada para la comunicación personal y empresarial.
-- <b>Discord:</b> Plataforma de comunicación en línea que combina chat de texto, voz y video. Es popular en la comunidad de jugadores, pero también se utiliza para la comunicación en grupos y equipos.
-- <b>Google</b> Drive: Servicio de almacenamiento en la nube de Google que permite a los usuarios almacenar y compartir archivos en línea. También ofrece herramientas de colaboración, como Google Docs.
-- <b>GitHub:</b> Plataforma de desarrollo colaborativo que utiliza el control de versiones Git. Se utiliza principalmente para alojar y gestionar proyectos de software, facilitando la colaboración entre desarrolladores.
-- <b>Visual Studio Code:</b> Editor de código fuente gratuito y de código abierto desarrollado por Microsoft. Es ampliamente utilizado por programadores y desarrolladores para escribir y depurar código.
-- <b>Uxpressia:</b> Herramienta de diseño de experiencia de usuario (UX) que ayuda a crear mapas de viaje del usuario, personas y otros recursos para diseñadores y equipos de desarrollo.
-- <b>Vertabelo:</b> Plataforma de diseño y modelado de bases de datos en línea que permite a los usuarios crear diagramas de bases de datos y colaborar en su diseño.
-- <b>LucidChart:</b> Herramienta de diagramación en línea que permite crear diagramas, flujos de trabajo y gráficos. Se utiliza para visualizar procesos y conceptos.
-- <b>Figma:</b> Aplicación de diseño de interfaz de usuario basada en la nube que permite a los diseñadores colaborar en tiempo real en proyectos de diseño web y de aplicaciones.
-- <b>Trello:</b> Herramienta de gestión de proyectos basada en tarjetas y tableros. Facilita la organización de tareas y proyectos, así como la colaboración en equipo.
-- <b>Structurizr:</b> Herramienta de modelado de arquitectura de software que ayuda a los equipos a documentar y visualizar la arquitectura de sus sistemas.
-- <b>Canvas:</b> Plataforma en línea que permite a los usuarios crear gráficos, diseños y presentaciones de manera sencilla, con una amplia variedad de plantillas y elementos gráficos predefinidos.
-
+### 5.1.1. Software Development Environment Configuration. 
+CORREGIR BARBARA
 
 ### 5.1.2. Source Code Management.
-
-## Metodología GitFlow para Gestión Colaborativa
-
-Para facilitar la gestión colaborativa del código fuente en nuestro equipo, utilizamos Git y GitHub como sistema de control de versiones para nuestro proyecto. Seguimos la metodología GitFlow, que nos permite colaborar de manera eficiente y ágil, siguiendo convenciones y mejores prácticas.
-
-Dentro de la estructura de GitFlow, contamos con las siguientes ramas:
-
-- **Main:** Contiene la versión estable y funcional del proyecto, representando el estado de producción.
-
-- **Develop:** Rama donde trabajamos en nuevas características y mejoras planificadas para el proyecto. Aquí se fusionan las contribuciones del equipo antes de avanzar hacia la rama principal.
-
-- **Feature:** Se utilizan para implementar nuevas funcionalidades o mejoras específicas. Cada característica se desarrolla en su propia rama y se fusiona con la rama de desarrollo una vez completada.
-
-- **Release:** Permiten preparar el proyecto para su lanzamiento. Aquí se corrigen los últimos problemas y se realizan ajustes finales antes de la fusión con la rama principal.
-
-- **Hotfix:** Se crean en caso de problemas críticos en producción y se utilizan para abordar y resolver estos problemas de manera urgente.
-
-- **Fix:** Se utilizan para solucionar problemas no críticos o errores menores que se descubran en el desarrollo regular.
-
-Este enfoque nos ayuda a mantener un control efectivo de nuestras versiones y a colaborar de manera más eficiente en nuestro proyecto.
-
-
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897088960167936/image41.png?ex=663159ec&is=661ee4ec&hm=2988ede178eaeb9f9d0b5801d744a81528888f1cb69e441711cb97c5421fa489&=&format=webp&quality=lossless" alt="GitFlow" style="margin-bottom: 3px;" width="780px">
-</p>
+CORREGIR BARBARA
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
@@ -1772,7 +923,7 @@ Para mantener consistencia y claridad en el código fuente de nuestra página de
 
 Uso de Etiquetas HTML en Minúsculas: Todas las etiquetas HTML deben escribirse en minúsculas para garantizar la coherencia y cumplir con las especificaciones.
 
-#### HTML
+HTML
 - **Uso de Etiquetas en Minúsculas:** Todas las etiquetas HTML deben escribirse en minúsculas para garantizar la coherencia y cumplir con las especificaciones.
   ```html
   <etiqueta>
@@ -1848,180 +999,35 @@ Siguiendo este proceso, garantizamos que nuestra página de aterrizaje FitHub es
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1.
-<table align="center" border="1" width="90%" style="text-align:left">
-  <tr>
-    <td><b>Sprint #</b></td>
-    <td>Sprint 1</td>
-  </tr>
-  <tr>
-    <td colspan="2"><b>Sprint Planning Background</b></td>
-  </tr>
-  <tr>
-    <td>Date</td>
-    <td>12-04-2024</td>
-  </tr>
-  <tr>
-    <td>Time</td>
-    <td>9:00 AM</td>
-  </tr>
-  <tr>
-    <td>Location</td>
-    <td>Reunión virtual en Discord</td>
-  </tr>
-  <tr>
-    <td>Prepared By</td>
-    <td>Jimena Cama Salvatierra</td>
-  </tr>
-  <tr>
-    <td>Attendees (to planning meeting)</td>
-    <td>Jimena Tamara Cama Salvatierra
- </br>Bruce Andres Cipriano Chumbes
- </br> Cipriano Chumbes, Bruce Andres</br> Loarte Matos, Anthony Brahan</br> Barbara Susana Quezada Portalatino
-</td>
-  </tr>
-  <tr>
-      <td colspan="2"><b>Sprint Goal & User Stories</b></td>
-  </tr>
-  <tr>
-    <td>Sprint 1 Goal</td>
-    <td>Elaborar y diseñar una landing page atractiva, llamativa, profesional e informativa para la aplicación web “FitHub”</td>
-  </tr>
-  <tr>
-    <td>Sprint n Velocity</td>
-    <td>11</td>
-  </tr>
-  <tr>
-    <td>Sum of Story Points</td>
-    <td>18</td>
-  </tr>
-</table>
+| Sprint # | Sprint 1 |  
+|---|---|
+| Sprint Planning Background |
+| Date | 12/04/2024 | 
+| Time | 9:00 AM | 
+| Location | Reunión virtual en Discord |
+| Prepared by | Jimena Cama Salvatierra | 
+| Attendees (to planning meeting) | Jimena Tamara Cama Salvatierra<br>Bruce Andres Cipriano Chumbes<br>Anthony Brahan Loarte Matos<br>Barbara Susana Quezada Portalatino |
+| Sprint Goal &amp; User stories | 
+| Sprint n Goal | Elaborar y diseñar una landing page atractiva, llamativa, profesional e informativa para la aplicación web “FitHub” | 
+| Sprint n Velocity | 11 |
+| Sum of story points | 18 |
+
 
 #### 5.2.1.2. Sprint Backlog 1.
-En esta sección, se detalló el contenido del Sprint Backlog 1. Para una gestión adecuada de las tareas asignadas a cada miembro del equipo, se optó por utilizar Trello como la plataforma principal de seguimiento y organización de las actividades.
+Para el primer sprint backlog, reunimos las historias de usuario relacionadas con la landing page. La herramienta que utilizamos fue Trello. Gracias a esta, pudimos dividir las historias de usuario en tareas fáciles de realizar y repartirlas entre los miembros del grupo. Completamos la mayoría de los user stories, ya que el objetivo principal de este primer sprint era completar la landing page en su totalidad, con un diseño atractivo e intuitivo para el usuario. Sin embargo, aún no se implementa al 100% el funcionamiento de creación de cuenta e inicio de sesión.
+![image](https://github.com/HealthyL/Informe/assets/134560396/945c07e8-e57e-4a54-b648-e583a36c86cf)
 
-Enlace del Trello: [Sprint Backlog 1 - Odyssey]()
-
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897466585939978/image72.png?ex=66315a46&is=661ee546&hm=98f4a68c6b335e3592cb0d146b3ab911035f4fb6e0c510353391f7f7a29bfabb&=&format=webp&quality=lossless&width=720&height=228" alt="Sprint Backlog 1" style="margin-bottom: 3px;" width="1080px">
-</p>
-
-<table align="center" border="1" width="90%" style="text-align:center">
- <tr>
-    <td colspan="1"><b>Sprint #</b></td>
-    <td colspan="7"><b>Sprint 1</b></td>
-  </tr>
-  <tr>
-    <td colspan="2"><b>User Story</b></td>
-    <td colspan="6"><b>Work-Item / Task</b></td>
-  </tr>
-  <tr>
-    <td><b>Id</b></td>
-    <td><b>Title</b></td>
-    <td><b>Id</b></td>
-    <td><b>Title</b></td>
-    <td><b>Description</b></td>
-    <td><b>Estimation(Hours)</b></td>
-    <td><b>Assigned To</b></td>
-    <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
-  </tr>
-  <tr>
-    <td rowspan="2">US01</td>
-    <td rowspan="2">Creación de hipervínculos (Header)</td>
-    <td>T01</td>
-    <td>Funcionamiento correcto de hipervínculos</td>
-    <td>Cada hipervínculo redirige correctamente a la sección indicada</td>
-    <td>0.5</td>
-    <td>Jimena Cama</td>
-    <td>Done</td>
-   </tr>
-
-   <tr>
-    <td>T02</td>
-    <td>Función sticky  </td>
-    <td>El header se puede visualizar en toda la landing page sin ningún problema</td>
-    <td>0.5</td>
-    <td>Jimena Cama</td>
-    <td>Done</td>
-</tr>
-
-<tr> 
-    <td rowspan="2">US02</td>
-   <td rowspan="2">Sección funcionamiento</td>
-    <td>T03</td>
-    <td>División de espacios</td>
-    <td>Los espacios se dividen correctamente para cada elemento</td>
-    <td>0.5</td>
-    <td>Anthony Loarte</td>
-    <td>Done</td>
-   <tr>
-    <td>T04</td>
-    <td>Implementación del diseño</td>
-    <td>Se agrega color, imágenes e información a las secciones</td>
-    <td>0.5</td>
-    <td>Bruce Cipriano</td>
-    <td>Done</td>
-   </tr>
-</tr>
-    <td>US03</td>
-    <td>Sección contáctanos</td>
-    <td>T05</td>
-    <td>Forms para enviar mensajes
-
-</td>
-    <td>Se realiza un forms para enviar mensajes por si el usuario tiene alguna duda
-
-</td>
-    <td>1</td>
-    <td>Jimena Cama
-
-</td>
-    <td>Done</td>
- </tr>
-
-<tr>
-    <td>US04</td>
-    <td>Sección planes</td>
-    <td>T06</td>
-    <td>Implementar información sobre los planes
-
-</td>
-    <td>Se realiza un grid para implementar los planes en orden, atractivos y llamativos para el usuario
-
-</td>
-    <td>1</td>
-    <td>Barbara Quezada
-
-</td>
-    <td>Done</td>
- </tr>
-
-<tr>
-    <td>US05</td>
-    <td>Creación de la cuenta
-
-</td>
-    <td>TA07</td>
-    <td>Ingreso de datos
-
-</td>
-    <td>Se realiza un forms en donde el usuario ingresa los datos
-
-</td>
-    <td>0.5</td>
-    <td>Anthony Loarte</td>
-    <td>Done</td>
- </tr>
- <tr>
-    <td>US06</td>
-    <td>Iniciar Sesión</td>
-    <td>T08</td>
-    <td>Ingreso de datos</td>
-    <td>Se realiza un forms en donde el usuario ingresa los datos</td>
-    <td>0.5</td>
-    <td>Bruce Cipriano</td>
-    <td>Done</td>
- </tr>
-</table>
+| Sprint # | Sprint 1 |  |  |  |  |  |
+|---|---|---|---|---|---|---|
+| User Story |  | Work-Item / Task |  |  |  |  |  
+| ID | Title | ID | Title | Description | Estimation (Hours) | Assigned To |  
+| US001 | Creación de hipervínculos (Header) | TA001 | Funcionamiento correcto de hipervínculos | Cada hipervínculo redirige correctamente a la sección indicada | ½ hora | Jimena Cama |  
+|  |  | TA002 | Función sticky | El header se puede visualizar en toda la landing page sin ningún problema | ½ hora | Jimena Cama |  
+| US002 | Sección funcionamiento | TA003 | División de espacios | Los espacios se dividen correctamente para cada elemento | ½ hora | Anthony Loarte | 
+|  |  | TA004 | Implementación del diseño | Se agrega color, imágenes e información a las secciones | ½ hora | Bruce Cipriano |  
+| US003 | Sección contáctanos | TA005 | Forms para enviar mensajes | Se realiza un forms para enviar mensajes por si el usuario tiene alguna duda | 1 hora | Jimena Cama | 
+| US004 | Creación de la cuenta | TA007 | Ingreso de datos | Se realiza un forms en donde el usuario ingresa los datos | ½ hora | Anthony Loarte | 
+| US005 | Iniciar Sesión | TA008 | Ingreso de datos | Se realiza un forms en donde el usuario ingresa los datos | ½ hora | Bruce Cipriano |  
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
 
@@ -2062,60 +1068,33 @@ Enlace del Trello: [Sprint Backlog 1 - Odyssey]()
 
 Durante el sprint inicial, se logró un avance parcial en la ejecución del despliegue de la página inicial de FitHub. Esta página ofrece una variedad de secciones donde los usuarios pueden acceder a información relevante sobre nuestro producto y la empresa. A continuación, se comparten algunas pruebas que respaldan este progreso:
 
-- **Sección de Planes:** En esta sección, el usuario puede visualizar e interactuar con los diferentes planes que ofrece nuestra plataforma.
-
-
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/1229240004270882826/1229935109189402644/image.png?ex=66317d55&is=661f0855&hm=2caea5e64d035cdf010359c51f1d5d4f8fe21ec5ff79a9ff7adbb7dec8fa81a5&=&format=webp&quality=lossless&width=720&height=342" alt="landing 1" style="margin-bottom: 3px;" width="1080px">
-</p>
-
-
 
 - **Sección de Contáctanos:** Aquí se incluye un formulario interactivo mediante el cual los usuarios pueden completar sus consultas, comentarios o sugerencias. Este formulario está diseñado para recopilar información básica del usuario, como nombre, dirección de correo electrónico y mensaje.
 
+![image](https://github.com/HealthyL/Informe/assets/134560396/8e3c25db-4d51-4b79-bae6-7b96cd3242eb)
 
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/1229240004270882826/1229935162687623168/image.png?ex=66317d61&is=661f0861&hm=27d53193edb53156d077e74b637c777754cceddfd82279d97f9a25d311060157&=&format=webp&quality=lossless&width=720&height=342" alt="landing 2" style="margin-bottom: 3px;" width="1080px">
-</p>
 
 
 - **Sección de Iniciar Sesión:** Se brinda a los usuarios la oportunidad de acceder a sus cuentas existentes en la plataforma FitHub. Presentamos un formulario de inicio de sesión donde los usuarios pueden ingresar su nombre de usuario o dirección de correo electrónico junto con su contraseña para acceder a sus perfiles.
+![image](https://github.com/HealthyL/Informe/assets/134560396/857ae323-31e5-4827-8483-c53e14c05d15)
 
-
-
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/1229240004270882826/1229935290248990750/image.png?ex=66317d80&is=661f0880&hm=1ae83910d56fd54385bec8594ef8603cb5fbec5745860d46bdcf61f9481e3bf0&=&format=webp&quality=lossless&width=720&height=344" alt="landing 3" style="margin-bottom: 3px;" width="1080px">
-</p>
 
 - **Sección de Crear Cuenta:** Proporcionamos a los usuarios la posibilidad de registrarse en la plataforma FitHub para acceder a sus funcionalidades y contenido exclusivo. Esta sección incluye un formulario de registro en el que los usuarios pueden ingresar la información necesaria, como nombre, dirección de correo electrónico, contraseña, entre otros datos relevantes.
+![image](https://github.com/HealthyL/Informe/assets/134560396/1ceb20a9-63a9-4af1-acbe-ac2ba1acf1be)
 
-
-
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/1229240004270882826/1229935376320299089/image.png?ex=66317d94&is=661f0894&hm=1242d7aed7ac02957135910c73792b19f87368e47a9b88af876f335a79e8b373&=&format=webp&quality=lossless&width=720&height=343" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
-</p>
 
 - **Sección de Inicio:** Damos la bienvenida a los usuarios a nuestra aplicación web FitHub con una interfaz atractiva y concisa en la información inicialmente que brindamos sobre nosotros.
-
-
-
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1229240004270882826/1229934945737375775/image.png?ex=66317d2e&is=661f082e&hm=b92637037ce316f15c3cc6a99c7cd0927d9b34231e4bbf5e893e61f840b985f5&" alt="landing 5" style="margin-bottom: 3px;" width="1080px">
-</p>
+![image](https://github.com/HealthyL/Informe/assets/134560396/0058e2d0-2893-427f-9f16-9b47b63e6883)
 
 
 
 - **Sección de ¿Cómo funciona?:** Explicamos sobre los servicios que el usuario podrá disfrutar al registrarse y escoger un plan en nuestra aplicación web.
-
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/1229240004270882826/1229935056600956958/image.png?ex=66317d48&is=661f0848&hm=d2a96ea3a9ffc7f4c811931b3e160b9ba679a7c009e6265ccfa4106bc1dca113&=&format=webp&quality=lossless&width=720&height=343" alt="landing 6" style="margin-bottom: 3px;" width="1080px">
-</p>
+![image](https://github.com/HealthyL/Informe/assets/134560396/07c11b80-5feb-44b3-998f-3830754c7969)
 
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 Para esta entrega no se ha implementado ningún servicio adicional, ya que el enfoque principal fue el diseño y desarrollo de la landing page de FitHub. El despliegue de la landing page se puede acceder mediante el siguiente enlace:  FitHub Landing
-
- Page: [https://healthyl.github.io/FitHub-LandingPage/](https://healthyl.github.io/FitHub-LandingPage/)
+Anexo H: [https://healthyl.github.io/FitHub-LandingPage/](https://healthyl.github.io/FitHub-LandingPage/)
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
@@ -2130,17 +1109,11 @@ Para el despliegue de la landing page de FitHub, se utilizaron las siguientes te
 
 
 #### 5.2.1.8.  Team Collaboration Insights during Sprint
-
-<p align="center">
-  <img src="https://github.com/HealthyL/FitHub-Frontend/assets/107071662/3568c77d-cdf6-4870-9542-223d89813ee9" alt="Contributions" style="margin-bottom: 3px;" width="921px">
-</p>
+ [https://github.com/HealthyL/FitHub-Frontend/assets/107071662/3568c77d-cdf6-4870-9542-223d89813ee9](https://github.com/HealthyL/FitHub-Frontend/assets/107071662/3568c77d-cdf6-4870-9542-223d89813ee9)
 
 **Network graph**
 
-<p align="center">
-  <img src="https://github.com/HealthyL/Informe/assets/107071662/9fa831db-bd9d-4974-ad03-1338dd4b25e9" alt="Network graph" style="margin-bottom: 3px;" width="917px">
-</p>
-
+[https://github.com/HealthyL/Informe/assets/107071662/9fa831db-bd9d-4974-ad03-1338dd4b25e9](https://github.com/HealthyL/Informe/assets/107071662/9fa831db-bd9d-4974-ad03-1338dd4b25e9)
 
 | Alumno                        | Actividad                                                                          |
 |-------------------------------|------------------------------------------------------------------------------------|
