@@ -171,12 +171,34 @@ TF:
       - [5.2.2.4.Testing Suite Evidence for Sprint Review.](#5224testing-suite-evidence-for-sprint-review)
       - [5.2.2.5.Execution Evidence for Sprint Review.](#5225execution-evidence-for-sprint-review)
       - [5.2.2.6.Services Documentation Evidence for Sprint Review.](#5226services-documentation-evidence-for-sprint-review)
-      - [5.2.2.7.Software Deployment Evidence for Sprint Review.](#5227software-deployment-evidence-for-sprint-review)
-      - [5.2.2.8.Team Collaboration Insights during Sprint.](#5228team-collaboration-insights-during-sprint)
-  - [Video About-the-Team.](#video-about-the-team)
-- [Bibliografía](#bibliografía)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review.](#5227-software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8. Team Collaboration Insights during Sprint.](#5228-team-collaboration-insights-during-sprint)
+    - [Sprint 3](#sprint-3)
+      - [5.2.3.1. Sprint planinning 3](#5231-sprint-planinning-3)
+      - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
+      - [5.2.3.3. Development Evidence for Sprint Review.](#5233-development-evidence-for-sprint-review)
+      - [5.2.3.4.Testing Suite Evidence for Sprint Review.](#5234testing-suite-evidence-for-sprint-review)
+      - [5.2.3.5.Execution Evidence for Sprint Review.](#5235execution-evidence-for-sprint-review)
+      - [5.2.3.6.Services Documentation Evidence for Sprint Review.](#5236services-documentation-evidence-for-sprint-review)
+      - [5.2.3.7.Software Deployment Evidence for Sprint Review.](#5237software-deployment-evidence-for-sprint-review)
+      - [5.2.3.8.Team Collaboration Insights during Sprint.](#5238team-collaboration-insights-during-sprint)
+    - [5.2.4.Sprint 4](#524sprint-4)
+      - [5.2.4.1.Sprint planinning 4](#5241sprint-planinning-4)
+      - [5.2.4.2.Sprint Backlog 4](#5242sprint-backlog-4)
+      - [5.2.4.3.Development Evidence for Sprint Review.](#5243development-evidence-for-sprint-review)
+      - [5.2.4.4.Testing Suite Evidence for Sprint Review.](#5244testing-suite-evidence-for-sprint-review)
+      - [5.2.4.5.Execution Evidence for Sprint Review.](#5245execution-evidence-for-sprint-review)
+      - [5.2.4.6.Services Documentation Evidence for Sprint Review.](#5246services-documentation-evidence-for-sprint-review)
+      - [5.2.4.7.Software Deployment Evidence for Sprint Review.](#5247software-deployment-evidence-for-sprint-review)
+      - [5.2.4.8.Team Collaboration Insights during Sprint.](#5248team-collaboration-insights-during-sprint)
+  - [5.3.Validation interviews](#53validation-interviews)
+    - [5.3.1.Diseño de entrevistas](#531diseño-de-entrevistas)
+    - [5.3.2.Registro de Entrevistas](#532registro-de-entrevistas)
+    - [5.3.3.Evaluaciones según heurísticas](#533evaluaciones-según-heurísticas)
+  - [5.4 Video about the product.](#54-video-about-the-product)
+- [Video about the team](#video-about-the-team)
 - [Conclusiones](#conclusiones-1)
-- [Bibliografía](#bibliografía-1)
+- [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
 
@@ -442,10 +464,10 @@ En esta fase, hemos identificado preguntas clave para cada grupo de usuarios, bu
   - Apellidos: Castillo
   - Edad: 20 años
   - Distrito: Callao
-  - Link de la entrevista: [Enlace aquí](https://drive.google.com/file/d/1fRUfC72HD6yWInaV6Lsof_Tuzsqbdo-R/view)](https://drive.google.com/file/d/1fRUfC72HD6yWInaV6Lsof_Tuzsqbdo-R/view)
+  - Link de la entrevista: [https://drive.google.com/file/d/1fRUfC72HD6yWInaV6Lsof_Tuzsqbdo-R/view](https://drive.google.com/file/d/1fRUfC72HD6yWInaV6Lsof_Tuzsqbdo-R/view)
   - Timing y Duración: 03:29
   - Evidencia de la reunión:<br>
-[imagen](https://github.com/HealthyL/Informe/assets/107071662/e007f013-29e2-4e51-ab40-128bd21a6489)
+![imagen](https://github.com/HealthyL/Informe/assets/107071662/e007f013-29e2-4e51-ab40-128bd21a6489)
   - Resumen de la entrevista:
 El entrevistado, Jair Castillo, destacó su compromiso activo con un estilo de vida saludable, enfocado en mantener un cuerpo en forma y una alimentación equilibrada. Sin embargo, admitió enfrentarse a una considerable confusión al buscar orientación en línea para obtener planes de entrenamiento y consejos sobre nutrición. Actualmente, se ve obligado a recurrir a videos de YouTube y a seguir a entrenadores en redes sociales en busca de información relevante. A pesar de sus esfuerzos, Jair expresó su frustración por la falta de resultados rápidos y efectivos en su búsqueda por mejorar su salud y forma física.
 
@@ -457,7 +479,7 @@ El entrevistado, Jair Castillo, destacó su compromiso activo con un estilo de v
   - Link de la entrevista: [[Enlace aquí](https://drive.google.com/file/d/1TESjsVLUgQN-isLQoe-tkEiDbRxPplQx/view)](https://drive.google.com/file/d/1TESjsVLUgQN-isLQoe-tkEiDbRxPplQx/view)
   - Timing y Duración: 06:43
   - Evidencia de la reunión:<br>
-[imagen](https://github.com/HealthyL/Informe/assets/107071662/8b1d0e82-6ff4-4552-bece-578e46eedc3c)
+![imagen](https://github.com/HealthyL/Informe/assets/107071662/8b1d0e82-6ff4-4552-bece-578e46eedc3c)
   - Resumen de la entrevista:
 El entrevistado, Jair Castillo, destacó su compromiso activo con un estilo de vida saludable, enfocado en mantener un cuerpo en forma y una alimentación equilibrada. Sin embargo, admitió enfrentarse a una considerable confusión al buscar orientación en línea para obtener planes de entrenamiento y consejos sobre nutrición. Actualmente, se ve obligado a recurrir a videos de YouTube y a seguir a entrenadores en redes sociales en busca de información relevante. A pesar de sus esfuerzos, Jair expresó su frustración por la falta de resultados rápidos y efectivos en su búsqueda por mejorar su salud y forma física.
 
@@ -470,7 +492,7 @@ El entrevistado, Jair Castillo, destacó su compromiso activo con un estilo de v
   - Link de la entrevista:[https://drive.google.com/file/d/177_n_26XWHlHz2t6qElLyxO4C8aBuPEU/view?usp=sharing](https://drive.google.com/file/d/177_n_26XWHlHz2t6qElLyxO4C8aBuPEU/view?usp=sharing)
   - Timing y Duración: 04:02
   - Evidencia de la reunión:<br>
-[imagen](https://github.com/HealthyL/Informe/assets/107071662/a1e7cb63-20b8-4479-9e87-116d399ccc16)
+![imagen](https://github.com/HealthyL/Informe/assets/107071662/a1e7cb63-20b8-4479-9e87-116d399ccc16)
   - Resumen de la entrevista:
 Salvador Diaz está comprometido con mantenerse en forma y llevar una alimentación equilibrada, pero se enfrenta a la confusión al buscar orientación en línea sobre nutrición. Aunque recurre a videos de YouTube y redes sociales para obtener información, está frustrado por la falta de resultados rápidos y efectivos. Se le sugiere buscar fuentes de información más confiables, como sitios web de instituciones médicas, y considerar la consulta directa con un profesional de la salud para obtener orientación personalizada. Se le anima a ser paciente y a adoptar un enfoque integral para lograr sus objetivos.
 
@@ -479,10 +501,10 @@ Salvador Diaz está comprometido con mantenerse en forma y llevar una alimentaci
   - Apellidos: Aguilar
   - Edad: 21 años
   - Distrito: San Miguel
-  - Link de la entrevista: [[Enlace aquí](https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view)](https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view)
+  - Link de la entrevista: [https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view](https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view)
   - Timing y Duración: 05:04
   - Evidencia de la reunión:<br>
-[imagen](https://github.com/HealthyL/Informe/assets/107071662/31fa9383-ff39-4b40-bd02-9f3311c56006)
+![imagen](https://github.com/HealthyL/Informe/assets/107071662/31fa9383-ff39-4b40-bd02-9f3311c56006)
   - Resumen de la entrevista:
 Agustín Aguilar, residente de San miguel, tiene 21 años y está interesado en mantenerse en forma y llevar una dieta saludable. Actualmente, realiza ejercicio ocasionalmente, principalmente planchas y pesas, y no sigue una dieta estricta, aunque se alimenta de manera saludable. Su principal objetivo al usar un servicio de fitness en línea es mejorar su estado físico y mantenerse en forma. Agustín enfrenta desafíos para seguir una dieta constante y encontrar la motivación para mantener una rutina de ejercicio. Le motiva sentirse bien consigo mismo y manejar el estrés y la ansiedad. Espera recibir información sobre rutinas de ejercicio y dietas personalizadas, consejos para mantener la disciplina y un lugar para registrar su progreso. Actualmente, establece su propia rutina de ejercicio y dieta, buscando información en Internet y comparando diferentes fuentes. Agustín desea recibir un plan de rutina establecida y una dieta definida en lugar de improvisar cada día.
 
@@ -1155,79 +1177,113 @@ Para el despliegue de la landing page de FitHub, se utilizaron las siguientes te
 
 
 #### 5.2.2.2. Sprint Backlog 2
-
-| **Sprint #** | **Sprint 2** |  |  |  |  |  |  |
+| Sprint # | Sprint 2 |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|
-| **User Story** |  | **Work-Item / Task** |  |  |  |  |  |
-| **ID** | **Title** | **ID** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** |  |
-| US005 | Creación de la cuenta | TA007 | Ingreso de datos | Se realiza un forms en donde el usuario ingresa los datos | 1 hora | Anthony Loarte |  |
-| US006 | Iniciar Sesión | TA008 | Ingreso de datos | Se realiza un forms en donde el usuario ingresa los datos | 1 hora | Anthony Loarte |  |
-| US007 | Configiracion de objetivos personales | TA001 | Interactuar con el objetivo | El usuario puede cambiar su objetivo y otros datos relevantes para la personalización de su cuenta | 2 horas | Jimena Cama |  |
-| US008 | Elección de comidas | TA001 | Mostrar alimentos | Mostrar la selección de alimentos en base a la dieta proporcionada por FitHub | 1 hora | Barbara Quezada |  |
-|  |  | TA002 | Selección de alimentos | Una vez se selecciona el alimento, se agrega a la lista de alimentos consumidos en el dia | 1 hora | Barbara Quezada |  |
-| US009 | Seguimiento de consumo calórico diario | TA001 | Cantidad de calorías | Se suma la cantidad de calorías de los elementos elegidos por el usuario | 2 horas | Jimena Cama |  |
-| US011 | Visualizar rutina | TA001 | Visualizar rutina semanal | El usuario tiene una vista general de la rutina de la semana | 1 hora | Bruce Cipriano |  |
-|  |  | TA002 | Visualizar rutina diaria detallada | El usuario puede ver detalles esenciales de la rutina del día | 1 hora | Bruce Cipriano |  |
-|  |  | TA003 | Visualizar detalles del  ejercicio | El usuario puede ver una explicación sobre el ejercicio a realizar en la rutina | 1 hora | Bruce Cipriano |  |
+| User Story |  | Work-Item / Task |  |  |  |  |  |
+| ID | Title | ID | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / InProcess / To-Review / Done) |
+| US006 | Desplazamiento mediante el header | TA001 | Botones para las rutas | Se implementaron hipervínculos en el header, con rutas para navegar por la plataforma | 2 horas | Jimena Cama |  |
+| US007 | Navegar por la sección de Productos | TA001 | Mostrar productos en lista | Se realizó un card list para los productos | 1 ½ hora | Jimena Cama | Done |
+|  |  | TA002 | Filtrar productos por tipo | Se implementó un dropdown para el filtro de los productos | 2 horas | Jimena Cama | Done |
+|  |  | TA003 | Quitar filtro | Se implementó un botón para quitar el filtro | 1 hora | Jimena Cama | Done |
+| US008 | Editar datos personales | TA001 | Interactuar con el objetivo | El usuario puede cambiar su objetivo y otros datos relevantes para la personalización de su cuenta | 2 horas | Bruce Cipriano | Done |
+| US009 | Visualizar información nutricional | TA001 | Mostrar alimentos | Mostrar la selección de alimentos en base a la dieta proporcionada por FitHub | 1 hora | Jimena Cama | Done |
+|  |  | TA002 | Selección de alimentos | Una vez se selecciona el alimento, se agrega a la lista de alimentos consumidos en el dia | 1 hora | Jimena Cama | Done |
+| US010 | Navegar por la sección de Nutrición | TA001 | Botón con ruta para la sección nutrición | Se implementó la ruta para el sector nutrición | 5 min | Barbara Quezada | Done |
+| US011 | Visualizar recomendaciones de alimentos | TA001 | Muestra todos los alimentos | Se realizó un card list de los alimentos organizados por: Desayunos, Almuerzos y Cenas | 1 hora | Barbara Quezada | Done |
+| US012 | Edición y eliminación de recomendaciones de alimentos | TA001 | Elimina y Edita los campos de las cards de los alimentos | Se elimina una card list y edita los campos de la misma en la sección de Alimentos | 1 hora | Barbara Quezada | Done |
+| US013 | Visualizar rutina | TA001 | Visualizar rutina semanal | El usuario tiene una vista general de la rutina de la semana | 1 hora | Anthony Loarte | Done |
+|  |  | TA002 | Visualizar rutina diaria detallada | El usuario puede ver detalles esenciales de la rutina del día | 1 hora | Anthony Loarte | Done |
+|  |  | TA003 | Visualizar detalles del  ejercicio | El usuario puede ver una explicación sobre el ejercicio a realizar en la rutina | 1 hora | Anthony Loarte | Done |
 
 #### 5.2.2.3. Development Evidence for Sprint Review.
-
-| **Repository** | **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body** | **Committed on (Date)** |
-|---|---|---|---|---|---|
-| https://github.com/HealthyL/FitHub-LandingPage | develop | 1754fe99c6564c021ffdb918694a0947ab59c237 | feat: add US007  | Configuracion de objetivos personales | 3/05/24 |
-| https://github.com/HealthyL/FitHub-LandingPage | develop | 17c754e1e3946c1edf1c4f9becf964767134e634 | feat: add US008 | Elección de comidas | 3/05/24 |
-| https://github.com/HealthyL/FitHub-LandingPage | develop | 639709f01b9d3d7c360d55a702cacd83e5733941 | feat: add US009 | Seguimiento de consumo calórico diario | 3/05/24 |
-| https://github.com/HealthyL/FitHub-LandingPage | develop | 8f6bf5b696ff0fbe3376f45464684b65b75bc041 | feat: add US011 | Visualizar rutina | 3/05/24 |
-
-
+| Repository | Branch | Commit Id | Commit Message |
+|---|---|---|---|
+| [https://github.com/HealthyL/FitHub-Frontend/tree/feature/JimenaCama](https://github.com/HealthyL/FitHub-Frontend/tree/feature/JimenaCama) | feature/JimenaCama | 47a30afb7888876c5d6479b24d1074bdcdacb9d9 | feat: add US006 |
+| [https://github.com/HealthyL/FitHub-Frontend/tree/feature/JimenaCama](https://github.com/HealthyL/FitHub-Frontend/tree/feature/JimenaCama) | feature/JimenaCama | f10b445e58fd6ea1d817aa23c6514f45d1c14fa5 | feat: add US007 |
+| [https://github.com/HealthyL/FitHub-Frontend/tree/feature/BruceCipriano](https://github.com/HealthyL/FitHub-Frontend/tree/feature/BruceCipriano) | feature/BruceCipriano | 9679f96fe40e162bc67ebdf900dca159fca3fc2d | feat: add US008 |
+| [https://github.com/HealthyL/FitHub-Frontend/tree/feature/JimenaCama](https://github.com/HealthyL/FitHub-Frontend/tree/feature/JimenaCama) | feature/JimenaCama | aaf39aa175e47c64244e161a5e0af5ff6f10f1bf | feat: add US009 |
+| [https://github.com/HealthyL/FitHub-Frontend/tree/feature/BarbaraQuezada](https://github.com/HealthyL/FitHub-Frontend/tree/feature/BarbaraQuezada) | feature/BarbaraQuezada | 6ad2fd2f3de4051a86c9df2b765b20dcc9f8a9f9 | feat: add US010, US011, US012 |
+| [https://github.com/HealthyL/FitHub-Frontend/tree/feature/AnthonyLoarte](https://github.com/HealthyL/FitHub-Frontend/tree/feature/AnthonyLoarte) | feature/AnthonyLoarte | d4c3b4f5e7a8c9d8b1e2f3a4b5c6d7e8f9a0b1c2 | feat: add US013 |
 
 #### 5.2.2.4.Testing Suite Evidence for Sprint Review.
+| Repositorio/Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+|---|---|---|---|---|
+| [https://github.com/HealthyL/testing-/tree/main/Sprint%202](https://github.com/HealthyL/testing-/tree/main/Sprint%202) | 4f96a49ff8fd1c8bb60abf861b5ca5874648f5dc | feat: add US006 | Desplazamiento mediante el header | 3/05/24 |
+|  | 72e6348c54e9f0058df9aa1a1217b01d4a6f899d | feat: add US007 | Navegar por la sección de Productos | 3/05/24 |
+|  | a75dddd82fc211f02747afe5461a67d0ef747364 | feat: add US008 | Editar datos personales | 3/05/24 |
+|  | 191bed5baeb20fa6a917590fe39d1bc3cbd0a2cb | feat: add US009 | Visualizar información nutricional | 4/05/24 |
+|  | e918b5c6e9ba86982ee01696be999cb2a9d54989 | feat: add US010 | Navegar por la sección de Nutrición | 4/05/24 |
+|  | 2e3607234c7f27bd353451a1c28107506b57e656 | feat: add US011 | Visualizar recomendaciones de alimentos | 4/05/24 |
+|  | 32608e3b56a5e7ad4aa5d397f67f14916d47177d | feat: add US012 | Edición y eliminación de recomendaciones de alimentos | 4/05/24 |
+|  | 831c2beacc583c3c413fee51f811fe251270587c | feat: add US013 | Visualizar rutina | 6/05/24 |
 
 #### 5.2.2.5.Execution Evidence for Sprint Review.
-Durante este segundo sprint los integrantes del equipo desarrollaron las distintas bounded context del dominio de Mind Care, emplenado los conocimientos aprendidos sobre el framework de Angular, usando los componentes de Angular Material y haciendo uso de la estructura.
-Durante este segundo sprint los integrantes del equipo desarrollaron las distintas bounded context del dominio de Mind Care, emplenado los conocimientos aprendidos sobre el framework de Angular, usando los componentes de Angular Material y haciendo uso de la estructura.
+Durante este segundo sprint los integrantes del equipo desarrollaron las distintas bounded context del dominio de FitHub, empleando los conocimientos aprendidos sobre el framework de Vue, usando los componentes de PrimeVue  y haciendo uso  de la estructura.
 
-Jimena Cama
-![image](https://github.com/HealthyL/Informe/assets/134560396/5b2c43bb-388a-4d6d-b6a3-3a693fcec58c)
-![image](https://github.com/HealthyL/Informe/assets/134560396/b3570542-4840-41f5-91b1-6207714f03b1)
+Jimena Cama 
+Sección de Productos:
+![image](https://github.com/HealthyL/Informe/assets/134560396/7a29cd82-218f-4221-87b8-18129b137590)
 
 Barbara Quezada
-![image](https://github.com/HealthyL/Informe/assets/134560396/bac0d809-5014-4517-9682-0db02d53211a)
-
-![image](https://github.com/HealthyL/Informe/assets/134560396/b50eef10-33ee-4df5-9517-cb2ee753b632)
-![image](https://github.com/HealthyL/Informe/assets/134560396/e0df3a7e-f83f-40d9-ac31-6b7ef68209fe)
+Sección de Nutrición:
+![image](https://github.com/HealthyL/Informe/assets/134560396/8fb0ff37-64aa-41d5-9ee5-967564390c4a)
+![image](https://github.com/HealthyL/Informe/assets/134560396/8a12d8b8-6ddf-4502-9fe5-8504f7b4fe61)
+![image](https://github.com/HealthyL/Informe/assets/134560396/102155c2-f4ca-4fcf-8df7-0b9e05ed7aa6)
 
 Anthony Loarte
+Sección de Rutinas:
+![image](https://github.com/HealthyL/Informe/assets/134560396/38e40efc-00d0-4756-a30c-ba0432815e88)
 
 Bruce Cipriano
+Sección de Cuenta:
+![image](https://github.com/HealthyL/Informe/assets/134560396/1c3a21ab-ea09-4c10-b3f1-6a4440424380)
 
 
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
-Durante este sprint, hemos centrado nuestros esfuerzos en documentar de manera exhaustiva los distintos aspectos de Fithub, nuestra plataforma para el seguimiento personalizado de la alimentación y el ejercicio. Este enfoque nos ha permitido ofrecer una visión clara de las acciones disponibles en nuestra aplicación, tanto para los usuarios que buscan mejorar su salud como para aquellos que desean mantenerse en forma.
-
-Nos hemos dedicado a detallar cada función, desde la visualización de los alimentos disponibles hasta la creación de rutinas de ejercicio personalizadas, pasando por el seguimiento del progreso individual. Cada sección de la aplicación, incluyendo "Mi Cuenta", "Rutina", "Nutrición" y "Configuración", ha sido meticulosamente documentada para garantizar que los usuarios comprendan completamente todas las funcionalidades disponibles.
-
-Además de la documentación escrita, hemos incluido capturas de pantalla que ilustran cómo se utilizan estas funciones en la práctica, proporcionando una guía visual tanto para los usuarios nuevos como para los desarrolladores. Todo este trabajo se ha llevado a cabo en nuestro repositorio de Fithub en GitHub, donde hemos vinculado cada documentación con sus respectivos cambios para asegurar una trazabilidad completa del desarrollo.
-
-#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
-Para la entrega del segundo sprint, se desplego parcialmente el web application. Cumpliendo los user stories correspondientes al entregable.
-Web Application:
-Jimena Cama
-![image](https://github.com/HealthyL/Informe/assets/134560396/5b2c43bb-388a-4d6d-b6a3-3a693fcec58c)
-![image](https://github.com/HealthyL/Informe/assets/134560396/b3570542-4840-41f5-91b1-6207714f03b1)
-
-Barbara Quezada
-![image](https://github.com/HealthyL/Informe/assets/134560396/bac0d809-5014-4517-9682-0db02d53211a)
-
-![image](https://github.com/HealthyL/Informe/assets/134560396/b50eef10-33ee-4df5-9517-cb2ee753b632)
-![image](https://github.com/HealthyL/Informe/assets/134560396/e0df3a7e-f83f-40d9-ac31-6b7ef68209fe)
-
-Anthony Loarte
-
-Bruce Cipriano
+Durante este sprint, nuestro enfoque principal ha sido documentar meticulosamente los diversos aspectos de FitHub, nuestra plataforma para el seguimiento personalizado de la alimentación y el ejercicio. Este esfuerzo de documentación exhaustiva ha tenido como objetivo proporcionar una visión clara y detallada de todas las acciones y funcionalidades disponibles en nuestra aplicación, tanto para los usuarios que buscan mejorar su salud como para aquellos que desean mantener su nivel de forma física.
+Aspectos Destacados de la Documentación
+Descripciones Detalladas de Funciones:
+Visualización de Alimentos Disponibles: Guías paso a paso sobre cómo los usuarios pueden explorar y ver las diferentes opciones de alimentos disponibles en la aplicación.
+Creación de Rutinas de Ejercicio Personalizadas: Instrucciones sobre cómo los usuarios pueden crear y personalizar sus propios planes de entrenamiento basados en sus objetivos de fitness.
+Seguimiento del Progreso Individual: Documentación detallada sobre las diversas funciones de seguimiento que permiten a los usuarios monitorear su progreso a lo largo del tiempo.
+Documentación Específica por Sección:
+Mi Cuenta: Desglose detallado de la sección de perfil de usuario, incluyendo cómo actualizar la información personal, establecer objetivos y gestionar la configuración de privacidad.
+Rutina: Guía completa sobre cómo acceder, crear y seguir rutinas de ejercicio.
+Nutrición: Documentación sobre cómo explorar recomendaciones nutricionales, personalizar planes de comidas y registrar la ingesta alimentaria.
+Productos: Instrucciones sobre cómo navegar por los productos de fitness y nutrición.
+Configuración: Guía sobre cómo configurar las preferencias de la cuenta como los datos fitness del usuario.
+Repositorio y Trazabilidad
+Toda la documentación ha sido integrada sistemáticamente en nuestro repositorio de FitHub en GitHub:
+Documentación Vinculada: Cada pieza de documentación está vinculada a los cambios y actualizaciones de código correspondientes, asegurando una trazabilidad completa de los procesos de desarrollo.
+Control de versiones: Historial detallado de versiones para rastrear los cambios y actualizaciones en la documentación, asegurando que los usuarios y desarrolladores tengan acceso a la información y guías más recientes.
+Herramientas de Colaboración: Utilización de las funciones de colaboración de GitHub, como issues y pull requests, para agilizar la comunicación y asegurar la precisión y completitud de la documentación.
 
 
-#### 5.2.2.8.Team Collaboration Insights during Sprint.
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+Para la entrega del segundo sprint, se llevó a cabo un despliegue parcial de la aplicación web, cumpliendo con las historias de usuario planificadas para este entregable. A continuación, se detallan los aspectos clave del despliegue.
+
+Detalles del Despliegue
+Responsable del Despliegue: Jimena Cama
+Sección del Despliegue: Productos
+![image](https://github.com/HealthyL/Informe/assets/134560396/7a29cd82-218f-4221-87b8-18129b137590)
+
+Responsable del Despliegue: Barbara Quezada
+Sección del Despliegue: Nutrición
+![image](https://github.com/HealthyL/Informe/assets/134560396/8fb0ff37-64aa-41d5-9ee5-967564390c4a)
+![image](https://github.com/HealthyL/Informe/assets/134560396/8a12d8b8-6ddf-4502-9fe5-8504f7b4fe61)
+![image](https://github.com/HealthyL/Informe/assets/134560396/102155c2-f4ca-4fcf-8df7-0b9e05ed7aa6)
+
+Responsable del Despliegue: Anthony Loarte
+Sección del Despliegue: Rutina
+![image](https://github.com/HealthyL/Informe/assets/134560396/38e40efc-00d0-4756-a30c-ba0432815e88)
+
+Responsable del Despliegue: Bruce Cipriano
+Sección del Despliegue: Mi Cuenta
+![image](https://github.com/HealthyL/Informe/assets/134560396/1c3a21ab-ea09-4c10-b3f1-6a4440424380)
+
+
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
 
 <img width="927" alt="Screenshot 2024-05-04 at 08 58 59" src="https://github.com/HealthyL/FitHub-Frontend/assets/107071662/ed28a425-a699-4af3-8353-2675a2006e40">
 
@@ -1238,11 +1294,196 @@ Bruce Cipriano
 | Anthony Loarte | Implementacion del bounded context Flujo inicial |
 | Bruce Cipriano | Implementacion del bounded context Rutine Design |
 
-## Video About-the-Team.
+### Sprint 3
+#### 5.2.3.1. Sprint planinning 3
+| Sprint # | Sprint 3 |
+|---|---|
+| Sprint Planning Background |  |
+| Date | 26/05/2024 |
+| Time | 9:00 AM |
+| Location | Reunión virtual en Discord |
+| Prepared by | Jimena Cama Salvatierra |
+| Attendees (to planning meeting) | Jimena Tamara Cama Salvatierra<br>Barbara Susana Quezada Portalatino |
+| Sprint Goal &amp; User stories |  |
+| Sprint 2 Goal | Versión corregida y mejorada de artefactos previamente presentados. Implementación de la base de datos. |
+| Sprint 3 Velocity | 5 |
+| Sum of story points | 4 |
+
+#### 5.2.3.2. Sprint Backlog 3
+| Sprint # | Sprint 3 |  |  |  |  |  |  |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| User Story |  | Work-Item / Task |  |  |  |  |  |
+| ID | Title | ID | Title | Description | Estimation (Hours) | Assigned To |  |
+| US008 | Navegar por la sección de Productos | TA001 | Agregar productos | Se agrega el nombre, la descripción, el precio, el url de la imagen y la categoría del producto. | 1 hora | Jimena Cama |  |
+|  |  | TA002 | Ver todos los productos | Se muestran todos los productos. | 30 min | Jimena Cama |  |
+|  |  | TA003 | Ver un  producto por id | Se muestra cierto producto identificado por id único. | 30 min | Jimena Cama |  |
+|  |  | TA004 | Borrar un producto por id | Se borra un producto de la base de datos identificado por id único. | 10 min | Jimena Cama |  |
+|  |  | TA005 | Actualizar un producto | Se actualizan los datos de un producto especificado por id. | 30 min | Jimena Cama |  |
+| US009 | Editar datos personales | TA001 |  agregar datos de usuario | Se actualizan los datos de usuario  | 2 horas | Bruce Cipriano |  |
+| US010 | Navegar por la sección de Nutrición | TA001 | Agregar items  | Se agrega el nombre, la descripción, los ingredientes, el url y la categoría | 2 horas | Barbara Quezada |  |
+|  |  | TA002 | Ver todos los items de Nutricion | Se muestran todos los ítems de Nutrición | 2 horas | Barbara Quezada |  |
+|  |  | TA003 | Borrar un item de nutricion | Se borra un producto de la base de datos identificado por id único. | 30 minutos | Barbara Quezada |  |
+|  |  | TA004 | Actualizar un item de Nutricion | Se actualizan los datos de un producto especificado por id. | 30 minutos | Barbara Quezada |  |
+
+#### 5.2.3.3. Development Evidence for Sprint Review.
+| Repository | Branch | Commit Id | Commit Message | Commit Body |
+|---|---|---|---|---|
+| [https://github.com/HealthyL/FitHub-Backend/tree/feature/AnthonyLoarte](https://github.com/HealthyL/FitHub-Backend/tree/feature/AnthonyLoarte) | feature/Anthony | a663245ca9096eb64056b3180a9e5631a69ed284 | feat: Security added | add aggregates, commands and queries about user. |
+| [https://github.com/HealthyL/FitHub-Backend/tree/feature/JimenaCama](https://github.com/HealthyL/FitHub-Backend/tree/feature/JimenaCama) | feature/JimenaCama | 36f171ea2c05ca9656a099f5b145e2bfbf5fb8e2 | feat: add aggregates, commands and queries | add aggregates, commands and queries |
+|  | feature/JimenaCama | dec366f353a8dac53dac93848dae830f8891266c | feat: add IAlimentationProductRepository | add IAlimentationProductRepository |
+|  | feature/JimenaCama | 731b1adb4aded88fefe07a0d56bc3e2bb77a6ebc | feat: add AlimentationProductController | add AlimentationProductController |
+|  | feature/JimenaCama | dd62e528bdd186062510b0569ca4fe9e8b167d0f | feat: add ICardioProductCommandService | add ICardioProductCommandService |
+|  | feature/JimenaCama | ae9350b9bb0849509624b59fcb5b9c1aefa3d012 | feat: add CardioController | add CardioController |
+|  | feature/JimenaCama | 055bd079e437a69990162f4a956dbe1dc16ddf12 | feat: add Update(put) and delete method to FunctionalProductController | add Update(put) and delete method to FunctionalProductController |
+| [https://github.com/HealthyL/FitHub-Backend/tree/feature/BarbaraQuezada](https://github.com/HealthyL/FitHub-Backend/tree/feature/BarbaraQuezada) | feature/BarbaraQuezada | 9fe9132bd51a79ce788e5a1444edcacefb27efb9 | feat: adding breakfast items | add aggregates, commands and queries about breakfast items |
+|  | feature/BarbaraQuezada | 4b49d1c4fb84496bb6b0ef1bdee11f22de09f954 | feat: adding dinner and lunch items | add aggregates, commands and queries about dinner and lunch items |
+| [https://github.com/HealthyL/FitHub-Backend/tree/feature/BruceCipriano/fithub-backend/account_manager](https://github.com/HealthyL/FitHub-Backend/tree/feature/BruceCipriano/fithub-backend/account_manager) | feature/BruceCipriano | 7bb49d1c15wd4496bb6b0ef1bdee11f22de09f954 | feat: account manager | add aggregates, commands and queries about account |
+
+#### 5.2.3.4.Testing Suite Evidence for Sprint Review.
+| Repositorio/Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+|---|---|---|---|---|
+| [https://github.com/HealthyL/testing-/tree/main/Sprint%203](https://github.com/HealthyL/testing-/tree/main/Sprint%203) | c450705381188868adb7147baa0997121994e5ef | feat: add US008 | Endpoint sección Productos datos personales | 7/06/24 |
+|  | 6fbaffc70a0750f3edf54e81c3ae3d775b831e12 | feat: add US009 | Endpoints datos usuarios | 10/06/24 |
+|  | 660f9402d86d9eb0487691795a025eb828604a39 | feat: add US010 | Visualizar recomendaciones de alimentos | 7/06/24 |
+
+#### 5.2.3.5.Execution Evidence for Sprint Review.
+Durante este tercer sprint los integrantes del equipo desarrollaron las bases de datos para los distintos bounded context de FitHub, empleando los conocimientos aprendidos sobre el backend en C#, y usando Swagger UI  para realizar las pruebas.
+
+Jimena Cama (Products Management)
+![image](https://github.com/HealthyL/Informe/assets/134560396/4b565ee9-6dde-4906-8458-eece37df00eb)
+
+Barbara Quezada (Nutrition Management)
+![image](https://github.com/HealthyL/Informe/assets/134560396/7ddff615-4bb8-4796-ab31-e309dbc40e7f)
+
+Bruce Cipriano (Account Management)
+![image](https://github.com/HealthyL/Informe/assets/134560396/80c2bcbc-ff3d-4144-b5ea-cbc2a3b70426)
+
+Anthony Loarte (Security Login)
+![image](https://github.com/HealthyL/Informe/assets/134560396/c601fb2b-4483-4f4b-8f2b-69a8fadfa4c5)
+
+#### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+Para el sprint 3, se planificó únicamente el desarrollo del backend. Inicialmente, se trabajó localmente con un servidor JSON, y luego se implementó My JSON Server, que se utiliza en la aplicación web del frontend desplegada. Hasta esta entrega, el backend ha sido creado, pero aún no se ha integrado con el frontend, ya que esta tarea se realizará en la entrega final.
+
+| Endpoint | Details |
+|---|---|
+| /nutrition | Este endpoint se encarga de la creación de las tarjetas de Nutrición como: Desayuno, Almuerzo y Cena |
+| /products | Este endpoint se encarga de la creación de las tarjetas de Productos como: Cardio, Funcional y Alimentación |
+
+#### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+
+#### 5.2.3.8.Team Collaboration Insights during Sprint.
+![image](https://github.com/HealthyL/Informe/assets/134560396/8ac40b9b-eab6-4959-b149-1f41dbeceeec)
+
+| Alumno | Actividad |
+|---|---|
+| Cama Salvatierra, Jimena Tamara | Elabore la implementación del backend del Bounded context de Product Management |
+| Bruce Cipriano | Elabore la implementación del backend del Bounded context de Account Management |
+| Anthony Loarte  | Elabore la implementación del backend del Bounded context de Security Login |
+| Quezada Portalatino, Barbara Susana | Elabore la implementación del backend del Bounded context de Nutrition Management |
+
+### 5.2.4.Sprint 4
+#### 5.2.4.1.Sprint planinning 4
+#### 5.2.4.2.Sprint Backlog 4
+#### 5.2.4.3.Development Evidence for Sprint Review.
+#### 5.2.4.4.Testing Suite Evidence for Sprint Review.
+#### 5.2.4.5.Execution Evidence for Sprint Review.
+#### 5.2.4.6.Services Documentation Evidence for Sprint Review.
+#### 5.2.4.7.Software Deployment Evidence for Sprint Review.
+#### 5.2.4.8.Team Collaboration Insights during Sprint.
+
+## 5.3.Validation interviews
+En esta sección, nuestro equipo registra y explica las actividades de entrevistas de validación realizadas durante el proyecto. Estas entrevistas permiten que usuarios de los segmentos objetivo interactúen con la landing page y con las aplicaciones desarrolladas. A continuación, se detallan las etapas del proceso de validación.
+
+### 5.3.1.Diseño de entrevistas
+Para asegurar una validación efectiva, diseñamos entrevistas estructuradas que permitieron a los usuarios interactuar con el producto y proporcionar feedback detallado. El diseño de las entrevistas incluyó los siguientes elementos:
+
+- Objetivo: Validar la usabilidad y funcionalidad de la landing page y las aplicaciones.
+- Participantes: Usuarios pertenecientes a los segmentos objetivo, es decir, entusiastas del fitness o principiantes.
+
+- Formato de la Entrevista:
+Introducción al proyecto y objetivos de la entrevista.
+Tareas específicas para que los usuarios realicen en la landing page y las aplicaciones.
+Preguntas abiertas para recopilar feedback cualitativo.
+Después de explorar la landing page, ¿qué aspectos te resultaron más útiles e intuitivos? ¿Hay algo que te haya confundido o que crees que podría mejorarse?
+¿Cómo fue tu experiencia al realizar _acción_ de la aplicación? ¿Encontraste algún problema durante el proceso?
+¿Tienes alguna sugerencia o comentario adicional sobre la experiencia general de uso de FitHub?
+
+### 5.3.2.Registro de Entrevistas
+Segmento de entusiastas en Fitness
+1. 
+Nombre: Jair Castillo
+Sexo: Masculino
+Edad: 26
+Link: [https://drive.google.com/file/d/1fQjjTpEg2GNVpUeymEwW6tpbyYVFM7WU/view?usp=sharing](https://drive.google.com/file/d/1fQjjTpEg2GNVpUeymEwW6tpbyYVFM7WU/view?usp=sharing ) <br>
+Resumen: En conclusión, le gustaron los colores de la sección de nutrición, así como la información que fue concisa y clara. Además, le parece curioso y muy útil que todas las secciones tengan botones para agregar, eliminar y editar. Estos elementos interactivos no solo facilitan la navegación y la personalización de la experiencia del usuario, sino que también ofrecen un control completo sobre la gestión de la información, lo cual es muy apreciado. En general, estas características contribuyen a una experiencia de usuario positiva y eficiente.
+
+2. 
+Nombre: Sebastian Cachis
+Sexo: Masculino
+Edad: 19
+Link: [https://drive.google.com/file/d/1rQeZKKl26S9p2xGlUCGNC404VRrUkruE/view](https://drive.google.com/file/d/1rQeZKKl26S9p2xGlUCGNC404VRrUkruE/view) <br>
+Resumen: En conclusión al entrevistado le agradó la sección de productos, nos comentó que le pareció bastante amigable, con respecto a los colores y la distribución. Una de sus propuestas fue implementar el dark mode para las personas que prefieren un tono más bajo de la pantalla.
+
+### 5.3.3.Evaluaciones según heurísticas
+Nombre de la App a Evaluar:
+FitHub <br>
+Tareas a Evaluar:
+- El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+- Agregar un ítem de Desayuno
+- Eliminar un ítem de Desayuno
+- Agregar un ítem de Cena
+- Eliminar un ítem de Cena
+- Agregar un item de Almuerzo
+- Agregar Producto
+- Eliminar Producto
+- Actualizar información del Producto
+
+No están incluidas en esta versión de la evaluación las siguientes tareas: <br>
+- Actualizar información del usuario
+- Agregar Rutinas
+
+Tabla de severidad
+| # | Problema | Escala de severidad | Heurística/Principio violada(o) |
+|---|---|---|---|
+| 1 | No se puede verificar si se puede actualizar la información del usuario | 1 | Usability: Libertad y control del<br>usuario |
+| 2 | No se ha implementado una función de agregar rutinas | 3 | Usability: Libertad y control del<br>usuario |
+
+Descripción de problemas: <br>
+- Problema #1: No se puede verificar si se puede - actualizar la información del usuario
+<br> Severidad: 1
+
+Actualmente, no hay una opción visible o funcionalidad que permita a los usuarios actualizar su información personal en la plataforma. Esto puede causar frustración y falta de control sobre los datos personales del usuario.
+<br> Recomendación: Implementar una función que permita a los usuarios actualizar su información personal de manera fácil y accesible. Esto incluye la capacidad de modificar datos como nombre, dirección de correo electrónico, número de teléfono, etc. Asegurarse de que esta opción esté claramente visible y sea fácil de usar.
+
+- Problema #2: No se ha implementado una función de agregar rutinas
+<br> Severidad: 3
+
+La plataforma no incluye actualmente una función que permita a los usuarios agregar rutinas personalizadas. Esto limita la capacidad del usuario para gestionar y planificar sus actividades de manera efectiva.
+<br> Recomendación: Añadir una funcionalidad que permita a los usuarios crear y gestionar sus propias rutinas. Esta función debería ser intuitiva y flexible, permitiendo al usuario definir y programar actividades de acuerdo a sus necesidades.
 
 
+## 5.4 Video about the product.
+El video "Sobre el Producto" tiene como objetivo proporcionar tanto a los visitantes de nuestra página de destino como a los usuarios de nuestras aplicaciones una visión general de nuestro modelo de negocio y de las características principales de nuestros productos de software.
+El contenido del video incluye:
+Una introducción al modelo de negocio de FitHub y una descripción general de los productos de software que ofrecemos como las secciones de Rutinas y Alimentación. 
+Resaltar las características clave de nuestras aplicaciones y cómo estas pueden beneficiar a los usuarios en sus actividades diarias.
+Una demostración visual de la interfaz de usuario de nuestras aplicaciones, mostrando cómo realizar tareas específicas relacionadas con los procesos que soporta nuestra solución.
 
+- Datos del video:
+- Screenshot del Video:
+- URL de la versión en Google Drive: 
+- Duración del Video: 
 
+# Video about the team
+Para dar un vistazo a nuestro equipo y el trabajo que hemos realizado, hemos creado un video que muestra nuestras competencias, experiencias y la pasión que nos impulsa a desarrollar soluciones que realmente marquen la diferencia en la vida de las personas. 
+- Screenshot del Video:
+- URL de la versión en Google Drive: 
+- Duración del Video: 
+
+# Conclusiones
+La plataforma de entrenamiento y nutrición personalizada que hemos desarrollado aborda de manera efectiva la falta de acceso a programas de bienestar adecuados, permitiendo a los usuarios superar obstáculos como la falta de tiempo, recursos y conocimientos. A través de nuestra investigación y validaciones, confirmamos que una solución digital centralizada y personalizada puede simplificar significativamente el proceso de alcanzar objetivos de salud y estado físico. Sin embargo, también identificamos que la motivación personal y el soporte social son elementos cruciales que deben ser integrados para mejorar la adherencia y el compromiso de los usuarios.
+
+Para maximizar el impacto y la efectividad de nuestra plataforma, recomendamos varias acciones clave. En primer lugar, es fundamental continuar optimizando los algoritmos de personalización para ofrecer recomendaciones más precisas y adaptadas a las necesidades individuales. Además, la incorporación de elementos de gamificación, como sistemas de recompensas y desafíos, puede aumentar significativamente la motivación y el compromiso de los usuarios. También es esencial fomentar la interacción social dentro de la plataforma, creando espacios donde los usuarios puedan compartir sus progresos y motivarse mutuamente. Por último, establecimos la hipótesis de que una plataforma digital personalizada podría simplificar el acceso a programas de bienestar y mejorar el compromiso de los usuarios con sus objetivos de salud. Las pruebas y validaciones mostraron que los usuarios encuentran valioso un espacio centralizado que les proporcione herramientas y recursos personalizados.Aun así, es crucial seguir optimizando la experiencia del usuario y agregar más funcionalidades basadas en el feedback recibido.
 
 # Bibliografía
 
@@ -1266,14 +1507,7 @@ Microsoft Docs. (s.f.). GitHub Flow. Recuperado el 15 de setiembre de 2023, de [
 
 Norma ISO 9001. (2020, 14 de diciembre). ISO 9001 Quality Management Systems. Recuperado el 15 de setiembre de 2023, de [https://www.iso.org/iso-9001-quality-management.html](https://www.iso.org/iso-9001-quality-management.html)
 
-# Conclusiones
-Concluimos que hemos comprendido la importancia de ofrecer soluciones personalizadas que se ajusten a las necesidades individuales de cada usuario para mejorar la efectividad y el mantenimiento a largo plazo de los programas de salud y estado físico. Además, se ha aprendido a utilizar la tecnología para desarrollar una plataforma que brinde programas de entrenamiento y nutrición personalizados de manera accesible y conveniente para los usuarios, adaptándose a sus diferentes contextos y estilos de vida.
-El enfoque en el usuario ha sido una prioridad durante todo el proceso, lo que ha implicado comprender las necesidades y problemas del usuario y proporcionar soluciones que aborden directamente estos problemas, como la falta de motivación, la dificultad para seguir planes de nutrición y la inconsistencia en la rutina de ejercicios. Finalmente, se ha reconocido la importancia de la iteración y la mejora continua, lo que implica probar hipótesis, recopilar retroalimentación y ajustar las estrategias según sea necesario para mejorar la experiencia del usuario y alcanzar los objetivos del proyecto.
-FInalmente, el trabajo en grupo nos ha permitido identificar y abordar de manera efectiva los desafíos relacionados con la falta de personalización en las soluciones de fitness y nutrición, utilizando herramientas ágiles como Lean UX y aprendiendo sobre la importancia de la personalización, el enfoque en el usuario y la mejora continua.
-
-# Bibliografía
-
-
+ 
 # Anexos
 Video exposición TB2: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210778_upc_edu_pe/EU2MBbdUu0ROteqz89m0ISUBRht2PHINKeqW1Gx86uh1EA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=UUhSCl](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210778_upc_edu_pe/EU2MBbdUu0ROteqz89m0ISUBRht2PHINKeqW1Gx86uh1EA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=UUhSCl)
 <br>
