@@ -1395,6 +1395,7 @@ Para el sprint 3, se planificó únicamente el desarrollo del backend. Inicialme
 En esta sección, nuestro equipo registra y explica las actividades de entrevistas de validación realizadas durante el proyecto. Estas entrevistas permiten que usuarios de los segmentos objetivo interactúen con la landing page y con las aplicaciones desarrolladas. A continuación, se detallan las etapas del proceso de validación.
 
 ### 5.3.1.Diseño de entrevistas
+
 Para asegurar una validación efectiva, diseñamos entrevistas estructuradas que permitieron a los usuarios interactuar con el producto y proporcionar feedback detallado. El diseño de las entrevistas incluyó los siguientes elementos:
 
 - Objetivo: Validar la usabilidad y funcionalidad de la landing page y las aplicaciones.
@@ -1409,6 +1410,7 @@ Después de explorar la landing page, ¿qué aspectos te resultaron más útiles
 ¿Tienes alguna sugerencia o comentario adicional sobre la experiencia general de uso de FitHub?
 
 ### 5.3.2.Registro de Entrevistas
+
 Segmento de entusiastas en Fitness
 1. 
 Nombre: Jair Castillo
@@ -1417,7 +1419,7 @@ Edad: 26
 Link: [https://drive.google.com/file/d/1fQjjTpEg2GNVpUeymEwW6tpbyYVFM7WU/view?usp=sharing](https://drive.google.com/file/d/1fQjjTpEg2GNVpUeymEwW6tpbyYVFM7WU/view?usp=sharing ) <br>
 Resumen: En conclusión, le gustaron los colores de la sección de nutrición, así como la información que fue concisa y clara. Además, le parece curioso y muy útil que todas las secciones tengan botones para agregar, eliminar y editar. Estos elementos interactivos no solo facilitan la navegación y la personalización de la experiencia del usuario, sino que también ofrecen un control completo sobre la gestión de la información, lo cual es muy apreciado. En general, estas características contribuyen a una experiencia de usuario positiva y eficiente.
 
-2. 
+1. 
 Nombre: Sebastian Cachis
 Sexo: Masculino
 Edad: 19
