@@ -1275,6 +1275,31 @@ FInalmente, el trabajo en grupo nos ha permitido identificar y abordar de manera
 
 
 # Anexos
-Enlace para acceder a la landing page: [FitHub Landing Page](https://healthyl.github.io/FitHub-LandingPage/)
-Video exposición TB1: [upc-pre-202401-si729-WS51-HealthyL-expo-TB1.mp4](http://upc-pre-202401-si729-WS51-HealthyL-expo-TB1.mp4)
-Video Product prototyping: [upc-pre-202401-si729-WS51-HealthyL-FitHub-navigation-sprint-1](http://upc-pre-202401-si729-WS51-HealthyL-FitHub-navigation-sprint-1)
+Video exposición TB2: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210778_upc_edu_pe/EU2MBbdUu0ROteqz89m0ISUBRht2PHINKeqW1Gx86uh1EA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=UUhSCl](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210778_upc_edu_pe/EU2MBbdUu0ROteqz89m0ISUBRht2PHINKeqW1Gx86uh1EA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=UUhSCl)
+<br>
+
+Video Product prototyping: [http://upc-pre-202401-si729-WS51-HealthyL-FitHub-navigation-sprint-1](http://upc-pre-202401-si729-WS51-HealthyL-FitHub-navigation-sprint-1)
+<br>
+
+Link de los User FLow y Wireflows: [https://lucid.app/lucidchart/b95b72c2-ea32-40df-9f60-5d4aa4d4d722/edit?view_items=wdBDu4CwVQIy&invitationId=inv_2a5575a1-dbb7-40f4-8357-08d823c45748](https://lucid.app/lucidchart/b95b72c2-ea32-40df-9f60-5d4aa4d4d722/edit?view_items=wdBDu4CwVQIy&invitationId=inv_2a5575a1-dbb7-40f4-8357-08d823c45748)
+<br>
+
+Enlace del Trello: [https://trello.com/b/UuXJ6M8i/fithub-ws51-grupo-5](https://trello.com/b/UuXJ6M8i/fithub-ws51-grupo-5)
+<br>
+
+Anexo A: 
+[https://miro.com/welcomeonboard/NmtrbXdaT3NSdnMydExMdmFjVXhBS3NoeWhDRUFFTzFHZzhDZkJzbnVkVUpwSzRrcnZFaUszSER1aGlPZUZ1UXwzMDc0NDU3MzUwMjczNDg5Mzc4fDI=?share_link_id=170806574388](https://miro.com/welcomeonboard/NmtrbXdaT3NSdnMydExMdmFjVXhBS3NoeWhDRUFFTzFHZzhDZkJzbnVkVUpwSzRrcnZFaUszSER1aGlPZUZ1UXwzMDc0NDU3MzUwMjczNDg5Mzc4fDI=?share_link_id=170806574388)
+<br>
+
+Anexo C: [https://www.figma.com/design/Z2i4YAkSxGxcsbblQ8HQmR/FITHUB?node-id=29-2](https://www.figma.com/design/Z2i4YAkSxGxcsbblQ8HQmR/FITHUB?node-id=29-2)
+<br>
+
+Anexo D: [https://lucid.app/lucidchart/b95b72c2-ea32-40df-9f60-5d4aa4d4d722/edit?view_items=wdBDu4CwVQIy&invitationId=inv_2a5575a1-dbb7-40f4-8357-08d823c45748](https://lucid.app/lucidchart/b95b72c2-ea32-40df-9f60-5d4aa4d4d722/edit?view_items=wdBDu4CwVQIy&invitationId=inv_2a5575a1-dbb7-40f4-8357-08d823c45748)
+<br>
+
+Anexo E: [https://lucid.app/lucidchart/c740f309-b599-4400-9bd0-1fb5f125f4c8/edit?invitationId=inv_842f2d78-2e17-4543-b39c-eb393529cb6f](https://lucid.app/lucidchart/c740f309-b599-4400-9bd0-1fb5f125f4c8/edit?invitationId=inv_842f2d78-2e17-4543-b39c-eb393529cb6f)
+<br>
+
+Anexo F: [https://www.figma.com/proto/Z2i4YAkSxGxcsbblQ8HQmR/FITHUB?type=design&node-id=115-487&t=GeELQHRExaICt9WA-1&scaling=scale-down&page-id=29%3A3&starting-point-node-id=115%3A487&show-proto-sidebar=1&mode=design](https://www.figma.com/proto/Z2i4YAkSxGxcsbblQ8HQmR/FITHUB?type=design&node-id=115-487&t=GeELQHRExaICt9WA-1&scaling=scale-down&page-id=29%3A3&starting-point-node-id=115%3A487&show-proto-sidebar=1&mode=design)
+Anexo G: [https://github.com/HealthyL/FitHub-Frontend/tree/develop](https://github.com/HealthyL/FitHub-Frontend/tree/develop) 
+Anexo H: [https://healthyl.github.io/FitHub-LandingPage/](https://healthyl.github.io/FitHub-LandingPage/)
