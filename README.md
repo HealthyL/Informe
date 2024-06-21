@@ -1538,6 +1538,6 @@ Anexo D: [https://lucid.app/lucidchart/b95b72c2-ea32-40df-9f60-5d4aa4d4d722/edit
 Anexo E: [https://lucid.app/lucidchart/c740f309-b599-4400-9bd0-1fb5f125f4c8/edit?invitationId=inv_842f2d78-2e17-4543-b39c-eb393529cb6f](https://lucid.app/lucidchart/c740f309-b599-4400-9bd0-1fb5f125f4c8/edit?invitationId=inv_842f2d78-2e17-4543-b39c-eb393529cb6f)
 <br>
 
-Anexo F: [https://www.figma.com/proto/Z2i4YAkSxGxcsbblQ8HQmR/FITHUB?type=design&node-id=115-487&t=GeELQHRExaICt9WA-1&scaling=scale-down&page-id=29%3A3&starting-point-node-id=115%3A487&show-proto-sidebar=1&mode=design](https://www.figma.com/proto/Z2i4YAkSxGxcsbblQ8HQmR/FITHUB?type=design&node-id=115-487&t=GeELQHRExaICt9WA-1&scaling=scale-down&page-id=29%3A3&starting-point-node-id=115%3A487&show-proto-sidebar=1&mode=design)
-Anexo G: [https://github.com/HealthyL/FitHub-Frontend/tree/develop](https://github.com/HealthyL/FitHub-Frontend/tree/develop) 
+Anexo F: [https://www.figma.com/proto/Z2i4YAkSxGxcsbblQ8HQmR/FITHUB?type=design&node-id=115-487&t=GeELQHRExaICt9WA-1&scaling=scale-down&page-id=29%3A3&starting-point-node-id=115%3A487&show-proto-sidebar=1&mode=design](https://www.figma.com/proto/Z2i4YAkSxGxcsbblQ8HQmR/FITHUB?type=design&node-id=115-487&t=GeELQHRExaICt9WA-1&scaling=scale-down&page-id=29%3A3&starting-point-node-id=115%3A487&show-proto-sidebar=1&mode=design) <br>
+Anexo G: [https://github.com/HealthyL/FitHub-Frontend/tree/develop](https://github.com/HealthyL/FitHub-Frontend/tree/develop) <br>
 Anexo H: [https://healthyl.github.io/FitHub-LandingPage/](https://healthyl.github.io/FitHub-LandingPage/)
