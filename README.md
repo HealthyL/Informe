@@ -47,7 +47,7 @@
 
 # Project Report Collaboration Insights
 
-URL del repositorio para el reporte del proyecto: [<u>https://github.com/HealthyL/FitHub-LandingPage/tree/main</u>](https://github.com/HealthyL/FitHub-LandingPage/tree/main)
+URL del repositorio para el reporte del proyecto: [https://github.com/HealthyL/FitHub-LandingPage/tree/main](https://github.com/HealthyL/FitHub-LandingPage/tree/main)
 
 TB1:
 | Integrante                          | Tarea Asignada|
@@ -297,7 +297,7 @@ Nuestra plataforma busca abordar estas preocupaciones al ofrecer un espacio digi
 
 #### 1.2.2.2. Lean UX Assumptions.
 * **Business Assumptions**  
-* Creemos que existe una necesidad de servicios personalizados de fitness y nutrición basados ​​en datos de rendimiento y características individuales del usuario.
+* Creemos que existe una necesidad de servicios personalizados de fitness y nutrición basados en datos de rendimiento y características individuales del usuario.
 
  * Se espera que los usuarios participen activamente en programas de entrenamiento personalizados y dietas adaptadas a sus necesidades específicas.
 
@@ -321,7 +321,7 @@ Nuestra plataforma busca abordar estas preocupaciones al ofrecer un espacio digi
       Nuestros productos se integran en la vida diaria de los usuarios como herramientas integrales para mejorar la salud y el estado físico 
   * **¿Qué problemas tiene nuestro producto y cómo se pueden resolver?**
     * Problema: Tengo dificultades para mantenerme motivado y constante en mi entrenamiento diario.
-    * Solución:Implementar un sistema de seguimiento del progreso para registrar logros como completar hitos de entrenamiento y mejorar la fuerza y ​​la resistencia.También proporciona recompensas virtuales y reconocimiento de logros para motivar a los usuarios a continuar con sus actividades diarias.
+    * Solución:Implementar un sistema de seguimiento del progreso para registrar logros como completar hitos de entrenamiento y mejorar la fuerza y la resistencia.También proporciona recompensas virtuales y reconocimiento de logros para motivar a los usuarios a continuar con sus actividades diarias.
 
     * Problema: Seguir un plan de nutrición adecuado y personalizado  puede resultar difícil debido a la falta de variedad y opciones atractivas.
     * Solución: Proporciona una variedad de recetas deliciosas y saludables adaptadas a las preferencias dietéticas personales de los usuarios. Además, hay opciones de personalización disponibles para adaptar las comidas a las restricciones dietéticas y preferencias personales de cada usuario.
@@ -353,7 +353,7 @@ Nuestra plataforma busca abordar estas preocupaciones al ofrecer un espacio digi
 
 - Creemos que al proporcionar análisis de datos de rendimiento y acceso
   a una comunidad de fitness en línea, podemos atraer usuarios
-  interesados ​​en mejorar su salud y estado físico.Creemos que tenemos
+  interesados en mejorar su salud y estado físico.Creemos que tenemos
   éxito ya que estamos viendo una mayor participación de los clientes y
   una participación activa en la plataforma.
 
@@ -476,7 +476,7 @@ El entrevistado, Jair Castillo, destacó su compromiso activo con un estilo de v
   - Apellidos: Yauri
   - Edad: 20 años
   - Distrito: San Miguel
-  - Link de la entrevista: [[Enlace aquí](https://drive.google.com/file/d/1TESjsVLUgQN-isLQoe-tkEiDbRxPplQx/view)](https://drive.google.com/file/d/1TESjsVLUgQN-isLQoe-tkEiDbRxPplQx/view)
+  - Link de la entrevista: [https://drive.google.com/file/d/1TESjsVLUgQN-isLQoe-tkEiDbRxPplQx/view](https://drive.google.com/file/d/1TESjsVLUgQN-isLQoe-tkEiDbRxPplQx/view)
   - Timing y Duración: 06:43
   - Evidencia de la reunión:<br>
 ![imagen](https://github.com/HealthyL/Informe/assets/107071662/8b1d0e82-6ff4-4552-bece-578e46eedc3c)
@@ -513,7 +513,7 @@ Agustín Aguilar, residente de San miguel, tiene 21 años y está interesado en 
   - Apellidos: Del Carmen
   - Edad: 21 años
   - Distrito: Puente Piedra
-  - Link de la entrevista: [[Enlace aquí](https://drive.google.com/file/d/1fRUfC72HD6yWInaV6Lsof_Tuzsqbdo-R/view)](https://drive.google.com/file/d/1fRUfC72HD6yWInaV6Lsof_Tuzsqbdo-R/view)
+  - Link de la entrevista: [https://drive.google.com/file/d/1fRUfC72HD6yWInaV6Lsof_Tuzsqbdo-R/view](https://drive.google.com/file/d/1fRUfC72HD6yWInaV6Lsof_Tuzsqbdo-R/view)
   - Timing y Duración: 09:17
   - Evidencia de la reunión:<br>
 [imagen](https://github.com/HealthyL/Informe/assets/107071662/f5e8deef-9ec1-4a60-9e7c-bcfa6cc3e36d)
@@ -541,7 +541,8 @@ Realizamos un análisis detallado de las entrevistas llevadas a cabo con el segm
 
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
-[user-persona](https://media.discordapp.net/attachments/1229240004270882826/1229897037705777232/image36.png?ex=663159e0&is=661ee4e0&hm=9a1c60c0ef38ad9255da9f4fa7575045eb38147a6a857664a92804dfd368a7ff&=&format=webp&quality=lossless&width=892&height=502)
+![user-persona](https://github.com/HealthyL/Informe/assets/137470462/9f84bdf5-e67a-4bd1-85af-a08ab5dcc566)
+
 
 ### 2.3.2. User Task Matrix.
 | User task Matrix | Marco Torres |  |
@@ -557,16 +558,17 @@ Realizamos un análisis detallado de las entrevistas llevadas a cabo con el segm
 
 ### 2.3.3. User Journey Mapping.
 Esta técnica nos permite comprender y visualizar el proceso que atraviesa un usuario desde el primer contacto con nuestro producto o servicio hasta la realización de una acción deseada. Además, veremos cómo esta técnica nos permite diseñar soluciones centradas en las necesidades y expectativas de nuestros usuarios, mejorando así la experiencia global y aumentando la satisfacción y fidelidad del cliente.
-[journey-mapping](https://media.discordapp.net/attachments/1229240004270882826/1229896798966120598/image4.png?ex=663159a7&is=661ee4a7&hm=f7c1807e0a75017c1680747f744eb0559303c7e52e96e9d16216ec4f6ef06379&=&format=webp&quality=lossless&width=1090&height=502)
+![journey-mapping](https://github.com/HealthyL/Informe/assets/137470462/6548b304-87bf-40e8-93e3-af9d6bd104f9)
+
 
 ### 2.3.4. Empathy Mapping.
 Al utilizar el Empathy Mapping, podemos adentrarnos en la mente y el corazón de nuestros usuarios, comprendiendo sus pensamientos, sentimientos, necesidades y deseos.
+![empathey-mapping](https://github.com/HealthyL/Informe/assets/137470462/602498ea-b280-442b-a558-50dd555a54f6)
 
-[empathy-mapping](https://media.discordapp.net/attachments/1229240004270882826/1229897465327779900/image78.png?ex=66315a46&is=661ee546&hm=85b9adaab8c772150cb9e837e024c56db30fa3e063ac008ce102705328519cd3&=&format=webp&quality=lossless)
 
 ### 2.3.5. As-is Scenario Mapping.
 Antes de sumergirse en nuestra plataforma, los entusiastas del fitness dependen de una combinación de métodos tradicionales y recursos en línea para guiar su entrenamiento y nutrición. Se apoyan en rutinas preestablecidas que pueden encontrar en libros o en línea, utilizan aplicaciones gratuitas para rastrear sus actividades físicas y contar calorías, e incluso buscan inspiración en comunidades en línea y redes sociales. Sin embargo, el análisis de la situación actual revelará los desafíos y limitaciones de estos métodos que los usuarios han enfrentado hasta ahora.
-[as-is-scenario-mapping](https://media.discordapp.net/attachments/1229240004270882826/1229897202076487851/image53.png?ex=66315a07&is=661ee507&hm=9aec9186876fa48e67fc40c012271ba41581e1ded47c9745ed8e9d779662e83f&=&format=webp&quality=lossless&width=1200&height=444)
+![as-is-scenario-mapping](https://github.com/HealthyL/Informe/assets/137470462/d24eca83-82a0-48de-a21c-54f277a97a06)
 
 ## 2.4. Ubiquitous Language.
 * Visitante: Cualquier persona que visite la landing page.
@@ -583,7 +585,7 @@ Antes de sumergirse en nuestra plataforma, los entusiastas del fitness dependen 
 
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
-[to-be-scenario-mapping](https://media.discordapp.net/attachments/1229240004270882826/1229896928452542576/image12.png?ex=663159c6&is=661ee4c6&hm=c075050e58119feb45b7b2921435c0189e211de6b200fb8d63ce0910a88e9044&=&format=webp&quality=lossless)
+![to-be](https://github.com/HealthyL/Informe/assets/137470462/91a29185-3649-46f3-8456-d800815a61eb)
 
 ## 3.2. User Stories.
 
@@ -611,12 +613,25 @@ Antes de sumergirse en nuestra plataforma, los entusiastas del fitness dependen 
 | US013 | Visualizar rutina | Como cliente en FitHub, quiero ver mi rutina de ejercicios semanal y diaria para tener un control de mi rutina de ejercicios. | Escenario 1: Visualización de rutina semanal<br>Dado que soy un FitExplorer y estoy en mi cuenta<br>Cuando acceda a la sección de rutinas<br>Entonces puedo ver la rutina semanal<br>Escenario 2: Visualización de rutina diaria<br>Dado que veo la rutina semanal<br>Cuando acceda a la rutina de uno de los días<br>Entonces podré ver podre ver mas información sobre los ejercicios<br>Escenario 3: Visualización de detalle de ejercicio<br>Dado que soy un FitExplorer y veo los ejercicios diarios<br>Cuando le de click a un ejercicio<br>Entonces puedo ver una breve explicación de sus ejecución | EP004 |
 
 ## 3.3. Impact Mapping.
+![image](https://github.com/HealthyL/Informe/assets/137470462/fae1298c-ed1d-4a48-acbe-04fa4cbd1ec4)
 
-[impact-mapping](https://media.discordapp.net/attachments/1229240004270882826/1229896927873597502/image20.png?ex=663159c5&is=661ee4c5&hm=80dfbe340fb0f9c9b671668ca7095f04bc29a44798ea6de783829fd654e96ac0&=&format=webp&quality=lossless&width=540&height=502)
 
 ## 3.4. Product Backlog. 
 
-
+| #Order | User Story ID | Título                                                | Descripción                                                                                                                                                                                                                                                   |
+|--------|---------------|-------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1      | US001         | Interacción con hipervínculos del Landing Page        | Como visitante de la landing page quiero interactuar con la landing page para tener información sobre FitHub.                                                                                                                                                 |
+| 2      | US002         | Navegar por la sección de Contáctanos                 | Como visitante de la landing page, quiero poder interactuar con la sección de Contáctenos para poder hacer consultas, enviar comentarios o solicitar información adicional.                                                                                   |
+| 3      | US003         | Navegar por la sección de ¿Cómo Funciona?             | Como visitante de la landing page, quiero tener conocimiento de cómo afiliarme, para entender los pasos que debo seguir y completar el proceso de afiliación en la app  de manera fácil y rápida.                                                             |
+| 5      | US005         | Ingreso a la interfaz de Iniciar Sesión               | Como visitante de la landing page quiero poder ser dirigido fácilmente al apartado de iniciar sesión.                                                                                                                                                         |
+| 6      | US006         | Ingreso a la interfaz de Crear Cuenta                 | Como visitante de la landing page, quiero poder ser dirigido fácilmente al apartado de crear cuenta para poder gozar de los servicios de FitHub.                                                                                                              |
+| 7      | US007         | Desplazamiento mediante el header                     | Como FitExplorer quiero desplazarme en la web application para encontrar fácilmente las diferentes secciones.                                                                                                                                                 |
+| 8      | US008         | Navegar por la sección de Productos                   | Como cliente en FitHub, quiero navegar por la sección de Productos para visualizar las diferentes herramientas y productos disponibles que pueden utilizarse para mejorar mis rutinas de ejercicio y mi alimentación, facilitando así una vida más saludable. |
+| 9      | US009         | Editar datos personales                               | Como cliente en FitHub, quiero visualizar y editar mis datos actuales, como objetivo, altura y peso, para obtener un plan mucho más personalizado.                                                                                                            |
+| 10     | US010         | Navegar por la seccion de Nutricion                   | Como cliente en FitHub, quiero poder navegar a la sección de Nutrición para explorar las opciones disponibles.                                                                                                                                                |
+| 11     | US012         | Visualizar recomendaciones de alimentos               | Como cliente en FitHub, quiero poder ver recomendaciones de desayunos, almuerzos y cenas para elegir opciones saludables para mis comidas.                                                                                                                    |
+| 12     | US012         | Edición y eliminación de recomendaciones de alimentos | Como cliente en FitHub, quiero poder editar o eliminar las recomendaciones de alimentos para personalizar mis opciones nutricionales.                                                                                                                         |
+| 13     | US013         | Visualizar rutina                                     | Como cliente en FitHub, quiero ver mi rutina de ejercicios semanal y diaria para tener un control de mi rutina de ejercicios.                                                                                                                                 |
 
 # Capítulo IV: Product Design
 ## 4.1 Style Guidelines
@@ -627,7 +642,9 @@ Como organización se considera el diseño web una parte fundamental del proyect
 
 **Brand Name:**
 La elección de denominar nuestra propuesta de solución como "FitHub" surge de su firme enfoque en brindar ayuda a los usuarios y establecer vínculos sólidos con las empresas en el sector del Salud.
-[imagen-fithub](https://media.discordapp.net/attachments/1229240004270882826/1229897036132913326/image40.png?ex=663159df&is=661ee4df&hm=3ae3e3731518afd937ba938f9e54397bc9614c5e79a8f401506d6e310eb32688&=&format=webp&quality=lossless)
+![logo](https://github.com/HealthyL/Informe/assets/137470462/287c21a8-9678-451f-a515-96e53ea26b03)
+
+
 *¿Qué debe tener?*
 * Logo haciendo alusión al corazón, bienestar.
 * Minimalista, estético.
@@ -638,9 +655,8 @@ La elección de denominar nuestra propuesta de solución como "FitHub" surge de 
 
 **Typography:**
 El equipo ha seleccionado las tipografías "Nunito" y "Inter" para el proyecto. Estas fuentes tipográficas fueron elegidas cuidadosamente por su estilo y legibilidad, asegurando que la presentación del contenido sea atractiva y fácil de leer para los usuarios.
-<p align="center">
- <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897006743556126/image21.png?ex=663159d8&is=661ee4d8&hm=e96cfdc32ff4adc6f06d9c740370fa0729dbf89601659363072679546c4453c8&=&format=webp&quality=lossless" alt="Typografy" style="margin-bottom: 5px;" width="200px" align="center"/>
-</p>
+![tipografía](https://github.com/HealthyL/Informe/assets/137470462/1115b5b2-8a14-44d5-8eaf-4dc7dd966545)
+
     
 **Palet Colors:**
 #8CB500
@@ -651,24 +667,16 @@ El equipo ha seleccionado las tipografías "Nunito" y "Inter" para el proyecto. 
 #4B4B4B
 
 **Buttons:**
-<p align="center">
- <img src="https://media.discordapp.net/attachments/1229240004270882826/1229896799742066738/image6.png?ex=663159a7&is=661ee4a7&hm=49a5a72c958485ba05e58aa4b1901c857cabeca4410c333bef26ca48f1c4b0f6&=&format=webp&quality=lossless" alt="Model buttons" style="margin-bottom: 5px;" width="250px" align="center"/>
-</p>
+![botones](https://github.com/HealthyL/Informe/assets/137470462/3a3b932c-8554-4281-990a-6398e87608fb)
+
 
 ### 4.1.2. Web Style Guidelines.
-
-<p align="center">
- <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897005996838942/image29.png?ex=663159d8&is=661ee4d8&hm=f902c34fd8925f5bb17446aafb1051b4c226156c984a7d7ffe50310fea29804b&=&format=webp&quality=lossless&width=892&height=502" alt="Responsive windows" style="margin-bottom: 5px;" width="620px" align="center"/>
-</p>
+![web-style-guideline](https://github.com/HealthyL/Informe/assets/137470462/2f4d6c7b-97af-4868-ba21-6b004135c30b)
 
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
 
 **Después de haber discutido en grupo cómo organizar la información en la página web/landing page de nuestra aplicación “FitHub”, se decidió usar un formato jerárquico común. Este tipo de organización es el que se observa en la mayoría de las páginas y permitirá a los usuarios visualizar la interfaz de forma intuitiva.**
-
-<p align="center">
-     <img src="https://media.discordapp.net/attachments/1229240004270882826/1229897467537915954/image75.jpg?ex=66315a46&is=661ee546&hm=0ac55ac99101efc0266bcf57a40cc8e7353f5ca843207504018c600ded0f87c8&=&format=webp&width=841&height=502" alt="Organization systems" style="margin-bottom: 5px;" width="1020px"/>
-</p>
 
 ![organization](https://github.com/HealthyL/Informe/assets/134560396/b50fbdf1-bffa-4ad7-8790-2da6c0a0d624)
 
@@ -749,20 +757,14 @@ Estos elementos optimizados ayudan a mejorar la visibilidad de FitHub en los mot
 
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
+![landing](https://github.com/HealthyL/Informe/assets/137470462/24b52b1f-0f8a-48aa-bb36-165855e5893f)
 
- <img src="https://cdn.discordapp.com/attachments/1229240004270882826/1229984573933486150/unnamed.png?ex=6631ab66&is=661f3666&hm=aac1882441cd794cc86490209b0378f0eaeb70c880ea2746e7f07dd5e55fce76&"
- style="width:6.80396in;height:18.94963in" />
-
- <img src="https://media.discordapp.net/attachments/1229240004270882826/1229896800010240030/image7.png?ex=663159a7&is=661ee4a7&hm=46b7c5052c7ece179f3342e2349472c2a227a1007b4711f8e929b4e322c52e4f&=&format=webp&quality=lossless&width=838&height=578"
- style="width:6.90104in;height:4.75599in" /><img src="https://media.discordapp.net/attachments/1229240004270882826/1229897203003429004/image56.png?ex=66315a07&is=661ee507&hm=1e3b21db7c7698b2ef041d1bb32144d9fa2d5e83d2262b2f661101af66c98a51&=&format=webp&quality=lossless&width=838&height=578"
- style="width:7.01354in;height:4.83111in" />
 
 ### 4.3.2. Landing Page Mock-up.
 
 
-  <p align="center">
-     <img src="https://media.discordapp.net/attachments/1229240004270882826/1229896929090211891/image14.png?ex=663159c6&is=661ee4c6&hm=1aa7e612b8acf75e4ac30bb60c44cb0a552fa26624672a5a7ed96883ef9519a5&=&format=webp&quality=lossless&width=241&height=671" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
-    </p>
+![landing](https://github.com/HealthyL/Informe/assets/137470462/4b99df2f-86bd-434e-bec4-fd197ad23a3d)
+
  
 ## 4.4 Web Applications UX/UI Design.
 ### 4.4.1 WebApplication Wireframes.
