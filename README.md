@@ -1,8 +1,16 @@
-**Universidad Peruana de Ciencias Aplicadas**
+<tr>
+  <div align='center'>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"width="150" height="150">
+    </div>
+</tr>
+<center>
+  
 
-**Ingeniería de Software**
+# Universidad Peruana de Ciencias Aplicadas.
 
-# <div align="center"> Aplicaciones Web </div>
+### Ingeniería de Software.
+
+### Aplicaciones Web
 
 ### TB1
 
