@@ -42,8 +42,13 @@
 | TB2 | 25/05/2024 | Jimena Cama | Se realizó el sprint planning con los user stories para el backend |  |
 |  | 7/06/2024 | Jimena Cama | Se evidenció avance del backend del bounded context de ProductManagement |  |
 |  | 9/06/2024 | Barbara Quezada | Se evidenció el avance del backend  del bounded context de NutritionManagement |  |
+|  | 22/06/2024 | Bruce Cipriano | Se evidenció avance del backend del bounded context de  Flujo inicial |  |
+|  | 22/06/2024 | Anthony Loarte | Se evidenció avance del backend del bounded context debounded context Rutine Design  |  |
 | TF | 18/06/2024 | Barbara Quezada | Corrección del informe capítulo 5 y del backend de NutritionManagement |  |
 |  | 18/06/2024 | Jimena Cama | Se evidenció la corrección del backend del bounded context de ProductManagement |  |
+|  | 22/06/2024 |  Bruce Cipriano  | Se evidenció avance del backend del bounded context de  Flujo inicia |  |
+|  | 22/06/2024 | Anthony Loarte | Se evidenció avance del backend del bounded context debounded context Rutine Design |  |
+
 
 # Project Report Collaboration Insights
 
@@ -68,12 +73,18 @@ TP:
 TB2:
 | Integrante | Tarea Asignada |
 |---|---|
-| Loarte Matos, Anthony Bahan | No hay aporte en el informe |
-| Cama Salvatierra Jimena Tamara | Sprint Planning 2, sprint backlog 2, Testing Suite Evidence for Sprint Review y avance del backend de Products Management de fithub. |
-| Cipriano Chumbes, Bruce Andres | No hay aporte en el informe |
+| Loarte Matos, Anthony Bahan | Se evidenció avance del backend del bounded context debounded context Rutine Design |
+| Cama Salvatierra Jimena Tamara | Sprint Planning 4, sprint backlog 4, Testing Suite Evidence for Sprint Review y avance del backend de Products Management de fithub. |
+| Cipriano Chumbes, Bruce Andres | Se evidenció avance del backend del bounded context de  Flujo inicial |
 | Quezada Portalatino, Barbara Susana | Software Deployment Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review y avance del backend de Nutrition Management de fithub. |
 
 TF:
+| Integrante | Tarea Asignada |
+|---|---|
+| Loarte Matos, Anthony Bahan | Configurar preferencias, editar información del perfil y estado físico del usuario y diseño responsive para su uso desde cualquier dispositivo y  Implementación de microservicios, bases de datos e integraciones externas. |
+| Cama Salvatierra Jimena Tamara | Buscar, filtrar y obtener información detallada de suplementos y equipamiento deportivo y sugerencias adaptadas según los objetivos, preferencias y avances del usuario. |
+| Cipriano Chumbes, Bruce Andres | Crear, editar y visualizar rutinas de entrenamiento para adaptarlas a los objetivos de cada usuario y compartir logros, retos entre usuarios para mantener la motivación. |
+| Quezada Portalatino, Barbara Susana | Gestionar los alimentos consumidos, crear planes alimenticios balanceados y recomendaciones personalizada y monitorear métricas como calorías, macronutrientes, progreso en rutinas, etc. Ademas, planificación por sprints, desarrollo basado en historias de usuario y prácticas colaborativas.|
 
 
 # Contenido
@@ -205,8 +216,8 @@ TF:
 # Student Outcome
 | Criterio específico | Acciones realizadas | Conclusiones |  |  |
 |---|---|---|---|---|
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | Jimena Tamara Cama Salvatierra TB1, para esta entrega identifiqué el problema que solucionaremos, el principal segmento objetivo en el que nos enfocaremos. Así mismo, planteé algunas hipótesis, riesgos y soluciones respecto al desarrollo de esta. Tomé decisiones de diseño para la landing page.<br>Barbara Susana Quezada Portalatino,TB1, en mi comunicación escrita sobre nuestro proyecto de ingeniería, enfatice en la importancia de comprender los antecedentes y la problemática que enfrentamos.<br>Bruce TB1 presentó los hallazgos y resultados del análisis competitivo y las estrategias frente a competidores durante las reuniones de revisión con el equipo multidisciplinario, proporcionando una visión clara de la posición de la startup en el mercado y las acciones planificadas para enfrentar la competencia.<br>Anthony TB1 participó activamente en la comunicación oral de las decisiones y estrategias relacionadas con el proceso de diseño de la arquitectura de software durante las reuniones de planificación y revisión del sprint, brindando una visión detallada de los componentes y la estructura del sistema en desarrollo.<br>_____________<br>Jimena Cama TP, participé activamente en la organización y la planificación de las tareas para el desarrollo del sprint 2. Aportando ideas para el desarrollo e implementación del frontend<br>Barbara Susana Quezada Portalatino TP, participe de manera activa en la comunicación oral para las ideas de implementación del front end de nuestro proyecto. Desarrollando ideas para la interfaz de la elección de las 3 comidas del día de nuestros usuarios.<br>______________<br>Jimena Cama TB2, participé activamente en la organización y la planificación de las tareas para el desarrollo del sprint 3. Aportando ideas para la planificación del backend. Explícitamente de la sección de Producto.<br>Barbara Susana Quezada Portalatino TB2, me encargué del backend de la sección de nutrición. Durante el desarrollo del proyecto, presenté mis avances y resultados al equipo, explicando cómo se implementan los diferentes componentes del backend para la gestión de nutrición. Mi participación incluyó discusión y colaboración con mis compañeros para asegurar que la solución fuera técnicamente sólida y alineada con los requisitos del proyecto y las expectativas de los stakeholders. | La comunicación efectiva de las ideas y resultados durante el desarrollo del proyecto fue fundamental para garantizar un entendimiento claro y preciso entre los diferentes miembros del equipo, así como con otros stakeholders. Estas interacciones permitieron identificar y abordar las necesidades y expectativas de manera integral, lo que facilitó la toma de decisiones informadas y la alineación de objetivos en todos los niveles jerárquicos y áreas de especialidad involucradas en el proyecto de ingeniería. |  |  |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.. | Jimena Tamara Cama Salvatierra TB1, al identificar distintos aspectos base de nuestra start up tomé en cuenta las necesidades y limitaciones de nuestros usuarios, tanto para el lean ux canva como para la interfaz de la landing page.<br>Barbara Susana Quezada Portalatino, TB1, detallé el análisis de antecedentes y problemática, así como las estrategias frente a competidores que estamos implementando. Además, mencioné el registro de entrevistas realizadas, la elaboración del User Journey Mapping y As-is Scenario Mapping, y la creación de wireframes y mockups para la plataforma Fithub.<br>Bruce TB1 contribuyó en la comunicación escrita del proyecto al redactar las secciones relacionadas con la arquitectura de software, incluyendo la creación de diagramas contextuales, de contenedores y de componentes. Además, participó en la redacción de las guías de estilo y convenciones del código fuente, así como en la configuración de la gestión del código fuente y del despliegue del software.<br>  <br>Anthony TB1 participó en la comunicación escrita del proyecto al elaborar la documentación relacionada con el diseño de la base de datos, incluyendo la creación del diagrama de la base de datos. Además, contribuyó en la configuración del despliegue del software, asegurando que la infraestructura estuviera correctamente configurada para la implementación del producto.<br>—<br>Jimena Cama Salvatierra TP, participé activamente en la comunicación escrita del proyecto, redactando las secciones de Sprint Planning 2, para la organización y planificación de los user stories. Sprint backlog con las tareas realizadas para cada usuario realizado, estimación y miembro correspondiente. Así como, en la evidencia de los avances realizados en GitHub.<br>Barbara Quezada Portalatino TP, participó de manera activa y efectiva en la comunicación escrita, evidenciando el desarrollo del backend realizado para mi bounded context Nutrition Management. Así como la evidencia para Validation Interviews el Team Collaboration Insights during Sprint y el Services Documentation Evidence for Sprint Review. <br>—<br>Jimena Cama TB2, participé activamente en la comunicación escrita del proyecto, redactando las secciones de Sprint Planning 3, para la organización y planificación de los user stories. Sprint backlog con las tareas realizadas para cada usuario realizado, estimación y miembro correspondiente. Así como, en la evidencia de las historias de usuario en formato feature relacionados a los avances realizados para esta entrega.<br>-Barbara Susana Quezada Portalatino TB2, diseñe y desarrollé el backend de la sección de nutrición. Documenté mi trabajo en reportes detallados sobre la arquitectura del sistema y los componentes clave del backend, incluyendo diagramas técnicos y explicaciones de diseño, considerando las necesidades de los usuarios finales. | Con las secciones desarrolladas, podemos concluir que la comunicación escrita efectiva fue esencial para garantizar la claridad, coherencia y objetividad en la presentación de ideas y resultados del proyecto de ingeniería. El trabajo en equipo, la distribución eficiente de tareas y la verificación constante de las contribuciones individuales fueron aspectos cruciales que contribuyeron al éxito del proceso de documentación. Además, la comunicación escrita facilitó la colaboración entre diferentes especialidades y niveles jerárquicos, asegurando que todos los aspectos del proyecto fueran abordados de manera integral y comprensible para todos los involucrados. |  |  |
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | Jimena Tamara Cama Salvatierra TB1, para esta entrega identifiqué el problema que solucionaremos, el principal segmento objetivo en el que nos enfocaremos. Así mismo, planteé algunas hipótesis, riesgos y soluciones respecto al desarrollo de esta. Tomé decisiones de diseño para la landing page.<br>Barbara Susana Quezada Portalatino,TB1, en mi comunicación escrita sobre nuestro proyecto de ingeniería, enfatice en la importancia de comprender los antecedentes y la problemática que enfrentamos.<br>Bruce TB1 presentó los hallazgos y resultados del análisis competitivo y las estrategias frente a competidores durante las reuniones de revisión con el equipo multidisciplinario, proporcionando una visión clara de la posición de la startup en el mercado y las acciones planificadas para enfrentar la competencia.<br>Anthony TB1 participó activamente en la comunicación oral de las decisiones y estrategias relacionadas con el proceso de diseño de la arquitectura de software durante las reuniones de planificación y revisión del sprint, brindando una visión detallada de los componentes y la estructura del sistema en desarrollo.<br>______________<br>Jimena Cama TP, participé activamente en la organización y la planificación de las tareas para el desarrollo del sprint 2. Aportando ideas para el desarrollo e implementación del frontend<br>Barbara Susana Quezada Portalatino TP, participe de manera activa en la comunicación oral para las ideas de implementación del front end de nuestro proyecto. Desarrollando ideas para la interfaz de la elección de las 3 comidas del día de nuestros usuarios.Bruce Cipriano TP, participé activamente en el desarrollo del frontend de la sección de login y registro. Aportando sugerencias para la interfaz usuario de esta sección.Anthony Loarte TP, participe activamente en las reuniones de diseño de interfaces. Proponiendo ideas para la interfaz de visualización de rutinas deportivas por parte de los usuarios.<br>_____________<br> Jimena Cama TB2, participé activamente en la organización y la planificación de las tareas para el desarrollo del sprint 3. Aportando ideas para la planificación del backend. Explícitamente de la sección de Producto.<br>Barbara Susana Quezada Portalatino TB2, me encargué del backend de la sección de nutrición. Durante el desarrollo del proyecto, presenté mis avances y resultados al equipo, explicando cómo se implementan los diferentes componentes del backend para la gestión de nutrición. Mi participación incluyó discusión y colaboración con mis compañeros para asegurar que la solución fuera técnicamente sólida y alineada con los requisitos del proyecto y las expectativas de los stakeholders.<br>Bruce Cipriano TB2, me encargué del backend de la sección de cuentas de usuario. Participé activamente en la implementación y luego presenté los avances realizados a mis compañeros de equipo.<br>Anthony Loarte TB2, me encargué del backend de la sección de rutinas. Presenté los resultados a la fecha, dialogando con el equipo acerca de las principales conclusiones, riesgos y problemas encontrados.<br> ________<br> Barbara Susana Quezada Portalatino TF, fui responsable de conectar el backend y el frontend de la sección de nutrición. Durante el desarrollo del proyecto, presenté mis avances y resultados al equipo, explicando la implementación de los distintos componentes del backend para la gestión de nutrición. Bruce Cipriano TF, fui responsable de integrar el backend y frontend en la sección de cuentas de usuario. Participé activamente en la conexión y luego presenté los avances realizados a mis compañeros de equipo. Anthony Loarte TF, fui responsable de integrar el backend y frontend de la sección de rutinas. Presenté los resultados, dialogando con el equipo acerca de las conclusiones, riesgos y problemas encontrados en la conexión.| La comunicación efectiva de las ideas y resultados durante el desarrollo del proyecto fue fundamental para garantizar un entendimiento claro y preciso entre los diferentes miembros del equipo, así como con otros stakeholders. Estas interacciones permitieron identificar y abordar las necesidades y expectativas de manera integral, lo que facilitó la toma de decisiones informadas y la alineación de objetivos en todos los niveles jerárquicos y áreas de especialidad involucradas en el proyecto de ingeniería. |  |  |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.. | Jimena Tamara Cama Salvatierra TB1, al identificar distintos aspectos base de nuestra start up tomé en cuenta las necesidades y limitaciones de nuestros usuarios, tanto para el lean ux canva como para la interfaz de la landing page.<br>Barbara Susana Quezada Portalatino, TB1, detallé el análisis de antecedentes y problemática, así como las estrategias frente a competidores que estamos implementando. Además, mencioné el registro de entrevistas realizadas, la elaboración del User Journey Mapping y As-is Scenario Mapping, y la creación de wireframes y mockups para la plataforma Fithub.<br>Bruce TB1 contribuyó en la comunicación escrita del proyecto al redactar las secciones relacionadas con la arquitectura de software, incluyendo la creación de diagramas contextuales, de contenedores y de componentes. Además, participó en la redacción de las guías de estilo y convenciones del código fuente, así como en la configuración de la gestión del código fuente y del despliegue del software.<br>  <br>Anthony TB1 participó en la comunicación escrita del proyecto al elaborar la documentación relacionada con el diseño de la base de datos, incluyendo la creación del diagrama de la base de datos. Además, contribuyó en la configuración del despliegue del software, asegurando que la infraestructura estuviera correctamente configurada para la implementación del producto.<br>—<br>Jimena Cama Salvatierra TP, participé activamente en la comunicación escrita del proyecto, redactando las secciones de Sprint Planning 2, para la organización y planificación de los user stories. Sprint backlog con las tareas realizadas para cada usuario realizado, estimación y miembro correspondiente. Así como, en la evidencia de los avances realizados en GitHub.<br>Barbara Quezada Portalatino TP, participó de manera activa y efectiva en la comunicación escrita, evidenciando el desarrollo del backend realizado para mi bounded context Nutrition Management. Así como la evidencia para Validation Interviews el Team Collaboration Insights during Sprint y el Services Documentation Evidence for Sprint Review. <br>—<br>Jimena Cama TB2, participé activamente en la comunicación escrita del proyecto, redactando las secciones de Sprint Planning 3, para la organización y planificación de los user stories. Sprint backlog con las tareas realizadas para cada usuario realizado, estimación y miembro correspondiente. Así como, en la evidencia de las historias de usuario en formato feature relacionados a los avances realizados para esta entrega.<br>-Barbara Susana Quezada Portalatino TB2, diseñe y desarrollé el backend de la sección de nutrición. Documenté mi trabajo en reportes detallados sobre la arquitectura del sistema y los componentes clave del backend, incluyendo diagramas técnicos y explicaciones de diseño, considerando las necesidades de los usuarios finales.Bruce Cipriano TB2, documenté el desarrollo del backend para el componente de Flujo Inicial en los reportes.Anthony Loarte TB2, documenté las implementaciones del backend de Rutinas mediante reportes.<br>—<br> -Barbara Susana Quezada Portalatino TF, y diseñé y desarrollé el backend de la sección de nutrición. Además, me encargué de conectar el backend con el frontend. Documenté mi trabajo en informes detallados sobre la arquitectura del sistema y los componentes clave del backend.Bruce Cipriano TF, documenté el trabajo de integración del backend y frontend para la sección de Flujo Inicial.Anthony Loarte TF, elaboré reportes sobre la integración del backend y frontend de Rutinas. | Con las secciones desarrolladas, podemos concluir que la comunicación escrita efectiva fue esencial para garantizar la claridad, coherencia y objetividad en la presentación de ideas y resultados del proyecto de ingeniería. El trabajo en equipo, la distribución eficiente de tareas y la verificación constante de las contribuciones individuales fueron aspectos cruciales que contribuyeron al éxito del proceso de documentación. Además, la comunicación escrita facilitó la colaboración entre diferentes especialidades y niveles jerárquicos, asegurando que todos los aspectos del proyecto fueran abordados de manera integral y comprensible para todos los involucrados. |  |  |
 
 
 # Capítulo I: Introducción
@@ -1224,41 +1235,88 @@ Durante este segundo sprint los integrantes del equipo desarrollaron las distint
 
 Jimena Cama 
 Sección de Productos:
+
 ![image](https://github.com/HealthyL/Informe/assets/134560396/7a29cd82-218f-4221-87b8-18129b137590)
+
+Sección de Despliegue: Log in
+
+![image](https://github.com/TempSound/Informe/assets/166888821/bb137220-b543-422d-ab27-f50710fb46e2)
+
+Sección de Despliegue: Sign up
+
+![image](https://github.com/TempSound/Informe/assets/166888821/fc7f856c-6fc3-42b5-b92c-9a66667de6ed)
+
 
 Barbara Quezada
 Sección de Nutrición:
+
 ![image](https://github.com/HealthyL/Informe/assets/134560396/8fb0ff37-64aa-41d5-9ee5-967564390c4a)
 ![image](https://github.com/HealthyL/Informe/assets/134560396/8a12d8b8-6ddf-4502-9fe5-8504f7b4fe61)
 ![image](https://github.com/HealthyL/Informe/assets/134560396/102155c2-f4ca-4fcf-8df7-0b9e05ed7aa6)
+![image](https://github.com/TempSound/Informe/assets/166888821/f7b56a37-4c4e-4f8c-97a9-6ba8cf9a4e9f)
+![image](https://github.com/TempSound/Informe/assets/166888821/e013336a-40dd-4939-8f59-0f45f523a70b)
+![image](https://github.com/TempSound/Informe/assets/166888821/56d1375d-e444-467f-9e16-0399526b4bd7)
+![image](https://github.com/TempSound/Informe/assets/166888821/a262f1b9-0895-45ee-aff4-bddbce4b4809)
+![image](https://github.com/TempSound/Informe/assets/166888821/47892004-2ac9-4f48-96d7-9d91d6594aa0)
+
 
 Anthony Loarte
 Sección de Rutinas:
+
 ![image](https://github.com/HealthyL/Informe/assets/134560396/38e40efc-00d0-4756-a30c-ba0432815e88)
+![image](https://github.com/TempSound/Informe/assets/166888821/2245e16b-6796-4f43-893a-0b9fc2f20114)
+
 
 Bruce Cipriano
 Sección de Cuenta:
-![image](https://github.com/HealthyL/Informe/assets/134560396/1c3a21ab-ea09-4c10-b3f1-6a4440424380)
 
+![image](https://github.com/HealthyL/Informe/assets/134560396/1c3a21ab-ea09-4c10-b3f1-6a4440424380)
+![image](https://github.com/TempSound/Informe/assets/166888821/bcd1ec52-e7a2-494f-8214-1806a9df114f)
 
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
-Durante este sprint, nuestro enfoque principal ha sido documentar meticulosamente los diversos aspectos de FitHub, nuestra plataforma para el seguimiento personalizado de la alimentación y el ejercicio. Este esfuerzo de documentación exhaustiva ha tenido como objetivo proporcionar una visión clara y detallada de todas las acciones y funcionalidades disponibles en nuestra aplicación, tanto para los usuarios que buscan mejorar su salud como para aquellos que desean mantener su nivel de forma física.
-Aspectos Destacados de la Documentación
-Descripciones Detalladas de Funciones:
-Visualización de Alimentos Disponibles: Guías paso a paso sobre cómo los usuarios pueden explorar y ver las diferentes opciones de alimentos disponibles en la aplicación.
-Creación de Rutinas de Ejercicio Personalizadas: Instrucciones sobre cómo los usuarios pueden crear y personalizar sus propios planes de entrenamiento basados en sus objetivos de fitness.
-Seguimiento del Progreso Individual: Documentación detallada sobre las diversas funciones de seguimiento que permiten a los usuarios monitorear su progreso a lo largo del tiempo.
-Documentación Específica por Sección:
-Mi Cuenta: Desglose detallado de la sección de perfil de usuario, incluyendo cómo actualizar la información personal, establecer objetivos y gestionar la configuración de privacidad.
-Rutina: Guía completa sobre cómo acceder, crear y seguir rutinas de ejercicio.
-Nutrición: Documentación sobre cómo explorar recomendaciones nutricionales, personalizar planes de comidas y registrar la ingesta alimentaria.
-Productos: Instrucciones sobre cómo navegar por los productos de fitness y nutrición.
-Configuración: Guía sobre cómo configurar las preferencias de la cuenta como los datos fitness del usuario.
-Repositorio y Trazabilidad
+## Durante este sprint
+
+Nuestro enfoque principal ha sido documentar meticulosamente los diversos aspectos de FitHub, nuestra plataforma para el seguimiento personalizado de la alimentación y el ejercicio. Este esfuerzo de documentación exhaustiva ha tenido como objetivo proporcionar una visión clara y detallada de todas las acciones y funcionalidades disponibles en nuestra aplicación, tanto para los usuarios que buscan mejorar su salud como para aquellos que desean mantener su nivel de forma física.
+
+### Aspectos Destacados de la Documentación
+
+#### Descripciones Detalladas de Funciones:
+- **Visualización de Alimentos Disponibles:** Guías paso a paso sobre cómo los usuarios pueden explorar y ver las diferentes opciones de alimentos disponibles en la aplicación.
+- **Creación de Rutinas de Ejercicio Personalizadas:** Instrucciones sobre cómo los usuarios pueden crear y personalizar sus propios planes de entrenamiento basados en sus objetivos de fitness.
+- **Seguimiento del Progreso Individual:** Documentación detallada sobre las diversas funciones de seguimiento que permiten a los usuarios monitorear su progreso a lo largo del tiempo.
+
+#### Documentación Específica por Sección:
+- **Mi Cuenta:** Desglose detallado de la sección de perfil de usuario, incluyendo cómo actualizar la información personal, establecer objetivos y gestionar la configuración de privacidad.
+- **Rutina:** Guía completa sobre cómo acceder, crear y seguir rutinas de ejercicio.
+- **Nutrición:** Documentación sobre cómo explorar recomendaciones nutricionales, personalizar planes de comidas y registrar la ingesta alimentaria.
+- **Productos:** Instrucciones sobre cómo navegar por los productos de fitness y nutrición.
+- **Configuración:** Guía sobre cómo configurar las preferencias de la cuenta como los datos fitness del usuario.
+
+### Repositorio y Trazabilidad
+
 Toda la documentación ha sido integrada sistemáticamente en nuestro repositorio de FitHub en GitHub:
-Documentación Vinculada: Cada pieza de documentación está vinculada a los cambios y actualizaciones de código correspondientes, asegurando una trazabilidad completa de los procesos de desarrollo.
-Control de versiones: Historial detallado de versiones para rastrear los cambios y actualizaciones en la documentación, asegurando que los usuarios y desarrolladores tengan acceso a la información y guías más recientes.
-Herramientas de Colaboración: Utilización de las funciones de colaboración de GitHub, como issues y pull requests, para agilizar la comunicación y asegurar la precisión y completitud de la documentación.
+
+- **Documentación Vinculada:** Cada pieza de documentación está vinculada a los cambios y actualizaciones de código correspondientes, asegurando una trazabilidad completa de los procesos de desarrollo.
+
+Repositorio Application web:
+Anexo G: https://github.com/HealthyL/FitHub-Frontend/tree/develop
+
+- **Control de Versiones:** Historial detallado de versiones para rastrear los cambios y actualizaciones en la documentación, asegurando que los usuarios y desarrolladores tengan acceso a la información y guías más recientes.
+- **Herramientas de Colaboración:** Utilización de las funciones de colaboración de GitHub, como issues y pull requests, para agilizar la comunicación y asegurar la precisión y completitud de la documentación.
+
+Link del repositorio del db.json: https://github.com/HealthyL/Datos-healty- 
+
+
+## Endpoints
+
+| Endpoint       | Details                                                       |
+|----------------|---------------------------------------------------------------|
+| /login         | Autentica a un usuario y devuelve un token JWT.               |
+| /signup        | Registra un nuevo usuario.                                    |
+| /exercises     | Recupera una lista de ejercicios.                             |
+| /my-account    | Recupera los detalles de la cuenta del usuario autenticado.   |
+| /nutritions    | Recupera una lista de planes de nutrición.                    |
+| /products      | Recupera una lista de productos relacionados con el fitness y la salud. |
 
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
@@ -1287,14 +1345,19 @@ Sección del Despliegue: Mi Cuenta
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 
-<img width="927" alt="Screenshot 2024-05-04 at 08 58 59" src="https://github.com/HealthyL/FitHub-Frontend/assets/107071662/ed28a425-a699-4af3-8353-2675a2006e40">
+| Alumno                             | Actividad                               |
+|------------------------------------|-----------------------------------------|
+| Cama Salvatierra, Jimena Tamara    | Bounded context Product Management y Data Settings |
+| Quezada Portalatino, Barbara Susana| Bounded context Nutrition Management    |
+| Bruce Andres Cipriano Chumbes      | Bounded context Account                 |
+| Anthony Brahan Loarte Matos        | Bounded context Rutines                 |
 
-| Alumno | Actividad |
-|:---:|:---:|
-| Cama Salvatierra, Jimena Tamara	 | Implementacion del bounded context de de Data Management |
-| Quezada Portalatino, Barbara Susana	 | Implementacion del bounded context de Nutrition |
-| Anthony Loarte | Implementacion del bounded context Flujo inicial |
-| Bruce Cipriano | Implementacion del bounded context Rutine Design |
+Repositorio Application web:
+Anexo G: https://github.com/HealthyL/FitHub-Frontend/tree/develop
+
+![image](https://github.com/TempSound/Informe/assets/166888821/b2df7c04-9a12-4555-90f2-a0562adb7641)
+
+<img width="927" alt="Screenshot 2024-05-04 at 08 58 59" src="https://github.com/HealthyL/FitHub-Frontend/assets/107071662/ed28a425-a699-4af3-8353-2675a2006e40">
 
 ### Sprint 3
 #### 5.2.3.1. Sprint planinning 3
@@ -1312,69 +1375,141 @@ Sección del Despliegue: Mi Cuenta
 | Sum of story points | 4 |
 
 #### 5.2.3.2. Sprint Backlog 3
+Para el tercer sprint backlog, reunimos las historias de usuario relacionadas con los bounded context principales de nuestra web application para realizar el backend correspondiente a cada servicio que ofrece Fithub. La herramienta que utilizamos fue Trello.
+
+![image](https://github.com/TempSound/Informe/assets/166888821/47290e0e-1f6a-4824-8dec-502684eae3e7)
+
+
 | Sprint # | Sprint 3 |  |  |  |  |  |  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | User Story |  | Work-Item / Task |  |  |  |  |  |
 | ID | Title | ID | Title | Description | Estimation (Hours) | Assigned To |  |
 | US008 | Navegar por la sección de Productos | TA001 | Agregar productos | Se agrega el nombre, la descripción, el precio, el url de la imagen y la categoría del producto. | 1 hora | Jimena Cama |  |
 |  |  | TA002 | Ver todos los productos | Se muestran todos los productos. | 30 min | Jimena Cama |  |
-|  |  | TA003 | Ver un  producto por id | Se muestra cierto producto identificado por id único. | 30 min | Jimena Cama |  |
+|  |  | TA003 | Ver un producto por id | Se muestra cierto producto identificado por id único. | 30 min | Jimena Cama |  |
 |  |  | TA004 | Borrar un producto por id | Se borra un producto de la base de datos identificado por id único. | 10 min | Jimena Cama |  |
 |  |  | TA005 | Actualizar un producto | Se actualizan los datos de un producto especificado por id. | 30 min | Jimena Cama |  |
-| US009 | Editar datos personales | TA001 |  agregar datos de usuario | Se actualizan los datos de usuario  | 2 horas | Bruce Cipriano |  |
-| US010 | Navegar por la sección de Nutrición | TA001 | Agregar items  | Se agrega el nombre, la descripción, los ingredientes, el url y la categoría | 2 horas | Barbara Quezada |  |
-|  |  | TA002 | Ver todos los items de Nutricion | Se muestran todos los ítems de Nutrición | 2 horas | Barbara Quezada |  |
-|  |  | TA003 | Borrar un item de nutricion | Se borra un producto de la base de datos identificado por id único. | 30 minutos | Barbara Quezada |  |
-|  |  | TA004 | Actualizar un item de Nutricion | Se actualizan los datos de un producto especificado por id. | 30 minutos | Barbara Quezada |  |
+| US009 | Editar datos personales | TA001 | Agregar datos de usuario | Se actualizan los datos de usuario | 2 horas | Bruce Cipriano |  |
+|  |  | TA002 | Ver los datos del usuario | Se muestran los datos del usuario. | 30 min | Bruce Cipriano |  |
+| US010 | Navegar por la sección de Nutrición | TA001 | Agregar items | Se agrega el nombre, la descripción, los ingredientes, el url y la categoría | 2 horas | Barbara Quezada |  |
+|  |  | TA002 | Ver todos los items de Nutrición | Se muestran todos los ítems de Nutrición | 2 horas | Barbara Quezada |  |
+|  |  | TA003 | Borrar un item de nutrición | Se borra un producto de la base de datos identificado por id único. | 30 min | Barbara Quezada |  |
+|  |  | TA004 | Actualizar un item de Nutrición | Se actualizan los datos de un producto especificado por id. | 30 min | Barbara Quezada |  |
+| US014 | Visualizar rutina | TA001 | Agregar rutinas | Se agrega la información de la rutina como: name, sets, reps y weight. | 2 horas | Anthony Loarte |  |
+|  |  | TA002 | Ver todas las rutinas | Se muestran todas las rutinas. | 30 min | Anthony Loarte |  |
+|  |  | TA003 | Ver una rutina por ID | Se muestra cierta rutina identificada por ID único. | 30 min | Anthony Loarte |  |
+
 
 #### 5.2.3.3. Development Evidence for Sprint Review.
+
+Link del repositorio: https://github.com/HealthyL/FitHub-Backend 
+
 | Repository | Branch | Commit Id | Commit Message | Commit Body |
 |---|---|---|---|---|
-| [https://github.com/HealthyL/FitHub-Backend/tree/feature/AnthonyLoarte](https://github.com/HealthyL/FitHub-Backend/tree/feature/AnthonyLoarte) | feature/Anthony | a663245ca9096eb64056b3180a9e5631a69ed284 | feat: Security added | add aggregates, commands and queries about user. |
+| [https://github.com/HealthyL/FitHub-Backend/tree/feature/AnthonyLoarte](https://github.com/HealthyL/FitHub-Backend/tree/feature/AnthonyLoarte) | feature/AnthonyLoarte | a663245ca9096eb64056b3180a9e5631a69ed284 | feat: Security added | add aggregates, commands and queries about user. |
+| [https://github.com/HealthyL/FitHub-Backend/tree/feature/AnthonyLoarte](https://github.com/HealthyL/FitHub-Backend/tree/feature/AnthonyLoarte) | feature/AnthonyLoarte | 4bef718493163d1d8c7f225bd373355e8576f80e | feat: commands createexercisecommand | add commands of create exercise |
+| [https://github.com/HealthyL/FitHub-Backend/tree/feature/AnthonyLoarte](https://github.com/HealthyL/FitHub-Backend/tree/feature/AnthonyLoarte) | feature/AnthonyLoarte | 3fecc0f8eddb70a767029578fb184cc82f652268 | feat: commands createroutinecommand | added CreateRoutineCommand to handle the creation of new routines. |
+| [https://github.com/HealthyL/FitHub-Backend/tree/feature/AnthonyLoarte](https://github.com/HealthyL/FitHub-Backend/tree/feature/AnthonyLoarte) | feature/AnthonyLoarte | cb1cb2ef85b5c6e5eb95f638acc5b0838ed611a2 | feat: aggregates exerciseaudit | added ExerciseAudit aggregate to track changes in exercise data. |
+| [https://github.com/HealthyL/FitHub-Backend/tree/feature/AnthonyLoarte](https://github.com/HealthyL/FitHub-Backend/tree/feature/AnthonyLoarte) | feature/AnthonyLoarte | 5b5faaf73bbb848cd157a2ccb6f63088127c3721 | feat: queries iexerciserepository | defined IExerciseRepository query interface. |
+| [https://github.com/HealthyL/FitHub-Backend/tree/feature/AnthonyLoarte](https://github.com/HealthyL/FitHub-Backend/tree/feature/AnthonyLoarte) | feature/AnthonyLoarte | 321c2b59f11c27203881f58da27d144bfde903ee | feat: services iroutinecommandservice | created IRoutineCommandService interface to handle routine-related commands. |
 | [https://github.com/HealthyL/FitHub-Backend/tree/feature/JimenaCama](https://github.com/HealthyL/FitHub-Backend/tree/feature/JimenaCama) | feature/JimenaCama | 36f171ea2c05ca9656a099f5b145e2bfbf5fb8e2 | feat: add aggregates, commands and queries | add aggregates, commands and queries |
-|  | feature/JimenaCama | dec366f353a8dac53dac93848dae830f8891266c | feat: add IAlimentationProductRepository | add IAlimentationProductRepository |
-|  | feature/JimenaCama | 731b1adb4aded88fefe07a0d56bc3e2bb77a6ebc | feat: add AlimentationProductController | add AlimentationProductController |
-|  | feature/JimenaCama | dd62e528bdd186062510b0569ca4fe9e8b167d0f | feat: add ICardioProductCommandService | add ICardioProductCommandService |
-|  | feature/JimenaCama | ae9350b9bb0849509624b59fcb5b9c1aefa3d012 | feat: add CardioController | add CardioController |
-|  | feature/JimenaCama | 055bd079e437a69990162f4a956dbe1dc16ddf12 | feat: add Update(put) and delete method to FunctionalProductController | add Update(put) and delete method to FunctionalProductController |
+| [https://github.com/HealthyL/FitHub-Backend/tree/feature/JimenaCama](https://github.com/HealthyL/FitHub-Backend/tree/feature/JimenaCama) | feature/JimenaCama | dec366f353a8dac53dac93848dae830f8891266c | feat: add IAlimentationProductRepository | add IAlimentationProductRepository |
+| [https://github.com/HealthyL/FitHub-Backend/tree/feature/JimenaCama](https://github.com/HealthyL/FitHub-Backend/tree/feature/JimenaCama) | feature/JimenaCama | 731b1adb4aded88fefe07a0d56bc3e2bb77a6ebc | feat: add AlimentationProductController | add AlimentationProductController |
+| [https://github.com/HealthyL/FitHub-Backend/tree/feature/JimenaCama](https://github.com/HealthyL/FitHub-Backend/tree/feature/JimenaCama) | feature/JimenaCama | dd62e528bdd186062510b0569ca4fe9e8b167d0f | feat: add ICardioProductCommandService | add ICardioProductCommandService |
+| [https://github.com/HealthyL/FitHub-Backend/tree/feature/JimenaCama](https://github.com/HealthyL/FitHub-Backend/tree/feature/JimenaCama) | feature/JimenaCama | ae9350b9bb0849509624b59fcb5b9c1aefa3d012 | feat: add CardioController | add CardioController |
+| [https://github.com/HealthyL/FitHub-Backend/tree/feature/JimenaCama](https://github.com/HealthyL/FitHub-Backend/tree/feature/JimenaCama) | feature/JimenaCama | 055bd079e437a69990162f4a956dbe1dc16ddf12 | feat: add Update(put) and delete method to FunctionalProductController | add Update(put) and delete method to FunctionalProductController |
 | [https://github.com/HealthyL/FitHub-Backend/tree/feature/BarbaraQuezada](https://github.com/HealthyL/FitHub-Backend/tree/feature/BarbaraQuezada) | feature/BarbaraQuezada | 9fe9132bd51a79ce788e5a1444edcacefb27efb9 | feat: adding breakfast items | add aggregates, commands and queries about breakfast items |
-|  | feature/BarbaraQuezada | 4b49d1c4fb84496bb6b0ef1bdee11f22de09f954 | feat: adding dinner and lunch items | add aggregates, commands and queries about dinner and lunch items |
+| [https://github.com/HealthyL/FitHub-Backend/tree/feature/BarbaraQuezada](https://github.com/HealthyL/FitHub-Backend/tree/feature/BarbaraQuezada) | feature/BarbaraQuezada | 4b49d1c4fb84496bb6b0ef1bdee11f22de09f954 | feat: adding dinner and lunch items | add aggregates, commands and queries about dinner and lunch items |
 | [https://github.com/HealthyL/FitHub-Backend/tree/feature/BruceCipriano/fithub-backend/account_manager](https://github.com/HealthyL/FitHub-Backend/tree/feature/BruceCipriano/fithub-backend/account_manager) | feature/BruceCipriano | 7bb49d1c15wd4496bb6b0ef1bdee11f22de09f954 | feat: account manager | add aggregates, commands and queries about account |
 
+
 #### 5.2.3.4.Testing Suite Evidence for Sprint Review.
+
+Link del repositorio: https://github.com/HealthyL/testing-/tree/main/Sprint%203 
+
+
 | Repositorio/Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
 |---|---|---|---|---|
 | [https://github.com/HealthyL/testing-/tree/main/Sprint%203](https://github.com/HealthyL/testing-/tree/main/Sprint%203) | c450705381188868adb7147baa0997121994e5ef | feat: add US008 | Endpoint sección Productos datos personales | 7/06/24 |
-|  | 6fbaffc70a0750f3edf54e81c3ae3d775b831e12 | feat: add US009 | Endpoints datos usuarios | 10/06/24 |
-|  | 660f9402d86d9eb0487691795a025eb828604a39 | feat: add US010 | Visualizar recomendaciones de alimentos | 7/06/24 |
+| [https://github.com/HealthyL/testing-/tree/main/Sprint%203](https://github.com/HealthyL/testing-/tree/main/Sprint%203) | 6fbaffc70a0750f3edf54e81c3ae3d775b831e12 | feat: add US009 | Endpoints datos usuarios | 10/06/24 |
+| [https://github.com/HealthyL/testing-/tree/main/Sprint%203](https://github.com/HealthyL/testing-/tree/main/Sprint%203) | 660f9402d86d9eb0487691795a025eb828604a39 | feat: add US010 | Visualizar recomendaciones de alimentos | 7/06/24 |
+| [https://github.com/HealthyL/testing-/tree/main/Sprint%203](https://github.com/HealthyL/testing-/tree/main/Sprint%203) | 660f9402d86d9eb0487691795a025eb828604a39 | feat: add US011 | test: add tests for view of nutrition interaction | 7/06/24 |
+| [https://github.com/HealthyL/testing-/tree/main/Sprint%203](https://github.com/HealthyL/testing-/tree/main/Sprint%203) | c450705381188868adb7147baa0997121994e5ef | feat: add US009 | test: add tests for product interaction | 7/06/24 |
+| [https://github.com/HealthyL/testing-/tree/main/Sprint%203](https://github.com/HealthyL/testing-/tree/main/Sprint%203) | 6fbaffc70a0750f3edf54e81c3ae3d775b831e12 | feat: add US010 | test: add tests for nutrition interaction | 7/06/24 |
+| [https://github.com/HealthyL/testing-/tree/main/Sprint%203](https://github.com/HealthyL/testing-/tree/main/Sprint%203) | a6c857a301927466a9dc57e991f6fdcc51adfe7a | feat: add US012 | test: add tests for nutrition interaction | 7/06/24 |
+| [https://github.com/HealthyL/testing-/tree/main/Sprint%203](https://github.com/HealthyL/testing-/tree/main/Sprint%203) | b45d1b8bb5cf203fb494dcc572cc2d44b8a94dc3 | feat: add US013 | test: add tests for routine interaction | 7/06/24 |
 
 #### 5.2.3.5.Execution Evidence for Sprint Review.
-Durante este tercer sprint los integrantes del equipo desarrollaron las bases de datos para los distintos bounded context de FitHub, empleando los conocimientos aprendidos sobre el backend en C#, y usando Swagger UI  para realizar las pruebas.
+En este Sprint, nos encargamos de hacer la implementación del backend de todos los Bounded Context: Products Management, Nutrition Management, Account Management, Routine Management. Se lograron avances significativos, marcando un hito importante en nuestro camino hacia la entrega final.
 
-Jimena Cama (Products Management)
-![image](https://github.com/HealthyL/Informe/assets/134560396/4b565ee9-6dde-4906-8458-eece37df00eb)
+A continuación, se presentan capturas de pantalla de la interacción con los endpoints utilizando datos de muestra. Estas capturas ilustran cómo se realizan las llamadas y los responses recibidos:
 
-Barbara Quezada (Nutrition Management)
-![image](https://github.com/HealthyL/Informe/assets/134560396/7ddff615-4bb8-4796-ab31-e309dbc40e7f)
+### Products Management (/products)
 
-Bruce Cipriano (Account Management)
-![image](https://github.com/HealthyL/Informe/assets/134560396/80c2bcbc-ff3d-4144-b5ea-cbc2a3b70426)
+![image](https://github.com/TempSound/Informe/assets/166888821/cc17ecdc-38d8-49d9-b013-5a4dafc0aab6)
 
-Anthony Loarte (Security Login)
-![image](https://github.com/HealthyL/Informe/assets/134560396/c601fb2b-4483-4f4b-8f2b-69a8fadfa4c5)
+
+![image](https://github.com/TempSound/Informe/assets/166888821/7007cadc-a651-4a40-97dc-bc38a18f6c2b)
+
+### Nutrition Management (/nutritions)
+
+![image](https://github.com/TempSound/Informe/assets/166888821/ae1b59e2-cc1d-4e37-9043-690397570d88)
+
+![image](https://github.com/TempSound/Informe/assets/166888821/567eb8fd-573a-4646-81e2-00b5a602ab47)
+
+![image](https://github.com/TempSound/Informe/assets/166888821/e54b5bf2-2c33-481f-a2ca-ebbe855f5738)
+
+### Account Management (/profiles)
+
+![image](https://github.com/TempSound/Informe/assets/166888821/4efaae07-8185-4384-96ed-04d6b1f80b2a)
+
+
+### Routine Management (/routines)
+
+![image](https://github.com/TempSound/Informe/assets/166888821/862ebd51-88be-42ce-9fd1-7d346c20435e)
+
+![image](https://github.com/TempSound/Informe/assets/166888821/9ef4d5d1-d1a0-4c99-883e-ce5d5299de5e)
 
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
-Para el sprint 3, se planificó únicamente el desarrollo del backend. Inicialmente, se trabajó localmente con un servidor JSON, y luego se implementó My JSON Server, que se utiliza en la aplicación web del frontend desplegada. Hasta esta entrega, el backend ha sido creado, pero aún no se ha integrado con el frontend, ya que esta tarea se realizará en la entrega final.
+Para el sprint 3, únicamente se planificó que el sprint abarcaría el back-end. Inicialmente, se trabajó con una JSON server de forma local y luego se pasó a realizar la implementación con My Json Server, el cual se utiliza en la Front End Web Application desplegada. Hasta esta entrega, el backend fue creado, pero no se relaciona con el frontend ya que esa asignación tendrá cabida en la entrega final.
+
+Durante el desarrollo del proyecto Fithub, se realizaron múltiples tareas para asegurar que los backends de cada bounded context estuvieran correctamente implementados y funcionales. La evidencia adjunta incluye capturas de pantalla y métodos de CRUD utilizados en cada bounded context que ofrecemos en la plataforma:
+
+### Products Management (/products)
+
+![image](https://github.com/TempSound/Informe/assets/166888821/8996a93d-8e9b-4a90-a8e0-392662569364)
+
+### Nutrition Management (/nutritions)
+
+![image](https://github.com/TempSound/Informe/assets/166888821/47b24071-c545-4e39-9552-50325e93e238)
+
+### Account Management (/profiles)
+
+![image](https://github.com/TempSound/Informe/assets/166888821/7c726a65-940c-48e2-8ccb-0f0b0977bc9a)
+
+### Routine Management (/routines)
+
+![image](https://github.com/TempSound/Informe/assets/166888821/7ab2a3fe-fb70-4702-80e3-85b0c6398c8d)
 
 | Endpoint | Details |
 |---|---|
-| /nutrition | Este endpoint se encarga de la creación de las tarjetas de Nutrición como: Desayuno, Almuerzo y Cena |
-| /products | Este endpoint se encarga de la creación de las tarjetas de Productos como: Cardio, Funcional y Alimentación |
+| /nutritions | Este endpoint se encarga de la creación de las tarjetas de Nutrición como: Desayuno, Almuerzo y Cena. |
+| /products | Este endpoint se encarga de la creación de las tarjetas de Productos como: Cardio, Funcional y Alimentación. |
+| /profiles | Este endpoint se encarga de la creación y gestión de perfiles. |
+| /routines | Este endpoint se encarga de la creación de las tarjetas de Rutinas separados en días. |
+
+
 
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 
 #### 5.2.3.8.Team Collaboration Insights during Sprint.
-![image](https://github.com/HealthyL/Informe/assets/134560396/8ac40b9b-eab6-4959-b149-1f41dbeceeec)
+
+Durante cada sprint, la colaboración efectiva dentro del equipo es fundamental para el éxito del proyecto. En el Sprint 3, el enfoque principal fue la implementación de los backends para diferentes Bounded Contexts. Esta sección ofrece una visión detallada de las dinámicas y prácticas de colaboración adoptadas por cada equipo asignado a los diversos Bounded Contexts durante el sprint actual.
+A continuación, se detalla la asignación de responsabilidades y equipos para cada Bounded Context:
+
+
+
+![image](https://github.com/TempSound/Informe/assets/166888821/c771613e-eb2e-4e9b-95cf-ea97e7a94086)
 
 | Alumno | Actividad |
 |---|---|
@@ -1385,48 +1520,181 @@ Para el sprint 3, se planificó únicamente el desarrollo del backend. Inicialme
 
 ### 5.2.4.Sprint 4
 #### 5.2.4.1.Sprint planinning 4
+
+| Sprint # | Sprint 4 |
+|---|---|
+| Sprint Planning Background |  |
+| Date | 25/06/2024 |
+| Time | 1:00 PM |
+| Location | Reunión virtual en Discord |
+| Prepared by | Jimena Cama Salvatierra |
+| Attendees (to planning meeting) | Barbara Susana Quezada Portalatino, Jimena Tamara Cama Salvatierra, Sebastian Nicolas Cachis Gonzales, Enzo Paolo Noblecilla Jimenez, Elias Yauri Paucar |
+| Sprint Goal & User stories |  |
+| Sprint 4 Goal | Implementar la conexión entre los front ends y backends de cada bounded context, asegurando que todas las interfaces de usuario interactúen correctamente con las APIs del servidor y que se mantenga la integridad de los datos y la consistencia en la experiencia del usuario. |
+| Sprint 4 Velocity | 5 |
+| Sum of story points | 7 |
+
+
 #### 5.2.4.2.Sprint Backlog 4
+
+El proyecto FitHub ha sido un esfuerzo conjunto que ha requerido una estrecha coordinación y trabajo en equipo para asegurar que todos los componentes funcionen de manera integrada y eficiente. Cada miembro del equipo contribuyó con sus habilidades únicas para superar los desafíos técnicos y cumplir con los objetivos dentro de los plazos establecidos. Las tareas incluyeron el diseño e implementación de interfaces de usuario intuitivas y responsivas, así como la configuración y gestión de bases de datos robustas para garantizar la integridad y disponibilidad de la información. Además, se dedicó un esfuerzo considerable al despliegue y la integración de los sistemas frontend y backend, asegurando una experiencia de usuario fluida y confiable.
+
+Link del Trello: https://trello.com/invite/b/UuXJ6M8i/ATTIfa7e49bfa1fbdfa0ba514e161dc660d91B676DA4/fithub-ws51-grupo-5 
+
+![image](https://github.com/TempSound/Informe/assets/166888821/62694efb-3034-4a04-927e-05f7d502629e)
+
+Este cuadro representa el total de tareas asignadas en todo el proyecto, abarcando tanto el desarrollo del frontend como del backend, así como la conexión entre ambos. A continuación se detallan algunas de las tareas clave que se han llevado a cabo:
+
+| Sprint # | Sprint 4 |
+|---|---|
+| User Story |  | Work-Item / Task |  |  |  |  |  |
+| ID | Title | ID | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / InProcess / To-Review / Done) |
+| US008 | Navegar por la sección de Productos | TA001 | Agregar productos | Se agrega el nombre, la descripción, el precio, el url de la imagen y la categoría del producto. | 1 hora | Jimena Cama | Done |
+|  |  | TA002 | Ver todos los productos | Se muestran todos los productos. | 30 min | Jimena Cama | Done |
+|  |  | TA003 | Ver un  producto por id | Se muestra cierto producto identificado por id único. | 30 min | Jimena Cama | Done |
+|  |  | TA004 | Borrar un producto por id | Se borra un producto de la base de datos identificado por id único. | 10 min | Jimena Cama | Done |
+|  |  | TA005 | Actualizar un producto | Se actualizan los datos de un producto especificado por id. | 30 min | Jimena Cama | Done |
+|  |  | TA006 | Mostrar productos en lista | Se realizó un card list para los productos | 1 ½ horas | Jimena Cama | Done |
+|  |  | TA007 | Filtrar productos por tipo | Se implementó un dropdown para el filtro de los productos | 2 horas | Jimena Cama | Done |
+|  |  | TA008 | Quitar filtro | Se implementó un botón para quitar el filtro | 1 hora | Jimena Cama | Done |
+|  |  | TA009 | Conexión de la interfaz con la base de datos | Colaboré en la corrección de errores al conectar mi interfaz con la base de datos | 2 horas | Jimena Cama | InProcess |
+| US009 | Editar datos personales | TA001 | Agregar datos de usuario | Se actualizan los datos de usuario | 2 horas | Bruce Cipriano | Done |
+|  |  | TA002 | Ver los datos del usuario | Se muestran los datos del usuario. | 30 min | Bruce Cipriano | Done |
+|  |  | TA003 | Interactuar con el objetivo | El usuario puede cambiar su objetivo y otros datos relevantes para la personalización de su cuenta | 2 horas | Bruce Cipriano | Done |
+|  |  | TA004 | Conexión de la interfaz con la base de datos | Colaboré en la corrección de errores al conectar mi interfaz con la base de datos | 2 horas | Bruce Cipriano | InProcess |
+| US010 | Navegar por la sección de Nutrición | TA001 | Agregar items | Se agrega el nombre, la descripción, los ingredientes, el url y la categoría | 2 horas | Barbara Quezada | Done |
+|  |  | TA002 | Ver todos los items de Nutrición | Se muestran todos los ítems de Nutrición | 2 horas | Barbara Quezada | Done |
+|  |  | TA003 | Borrar un item de nutrición | Se borra un producto de la base de datos identificado por id único. | 30 minutos | Barbara Quezada | Done |
+|  |  | TA004 | Actualizar un item de Nutrición | Se actualizan los datos de un producto especificado por id. | 30 minutos | Barbara Quezada | Done |
+|  |  | TA005 | Botón con ruta para la sección nutrición | Se implementó la ruta para el sector nutrición | 5 minutos | Barbara Quezada | Done |
+|  |  | TA006 | Muestra todos los alimentos | Se realizó un card list de los alimentos organizados por: Desayunos, Almuerzos y Cenas | 1 hora | Barbara Quezada | Done |
+|  |  | TA007 | Elimina y Edita los campos de las cards de los alimentos | Se elimina una card list y edita los campos de la misma en la sección de Alimentos | 1 hora | Barbara Quezada | Done |
+|  |  | TA008 | Conexión de la interfaz con la base de datos | Colaboré en la corrección de errores al conectar mi interfaz con la base de datos | 2 horas | Barbara Quezada | InProcess |
+| US014 | Visualizar rutina | TA001 | Agregar rutinas | Se agrega la información de la rutina como: name, sets, reps y weight. | 2 horas | Anthony Loarte | Done |
+|  |  | TA002 | Ver todas las rutinas | Se muestran todas las rutinas. | 30 minutos | Anthony Loarte | Done |
+|  |  | TA003 | Ver una rutina por ID | Se muestra cierta rutina identificada por ID único. | 30 minutos | Anthony Loarte | Done |
+|  |  | TA004 | Visualizar rutina semanal | El usuario tiene una vista general de la rutina de la semana | 1 hora | Anthony Loarte | Done |
+|  |  | TA005 | Visualizar rutina diaria detallada | El usuario puede ver detalles esenciales de la rutina del día | 1 hora | Anthony Loarte | Done |
+|  |  | TA006 | Visualizar detalles del ejercicio | El usuario puede ver una explicación sobre el ejercicio a realizar en la rutina | 1 hora | Anthony Loarte | Done |
+|  |  | TA007 | Conexión de la interfaz con la base de datos | Colaboré en la corrección de errores al conectar mi interfaz con la base de datos | 2 horas | Anthony Loarte | InProcess |
+
+
+
 #### 5.2.4.3.Development Evidence for Sprint Review.
 #### 5.2.4.4.Testing Suite Evidence for Sprint Review.
+
+Link del repositorio: https://github.com/HealthyL/testing-
+
+| Repositorio/Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+|---|---|---|---|---|
+| [https://github.com/HealthyL/testing-](https://github.com/HealthyL/testing-) | 90aaa008a4091d6f7f96b1cf45b933bf40b2c90f | fix: update the US001 | test: add tests for view of landing page interaction | 14/04/24 |
+|  | d0440c9943d91dce691717bc0f97aa21bd387c04 | fix: update the US002 | test: add tests for contact us interaction | 14/04/24 |
+|  | 7e5f45aa14a294861eb85da0188e7ead273d5930 | fix: update the US003 | test: add tests for operation interaction | 14/04/24 |
+|  | 9ae69ce826075406d0bfaeb9b66e3a9b3007d97a | fix: update the US004 | test: add tests for aircraft interaction | 14/04/24 |
+|  | 772fc9af69e50a3da7ea0d0a4dcb9d8b67efd687 | feat: add US005 | test: add tests for sig in interaction | 25/5/24 |
+|  | c9618ca10ecb7d39f778a9ac3f52f336fe61d789 | feat: add US006 | test: add tests for log in interaction | 25/5/24 |
+|  | 72e6348c54e9f0058df9aa1a1217b01d4a6f899d | feat: add US008 | test: add tests for products interaction | 25/5/24 |
+|  | a75dddd82fc211f02747afe5461a67d0ef747364 | feat: add US009 | test: add tests for personal information | 25/5/24 |
+|  | 191bed5baeb20fa6a917590fe39d1bc3cbd0a2cb | feat: add US010 | test: add tests for nutrition management | 25/5/24 |
+|  | 660f9402d86d9eb0487691795a025eb828604a39 | feat: add US011 | test: add tests for view of nutrition interaction | 7/06/24 |
+|  | a6c857a301927466a9dc57e991f6fdcc51adfe7a | feat: add US012 | test: add tests for nutrition interaction | 7/06/24 |
+|  | b45d1b8bb5cf203fb494dcc572cc2d44b8a94dc3 | feat: add US013 | test: add tests for routine interaction | 7/06/24 |
+
+
+
 #### 5.2.4.5.Execution Evidence for Sprint Review.
+
+En este Sprint, nos encargamos de hacer la conexión del backend y frontend de todos los Bounded Context: Products Management, Nutrition Management, Account Management, Routine Management.
+
+| Bounded Context | Endpoint |
+|---|---|
+| Products Management | /products |
+| Nutrition Management | /nutritions |
+| Account Management | /profiles |
+| Routine Management | /routines |
+
+
 #### 5.2.4.6.Services Documentation Evidence for Sprint Review.
+
+Para el Sprint 4, se planificó la conexión del backend con el frontend. Primero, integramos todas las correcciones realizadas en el frontend para asegurarnos de que la interfaz de usuario estuviera libre de errores y lista para la integración. Luego, consolidamos todos los componentes del backend, garantizando que cada uno funcionará correctamente y se comunicará eficientemente con los demás elementos del sistema.
+
+Posteriormente, procedimos a conectar las bases de datos correspondientes con sus interfaces. Este proceso incluyó la configuración de las conexiones a las bases de datos, la implementación de los endpoints de API necesarios y la verificación de que los datos se transmitieran de manera segura y precisa entre el frontend y el backend.
+
+
 #### 5.2.4.7.Software Deployment Evidence for Sprint Review.
+
+Para la entrega del cuarto sprint, se desplegó el backend y frontend de la startup de manera completamente funcional, cumpliendo con las historias de usuario correspondientes al entregable.
+
+
 #### 5.2.4.8.Team Collaboration Insights during Sprint.
+
+Durante cada sprint, la colaboración efectiva dentro del equipo es fundamental para el éxito del proyecto. En el sprint 4, el foco principal se centró en la conexión de los backends y fronts de distintos Bounded Contexts. Esta sección proporciona una visión detallada de las dinámicas y prácticas de colaboración adoptadas por cada equipo asignado a los diferentes Bounded Contexts durante el sprint actual.
+
+| Alumno                        | Actividad                                                                     |
+|-------------------------------|------------------------------------------------------------------------------|
+| Jimena Tamara Cama Salvatierra | Implementación del backend y conexión con el Bounded Context de Products Management. |
+| Barbara Susana Quezada Portalatino | Elaboración de la implementación del backend y conexión del Bounded Context de Nutrition Management. |
+| Bruce Andres Cipriano Chumbes  | Elaboración de la implementación del backend y conexión del Bounded Context de Account Management. |
+| Anthony Braham Loarte Matos    | Elaboración de la implementación del backend y conexión del Bounded Context de Routine Management. |
+
 
 ## 5.3.Validation interviews
 En esta sección, nuestro equipo registra y explica las actividades de entrevistas de validación realizadas durante el proyecto. Estas entrevistas permiten que usuarios de los segmentos objetivo interactúen con la landing page y con las aplicaciones desarrolladas. A continuación, se detallan las etapas del proceso de validación.
+
+
 
 ### 5.3.1.Diseño de entrevistas
 
 Para asegurar una validación efectiva, diseñamos entrevistas estructuradas que permitieron a los usuarios interactuar con el producto y proporcionar feedback detallado. El diseño de las entrevistas incluyó los siguientes elementos:
 
-- Objetivo: Validar la usabilidad y funcionalidad de la landing page y las aplicaciones.
-- Participantes: Usuarios pertenecientes a los segmentos objetivo, es decir, entusiastas del fitness o principiantes.
+## Diseño de Entrevistas Estructuradas
 
-- Formato de la Entrevista:
-Introducción al proyecto y objetivos de la entrevista.
-Tareas específicas para que los usuarios realicen en la landing page y las aplicaciones.
-Preguntas abiertas para recopilar feedback cualitativo.
-Después de explorar la landing page, ¿qué aspectos te resultaron más útiles e intuitivos? ¿Hay algo que te haya confundido o que crees que podría mejorarse?
-¿Cómo fue tu experiencia al realizar _acción_ de la aplicación? ¿Encontraste algún problema durante el proceso?
-¿Tienes alguna sugerencia o comentario adicional sobre la experiencia general de uso de FitHub?
+**Objetivo:** Validar la usabilidad y funcionalidad de la landing page y las aplicaciones.
+
+**Participantes:** Usuarios pertenecientes a los segmentos objetivo, es decir, entusiastas del fitness o principiantes.
+
+### Formato de la Entrevista:
+
+1. **Introducción:**
+   - Presentación del proyecto y objetivos de la entrevista.
+   - Explicación del contexto de FitHub y su propósito.
+
+2. **Tareas Específicas:**
+   - Invitar a los usuarios a realizar tareas específicas en la landing page y las aplicaciones, como navegar por secciones, interactuar con funcionalidades clave, etc.
+
+3. **Preguntas Abiertas:**
+   - Después de explorar la landing page, ¿qué aspectos te resultaron más útiles e intuitivos? ¿Hay algo que te haya confundido o que crees que podría mejorarse?
+   - ¿Cómo fue tu experiencia al realizar [acción específica] de la aplicación? ¿Encontraste algún problema durante el proceso?
+   - ¿Tienes alguna sugerencia o comentario adicional sobre la experiencia general de uso de FitHub?
+
+### Notas Adicionales:
+- Se registrará el feedback cualitativo de los usuarios para análisis posterior.
+- Las entrevistas estarán enfocadas en obtener insights sobre la experiencia de usuario y posibles áreas de mejora en el diseño y funcionalidad.
+
 
 ### 5.3.2.Registro de Entrevistas
 
-Segmento de entusiastas en Fitness
-1. 
-Nombre: Jair Castillo
-Sexo: Masculino
-Edad: 26
-Link: [https://drive.google.com/file/d/1fQjjTpEg2GNVpUeymEwW6tpbyYVFM7WU/view?usp=sharing](https://drive.google.com/file/d/1fQjjTpEg2GNVpUeymEwW6tpbyYVFM7WU/view?usp=sharing ) <br>
-Resumen: En conclusión, le gustaron los colores de la sección de nutrición, así como la información que fue concisa y clara. Además, le parece curioso y muy útil que todas las secciones tengan botones para agregar, eliminar y editar. Estos elementos interactivos no solo facilitan la navegación y la personalización de la experiencia del usuario, sino que también ofrecen un control completo sobre la gestión de la información, lo cual es muy apreciado. En general, estas características contribuyen a una experiencia de usuario positiva y eficiente.
+### Segmento de Entusiastas en Fitness
 
-1. 
-Nombre: Sebastian Cachis
-Sexo: Masculino
-Edad: 19
-Link: [https://drive.google.com/file/d/1rQeZKKl26S9p2xGlUCGNC404VRrUkruE/view](https://drive.google.com/file/d/1rQeZKKl26S9p2xGlUCGNC404VRrUkruE/view) <br>
-Resumen: En conclusión al entrevistado le agradó la sección de productos, nos comentó que le pareció bastante amigable, con respecto a los colores y la distribución. Una de sus propuestas fue implementar el dark mode para las personas que prefieren un tono más bajo de la pantalla.
+#### 1. Jair Castillo
+- **Nombre:** Jair Castillo
+- **Sexo:** Masculino
+- **Edad:** 26 años
+- **Resumen:** [Ver resumen completo](https://drive.google.com/file/d/1fQjjTpEg2GNVpUeymEwW6tpbyYVFM7WU/view?usp=sharing)
+  - Le gustaron los colores de la sección de nutrición.
+  - La información fue concisa y clara.
+  - Apreció los botones para agregar, eliminar y editar en todas las secciones, facilitando la navegación y personalización.
+  - Considera que estos elementos ofrecen un control completo sobre la gestión de la información, mejorando la experiencia de usuario.
+
+#### 2. Sebastian Cachis
+- **Nombre:** Sebastian Cachis
+- **Sexo:** Masculino
+- **Edad:** 19 años
+- **Resumen:** [Ver resumen completo](https://drive.google.com/file/d/1rQeZKKl26S9p2xGlUCGNC404VRrUkruE/view)
+  - Le agradó la sección de productos por su amigabilidad en colores y distribución.
+  - Propuso la implementación de un dark mode para usuarios que prefieren un tono más bajo en la pantalla.
+
+
 
 ### 5.3.3.Evaluaciones según heurísticas
 Nombre de la App a Evaluar:
