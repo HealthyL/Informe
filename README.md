@@ -1553,38 +1553,310 @@ Link del Trello: https://trello.com/invite/b/UuXJ6M8i/ATTIfa7e49bfa1fbdfa0ba514e
 
 Este cuadro representa el total de tareas asignadas en todo el proyecto, abarcando tanto el desarrollo del frontend como del backend, así como la conexión entre ambos. A continuación se detallan algunas de las tareas clave que se han llevado a cabo:
 
-| Sprint # | Sprint 4 |
-|---|---|
-| User Story |  | Work-Item / Task |  |  |  |  |  |
-| ID | Title | ID | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / InProcess / To-Review / Done) |
-| US008 | Navegar por la sección de Productos | TA001 | Agregar productos | Se agrega el nombre, la descripción, el precio, el url de la imagen y la categoría del producto. | 1 hora | Jimena Cama | Done |
-|  |  | TA002 | Ver todos los productos | Se muestran todos los productos. | 30 min | Jimena Cama | Done |
-|  |  | TA003 | Ver un  producto por id | Se muestra cierto producto identificado por id único. | 30 min | Jimena Cama | Done |
-|  |  | TA004 | Borrar un producto por id | Se borra un producto de la base de datos identificado por id único. | 10 min | Jimena Cama | Done |
-|  |  | TA005 | Actualizar un producto | Se actualizan los datos de un producto especificado por id. | 30 min | Jimena Cama | Done |
-|  |  | TA006 | Mostrar productos en lista | Se realizó un card list para los productos | 1 ½ horas | Jimena Cama | Done |
-|  |  | TA007 | Filtrar productos por tipo | Se implementó un dropdown para el filtro de los productos | 2 horas | Jimena Cama | Done |
-|  |  | TA008 | Quitar filtro | Se implementó un botón para quitar el filtro | 1 hora | Jimena Cama | Done |
-|  |  | TA009 | Conexión de la interfaz con la base de datos | Colaboré en la corrección de errores al conectar mi interfaz con la base de datos | 2 horas | Jimena Cama | InProcess |
-| US009 | Editar datos personales | TA001 | Agregar datos de usuario | Se actualizan los datos de usuario | 2 horas | Bruce Cipriano | Done |
-|  |  | TA002 | Ver los datos del usuario | Se muestran los datos del usuario. | 30 min | Bruce Cipriano | Done |
-|  |  | TA003 | Interactuar con el objetivo | El usuario puede cambiar su objetivo y otros datos relevantes para la personalización de su cuenta | 2 horas | Bruce Cipriano | Done |
-|  |  | TA004 | Conexión de la interfaz con la base de datos | Colaboré en la corrección de errores al conectar mi interfaz con la base de datos | 2 horas | Bruce Cipriano | InProcess |
-| US010 | Navegar por la sección de Nutrición | TA001 | Agregar items | Se agrega el nombre, la descripción, los ingredientes, el url y la categoría | 2 horas | Barbara Quezada | Done |
-|  |  | TA002 | Ver todos los items de Nutrición | Se muestran todos los ítems de Nutrición | 2 horas | Barbara Quezada | Done |
-|  |  | TA003 | Borrar un item de nutrición | Se borra un producto de la base de datos identificado por id único. | 30 minutos | Barbara Quezada | Done |
-|  |  | TA004 | Actualizar un item de Nutrición | Se actualizan los datos de un producto especificado por id. | 30 minutos | Barbara Quezada | Done |
-|  |  | TA005 | Botón con ruta para la sección nutrición | Se implementó la ruta para el sector nutrición | 5 minutos | Barbara Quezada | Done |
-|  |  | TA006 | Muestra todos los alimentos | Se realizó un card list de los alimentos organizados por: Desayunos, Almuerzos y Cenas | 1 hora | Barbara Quezada | Done |
-|  |  | TA007 | Elimina y Edita los campos de las cards de los alimentos | Se elimina una card list y edita los campos de la misma en la sección de Alimentos | 1 hora | Barbara Quezada | Done |
-|  |  | TA008 | Conexión de la interfaz con la base de datos | Colaboré en la corrección de errores al conectar mi interfaz con la base de datos | 2 horas | Barbara Quezada | InProcess |
-| US014 | Visualizar rutina | TA001 | Agregar rutinas | Se agrega la información de la rutina como: name, sets, reps y weight. | 2 horas | Anthony Loarte | Done |
-|  |  | TA002 | Ver todas las rutinas | Se muestran todas las rutinas. | 30 minutos | Anthony Loarte | Done |
-|  |  | TA003 | Ver una rutina por ID | Se muestra cierta rutina identificada por ID único. | 30 minutos | Anthony Loarte | Done |
-|  |  | TA004 | Visualizar rutina semanal | El usuario tiene una vista general de la rutina de la semana | 1 hora | Anthony Loarte | Done |
-|  |  | TA005 | Visualizar rutina diaria detallada | El usuario puede ver detalles esenciales de la rutina del día | 1 hora | Anthony Loarte | Done |
-|  |  | TA006 | Visualizar detalles del ejercicio | El usuario puede ver una explicación sobre el ejercicio a realizar en la rutina | 1 hora | Anthony Loarte | Done |
-|  |  | TA007 | Conexión de la interfaz con la base de datos | Colaboré en la corrección de errores al conectar mi interfaz con la base de datos | 2 horas | Anthony Loarte | InProcess |
+<table>
+  <thead>
+    <tr>
+      <th>Sprint #</th>
+      <th>Sprint 4</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>User Story</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>ID</td>
+      <td>Title</td>
+      <td>ID</td>
+      <td>Title</td>
+      <td>Description</td>
+      <td>Estimation (Hours)</td>
+      <td>Assigned To</td>
+      <td>Status (To-do / InProcess / To-Review / Done)</td>
+    </tr>
+    <tr>
+      <td>US008</td>
+      <td>Navegar por la sección de Productos</td>
+      <td>TA001</td>
+      <td>Agregar productos</td>
+      <td>Se agrega el nombre, la descripción, el precio, el url de la imagen y la categoría del producto.</td>
+      <td>1 hora</td>
+      <td>Jimena Cama</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>TA002</td>
+      <td>Ver todos los productos</td>
+      <td>Se muestran todos los productos.</td>
+      <td>30 min</td>
+      <td>Jimena Cama</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>TA003</td>
+      <td>Ver un producto por id</td>
+      <td>Se muestra cierto producto identificado por id único.</td>
+      <td>30 min</td>
+      <td>Jimena Cama</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>TA004</td>
+      <td>Borrar un producto por id</td>
+      <td>Se borra un producto de la base de datos identificado por id único.</td>
+      <td>10 min</td>
+      <td>Jimena Cama</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>TA005</td>
+      <td>Actualizar un producto</td>
+      <td>Se actualizan los datos de un producto especificado por id.</td>
+      <td>30 min</td>
+      <td>Jimena Cama</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>TA006</td>
+      <td>Mostrar productos en lista</td>
+      <td>Se realizó un card list para los productos</td>
+      <td>1 ½ horas</td>
+      <td>Jimena Cama</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>TA007</td>
+      <td>Filtrar productos por tipo</td>
+      <td>Se implementó un dropdown para el filtro de los productos</td>
+      <td>2 horas</td>
+      <td>Jimena Cama</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>TA008</td>
+      <td>Quitar filtro</td>
+      <td>Se implementó un botón para quitar el filtro</td>
+      <td>1 hora</td>
+      <td>Jimena Cama</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>TA009</td>
+      <td>Conexión de la interfaz con la base de datos</td>
+      <td>Colaboré en la corrección de errores al conectar mi interfaz con la base de datos</td>
+      <td>2 horas</td>
+      <td>Jimena Cama</td>
+      <td>InProcess</td>
+    </tr>
+    <tr>
+      <td>US009</td>
+      <td>Editar datos personales</td>
+      <td>TA001</td>
+      <td>Agregar datos de usuario</td>
+      <td>Se actualizan los datos de usuario</td>
+      <td>2 horas</td>
+      <td>Bruce Cipriano</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>TA002</td>
+      <td>Ver los datos del usuario</td>
+      <td>Se muestran los datos del usuario.</td>
+      <td>30 min</td>
+      <td>Bruce Cipriano</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>TA003</td>
+      <td>Interactuar con el objetivo</td>
+      <td>El usuario puede cambiar su objetivo y otros datos relevantes para la personalización de su cuenta</td>
+      <td>2 horas</td>
+      <td>Bruce Cipriano</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>TA004</td>
+      <td>Conexión de la interfaz con la base de datos</td>
+      <td>Colaboré en la corrección de errores al conectar mi interfaz con la base de datos</td>
+      <td>2 horas</td>
+      <td>Bruce Cipriano</td>
+      <td>InProcess</td>
+    </tr>
+    <tr>
+      <td>US010</td>
+      <td>Navegar por la sección de Nutrición</td>
+      <td>TA001</td>
+      <td>Agregar items</td>
+      <td>Se agrega el nombre, la descripción, los ingredientes, el url y la categoría</td>
+      <td>2 horas</td>
+      <td>Barbara Quezada</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>TA002</td>
+      <td>Ver todos los items de Nutrición</td>
+      <td>Se muestran todos los ítems de Nutrición</td>
+      <td>2 horas</td>
+      <td>Barbara Quezada</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>TA003</td>
+      <td>Borrar un item de nutrición</td>
+      <td>Se borra un producto de la base de datos identificado por id único.</td>
+      <td>30 minutos</td>
+      <td>Barbara Quezada</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>TA004</td>
+      <td>Actualizar un item de Nutrición</td>
+      <td>Se actualizan los datos de un producto especificado por id.</td>
+      <td>30 minutos</td>
+      <td>Barbara Quezada</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>TA005</td>
+      <td>Botón con ruta para la sección nutrición</td>
+      <td>Se implementó la ruta para el sector nutrición</td>
+      <td>5 minutos</td>
+      <td>Barbara Quezada</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>TA006</td>
+      <td>Muestra todos los alimentos</td>
+      <td>Se realizó un card list de los alimentos organizados por: Desayunos, Almuerzos y Cenas</td>
+      <td>1 hora</td>
+      <td>Barbara Quezada</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>TA007</td>
+      <td>Elimina y Edita los campos de las cards de los alimentos</td>
+      <td>Se elimina una card list y edita los campos de la misma en la sección de Alimentos</td>
+      <td>1 hora</td>
+      <td>Barbara Quezada</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>TA008</td>
+      <td>Conexión de la interfaz con la base de datos</td>
+      <td>Colaboré en la corrección de errores al conectar mi interfaz con la base de datos</td>
+      <td>2 horas</td>
+      <td>Barbara Quezada</td>
+      <td>InProcess</td>
+    </tr>
+    <tr>
+      <td>US014</td>
+      <td>Visualizar rutina</td>
+      <td>TA001</td>
+      <td>Agregar rutinas</td>
+      <td>Se agrega la información de la rutina como: name, sets, reps y weight.</td>
+      <td>2 horas</td>
+      <td>Anthony Loarte</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>TA002</td>
+      <td>Ver todas las rutinas</td>
+      <td>Se muestran todas las rutinas.</td>
+      <td>30 minutos</td>
+      <td>Anthony Loarte</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>TA003</td>
+      <td>Ver una rutina por ID</td>
+      <td>Se muestra cierta rutina identificada por ID único.</td>
+      <td>30 minutos</td>
+      <td>Anthony Loarte</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>TA004</td>
+      <td>Visualizar rutina semanal</td>
+      <td>El usuario tiene una vista general de la rutina de la semana</td>
+      <td>1 hora</td>
+      <td>Anthony Loarte</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>TA005</td>
+      <td>Visualizar rutina diaria detallada</td>
+      <td>El usuario puede ver detalles esenciales de la rutina del día</td>
+      <td>1 hora</td>
+      <td>Anthony Loarte</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>TA006</td>
+      <td>Visualizar detalles del ejercicio</td>
+      <td>El usuario puede ver una explicación sobre el ejercicio a realizar en la rutina</td>
+      <td>1 hora</td>
+      <td>Anthony Loarte</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>TA007</td>
+      <td>Conexión de la interfaz con la base de datos</td>
+      <td>Colaboré en la corrección de errores al conectar mi interfaz con la base de datos</td>
+      <td>2 horas</td>
+      <td>Anthony Loarte</td>
+      <td>InProcess</td>
+    </tr>
+  </tbody>
+</table>
 
 
 
